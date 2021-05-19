@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CrimsonTome
+- 👀 I’m interested in Computer Science, Sociology and Psychology
+- 🌱 I’m currently learning C# as part of A-Levels
+- 📫 How to reach me - Discord: CrimsonTome427#7459
