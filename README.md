@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrimsonTome&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrimsonTome&theme=dark](https://github.com/anuraghazra/github-readme-stats)  
 
 - 👋 Hi, I’m @CrimsonTome
 - 👀 I’m interested in Computer Science, Sociology and Psychology
