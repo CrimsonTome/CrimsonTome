@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=crimsontome&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrimsonTome)](https://github.com/anuraghazra/github-readme-stats)  
 
 - 👋 Hi, I’m @CrimsonTome
 - 👀 I’m interested in Computer Science, Sociology and Psychology
