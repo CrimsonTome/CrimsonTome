@@ -5,7 +5,7 @@
 - 🌱 I’m currently working on <https://github.com/CrimsonTome/crimsontome-blog>
 - 📫 How to reach me - Discord: CrimsonTome427#7459
 
-# Blog posts
+### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Making your own blog](https://crimsontome.netlify.app/posts/making-your-own-blog/)
