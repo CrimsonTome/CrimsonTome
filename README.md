@@ -9,6 +9,7 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [About Github](https://crimsontome.netlify.app/posts/about-github/)
 - [Making your own blog](https://crimsontome.netlify.app/posts/making-your-own-blog/)
 - [Welcome to Freeside](https://crimsontome.netlify.app/posts/introduction-to-freeside/)
 - [Introduction to Raspberry Pi](https://crimsontome.netlify.app/posts/raspi-intro/)
