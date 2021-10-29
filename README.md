@@ -1,5 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crimsontome&show_icons=true&theme=dark)
-
+ 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I46RO0O)
 
 - 👋 Hi, I’m @CrimsonTome
 - 👀 I’m interested in Computer Science, Sociology and Psychology
