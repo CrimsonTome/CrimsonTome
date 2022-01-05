@@ -6,7 +6,7 @@
   - As part of this I am learning HTML, CSS and JS 
 - 📫 How to reach me
   - Discord: CrimsonTome427#7459
-  - Email: <crimsontome427@gmail.com>
+  - Email: <crimsontome427@protonmail.com>
 
 ### Blog posts
 
