@@ -1,4 +1,8 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crimsontome&show_icons=true&theme=dark)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crimsontome&show_icons=true&theme=dark)-->
+
+
+![](https://raw.githubusercontent.com/CrimsonTome/ghstats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/CrimsonTome/ghstats/master/generated/languages.svg)
 
 - 👋 Hi, I’m @CrimsonTome
 - 👀 I’m interested in Computer Science, Sociology and Psychology
