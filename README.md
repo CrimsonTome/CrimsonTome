@@ -1,6 +1,6 @@
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crimsontome&show_icons=true&theme=dark)-->
 
-
+The chart is based off how many lines of x langauge are in my repos, and do not always reflect what I know more of or like to use
 ![](https://raw.githubusercontent.com/CrimsonTome/ghstats/master/generated/overview.svg)
 ![](https://raw.githubusercontent.com/CrimsonTome/ghstats/master/generated/languages.svg)
 
