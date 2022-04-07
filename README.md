@@ -10,6 +10,7 @@ The chart is based off the file size of x langauge in in my repos including fork
 - 👀 I’m interested in Computer Science, Sociology and Psychology
 - 🌱 I’m currently working on <https://github.com/CrimsonTome/crimsontome-blog>
   - As part of this I am learning HTML, CSS and JS 
+- 🖥️ Also studying for RHCSA 
 - 📫 How to reach me
   - Discord: CrimsonTome427#7459
   - Email: <crimsontome427@protonmail.com>
