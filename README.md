@@ -6,7 +6,7 @@ The chart is based off the file size of x langauge in in my repos including fork
 ![](https://raw.githubusercontent.com/CrimsonTome/ghstats/master/generated/overview.svg)
 ![](https://raw.githubusercontent.com/CrimsonTome/ghstats/master/generated/languages.svg)
 
-- 👋 Hi, I’m @CrimsonTome - an admin @[Freeside](https://freeside.co.uk). You can also find us at our organisation page [here](https://github.com/freesidehul)
+- 👋 Hi, I’m @CrimsonTome - an admin @[Freeside](https://freeside.co.uk). You can also find us at our organisation page [here](https://github.com/freesidehull)
 - 👀 I’m interested in Computer Science, Sociology and Psychology
 - 🌱 I’m currently working on <https://github.com/CrimsonTome/crimsontome-blog>
   - As part of this I am learning HTML, CSS and JS 
