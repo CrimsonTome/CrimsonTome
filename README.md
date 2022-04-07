@@ -1,6 +1,8 @@
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crimsontome&show_icons=true&theme=dark)-->
 
-The chart is based off the file size of x langauge in in my repos including forks, and does not always reflect what I know more of or like to use
+The chart is based off the file size of x langauge in in my repos including forks, and does not always reflect what I know more of or like to use.
+<br>
+
 ![](https://raw.githubusercontent.com/CrimsonTome/ghstats/master/generated/overview.svg)
 ![](https://raw.githubusercontent.com/CrimsonTome/ghstats/master/generated/languages.svg)
 
