@@ -18,6 +18,7 @@ The chart is based off the file size of x langauge in in my repos including fork
 ### Current Projects
 - Personal Blog - (<https://github.com/CrimsonTome/crimsontome-blog>)
   - ![](https://img.shields.io/github/last-commit/crimsontome/crimsontome-blog?color=green)
+  - ![](https://img.shields.io/github/languages/code-size/crimsontome/crimsontome-blog)
 
 ### Recent Activity
 <!--START_SECTION:activity-->
