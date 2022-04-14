@@ -22,6 +22,12 @@ The chart is based off the file size of x langauge in in my repos including fork
 
 ### Recent Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/FreesideHull/StudentResources/pull/1) in [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources)
+2. 🗣 Commented on [#1](https://github.com/FreesideHull/StudentResources/issues/1) in [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources)
+3. 🗣 Commented on [#1](https://github.com/FreesideHullUni/StudentResources/issues/1) in [FreesideHullUni/StudentResources](https://github.com/FreesideHullUni/StudentResources)
+4. 🎉 Merged PR [#2](https://github.com/CrimsonTome/hullcss-site-jet/pull/2) in [CrimsonTome/hullcss-site-jet](https://github.com/CrimsonTome/hullcss-site-jet)
+5. 🎉 Merged PR [#1](https://github.com/CrimsonTome/hullcss-site-jet/pull/1) in [CrimsonTome/hullcss-site-jet](https://github.com/CrimsonTome/hullcss-site-jet)
+6. 🎉 Merged PR [#1](https://github.com/CrimsonTome/PD-test/pull/1) in [CrimsonTome/PD-test](https://github.com/CrimsonTome/PD-test)
 <!--END_SECTION:activity-->
 
 ### Blog posts
