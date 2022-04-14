@@ -9,11 +9,15 @@ The chart is based off the file size of x langauge in in my repos including fork
 - 👋 Hi, I’m @CrimsonTome - an admin @[Freeside](https://freeside.co.uk). You can also find us at our organisation page [here](https://github.com/freesidehull)
 - 👀 I’m interested in Computer Science, Sociology and Psychology
 - 🌱 I’m currently working on <https://github.com/CrimsonTome/crimsontome-blog>
-  - As part of this I am learning HTML, CSS and JS 
+  - As part of this I am learning 11ty
 - 🖥️ Also studying for RHCSA 
 - 📫 How to reach me
   - Discord: CrimsonTome427#7459
   - Email: <crimsontome427@protonmail.com>
+
+# Current Projects
+- Personal Blog - (<https://github.com/CrimsonTome/crimsontome-blog>)
+  - ![](https://img.shields.io/github/last-commit/crimsontome/crimsontome-blog?color=green)
 
 # Recent Activity
 <!--START_SECTION:activity-->
