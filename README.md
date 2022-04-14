@@ -15,11 +15,11 @@ The chart is based off the file size of x langauge in in my repos including fork
   - Discord: CrimsonTome427#7459
   - Email: <crimsontome427@protonmail.com>
 
-# Current Projects
+### Current Projects
 - Personal Blog - (<https://github.com/CrimsonTome/crimsontome-blog>)
   - ![](https://img.shields.io/github/last-commit/crimsontome/crimsontome-blog?color=green)
 
-# Recent Activity
+### Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
