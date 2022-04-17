@@ -13,7 +13,7 @@ The chart is based off the file size of x langauge in in my repos including fork
 - 🖥️ Also studying for RHCSA 
 - 📫 How to reach me
   - Discord: CrimsonTome427#7459
-  - Email: <crimsontome427@protonmail.com>
+  - Email: <ctome@crimsontome.com>
 
 ### Current Projects
 - Personal Blog - (<https://github.com/CrimsonTome/crimsontome-blog>)
