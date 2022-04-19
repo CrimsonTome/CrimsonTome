@@ -1,12 +1,5 @@
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crimsontome&show_icons=true&theme=dark)-->
 
-The chart is based off the file size of x langauge in in my repos including forks, and does not always reflect what I know more of or like to use.  
-Seems to be an issue with what is generated at the moment 😦
-<br>
-
-![](https://raw.githubusercontent.com/CrimsonTome/ghstats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/CrimsonTome/ghstats/master/generated/languages.svg)
-
 - 👋 Hi, I’m @CrimsonTome - an admin @[Freeside](https://freeside.co.uk). You can also find us at our organisation page [here](https://github.com/freesidehull)
 - 👀 I’m interested in Computer Science, Sociology and Psychology
 - 🌱 I’m currently working on <https://github.com/CrimsonTome/crimsontome-blog>
