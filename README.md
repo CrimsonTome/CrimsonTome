@@ -33,3 +33,6 @@
 - [Welcome to Freeside](https://crimsontome.netlify.app/posts/introduction-to-freeside/)
 - [Introduction to Raspberry Pi](https://crimsontome.netlify.app/posts/raspi-intro/)
 <!-- BLOG-POST-LIST:END -->
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<br>
