@@ -16,12 +16,12 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/CrimsonTome/PD-test/pull/5) in [CrimsonTome/PD-test](https://github.com/CrimsonTome/PD-test)
-2. 🎉 Merged PR [#4](https://github.com/CrimsonTome/PD-test/pull/4) in [CrimsonTome/PD-test](https://github.com/CrimsonTome/PD-test)
-3. 🎉 Merged PR [#3](https://github.com/CrimsonTome/PD-test/pull/3) in [CrimsonTome/PD-test](https://github.com/CrimsonTome/PD-test)
-4. ❗️ Closed issue [#1](https://github.com/FreesideHullUni/StudentResources/issues/1) in [FreesideHullUni/StudentResources](https://github.com/FreesideHullUni/StudentResources)
-5. 🗣 Commented on [#1](https://github.com/FreesideHullUni/StudentResources/issues/1) in [FreesideHullUni/StudentResources](https://github.com/FreesideHullUni/StudentResources)
-6. 🎉 Merged PR [#2](https://github.com/CrimsonTome/PD-test/pull/2) in [CrimsonTome/PD-test](https://github.com/CrimsonTome/PD-test)
+1. 💪 Opened PR [#1](https://github.com/KieranRobson/awesome-discord-tools/pull/1) in [KieranRobson/awesome-discord-tools](https://github.com/KieranRobson/awesome-discord-tools)
+2. 🎉 Merged PR [#5](https://github.com/CrimsonTome/PD-test/pull/5) in [CrimsonTome/PD-test](https://github.com/CrimsonTome/PD-test)
+3. 🎉 Merged PR [#4](https://github.com/CrimsonTome/PD-test/pull/4) in [CrimsonTome/PD-test](https://github.com/CrimsonTome/PD-test)
+4. 🎉 Merged PR [#3](https://github.com/CrimsonTome/PD-test/pull/3) in [CrimsonTome/PD-test](https://github.com/CrimsonTome/PD-test)
+5. ❗️ Closed issue [#1](https://github.com/FreesideHullUni/StudentResources/issues/1) in [FreesideHullUni/StudentResources](https://github.com/FreesideHullUni/StudentResources)
+6. 🗣 Commented on [#1](https://github.com/FreesideHullUni/StudentResources/issues/1) in [FreesideHullUni/StudentResources](https://github.com/FreesideHullUni/StudentResources)
 <!--END_SECTION:activity-->
 
 ### Blog posts
