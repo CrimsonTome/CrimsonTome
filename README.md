@@ -16,12 +16,12 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/hullcss/conduct/pull/2) in [hullcss/conduct](https://github.com/hullcss/conduct)
-2. ❗️ Opened issue [#1](https://github.com/hullcss/conduct/issues/1) in [hullcss/conduct](https://github.com/hullcss/conduct)
-3. 🗣 Commented on [#1](https://github.com/KieranRobson/awesome-discord-tools/issues/1) in [KieranRobson/awesome-discord-tools](https://github.com/KieranRobson/awesome-discord-tools)
-4. 💪 Opened PR [#1](https://github.com/KieranRobson/awesome-discord-tools/pull/1) in [KieranRobson/awesome-discord-tools](https://github.com/KieranRobson/awesome-discord-tools)
-5. 🎉 Merged PR [#5](https://github.com/CrimsonTome/PD-test/pull/5) in [CrimsonTome/PD-test](https://github.com/CrimsonTome/PD-test)
-6. 🎉 Merged PR [#4](https://github.com/CrimsonTome/PD-test/pull/4) in [CrimsonTome/PD-test](https://github.com/CrimsonTome/PD-test)
+1. ❗️ Closed issue [#1](https://github.com/hullcss/conduct/issues/1) in [hullcss/conduct](https://github.com/hullcss/conduct)
+2. 🗣 Commented on [#1](https://github.com/hullcss/conduct/issues/1) in [hullcss/conduct](https://github.com/hullcss/conduct)
+3. 🗣 Commented on [#3](https://github.com/hullcss/conduct/issues/3) in [hullcss/conduct](https://github.com/hullcss/conduct)
+4. 🎉 Merged PR [#3](https://github.com/hullcss/conduct/pull/3) in [hullcss/conduct](https://github.com/hullcss/conduct)
+5. 🎉 Merged PR [#2](https://github.com/hullcss/conduct/pull/2) in [hullcss/conduct](https://github.com/hullcss/conduct)
+6. ❗️ Opened issue [#1](https://github.com/hullcss/conduct/issues/1) in [hullcss/conduct](https://github.com/hullcss/conduct)
 <!--END_SECTION:activity-->
 
 ### Blog posts
