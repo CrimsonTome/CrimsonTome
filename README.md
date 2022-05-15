@@ -1,5 +1,5 @@
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crimsontome&show_icons=true&theme=dark)-->
-- 👋 Hi, I’m @CrimsonTome - an admin @[Freeside](https://freeside.co.uk). You can also find us at our organisation page [here](https://github.com/freesidehull)
+- 👋 Hi, I’m CrimsonTome - an admin @[Freeside](https://freeside.co.uk). You can also find us at our organisation page [here](https://github.com/freesidehull)
 
 ![Metrics](/github-metrics.svg)
 <!--!### Current Projects
