@@ -1,22 +1,15 @@
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crimsontome&show_icons=true&theme=dark)-->
-![](https://komarev.com/ghpvc/?username=crimsontome&color=66ffcc)
 - 👋 Hi, I’m @CrimsonTome - an admin @[Freeside](https://freeside.co.uk). You can also find us at our organisation page [here](https://github.com/freesidehull)
-- 👀 I’m interested in Computer Science, Sociology and Psychology
-- 🌱 I’m currently working on <https://github.com/CrimsonTome/crimsontome-blog>
-  - As part of this I am learning 11ty
-- 🖥️ Also studying for RHCSA 
-- 📫 How to reach me
-  - Discord: CrimsonTome427#7459
-  - Email: <ctome@crimsontome.com>
 
-### Current Projects
+![Metrics](/github-metrics.svg)
+<!--!### Current Projects
 - Personal Blog - (<https://github.com/CrimsonTome/crimsontome-blog>)
   - ![](https://img.shields.io/github/last-commit/crimsontome/crimsontome-blog?color=green)
   - ![](https://img.shields.io/github/languages/code-size/crimsontome/crimsontome-blog)
 
-### Recent Activity
+<!--!### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/hullcss/conduct/issues/1) in [hullcss/conduct](https://github.com/hullcss/conduct)
+<!--!1. ❗️ Closed issue [#1](https://github.com/hullcss/conduct/issues/1) in [hullcss/conduct](https://github.com/hullcss/conduct)
 2. 🗣 Commented on [#1](https://github.com/hullcss/conduct/issues/1) in [hullcss/conduct](https://github.com/hullcss/conduct)
 3. 🗣 Commented on [#3](https://github.com/hullcss/conduct/issues/3) in [hullcss/conduct](https://github.com/hullcss/conduct)
 4. 🎉 Merged PR [#3](https://github.com/hullcss/conduct/pull/3) in [hullcss/conduct](https://github.com/hullcss/conduct)
