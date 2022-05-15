@@ -6,9 +6,9 @@
 - Personal Blog - (<https://github.com/CrimsonTome/crimsontome-blog>)
   - ![](https://img.shields.io/github/last-commit/crimsontome/crimsontome-blog?color=green)
   - ![](https://img.shields.io/github/languages/code-size/crimsontome/crimsontome-blog)
+-->
 
-
-### Blog posts
+### Blog Post List
 
 <!-- BLOG-POST-LIST:START -->
 - [An introduction to a potential series on Proxmox](https://crimsontome.netlify.app/posts/PVE/)
