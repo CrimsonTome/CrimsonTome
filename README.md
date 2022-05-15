@@ -9,7 +9,7 @@
 
 <!--!### Recent Activity
 <!--START_SECTION:activity-->
-<!--!1. ❗️ Closed issue [#1](https://github.com/hullcss/conduct/issues/1) in [hullcss/conduct](https://github.com/hullcss/conduct)
+1. ❗️ Closed issue [#1](https://github.com/hullcss/conduct/issues/1) in [hullcss/conduct](https://github.com/hullcss/conduct)
 2. 🗣 Commented on [#1](https://github.com/hullcss/conduct/issues/1) in [hullcss/conduct](https://github.com/hullcss/conduct)
 3. 🗣 Commented on [#3](https://github.com/hullcss/conduct/issues/3) in [hullcss/conduct](https://github.com/hullcss/conduct)
 4. 🎉 Merged PR [#3](https://github.com/hullcss/conduct/pull/3) in [hullcss/conduct](https://github.com/hullcss/conduct)
