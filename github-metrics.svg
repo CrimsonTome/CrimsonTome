@@ -315,7 +315,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ethibox/awesome-stacks</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Deploy 90+ open-source web apps with one Docker command</div>
@@ -362,7 +362,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kanboard/kanboard</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kanban project management software</div>
@@ -415,7 +415,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>docker-taiga/taiga</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">docker-compose.yml for simple taiga setup</div>
@@ -462,7 +462,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>techno-tim/littlelink-server</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A lightweight, open source, and self-hosted alternative to linktree in a Docker container!</div>
@@ -1300,7 +1300,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 May 2022, 06:21:45 (timezone Europe/London) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 16 May 2022, 07:25:55 (timezone Europe/London) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
