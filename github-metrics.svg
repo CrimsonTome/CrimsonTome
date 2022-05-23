@@ -315,7 +315,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>arcticicestudio/nord</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An arctic, north-bluish color palette.</div>
@@ -368,7 +368,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rocky-linux/rocky</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS.</div>
@@ -409,7 +409,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>knorrie/btrfs-heatmap</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Visualize the layout of data on your btrfs filesystem over time</div>
@@ -462,7 +462,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>louislam/uptime-kuma</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fancy self-hosted monitoring tool</div>
@@ -1227,7 +1227,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 May 2022, 22:16:24 (timezone Europe/London) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 23 May 2022, 23:19:10 (timezone Europe/London) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
