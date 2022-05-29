@@ -315,7 +315,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>phyver/GameShell</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a game to learn (or teach) how to use standard commands in a Unix shell</div>
@@ -368,7 +368,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>actions/virtual-environments</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GitHub Actions virtual environments</div>
@@ -421,7 +421,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GitCredentialManager/git-credential-manager</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.</div>
@@ -474,7 +474,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rust-lang/mdBook</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Create book from markdown files. Like Gitbook but implemented in Rust</div>
@@ -1286,7 +1286,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 May 2022, 22:15:43 (timezone Europe/London) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 29 May 2022, 23:17:48 (timezone Europe/London) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
