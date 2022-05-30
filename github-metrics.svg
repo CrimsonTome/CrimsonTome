@@ -356,7 +356,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>idank/explainshell</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">match command-line arguments to their help text</div>
@@ -1233,7 +1233,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 May 2022, 14:41:21 (timezone Europe/London) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 30 May 2022, 15:17:46 (timezone Europe/London) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
