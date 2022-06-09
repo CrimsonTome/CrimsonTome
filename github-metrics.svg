@@ -1490,7 +1490,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>netdata/netdata</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Real-time performance monitoring, done right! https://www.netdata.cloud</div>
@@ -1543,7 +1543,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>resume/resume.github.com</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Resumes generated using the GitHub informations</div>
@@ -1590,7 +1590,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Lissy93/dashy</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!</div>
@@ -2419,7 +2419,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jun 2022, 04:24:42 (timezone Europe/London) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 9 Jun 2022, 05:29:20 (timezone Europe/London) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
