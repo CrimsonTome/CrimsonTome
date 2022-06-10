@@ -1458,7 +1458,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cipher387/grep_for_osint</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GREP FOR OSINT is a set of very simple shell scripts that will help you quickly analyze a text or a folder with files for data useful for investigation (phone numbers, bank card numbers, URLs, emails and nicknames).</div>
@@ -1505,7 +1505,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cipher387/awesome-grep</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">List of GREP modifications and alternatives for a variety of purposes</div>
@@ -1546,7 +1546,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>influxdata/telegraf</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The plugin-driven server agent for collecting &amp; reporting metrics.</div>
@@ -1599,7 +1599,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nodejs/node</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2402,7 +2402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jun 2022, 08:17:34 (timezone Europe/London) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 10 Jun 2022, 09:20:45 (timezone Europe/London) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
