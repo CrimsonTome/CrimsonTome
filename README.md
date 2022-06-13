@@ -8,7 +8,7 @@
   - ![](https://img.shields.io/github/languages/code-size/crimsontome/crimsontome-blog)
 -->
 
-### Blog Post List
+### Recent Blog Post List
 
 <!-- BLOG-POST-LIST:START -->
 - [My current VPS setup](https://crimsontome.netlify.app/posts/my-current-vps-setup/)
