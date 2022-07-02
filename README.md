@@ -11,6 +11,11 @@
 ### Recent Blog Post List
 
 <!-- BLOG-POST-LIST:START -->
+- [My current VPS setup](https://blog.crimsontome.com/posts/my-current-vps-setup/)
+- [Locking sites with Nginx Proxy Manager](https://blog.crimsontome.com/posts/locking-sites-with-nginx-proxy-manager/)
+- [An introduction to a potential series on Proxmox](https://blog.crimsontome.com/posts/PVE/)
+- [A ramble about GitHub](https://blog.crimsontome.com/posts/a-ramble-on-github/)
+- [Making your own blog](https://blog.crimsontome.com/posts/making-your-own-blog/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
