@@ -1521,7 +1521,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tldr-pages/tldr</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📚 Collaborative cheatsheets for console commands</div>
@@ -1574,7 +1574,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>muesli/duf</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Disk Usage/Free Utility - a better 'df' alternative</div>
@@ -1627,7 +1627,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pawelmalak/flame</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.</div>
@@ -2467,7 +2467,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jul 2022, 11:18:14 (timezone Europe/London) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 3 Jul 2022, 12:14:37 (timezone Europe/London) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
