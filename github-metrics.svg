@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    27.5k added, 6.26k removed
+                                    27.4k added, 6.25k removed
                                 </div>
                             </section>
                             <section>
@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="150.58995627572017" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="150.58995627572017" y="0" width="91.96968235596708" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="242.55963863168725" y="0" width="68.1370563271605" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="310.69669495884773" y="0" width="56.7309670781893" height="8" fill="#3d8137"/>
-                    <rect mask="url(#languages-bar)" x="367.42766203703707" y="0" width="50.001929012345684" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="417.42959104938274" y="0" width="34.26633230452675" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="451.6959233539095" y="0" width="5.531121399176955" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="457.22704475308643" y="0" width="2.7729552469135803" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="150.31208382138215" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="150.31208382138215" y="0" width="92.64878134877974" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="242.9608651701619" y="0" width="68.01132808112575" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="310.97219325128765" y="0" width="56.62628564093513" height="8" fill="#3d8137"/>
+                    <rect mask="url(#languages-bar)" x="367.5984788922228" y="0" width="49.9096641689264" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="417.5081430611492" y="0" width="34.203103188229065" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="451.7112462493783" y="0" width="5.520915231936844" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="457.23216148131513" y="0" width="2.7678385186849157" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1485,7 +1485,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>itzg/docker-minecraft-bedrock-server</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Containerized Minecraft Bedrock Dedicated Server with selectable version</div>
@@ -1538,7 +1538,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>itzg/docker-minecraft-server</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docker image that provides a Minecraft Server that will automatically download selected version at startup</div>
@@ -2480,7 +2480,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jul 2022, 10:18:10 (timezone Europe/London) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 6 Jul 2022, 11:27:26 (timezone Europe/London) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
