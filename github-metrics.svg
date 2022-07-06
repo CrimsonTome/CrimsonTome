@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="145.75965271240636" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="145.75965271240636" y="0" width="103.77457425372845" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="249.53422696613478" y="0" width="65.9515011008332" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="315.48572806696797" y="0" width="54.91127206528758" height="8" fill="#3d8137"/>
-                    <rect mask="url(#languages-bar)" x="370.3970001322556" y="0" width="48.398073736375736" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="418.79507386863133" y="0" width="33.16720995184341" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="451.9622838204747" y="0" width="5.353705879149518" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="457.31598969962425" y="0" width="2.6840103003757614" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="144.21694351648014" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="144.21694351648014" y="0" width="107.54483735394184" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="251.76178087042197" y="0" width="65.25347537601799" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="317.01525624643995" y="0" width="54.330095293809755" height="8" fill="#3d8137"/>
+                    <rect mask="url(#languages-bar)" x="371.3453515402497" y="0" width="47.885832165894364" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="419.231183706144" y="0" width="32.816170697538375" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="452.04735440368245" y="0" width="5.297042658989794" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="457.3443970626722" y="0" width="2.6556029373277705" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1485,7 +1485,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>itzg/docker-minecraft-bedrock-server</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Containerized Minecraft Bedrock Dedicated Server with selectable version</div>
@@ -1538,7 +1538,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>itzg/docker-minecraft-server</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docker image that provides a Minecraft Server that will automatically download selected version at startup</div>
@@ -2480,7 +2480,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jul 2022, 14:41:43 (timezone Europe/London) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 6 Jul 2022, 15:26:35 (timezone Europe/London) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
