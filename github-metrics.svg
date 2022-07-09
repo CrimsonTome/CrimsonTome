@@ -1463,7 +1463,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>simple-icons/simple-icons</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SVG icons for popular brands</div>
@@ -1516,7 +1516,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tubearchivist/tubearchivist</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Your self hosted YouTube media server</div>
@@ -1569,7 +1569,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>systemd/brand.systemd.io</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Website with systemd brand assets</div>
@@ -2439,7 +2439,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jul 2022, 21:16:55 (timezone Europe/London) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 9 Jul 2022, 22:14:58 (timezone Europe/London) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
