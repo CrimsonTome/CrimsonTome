@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="149.14318017576988" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="149.14318017576988" y="0" width="109.19061939063337" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="258.33379956640323" y="0" width="60.723710282770355" height="8" fill="#3d8137"/>
-                    <rect mask="url(#languages-bar)" x="319.0575098491736" y="0" width="50.043243117234304" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="369.1007529664079" y="0" width="48.97894957689349" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="418.07970254330144" y="0" width="35.89913047532462" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="453.97883301862606" y="0" width="4.0105368673800035" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="457.98936988600605" y="0" width="2.0106301139939857" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="149.14404937436984" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="149.14404937436984" y="0" width="109.19125574781307" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="258.33530512218294" y="0" width="60.721383321580305" height="8" fill="#3d8137"/>
+                    <rect mask="url(#languages-bar)" x="319.0566884437633" y="0" width="50.04353476661984" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="369.1002232103831" y="0" width="48.97923502363233" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="418.0794582340154" y="0" width="35.89933969356653" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="453.9787979275819" y="0" width="4.010560240577666" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="457.9893581681596" y="0" width="2.0106418318404073" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1475,7 +1475,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ttntm/11ty-landing-page</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple landing page built with 11ty and Tailwind CSS.</div>
@@ -1528,7 +1528,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>melvin0008/awesome-projects-boilerplates</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Boilerplates for mobile and web apps</div>
@@ -1569,7 +1569,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Tygs/0bin</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Client side encrypted pastebin</div>
@@ -1622,7 +1622,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>inputsh/awesome-linux</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2463,7 +2463,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jul 2022, 10:17:14 (timezone Europe/London) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 18 Jul 2022, 11:20:33 (timezone Europe/London) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
