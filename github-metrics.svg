@@ -1480,7 +1480,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Fizzadar/pyinfra</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">pyinfra automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more.</div>
@@ -1586,7 +1586,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gnuradio/gnuradio</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GNU Radio – the Free and Open Software Radio Ecosystem</div>
@@ -1639,7 +1639,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>geek-cookbook/geek-cookbook</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.</div>
@@ -2454,7 +2454,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jul 2022, 15:21:09 (timezone Europe/London) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 19 Jul 2022, 16:19:40 (timezone Europe/London) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
