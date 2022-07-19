@@ -1480,7 +1480,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Fizzadar/pyinfra</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">pyinfra automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more.</div>
@@ -1533,7 +1533,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>11ty/eleventy-base-blog</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A starter repository for a blog web site using the Eleventy static site generator.</div>
@@ -1586,7 +1586,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gnuradio/gnuradio</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GNU Radio – the Free and Open Software Radio Ecosystem</div>
@@ -2454,7 +2454,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jul 2022, 17:26:03 (timezone Europe/London) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 19 Jul 2022, 18:28:35 (timezone Europe/London) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
