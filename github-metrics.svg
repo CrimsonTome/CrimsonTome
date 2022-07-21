@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2655" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2921" class="">
     <defs>
         <style/>
     </defs>
@@ -115,7 +115,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Following 55 users
+                            Following 56 users
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1486,7 +1486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FreesideHull/DiscordAccountsBot</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Discord bot for managing Freeside accounts</div>
@@ -1712,6 +1712,154 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 73 commits in
+                                        <span class="repo">CrimsonTome/tldr</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#dc3ec35</div>
+                                        <div class="message">invoke-webrequest: add page (#8177)
+
+* windows/get-*: Add PowerShell-only notice
+
+* Update pages/windows/get-childitem.md
+
+Co-authored-by: Axel Navarro &lt;navarroaxel@gmail.com&gt;
+
+* windows/get-*: Change PowerShell notice
+
+Co-authored-by: Axel Navarro &lt;navarroaxel@gmail.com&gt;
+
+* invoke-item: Add command
+
+* invoke-item: Remove quotations whenever possible
+
+* invoke-item: Put all asterisk globs inside parameters
+
+* invoke-item: More asterisk inside parameters
+
+* Update pages/windows/invoke-item.md
+
+Co-authored-by: Axel Navarro &lt;navarroaxel@gmail.com&gt;
+
+* Update pages/windows/invoke-item.md
+
+* invoke-webrequest: Add page with related aliases
+
+* invoke-webrequest: Use LF instead of CRLF
+
+* fix: Use -p parameter instead
+
+Co-authored-by: Axel Navarro &lt;navarroaxel@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd05362</div>
+                                        <div class="message">alex: add pt_BR translation (#8199)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b0c4ede</div>
+                                        <div class="message">act: add French translation (#8192)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2faf588</div>
+                                        <div class="message">ani-cli: add page (#8097)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d57f612</div>
+                                        <div class="message">open, osascript: add Indonesian translation (#8178)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#057f525</div>
+                                        <div class="message">deluser: prefix examples with sudo (#8174)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#88fd34d</div>
+                                        <div class="message">tlmgr-key: add page (#8193)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#01b4aed</div>
+                                        <div class="message">nyxt: add page (#8186)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#42bb014</div>
+                                        <div class="message">linux/*: fix spelling errors</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e471999</div>
+                                        <div class="message">common/*: fix spelling errors</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3c92e02</div>
+                                        <div class="message">calc: move from `linux` to `common` #2 (#8191)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8f76214</div>
+                                        <div class="message">s3cmd: add page (#8074)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6479bde</div>
+                                        <div class="message">rpm: add --changelog example (#8176)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5384a4f</div>
+                                        <div class="message">deb-get: add page (#8172)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#59a15bf</div>
+                                        <div class="message">crontab: refresh (#8182)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e2f407</div>
+                                        <div class="message">zip: add/refresh pages (#7996)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7c5c2a7</div>
+                                        <div class="message">docsify: add page (#8185)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6588dd7</div>
+                                        <div class="message">man: add -f example (#8180)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f3f405e</div>
+                                        <div class="message">htop: add change tab command (#8164)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b3c24bd</div>
+                                        <div class="message">abbr: add Chinese translation (#8168)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">FreesideHull/DiscordAccountsBot</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d948df1</div>
+                                        <div class="message">more pyinfra docs</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">FreesideHull/DiscordAccountsBot</span>
                                     </div>
@@ -1761,59 +1909,6 @@
                                     <div class="commit">
                                         <div class="sha">#b671e4f</div>
                                         <div class="message">add sudo to chown</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">FreesideHull/DiscordAccountsBot</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b37fac7</div>
-                                        <div class="message">fix chown functionality</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">FreesideHull/DiscordAccountsBot</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#14c7258</div>
-                                        <div class="message">add some actual pyinfra to deploy.py
-This is not functional out of the box yet. integrations need to be made with other areas such as IPA first. also need to look ino chown in pyinfra</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4be75f6</div>
-                                        <div class="message">Merge branch 'main' of github.com:FreesideHull/DiscordAccountsBot</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5427939</div>
-                                        <div class="message">rm pyinfra.py</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ec3b61b</div>
-                                        <div class="message">rm .gitkeep now that the folder is not empty</div>
                                     </div>
                                 </div>
                             </section>
@@ -2083,7 +2178,7 @@ This is not functional out of the box yet. integrations need to be made with oth
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="42.06030150753769 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="42.83919597989949 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -2101,7 +2196,7 @@ This is not functional out of the box yet. integrations need to be made with oth
                                     <span class="prefix"></span>
                                     Follower
                                 </div>
-                                <div class="text">Following 55 users</div>
+                                <div class="text">Following 56 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2507,7 +2602,7 @@ This is not functional out of the box yet. integrations need to be made with oth
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jul 2022, 09:22:23 (timezone Europe/London) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 21 Jul 2022, 10:17:19 (timezone Europe/London) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
