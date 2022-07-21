@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2912" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2677" class="">
     <defs>
         <style/>
     </defs>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            20 issue comments
+                            22 issue comments
                         </div>
                     </section>
                     <section>
@@ -1486,7 +1486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>all-contributors/all-contributors</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">✨ Recognize all contributors, not just the ones who push code ✨</div>
@@ -1539,7 +1539,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FreesideHull/DiscordAccountsBot</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Discord bot for managing Freeside accounts</div>
@@ -1716,6 +1716,47 @@
                                 <div class="details">
                                     <div>opened by CrimsonTome in <span class="repo">tldr-pages/tldr</span></div>
                                     <div class="comment">
+                                        Thank you for the review @sbrl. 
+Yeah, I will fix the
+                                        <code>or</code>
+                                        statements with the preferable option. And oops ty for spotting the typo 😅.
+As per my previous comment, I will resolve these later today.
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#8238 pyinfra: add page</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by CrimsonTome in <span class="repo">tldr-pages/tldr</span></div>
+                                    <div class="comment">Thank you for your review @marchersimon. I will adapt the page later on in the day when I have access to a PC. 
+inventory.py is the canonical name of the targets list though I believe you can name it what you like.</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#8238 pyinfra: add page</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by CrimsonTome in <span class="repo">tldr-pages/tldr</span></div>
+                                    <div class="comment">
                                         With regards to the 'or' sections in pyinfra.md, I wasn't sure how to format them because they detail how to do the same operation, just with a slightly different syntax - that has been explained at the top. I just thought it would be a little pointless adding a new section for each way of doing things when it has been explained if that makes sense. Any feedback is much appreciated!
                                         <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
                                     </div>
@@ -1755,147 +1796,6 @@
                                     <div class="commit">
                                         <div class="sha">#1d7ce93</div>
                                         <div class="message">pyinfra: add page</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">all-contributors/all-contributors</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 73 commits in
-                                        <span class="repo">CrimsonTome/tldr</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dc3ec35</div>
-                                        <div class="message">invoke-webrequest: add page (#8177)
-
-* windows/get-*: Add PowerShell-only notice
-
-* Update pages/windows/get-childitem.md
-
-Co-authored-by: Axel Navarro &lt;navarroaxel@gmail.com&gt;
-
-* windows/get-*: Change PowerShell notice
-
-Co-authored-by: Axel Navarro &lt;navarroaxel@gmail.com&gt;
-
-* invoke-item: Add command
-
-* invoke-item: Remove quotations whenever possible
-
-* invoke-item: Put all asterisk globs inside parameters
-
-* invoke-item: More asterisk inside parameters
-
-* Update pages/windows/invoke-item.md
-
-Co-authored-by: Axel Navarro &lt;navarroaxel@gmail.com&gt;
-
-* Update pages/windows/invoke-item.md
-
-* invoke-webrequest: Add page with related aliases
-
-* invoke-webrequest: Use LF instead of CRLF
-
-* fix: Use -p parameter instead
-
-Co-authored-by: Axel Navarro &lt;navarroaxel@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fd05362</div>
-                                        <div class="message">alex: add pt_BR translation (#8199)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b0c4ede</div>
-                                        <div class="message">act: add French translation (#8192)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2faf588</div>
-                                        <div class="message">ani-cli: add page (#8097)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d57f612</div>
-                                        <div class="message">open, osascript: add Indonesian translation (#8178)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#057f525</div>
-                                        <div class="message">deluser: prefix examples with sudo (#8174)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#88fd34d</div>
-                                        <div class="message">tlmgr-key: add page (#8193)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#01b4aed</div>
-                                        <div class="message">nyxt: add page (#8186)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#42bb014</div>
-                                        <div class="message">linux/*: fix spelling errors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e471999</div>
-                                        <div class="message">common/*: fix spelling errors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3c92e02</div>
-                                        <div class="message">calc: move from `linux` to `common` #2 (#8191)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8f76214</div>
-                                        <div class="message">s3cmd: add page (#8074)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6479bde</div>
-                                        <div class="message">rpm: add --changelog example (#8176)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5384a4f</div>
-                                        <div class="message">deb-get: add page (#8172)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#59a15bf</div>
-                                        <div class="message">crontab: refresh (#8182)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5e2f407</div>
-                                        <div class="message">zip: add/refresh pages (#7996)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7c5c2a7</div>
-                                        <div class="message">docsify: add page (#8185)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6588dd7</div>
-                                        <div class="message">man: add -f example (#8180)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f3f405e</div>
-                                        <div class="message">htop: add change tab command (#8164)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b3c24bd</div>
-                                        <div class="message">abbr: add Chinese translation (#8168)</div>
                                     </div>
                                 </div>
                             </section>
@@ -2589,7 +2489,7 @@ Co-authored-by: Axel Navarro &lt;navarroaxel@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jul 2022, 12:15:19 (timezone Europe/London) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 21 Jul 2022, 13:37:20 (timezone Europe/London) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
