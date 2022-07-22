@@ -1454,7 +1454,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>all-contributors/all-contributors</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">✨ Recognize all contributors, not just the ones who push code ✨</div>
@@ -2460,7 +2460,7 @@ inventory.py is the canonical name of the targets list though I believe you can 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jul 2022, 04:50:03 (timezone Europe/London) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 22 Jul 2022, 05:44:45 (timezone Europe/London) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
