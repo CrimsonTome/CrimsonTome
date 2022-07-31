@@ -1509,7 +1509,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AnIdiotsGuide/guidebot</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A boilerplate example bot with command handler and reloadable commands. Updated and Maintained by the Idiot's Guide Community</div>
@@ -2465,7 +2465,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Jul 2022, 23:16:12 (timezone Europe/London) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 1 Aug 2022, 00:17:43 (timezone Europe/London) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
