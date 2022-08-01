@@ -1473,7 +1473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pi-hole/pi-hole</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A black hole for Internet advertisements</div>
@@ -1526,7 +1526,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Omyyyy/pycom</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Python compiler, down to native code, using C++</div>
@@ -1579,7 +1579,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>minetest/minetest</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Minetest is an open source voxel game engine with easy modding and game creation</div>
@@ -1632,7 +1632,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tabler/tabler</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap</div>
@@ -2443,7 +2443,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Aug 2022, 14:42:34 (timezone Europe/London) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 1 Aug 2022, 15:17:43 (timezone Europe/London) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
