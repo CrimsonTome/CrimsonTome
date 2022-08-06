@@ -1461,7 +1461,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Refloow/Discord-Channel-Moderator</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">❤️ Discord Moderation Bot that helps you filter commands, (allow) links or filter words in channels where they were not allowed. Script is Node.js based using discord.js built by @Refloow</div>
@@ -1567,7 +1567,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tenacityteam/tenacity</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Project currently on an indefinite hiatus.</div>
@@ -2447,7 +2447,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Aug 2022, 19:20:32 (timezone Europe/London) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 6 Aug 2022, 20:13:47 (timezone Europe/London) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
