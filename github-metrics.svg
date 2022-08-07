@@ -1472,7 +1472,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>susam/texme</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Self-rendering Markdown + LaTeX documents</div>
@@ -1525,7 +1525,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vincentdoerig/latex-css</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">LaTeX.css is a CSS library that makes your website look like a LaTeX document</div>
@@ -1578,7 +1578,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>saadq/resumake.io</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📝 A website for automatically generating elegant LaTeX resumes.</div>
@@ -1631,7 +1631,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Wookai/paper-tips-and-tricks</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Best practice and tips &amp; tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab.</div>
@@ -2442,7 +2442,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Aug 2022, 17:22:12 (timezone Europe/London) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 7 Aug 2022, 18:16:55 (timezone Europe/London) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
