@@ -1494,7 +1494,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ohmyzsh/ohmyzsh</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.</div>
@@ -1547,7 +1547,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>theonedev/onedev</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Self-hosted Git Server with CI/CD and Kanban</div>
@@ -1600,7 +1600,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FredrikNoren/ungit</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The easiest way to use git. On any platform. Anywhere.</div>
@@ -2510,7 +2510,7 @@ should have spotted in review - oops
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Aug 2022, 19:21:08 (timezone Europe/London) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 11 Aug 2022, 20:12:36 (timezone Europe/London) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
