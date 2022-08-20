@@ -1467,7 +1467,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ogham/dog</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A command-line DNS client.</div>
@@ -1520,7 +1520,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sharkdp/hyperfine</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A command-line benchmarking tool</div>
@@ -1573,7 +1573,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nicolargo/glances</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.</div>
@@ -1626,7 +1626,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>emojicode/emojicode</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">😀😜🔂 World’s only programming language that’s bursting with emojis</div>
@@ -2437,7 +2437,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Aug 2022, 21:18:10 (timezone Europe/London) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 20 Aug 2022, 22:15:57 (timezone Europe/London) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
