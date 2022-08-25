@@ -1494,7 +1494,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pyston/pyston</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A faster and highly-compatible implementation of the Python programming language.</div>
@@ -2506,7 +2506,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Aug 2022, 17:23:10 (timezone Europe/London) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 25 Aug 2022, 18:20:08 (timezone Europe/London) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
