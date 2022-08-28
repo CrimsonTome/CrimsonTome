@@ -1466,7 +1466,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>crazy-max/diun</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Receive notifications when an image is updated on a Docker registry</div>
@@ -1572,7 +1572,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jessfraz/dockerfiles</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Various Dockerfiles I use on the desktop and on servers.</div>
@@ -1625,7 +1625,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Foundry376/Mailspring</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2467,7 +2467,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Aug 2022, 22:17:23 (timezone Europe/London) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 28 Aug 2022, 23:17:03 (timezone Europe/London) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
