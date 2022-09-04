@@ -11,11 +11,11 @@
 ### Recent Blog Post List
 
 <!-- BLOG-POST-LIST:START -->
+- [VPS setup 2, electric boogaloo](https://blog.crimsontome.com/posts/VPS-setup-2-electric-boogaloo/)
 - [Automating container updates with Ouroboros](https://blog.crimsontome.com/posts/automating-container-updates-with-ouroboros/)
 - [My current VPS setup](https://blog.crimsontome.com/posts/my-current-vps-setup/)
 - [Locking sites with Nginx Proxy Manager](https://blog.crimsontome.com/posts/locking-sites-with-nginx-proxy-manager/)
 - [An introduction to a potential series on Proxmox](https://blog.crimsontome.com/posts/PVE/)
-- [A ramble about GitHub](https://blog.crimsontome.com/posts/a-ramble-on-github/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
