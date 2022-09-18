@@ -15,7 +15,7 @@ View my [GitHub Stats](/pages/stats.md)
 - 🌐 [Web](https://github.com/stars/CrimsonTome/lists/web)
 - 📔 [Media](https://github.com/stars/CrimsonTome/lists/media)
 - ⌨️ [Dev](https://github.com/stars/CrimsonTome/lists/dev)
-- <img src="https://img.icons8.com/external-those-icons-fill-those-icons/24/000000/external-Git-social-media-those-icons-fill-those-icons.png"/> [Git](https://github.com/stars/CrimsonTome/lists/git)
+- [Git](https://github.com/stars/CrimsonTome/lists/git)
   
 #### 👷 Check out what I'm currently working on
 
