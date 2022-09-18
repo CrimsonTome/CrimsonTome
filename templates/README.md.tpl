@@ -1,4 +1,4 @@
-### Hi there, I'm CrimsonTome 👋
+### Hi there, I'm CrimsonTome - an admin @[Freeside](https://freeside.co.uk). You can also find us at our organisation page [here](https://github.com/freesidehull)👋
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
@@ -32,3 +32,7 @@
 - Email: crimsontome427@protonmail.com
 - Discord: CrimsonTome427#7459
 
+#### Quote of the day
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<br>
