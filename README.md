@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm CrimsonTome 👋
 
 #### 👷 Check out what I'm currently working on
 
