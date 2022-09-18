@@ -14,6 +14,8 @@ View my [GitHub Stats](/pages/stats.md)
   - 🖥️ [Terminal](https://github.com/stars/CrimsonTome/lists/terminal)
   - 🌐 [Web](https://github.com/stars/CrimsonTome/lists/web)
   - 📔 [Media](https://github.com/stars/CrimsonTome/lists/media)
+  - ⌨️ [Dev](https://github.com/stars/CrimsonTome/lists/dev)
+  - <i class="fa fa-git" aria-hidden="true"></i> [Git](https://github.com/stars/CrimsonTome/lists/git)
   
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
