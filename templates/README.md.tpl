@@ -1,7 +1,12 @@
 ### Hi there, I'm CrimsonTome 👋
+
 > Admin at [Freeside](https://freeside.co.uk) and Webmaster for [HullCSS](https://hullcss.org)
 
 View my [GitHub Stats](/pages/stats.md)
+
+#### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=git,docker,vim,bash,cs,github,linux,py,latex)](https://skillicons.dev)
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
