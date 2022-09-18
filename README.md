@@ -8,6 +8,12 @@ View my [GitHub Stats](/pages/stats.md)
 
 [![My Skills](https://skillicons.dev/icons?i=git,docker,vim,bash,cs,github,linux,py,latex)](https://skillicons.dev)
 
+#### My stack
+
+- [All](https://github.com/stars/CrimsonTome/lists/my-stack)
+  - [Terminal](https://github.com/stars/CrimsonTome/lists/terminal)
+  - [Web](https://github.com/stars/CrimsonTome/lists/web)
+  - [Media](https://github.com/stars/CrimsonTome/lists/media)
 #### 👷 Check out what I'm currently working on
 
 - [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (1 day ago)
