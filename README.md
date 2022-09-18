@@ -11,11 +11,11 @@ View my [GitHub Stats](/pages/stats.md)
 #### 🛠 My stack
 
 - [All](https://github.com/stars/CrimsonTome/lists/my-stack)
-  - 🖥️ [Terminal](https://github.com/stars/CrimsonTome/lists/terminal)
-  - 🌐 [Web](https://github.com/stars/CrimsonTome/lists/web)
-  - 📔 [Media](https://github.com/stars/CrimsonTome/lists/media)
-  - ⌨️ [Dev](https://github.com/stars/CrimsonTome/lists/dev)
-  - [![git](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/d3a7818c253fcbafff9ebd1d4abb2866c192e1d7/svgs/brands/git.svg)] [Git](https://github.com/stars/CrimsonTome/lists/git)
+- 🖥️ [Terminal](https://github.com/stars/CrimsonTome/lists/terminal)
+- 🌐 [Web](https://github.com/stars/CrimsonTome/lists/web)
+- 📔 [Media](https://github.com/stars/CrimsonTome/lists/media)
+- ⌨️ [Dev](https://github.com/stars/CrimsonTome/lists/dev)
+- [Git](https://github.com/stars/CrimsonTome/lists/git)
   
 #### 👷 Check out what I'm currently working on
 
