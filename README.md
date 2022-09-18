@@ -1,5 +1,9 @@
 ### Hi there, I'm CrimsonTome 👋
 
+I am an admin @[Freeside](https://freeside.co.uk). You can also find us at our organisation page [here](https://github.com/freesidehull)
+
+View my [GitHub Stats](/pages/stats.md)
+
 #### 👷 Check out what I'm currently working on
 
 - [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (1 day ago)
@@ -66,4 +70,6 @@
 
 - Email: crimsontome427@protonmail.com
 - Discord: CrimsonTome427#7459
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
