@@ -15,7 +15,7 @@ View my [GitHub Stats](/pages/stats.md)
   - 🌐 [Web](https://github.com/stars/CrimsonTome/lists/web)
   - 📔 [Media](https://github.com/stars/CrimsonTome/lists/media)
   - ⌨️ [Dev](https://github.com/stars/CrimsonTome/lists/dev)
-  - <i class="fa fa-git" aria-hidden="true"></i> [Git](https://github.com/stars/CrimsonTome/lists/git)
+  - [![git](https://raw.githubusercontent.com/FortAwesome/Font-Awesome/d3a7818c253fcbafff9ebd1d4abb2866c192e1d7/svgs/brands/git.svg)] [Git](https://github.com/stars/CrimsonTome/lists/git)
   
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
