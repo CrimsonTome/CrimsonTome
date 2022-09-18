@@ -1,4 +1,7 @@
-### Hi there, I'm CrimsonTome - an admin @[Freeside](https://freeside.co.uk). You can also find us at our organisation page [here](https://github.com/freesidehull)👋
+### Hi there, I'm CrimsonTome 👋
+> Admin at [Freeside](https://freeside.co.uk) and Webmaster for [HullCSS](https://hullcss.org)
+
+View my [GitHub Stats](/pages/stats.md)
 
 #### 👷 Check out what I'm currently working on
 
