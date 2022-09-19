@@ -45,7 +45,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 🔨 My recent Pull Requests
 
-- [add tubesync to automation](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3300) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (today)
+- [Add Tubesync to Automation](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3300) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (today)
 - [add fullstacco to self hosting solutions](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3292) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (4 days ago)
 - [add EmulatorJS to games](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3291) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (4 days ago)
 - [re add docs.kieranrobson.com](https://github.com/FreesideHull/hullblogs.com/pull/9) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (1 month ago)
