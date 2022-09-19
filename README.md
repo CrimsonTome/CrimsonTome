@@ -45,6 +45,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 🔨 My recent Pull Requests
 
+- [add tubesync to automation](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3300) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (today)
 - [add fullstacco to self hosting solutions](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3292) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (4 days ago)
 - [add EmulatorJS to games](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3291) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (4 days ago)
 - [re add docs.kieranrobson.com](https://github.com/FreesideHull/hullblogs.com/pull/9) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (1 month ago)
@@ -54,7 +55,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [Added Yacht to self hosting solutions](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3187) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (1 month ago)
 - [Update Freeside&#39;s Discord link URL](https://github.com/hullcss/hullcss-discord-bot/pull/2) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (1 month ago)
 - [remove `/links` form hullcss url. Returns 404. ](https://github.com/hullcss/hullcss-discord-bot/pull/1) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (1 month ago)
-- [pyinfra: add page](https://github.com/tldr-pages/tldr/pull/8238) on [tldr-pages/tldr](https://github.com/tldr-pages/tldr) (2 months ago)
 
 #### 📜 My recent blog posts
 
