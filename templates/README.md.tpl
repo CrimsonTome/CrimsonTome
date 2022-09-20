@@ -2,6 +2,10 @@
 
 > Admin at [Freeside](https://freeside.co.uk) and Webmaster for [HullCSS](https://hullcss.org)
 
+[![Discord](https://img.shields.io/badge/Discord-CrimsonTome427%237459-blue)]
+
+[![Email](https://img.shields.io/badge/Email-crimsontome427%40protonmail.com-blueviolet)]
+
 View my [GitHub Stats](/pages/stats.md)
 
 #### 🤹🏻 Skills
@@ -42,12 +46,6 @@ View my [GitHub Stats](/pages/stats.md)
 {{range recentStars 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
-
-
-#### 📫 How to reach me
-
-- Email: crimsontome427@protonmail.com
-- Discord: CrimsonTome427#7459
 
 #### Quote of the day
 
