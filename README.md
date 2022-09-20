@@ -2,6 +2,10 @@
 
 > Admin at [Freeside](https://freeside.co.uk) and Webmaster for [HullCSS](https://hullcss.org)
 
+[![Discord](https://img.shields.io/badge/Discord-CrimsonTome427%237459-blue)]
+
+[![Email](https://img.shields.io/badge/Email-crimsontome427%40protonmail.com-blueviolet)]
+
 View my [GitHub Stats](/pages/stats.md)
 
 #### 🤹🏻 Skills
@@ -19,8 +23,8 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (today)
-- [CrimsonTome/hullblogs-feed-bot](https://github.com/CrimsonTome/hullblogs-feed-bot) - Discord.js bot that notifies when a new post appears on hullblogs.com (6 days ago)
+- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (1 day ago)
+- [CrimsonTome/hullblogs-feed-bot](https://github.com/CrimsonTome/hullblogs-feed-bot) - Discord.js bot that notifies when a new post appears on hullblogs.com (1 week ago)
 - [CrimsonTome/projects.crimsontome.com](https://github.com/CrimsonTome/projects.crimsontome.com) -  (1 week ago)
 - [CrimsonTome/scaffolding](https://github.com/CrimsonTome/scaffolding) - scaffolding I often use in git repos (1 week ago)
 - [FreesideHull/DiscordAccountsBot](https://github.com/FreesideHull/DiscordAccountsBot) - Discord bot for managing Freeside accounts (1 week ago)
@@ -45,16 +49,16 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 🔨 My recent Pull Requests
 
-- [Add Tubesync to Automation](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3300) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (today)
-- [add fullstacco to self hosting solutions](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3292) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (4 days ago)
-- [add EmulatorJS to games](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3291) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (4 days ago)
+- [Add Aetolos to Self-hosting Solutions](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3304) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (today)
+- [Add Testaustime to time trackers](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3303) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (today)
+- [Add Tubesync to Automation](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3300) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (1 day ago)
+- [add fullstacco to self hosting solutions](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3292) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (5 days ago)
+- [add EmulatorJS to games](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3291) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (5 days ago)
 - [re add docs.kieranrobson.com](https://github.com/FreesideHull/hullblogs.com/pull/9) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (1 month ago)
 - [fix typo: cold --&gt; warm standby](https://github.com/bregman-arie/system-design-notebook/pull/1) on [bregman-arie/system-design-notebook](https://github.com/bregman-arie/system-design-notebook) (1 month ago)
 - [add hullcss blog feed to feeds.json](https://github.com/FreesideHull/hullblogs.com/pull/6) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (1 month ago)
 - [Remove forums.freeside.co.uk](https://github.com/FreesideHull/FreesideWeb/pull/6) on [FreesideHull/FreesideWeb](https://github.com/FreesideHull/FreesideWeb) (1 month ago)
 - [Added Yacht to self hosting solutions](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3187) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (1 month ago)
-- [Update Freeside&#39;s Discord link URL](https://github.com/hullcss/hullcss-discord-bot/pull/2) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (1 month ago)
-- [remove `/links` form hullcss url. Returns 404. ](https://github.com/hullcss/hullcss-discord-bot/pull/1) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (1 month ago)
 
 #### 📜 My recent blog posts
 
@@ -67,22 +71,16 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages (1 day ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 day ago)
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 day ago)
-- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS (1 day ago)
-- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system (1 day ago)
-- [maisans-maid/Mai](https://github.com/maisans-maid/Mai) - A multi-functional Discord Bot (1 day ago)
-- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library. (1 day ago)
-- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. (1 day ago)
-- [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram &amp; Google Maps requests to privacy friendly alternatives. (2 days ago)
-- [streetsidesoftware/cspell](https://github.com/streetsidesoftware/cspell) - A Spell Checker for Code! (2 days ago)
-
-
-#### 📫 How to reach me
-
-- Email: crimsontome427@protonmail.com
-- Discord: CrimsonTome427#7459
+- [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges (today)
+- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format (today)
+- [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages (2 days ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 days ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (2 days ago)
+- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS (2 days ago)
+- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system (2 days ago)
+- [maisans-maid/Mai](https://github.com/maisans-maid/Mai) - A multi-functional Discord Bot (2 days ago)
+- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library. (2 days ago)
+- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. (2 days ago)
 
 #### Quote of the day
 
