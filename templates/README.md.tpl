@@ -2,9 +2,9 @@
 
 > Admin at [Freeside](https://freeside.co.uk) and Webmaster for [HullCSS](https://hullcss.org)
 
-[![Discord](https://img.shields.io/badge/Discord-CrimsonTome427%237459-blue)]
+![Discord](https://img.shields.io/badge/Discord-CrimsonTome427%237459-blue)
 
-[![Email](https://img.shields.io/badge/Email-crimsontome427%40protonmail.com-blueviolet)]
+![Email](https://img.shields.io/badge/Email-crimsontome427%40protonmail.com-blueviolet)
 
 View my [GitHub Stats](/pages/stats.md)
 
