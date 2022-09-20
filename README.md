@@ -71,6 +71,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [Rudolf-Barbu/Ward](https://github.com/Rudolf-Barbu/Ward) - Server dashboard (today)
 - [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges (today)
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format (today)
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages (2 days ago)
@@ -80,7 +81,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system (2 days ago)
 - [maisans-maid/Mai](https://github.com/maisans-maid/Mai) - A multi-functional Discord Bot (2 days ago)
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library. (2 days ago)
-- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. (2 days ago)
 
 #### Quote of the day
 
