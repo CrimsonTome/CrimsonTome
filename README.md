@@ -23,7 +23,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (2 days ago)
+- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (today)
 - [CrimsonTome/hullblogs-feed-bot](https://github.com/CrimsonTome/hullblogs-feed-bot) - Discord.js bot that notifies when a new post appears on hullblogs.com (1 week ago)
 - [CrimsonTome/projects.crimsontome.com](https://github.com/CrimsonTome/projects.crimsontome.com) -  (1 week ago)
 - [CrimsonTome/scaffolding](https://github.com/CrimsonTome/scaffolding) - scaffolding I often use in git repos (1 week ago)
