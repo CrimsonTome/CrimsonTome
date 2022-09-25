@@ -71,6 +71,8 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [wick3dr0se/open-system-fetch](https://github.com/wick3dr0se/open-system-fetch) - An awesome(ly) curated list of open-source system information fetch utilities (today)
+- [dlenski/wifi2qr](https://github.com/dlenski/wifi2qr) - A simple script to share your computer&#39;s WiFi connection via QR code (today)
 - [markmead/hyperui](https://github.com/markmead/hyperui) - HyperUI is a large collection of free Tailwind CSS components for marketing, ecommerce and application UI 🐳 (today)
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library (today)
 - [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates (1 day ago)
@@ -79,8 +81,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (1 day ago)
 - [tybenz/vimdeck](https://github.com/tybenz/vimdeck) - VIM as a presentation tool (1 day ago)
 - [arc90/git-sweep](https://github.com/arc90/git-sweep) - A command-line tool that helps you clean up Git branches that have been merged into master. (1 day ago)
-- [sobolevn/git-secret](https://github.com/sobolevn/git-secret) - :busts_in_silhouette: A bash-tool to store your private data inside a git repository. (1 day ago)
-- [unixorn/git-extra-commands](https://github.com/unixorn/git-extra-commands) - A collection of git utilities and useful extra git scripts. (1 day ago)
 
 #### Quote of the day
 
