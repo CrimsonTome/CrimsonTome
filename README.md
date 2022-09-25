@@ -71,6 +71,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library (today)
 - [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates (1 day ago)
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (1 day ago)
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster. (1 day ago)
@@ -80,7 +81,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [sobolevn/git-secret](https://github.com/sobolevn/git-secret) - :busts_in_silhouette: A bash-tool to store your private data inside a git repository. (1 day ago)
 - [unixorn/git-extra-commands](https://github.com/unixorn/git-extra-commands) - A collection of git utilities and useful extra git scripts. (1 day ago)
 - [maralla/pack](https://github.com/maralla/pack) - 📦 The missing vim8 package manager. (1 day ago)
-- [six-ddc/hss](https://github.com/six-ddc/hss) - An interactive parallel ssh client featuring autocomplete and asynchronous execution. (1 day ago)
 
 #### Quote of the day
 
