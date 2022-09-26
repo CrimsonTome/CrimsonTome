@@ -23,8 +23,8 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (2 days ago)
-- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (3 days ago)
+- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (3 days ago)
+- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (4 days ago)
 - [CrimsonTome/hullblogs-feed-bot](https://github.com/CrimsonTome/hullblogs-feed-bot) - Discord.js bot that notifies when a new post appears on hullblogs.com (1 week ago)
 - [CrimsonTome/projects.crimsontome.com](https://github.com/CrimsonTome/projects.crimsontome.com) -  (2 weeks ago)
 - [CrimsonTome/scaffolding](https://github.com/CrimsonTome/scaffolding) - scaffolding I often use in git repos (2 weeks ago)
@@ -49,9 +49,9 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 🔨 My recent Pull Requests
 
-- [Add Aetolos to Self-hosting Solutions](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3304) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (5 days ago)
-- [Add Testaustime to time trackers](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3303) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (5 days ago)
-- [Add Tubesync to Automation](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3300) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (6 days ago)
+- [Add Aetolos to Self-hosting Solutions](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3304) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (6 days ago)
+- [Add Testaustime to time trackers](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3303) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (6 days ago)
+- [Add Tubesync to Automation](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3300) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (1 week ago)
 - [add fullstacco to self hosting solutions](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3292) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (1 week ago)
 - [add EmulatorJS to games](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3291) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (1 week ago)
 - [re add docs.kieranrobson.com](https://github.com/FreesideHull/hullblogs.com/pull/9) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (1 month ago)
@@ -71,16 +71,16 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [wick3dr0se/open-system-fetch](https://github.com/wick3dr0se/open-system-fetch) - An awesome(ly) curated list of open-source system information fetch utilities (today)
-- [dlenski/wifi2qr](https://github.com/dlenski/wifi2qr) - A simple script to share your computer&#39;s WiFi connection via QR code (today)
-- [markmead/hyperui](https://github.com/markmead/hyperui) - HyperUI is a large collection of free Tailwind CSS components for marketing, ecommerce and application UI 🐳 (today)
-- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library (today)
-- [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates (1 day ago)
-- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (1 day ago)
-- [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster. (1 day ago)
-- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (1 day ago)
-- [tybenz/vimdeck](https://github.com/tybenz/vimdeck) - VIM as a presentation tool (1 day ago)
-- [arc90/git-sweep](https://github.com/arc90/git-sweep) - A command-line tool that helps you clean up Git branches that have been merged into master. (1 day ago)
+- [wick3dr0se/open-system-fetch](https://github.com/wick3dr0se/open-system-fetch) - An awesome(ly) curated list of open-source system information fetch utilities (1 day ago)
+- [dlenski/wifi2qr](https://github.com/dlenski/wifi2qr) - A simple script to share your computer&#39;s WiFi connection via QR code (1 day ago)
+- [markmead/hyperui](https://github.com/markmead/hyperui) - HyperUI is a large collection of free Tailwind CSS components for marketing, ecommerce and application UI 🐳 (1 day ago)
+- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library (1 day ago)
+- [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates (2 days ago)
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (2 days ago)
+- [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster. (2 days ago)
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (2 days ago)
+- [tybenz/vimdeck](https://github.com/tybenz/vimdeck) - VIM as a presentation tool (2 days ago)
+- [arc90/git-sweep](https://github.com/arc90/git-sweep) - A command-line tool that helps you clean up Git branches that have been merged into master. (2 days ago)
 
 #### Quote of the day
 
