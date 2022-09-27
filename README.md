@@ -71,6 +71,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more. (today)
 - [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix homeserver written in Python 3/Twisted. (today)
 - [xu-cheng/latex-action](https://github.com/xu-cheng/latex-action) - :octocat: GitHub Action to compile LaTeX documents (today)
 - [egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX) - Curated list of LaTeX awesomeness (today)
@@ -80,7 +81,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [wick3dr0se/open-fetch](https://github.com/wick3dr0se/open-fetch) - An awesome(ly) curated list of open-source information fetch utilities (2 days ago)
 - [dlenski/wifi2qr](https://github.com/dlenski/wifi2qr) - A simple script to share your computer&#39;s WiFi connection via QR code (2 days ago)
 - [markmead/hyperui](https://github.com/markmead/hyperui) - HyperUI is a large collection of free Tailwind CSS components for marketing, ecommerce and application UI 🐳 (2 days ago)
-- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library (2 days ago)
 
 #### Quote of the day
 
