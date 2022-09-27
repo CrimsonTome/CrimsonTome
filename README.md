@@ -49,6 +49,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 🔨 My recent Pull Requests
 
+- [Add Aetolos to Control Panels](https://github.com/awesome-foss/awesome-sysadmin/pull/401) on [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) (today)
 - [Add Aetolos to Self-hosting Solutions](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3304) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (1 week ago)
 - [Add Testaustime to time trackers](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3303) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (1 week ago)
 - [Add Tubesync to Automation](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3300) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (1 week ago)
@@ -58,7 +59,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [fix typo: cold --&gt; warm standby](https://github.com/bregman-arie/system-design-notebook/pull/1) on [bregman-arie/system-design-notebook](https://github.com/bregman-arie/system-design-notebook) (1 month ago)
 - [add hullcss blog feed to feeds.json](https://github.com/FreesideHull/hullblogs.com/pull/6) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (1 month ago)
 - [Remove forums.freeside.co.uk](https://github.com/FreesideHull/FreesideWeb/pull/6) on [FreesideHull/FreesideWeb](https://github.com/FreesideHull/FreesideWeb) (1 month ago)
-- [Added Yacht to self hosting solutions](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3187) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (1 month ago)
 
 #### 📜 My recent blog posts
 
@@ -71,6 +71,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix homeserver written in Python 3/Twisted. (today)
 - [xu-cheng/latex-action](https://github.com/xu-cheng/latex-action) - :octocat: GitHub Action to compile LaTeX documents (today)
 - [egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX) - Curated list of LaTeX awesomeness (today)
 - [BubuAnabelas/awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown) - :memo: Delightful Markdown stuff. (today)
@@ -80,7 +81,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [dlenski/wifi2qr](https://github.com/dlenski/wifi2qr) - A simple script to share your computer&#39;s WiFi connection via QR code (2 days ago)
 - [markmead/hyperui](https://github.com/markmead/hyperui) - HyperUI is a large collection of free Tailwind CSS components for marketing, ecommerce and application UI 🐳 (2 days ago)
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library (2 days ago)
-- [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates (3 days ago)
 
 #### Quote of the day
 
