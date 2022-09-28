@@ -71,6 +71,8 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [synzen/MonitoRSS-Clone](https://github.com/synzen/MonitoRSS-Clone) - Repo to deploy the news-delivering bot MonitoRSS (formerly known as Discord.RSS) (today)
+- [synzen/MonitoRSS](https://github.com/synzen/MonitoRSS) - Discord RSS bot (formerly known as Discord.RSS) with customizable feeds. https://monitorss.xyz (today)
 - [ncarlier/feedpushr](https://github.com/ncarlier/feedpushr) - A simple feed aggregator daemon with sugar on top. (today)
 - [LuckFire/amoled-cord](https://github.com/LuckFire/amoled-cord) - A simple, no-bullshit AMOLED theme that&#39;s nice on your eyes. Lights out baby! (today)
 - [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more. (1 day ago)
@@ -79,8 +81,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX) - Curated list of LaTeX awesomeness (1 day ago)
 - [BubuAnabelas/awesome-markdown](https://github.com/BubuAnabelas/awesome-markdown) - :memo: Delightful Markdown stuff. (1 day ago)
 - [bloominstituteoftechnology/Secret-Gists](https://github.com/bloominstituteoftechnology/Secret-Gists) - Save and read secure notes using GitHub gists (1 day ago)
-- [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. (1 day ago)
-- [wick3dr0se/open-fetch](https://github.com/wick3dr0se/open-fetch) - An awesome(ly) curated list of open-source information fetch utilities (3 days ago)
 
 #### Quote of the day
 
