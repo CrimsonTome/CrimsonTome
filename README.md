@@ -71,6 +71,8 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass (today)
+- [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider (today)
 - [vvicaretti/docker-laverna](https://github.com/vvicaretti/docker-laverna) - Docker container for laverna note taking application (today)
 - [Laverna/laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote. (today)
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. (today)
@@ -79,8 +81,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow. (today)
 - [synzen/MonitoRSS-Clone](https://github.com/synzen/MonitoRSS-Clone) - Repo to deploy the news-delivering bot MonitoRSS (formerly known as Discord.RSS) (1 day ago)
 - [synzen/MonitoRSS](https://github.com/synzen/MonitoRSS) - Discord RSS bot (formerly known as Discord.RSS) with customizable feeds. https://monitorss.xyz (1 day ago)
-- [ncarlier/feedpushr](https://github.com/ncarlier/feedpushr) - A simple feed aggregator daemon with sugar on top. (1 day ago)
-- [LuckFire/amoled-cord](https://github.com/LuckFire/amoled-cord) - A simple, no-bullshit AMOLED theme that&#39;s nice on your eyes. Lights out baby! (1 day ago)
 
 #### Quote of the day
 
