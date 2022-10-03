@@ -71,6 +71,8 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [Cellule/dndGenerator](https://github.com/Cellule/dndGenerator) - Npc Generator for Dungeon and Dragon (today)
+- [Miserlou/dnd-tldr](https://github.com/Miserlou/dnd-tldr) - Dungeons and Dragons - Too Long; Didn&#39;t Read (today)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements. (today)
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech. (1 day ago)
@@ -79,8 +81,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [pioul/Minimalist-Online-Markdown-Editor](https://github.com/pioul/Minimalist-Online-Markdown-Editor) - This is the simplest and slickest online Markdown editor.  (3 days ago)
 - [josephernest/writing](https://github.com/josephernest/writing) - Writing is a lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported). (3 days ago)
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Interactive and collaborative code notebooks for Elixir - built with Phoenix LiveView (3 days ago)
-- [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever. (3 days ago)
-- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by! (3 days ago)
 
 #### Quote of the day
 
