@@ -71,6 +71,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀 (today)
 - [Cellule/dndGenerator](https://github.com/Cellule/dndGenerator) - Npc Generator for Dungeon and Dragon (today)
 - [Miserlou/dnd-tldr](https://github.com/Miserlou/dnd-tldr) - Dungeons and Dragons - Too Long; Didn&#39;t Read (today)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
@@ -80,7 +81,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices (1 day ago)
 - [pioul/Minimalist-Online-Markdown-Editor](https://github.com/pioul/Minimalist-Online-Markdown-Editor) - This is the simplest and slickest online Markdown editor.  (3 days ago)
 - [josephernest/writing](https://github.com/josephernest/writing) - Writing is a lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported). (3 days ago)
-- [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Interactive and collaborative code notebooks for Elixir - built with Phoenix LiveView (3 days ago)
 
 #### Quote of the day
 
