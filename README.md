@@ -54,6 +54,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 🔨 My recent Pull Requests
 
+- [add PR template](https://github.com/FreesideHull/StudentResources/pull/16) on [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) (today)
 - [Add Aetolos to Control Panels](https://github.com/awesome-foss/awesome-sysadmin/pull/401) on [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) (1 week ago)
 - [Add Aetolos to Self-hosting Solutions](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3304) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (2 weeks ago)
 - [Add Testaustime to time trackers](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3303) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (2 weeks ago)
@@ -63,7 +64,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [re add docs.kieranrobson.com](https://github.com/FreesideHull/hullblogs.com/pull/9) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (1 month ago)
 - [fix typo: cold --&gt; warm standby](https://github.com/bregman-arie/system-design-notebook/pull/1) on [bregman-arie/system-design-notebook](https://github.com/bregman-arie/system-design-notebook) (1 month ago)
 - [add hullcss blog feed to feeds.json](https://github.com/FreesideHull/hullblogs.com/pull/6) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (1 month ago)
-- [Remove forums.freeside.co.uk](https://github.com/FreesideHull/FreesideWeb/pull/6) on [FreesideHull/FreesideWeb](https://github.com/FreesideHull/FreesideWeb) (2 months ago)
 
 #### 📜 My recent blog posts
 
