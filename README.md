@@ -76,6 +76,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [Merrit/nyrna](https://github.com/Merrit/nyrna) - Nyrna - Suspend games and applications. (today)
 - [newrelic/centurion](https://github.com/newrelic/centurion) - A mass deployment tool for Docker fleets (today)
 - [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (today)
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes (today)
@@ -85,7 +86,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [Algram/ytdl-webserver](https://github.com/Algram/ytdl-webserver) - 📻 Webserver for downloading youtube videos. Ready for docker. (2 days ago)
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features (2 days ago)
 - [steamcmd/docker](https://github.com/steamcmd/docker) - Docker image containing SteamCMD (2 days ago)
-- [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs. (2 days ago)
 
 #### Quote of the day
 
