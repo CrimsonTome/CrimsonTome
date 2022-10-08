@@ -76,6 +76,8 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [newrelic/centurion](https://github.com/newrelic/centurion) - A mass deployment tool for Docker fleets (today)
+- [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (today)
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes (today)
 - [chamburr/modmail](https://github.com/chamburr/modmail) - A feature-rich Discord bot for easy communication between server staff and users. (1 day ago)
 - [hetzneronline/installimage](https://github.com/hetzneronline/installimage) - Bash scripts to universally deploy various distributions (1 day ago)
@@ -84,8 +86,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features (2 days ago)
 - [steamcmd/docker](https://github.com/steamcmd/docker) - Docker image containing SteamCMD (2 days ago)
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs. (2 days ago)
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀 (5 days ago)
-- [Cellule/dndGenerator](https://github.com/Cellule/dndGenerator) - Npc Generator for Dungeon and Dragon (5 days ago)
 
 #### Quote of the day
 
