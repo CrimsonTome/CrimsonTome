@@ -28,8 +28,9 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) - The HullCSS discord bot for automating some tasks within the hullcss discord server (today)
+- [CrimsonTome/sysadmin-workshops](https://github.com/CrimsonTome/sysadmin-workshops) -  (today)
 - [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) - A multipurpose discord bot with admin, fun and information commands (today)
+- [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) - The HullCSS discord bot for automating some tasks within the hullcss discord server (today)
 - [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (1 day ago)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (2 days ago)
 - [CrimsonTome/bb.crimsontome.com](https://github.com/CrimsonTome/bb.crimsontome.com) - site made with bashblog (1 week ago)
@@ -37,10 +38,10 @@ View my [GitHub Stats](/pages/stats.md)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (1 week ago)
 - [CrimsonTome/hullblogs-feed-bot](https://github.com/CrimsonTome/hullblogs-feed-bot) - Discord.js bot that notifies when a new post appears on hullblogs.com (3 weeks ago)
 - [CrimsonTome/scaffolding](https://github.com/CrimsonTome/scaffolding) - scaffolding I often use in git repos (1 month ago)
-- [CrimsonTome/projects.crimsontome.com](https://github.com/CrimsonTome/projects.crimsontome.com) -  (1 month ago)
 
 #### 🌱 My latest projects
 
+- [CrimsonTome/sysadmin-workshops](https://github.com/CrimsonTome/sysadmin-workshops) - 
 - [CrimsonTome/bb.crimsontome.com](https://github.com/CrimsonTome/bb.crimsontome.com) - site made with bashblog
 - [CrimsonTome/hullblogs-feed-bot](https://github.com/CrimsonTome/hullblogs-feed-bot) - Discord.js bot that notifies when a new post appears on hullblogs.com
 - [CrimsonTome/scaffolding](https://github.com/CrimsonTome/scaffolding) - scaffolding I often use in git repos
@@ -50,7 +51,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [CrimsonTome/security-and-git](https://github.com/CrimsonTome/security-and-git) - Planned talk for HullCSS
 - [CrimsonTome/links.crimsontome.com](https://github.com/CrimsonTome/links.crimsontome.com) - littlelink server dockerfile
 - [CrimsonTome/migrate](https://github.com/CrimsonTome/migrate) - 
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files
 
 #### 🔨 My recent Pull Requests
 
@@ -76,6 +76,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [eshinn/node-pandoc](https://github.com/eshinn/node-pandoc) - Run Pandoc from NodeJS. Pandoc installation is required. (today)
 - [standard/awesome-standard](https://github.com/standard/awesome-standard) - Documenting the explosion of packages in the standard ecosystem! (today)
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper (today)
 - [Cytoid/Cytoid](https://github.com/Cytoid/Cytoid) - A community-driven touchscreen music game. (today)
@@ -85,7 +86,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [Merrit/nyrna](https://github.com/Merrit/nyrna) - Nyrna - Suspend games and applications. (1 day ago)
 - [newrelic/centurion](https://github.com/newrelic/centurion) - A mass deployment tool for Docker fleets (1 day ago)
 - [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (1 day ago)
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes (1 day ago)
 
 #### Quote of the day
 
