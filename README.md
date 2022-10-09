@@ -28,16 +28,16 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
+- [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) - A multipurpose discord bot with admin, fun and information commands (today)
+- [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (1 day ago)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (2 days ago)
-- [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (4 days ago)
-- [CrimsonTome/bb.crimsontome.com](https://github.com/CrimsonTome/bb.crimsontome.com) - site made with bashblog (1 week ago)
 - [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (1 week ago)
+- [CrimsonTome/bb.crimsontome.com](https://github.com/CrimsonTome/bb.crimsontome.com) - site made with bashblog (1 week ago)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (1 week ago)
 - [CrimsonTome/hullblogs-feed-bot](https://github.com/CrimsonTome/hullblogs-feed-bot) - Discord.js bot that notifies when a new post appears on hullblogs.com (3 weeks ago)
 - [CrimsonTome/projects.crimsontome.com](https://github.com/CrimsonTome/projects.crimsontome.com) -  (1 month ago)
 - [CrimsonTome/scaffolding](https://github.com/CrimsonTome/scaffolding) - scaffolding I often use in git repos (1 month ago)
 - [FreesideHull/DiscordAccountsBot](https://github.com/FreesideHull/DiscordAccountsBot) - Discord bot for managing Freeside accounts (1 month ago)
-- [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -54,16 +54,16 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 🔨 My recent Pull Requests
 
+- [add conduct page](https://github.com/hullcss/hullcss-discord-bot/pull/16) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (today)
+- [Add contrributing policy for hullcss bot](https://github.com/hullcss/hullcss-discord-bot/pull/15) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (today)
+- [add code of conduct](https://github.com/KieranRobson/Clarence-Bot/pull/18) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (today)
+- [add Contributing Guidelines for Clarence](https://github.com/KieranRobson/Clarence-Bot/pull/17) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (today)
 - [add PR template](https://github.com/FreesideHull/StudentResources/pull/16) on [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) (2 days ago)
 - [Add Aetolos to Control Panels](https://github.com/awesome-foss/awesome-sysadmin/pull/401) on [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) (1 week ago)
 - [Add Aetolos to Self-hosting Solutions](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3304) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (2 weeks ago)
 - [Add Testaustime to time trackers](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3303) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (2 weeks ago)
 - [Add Tubesync to Automation](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3300) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (2 weeks ago)
 - [add fullstacco to self hosting solutions](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3292) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 weeks ago)
-- [add EmulatorJS to games](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3291) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 weeks ago)
-- [re add docs.kieranrobson.com](https://github.com/FreesideHull/hullblogs.com/pull/9) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (1 month ago)
-- [fix typo: cold --&gt; warm standby](https://github.com/bregman-arie/system-design-notebook/pull/1) on [bregman-arie/system-design-notebook](https://github.com/bregman-arie/system-design-notebook) (1 month ago)
-- [add hullcss blog feed to feeds.json](https://github.com/FreesideHull/hullblogs.com/pull/6) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (2 months ago)
 
 #### 📜 My recent blog posts
 
@@ -76,6 +76,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [standard/awesome-standard](https://github.com/standard/awesome-standard) - Documenting the explosion of packages in the standard ecosystem! (today)
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper (today)
 - [Cytoid/Cytoid](https://github.com/Cytoid/Cytoid) - A community-driven touchscreen music game. (today)
 - [tModLoader/tModLoader](https://github.com/tModLoader/tModLoader) - A mod to make and play Terraria mods. Supports Terraria 1.4 (and earlier) installations  (today)
@@ -85,7 +86,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [newrelic/centurion](https://github.com/newrelic/centurion) - A mass deployment tool for Docker fleets (1 day ago)
 - [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (1 day ago)
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes (1 day ago)
-- [chamburr/modmail](https://github.com/chamburr/modmail) - A feature-rich Discord bot for easy communication between server staff and users. (2 days ago)
 
 #### Quote of the day
 
