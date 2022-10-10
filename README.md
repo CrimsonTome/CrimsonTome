@@ -29,8 +29,8 @@ View my [GitHub Stats](/pages/stats.md)
 #### 👷 Check out what I'm currently working on
 
 - [CrimsonTome/sysadmin-workshops](https://github.com/CrimsonTome/sysadmin-workshops) - Slides for workshops on teaching sysadmin skills to students at the University of Hull (today)
-- [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) - A multipurpose discord bot with admin, fun and information commands (1 day ago)
 - [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) - The HullCSS discord bot for automating some tasks within the hullcss discord server (1 day ago)
+- [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) - A multipurpose discord bot with admin, fun and information commands (1 day ago)
 - [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (2 days ago)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (3 days ago)
 - [CrimsonTome/bb.crimsontome.com](https://github.com/CrimsonTome/bb.crimsontome.com) - site made with bashblog (1 week ago)
