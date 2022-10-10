@@ -28,11 +28,11 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/sysadmin-workshops](https://github.com/CrimsonTome/sysadmin-workshops) -  (today)
-- [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) - A multipurpose discord bot with admin, fun and information commands (today)
-- [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) - The HullCSS discord bot for automating some tasks within the hullcss discord server (today)
-- [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (1 day ago)
-- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (2 days ago)
+- [CrimsonTome/sysadmin-workshops](https://github.com/CrimsonTome/sysadmin-workshops) - Slides for workshops on teaching sysadmin skills to students at the University of Hull (today)
+- [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) - A multipurpose discord bot with admin, fun and information commands (1 day ago)
+- [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) - The HullCSS discord bot for automating some tasks within the hullcss discord server (1 day ago)
+- [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (2 days ago)
+- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (3 days ago)
 - [CrimsonTome/bb.crimsontome.com](https://github.com/CrimsonTome/bb.crimsontome.com) - site made with bashblog (1 week ago)
 - [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (1 week ago)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (1 week ago)
@@ -41,7 +41,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 🌱 My latest projects
 
-- [CrimsonTome/sysadmin-workshops](https://github.com/CrimsonTome/sysadmin-workshops) - 
+- [CrimsonTome/sysadmin-workshops](https://github.com/CrimsonTome/sysadmin-workshops) - Slides for workshops on teaching sysadmin skills to students at the University of Hull
 - [CrimsonTome/bb.crimsontome.com](https://github.com/CrimsonTome/bb.crimsontome.com) - site made with bashblog
 - [CrimsonTome/hullblogs-feed-bot](https://github.com/CrimsonTome/hullblogs-feed-bot) - Discord.js bot that notifies when a new post appears on hullblogs.com
 - [CrimsonTome/scaffolding](https://github.com/CrimsonTome/scaffolding) - scaffolding I often use in git repos
@@ -54,15 +54,15 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 🔨 My recent Pull Requests
 
-- [add conduct page](https://github.com/hullcss/hullcss-discord-bot/pull/16) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (today)
-- [Add contrributing policy for hullcss bot](https://github.com/hullcss/hullcss-discord-bot/pull/15) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (today)
-- [add code of conduct](https://github.com/KieranRobson/Clarence-Bot/pull/18) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (today)
-- [add Contributing Guidelines for Clarence](https://github.com/KieranRobson/Clarence-Bot/pull/17) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (today)
-- [add PR template](https://github.com/FreesideHull/StudentResources/pull/16) on [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) (2 days ago)
+- [add conduct page](https://github.com/hullcss/hullcss-discord-bot/pull/16) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (1 day ago)
+- [Add contrributing policy for hullcss bot](https://github.com/hullcss/hullcss-discord-bot/pull/15) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (1 day ago)
+- [add code of conduct](https://github.com/KieranRobson/Clarence-Bot/pull/18) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (1 day ago)
+- [add Contributing Guidelines for Clarence](https://github.com/KieranRobson/Clarence-Bot/pull/17) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (1 day ago)
+- [add PR template](https://github.com/FreesideHull/StudentResources/pull/16) on [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) (3 days ago)
 - [Add Aetolos to Control Panels](https://github.com/awesome-foss/awesome-sysadmin/pull/401) on [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) (1 week ago)
 - [Add Aetolos to Self-hosting Solutions](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3304) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (2 weeks ago)
 - [Add Testaustime to time trackers](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3303) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (2 weeks ago)
-- [Add Tubesync to Automation](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3300) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (2 weeks ago)
+- [Add Tubesync to Automation](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3300) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 weeks ago)
 - [add fullstacco to self hosting solutions](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3292) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 weeks ago)
 
 #### 📜 My recent blog posts
@@ -76,16 +76,16 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [eshinn/node-pandoc](https://github.com/eshinn/node-pandoc) - Run Pandoc from NodeJS. Pandoc installation is required. (today)
-- [standard/awesome-standard](https://github.com/standard/awesome-standard) - Documenting the explosion of packages in the standard ecosystem! (today)
-- [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper (today)
-- [Cytoid/Cytoid](https://github.com/Cytoid/Cytoid) - A community-driven touchscreen music game. (today)
-- [tModLoader/tModLoader](https://github.com/tModLoader/tModLoader) - A mod to make and play Terraria mods. Supports Terraria 1.4 (and earlier) installations  (today)
-- [radian-software/TerrariaClone](https://github.com/radian-software/TerrariaClone) - 🔥 An incomprehensible hellscape of spaghetti code. (today)
-- [ValveSoftware/Fossilize](https://github.com/ValveSoftware/Fossilize) - A serialization format for various persistent Vulkan object types. (today)
-- [Merrit/nyrna](https://github.com/Merrit/nyrna) - Nyrna - Suspend games and applications. (1 day ago)
-- [newrelic/centurion](https://github.com/newrelic/centurion) - A mass deployment tool for Docker fleets (1 day ago)
-- [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (1 day ago)
+- [eshinn/node-pandoc](https://github.com/eshinn/node-pandoc) - Run Pandoc from NodeJS. Pandoc installation is required. (1 day ago)
+- [standard/awesome-standard](https://github.com/standard/awesome-standard) - Documenting the explosion of packages in the standard ecosystem! (1 day ago)
+- [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper (1 day ago)
+- [Cytoid/Cytoid](https://github.com/Cytoid/Cytoid) - A community-driven touchscreen music game. (1 day ago)
+- [tModLoader/tModLoader](https://github.com/tModLoader/tModLoader) - A mod to make and play Terraria mods. Supports Terraria 1.4 (and earlier) installations  (1 day ago)
+- [radian-software/TerrariaClone](https://github.com/radian-software/TerrariaClone) - 🔥 An incomprehensible hellscape of spaghetti code. (1 day ago)
+- [ValveSoftware/Fossilize](https://github.com/ValveSoftware/Fossilize) - A serialization format for various persistent Vulkan object types. (1 day ago)
+- [Merrit/nyrna](https://github.com/Merrit/nyrna) - Nyrna - Suspend games and applications. (2 days ago)
+- [newrelic/centurion](https://github.com/newrelic/centurion) - A mass deployment tool for Docker fleets (2 days ago)
+- [zinclabs/zinc](https://github.com/zinclabs/zinc) - ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go. (2 days ago)
 
 #### Quote of the day
 
