@@ -28,8 +28,8 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
+- [CrimsonTome/sysadmin-workshops](https://github.com/CrimsonTome/sysadmin-workshops) - Slides for workshops on teaching sysadmin skills to students at the University of Hull (today)
 - [KieranRobson/awesome-information-science](https://github.com/KieranRobson/awesome-information-science) - ℹ️ A curated list of information science books, tools and resources. (today)
-- [CrimsonTome/sysadmin-workshops](https://github.com/CrimsonTome/sysadmin-workshops) - Slides for workshops on teaching sysadmin skills to students at the University of Hull (1 day ago)
 - [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) - The HullCSS discord bot for automating some tasks within the hullcss discord server (3 days ago)
 - [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) - A multipurpose discord bot with admin, fun and information commands (3 days ago)
 - [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (4 days ago)
