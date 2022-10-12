@@ -54,6 +54,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 🔨 My recent Pull Requests
 
+- [add license heading and tldr legal link](https://github.com/KieranRobson/Clarence-Bot/pull/28) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (today)
 - [add tldr cc0 license](https://github.com/KieranRobson/awesome-information-science/pull/1) on [KieranRobson/awesome-information-science](https://github.com/KieranRobson/awesome-information-science) (1 day ago)
 - [add conduct page](https://github.com/hullcss/hullcss-discord-bot/pull/16) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (3 days ago)
 - [Add contrributing policy for hullcss bot](https://github.com/hullcss/hullcss-discord-bot/pull/15) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (3 days ago)
@@ -63,7 +64,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [Add Aetolos to Control Panels](https://github.com/awesome-foss/awesome-sysadmin/pull/401) on [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) (2 weeks ago)
 - [Add Aetolos to Self-hosting Solutions](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3304) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 weeks ago)
 - [Add Testaustime to time trackers](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3303) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 weeks ago)
-- [Add Tubesync to Automation](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3300) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -76,6 +76,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of &#34;entry point&#34; for running and integrating AppImages (today)
 - [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) - Various cspell dictionaries (1 day ago)
 - [KieranRobson/awesome-information-science](https://github.com/KieranRobson/awesome-information-science) - ℹ️ A curated list of information science books, tools and resources. (1 day ago)
 - [eshinn/node-pandoc](https://github.com/eshinn/node-pandoc) - Run Pandoc from NodeJS. Pandoc installation is required. (3 days ago)
@@ -85,7 +86,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [tModLoader/tModLoader](https://github.com/tModLoader/tModLoader) - A mod to make and play Terraria mods. Supports Terraria 1.4 (and earlier) installations  (3 days ago)
 - [radian-software/TerrariaClone](https://github.com/radian-software/TerrariaClone) - 🔥 An incomprehensible hellscape of spaghetti code. (3 days ago)
 - [ValveSoftware/Fossilize](https://github.com/ValveSoftware/Fossilize) - A serialization format for various persistent Vulkan object types. (3 days ago)
-- [Merrit/nyrna](https://github.com/Merrit/nyrna) - Nyrna - Suspend games and applications. (4 days ago)
 
 #### Quote of the day
 
