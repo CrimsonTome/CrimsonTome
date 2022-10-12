@@ -28,16 +28,16 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/sysadmin-workshops](https://github.com/CrimsonTome/sysadmin-workshops) - Slides for workshops on teaching sysadmin skills to students at the University of Hull (today)
+- [Hull-Robotics-Society/hullrs-bot](https://github.com/Hull-Robotics-Society/hullrs-bot) - The HullRS discord bot to automate some tasks within the society discord server. (today)
 - [KieranRobson/awesome-information-science](https://github.com/KieranRobson/awesome-information-science) - ℹ️ A curated list of information science books, tools and resources. (today)
-- [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) - The HullCSS discord bot for automating some tasks within the hullcss discord server (3 days ago)
-- [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) - A multipurpose discord bot with admin, fun and information commands (3 days ago)
+- [KieranRobson/Arr-Bot](https://github.com/KieranRobson/Arr-Bot) - A custom sea of thieves bot that will help with error codes and riddles (today)
+- [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) - A multipurpose discord bot with admin, fun and information commands (today)
+- [CrimsonTome/sysadmin-workshops](https://github.com/CrimsonTome/sysadmin-workshops) - Slides for workshops on teaching sysadmin skills to students at the University of Hull (today)
+- [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) - The HullCSS discord bot for automating some tasks within the hullcss discord server (today)
 - [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (4 days ago)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (5 days ago)
 - [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (1 week ago)
 - [CrimsonTome/bb.crimsontome.com](https://github.com/CrimsonTome/bb.crimsontome.com) - site made with bashblog (1 week ago)
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers (2 weeks ago)
-- [CrimsonTome/hullblogs-feed-bot](https://github.com/CrimsonTome/hullblogs-feed-bot) - Discord.js bot that notifies when a new post appears on hullblogs.com (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -54,6 +54,9 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 🔨 My recent Pull Requests
 
+- [add license info and tldr link](https://github.com/Hull-Robotics-Society/hullrs-bot/pull/7) on [Hull-Robotics-Society/hullrs-bot](https://github.com/Hull-Robotics-Society/hullrs-bot) (today)
+- [add License info with tldr link](https://github.com/KieranRobson/Arr-Bot/pull/10) on [KieranRobson/Arr-Bot](https://github.com/KieranRobson/Arr-Bot) (today)
+- [add license header and tldr link](https://github.com/hullcss/hullcss-discord-bot/pull/19) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (today)
 - [add license heading and tldr legal link](https://github.com/KieranRobson/Clarence-Bot/pull/28) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (today)
 - [add tldr cc0 license](https://github.com/KieranRobson/awesome-information-science/pull/1) on [KieranRobson/awesome-information-science](https://github.com/KieranRobson/awesome-information-science) (1 day ago)
 - [add conduct page](https://github.com/hullcss/hullcss-discord-bot/pull/16) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (3 days ago)
@@ -61,9 +64,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [add code of conduct](https://github.com/KieranRobson/Clarence-Bot/pull/18) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (3 days ago)
 - [add Contributing Guidelines for Clarence](https://github.com/KieranRobson/Clarence-Bot/pull/17) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (3 days ago)
 - [add PR template](https://github.com/FreesideHull/StudentResources/pull/16) on [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) (5 days ago)
-- [Add Aetolos to Control Panels](https://github.com/awesome-foss/awesome-sysadmin/pull/401) on [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) (2 weeks ago)
-- [Add Aetolos to Self-hosting Solutions](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3304) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 weeks ago)
-- [Add Testaustime to time trackers](https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3303) on [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
