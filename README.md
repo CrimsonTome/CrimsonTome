@@ -28,7 +28,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/sysadmin-workshops](https://github.com/CrimsonTome/sysadmin-workshops) - Slides for workshops on teaching sysadmin skills to students at the University of Hull (2 days ago)
+- [CrimsonTome/sysadmin-workshops](https://github.com/CrimsonTome/sysadmin-workshops) - Slides for workshops on teaching sysadmin skills to students at the University of Hull (today)
 - [Hull-Robotics-Society/hullrs-bot](https://github.com/Hull-Robotics-Society/hullrs-bot) - The HullRS discord bot to automate some tasks within the society discord server. (4 days ago)
 - [KieranRobson/awesome-information-science](https://github.com/KieranRobson/awesome-information-science) - ℹ️ A curated list of information science books, tools and resources. (4 days ago)
 - [KieranRobson/Arr-Bot](https://github.com/KieranRobson/Arr-Bot) - A custom sea of thieves bot that will help with error codes and riddles (4 days ago)
@@ -76,6 +76,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [zeGolem/wf](https://github.com/zeGolem/wf) - wf is a UNIX-style utility for running commands on file change (today)
 - [freeipa/ansible-freeipa](https://github.com/freeipa/ansible-freeipa) - Ansible roles and modules for FreeIPA (today)
 - [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of &#34;entry point&#34; for running and integrating AppImages (4 days ago)
 - [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) - Various cspell dictionaries (5 days ago)
@@ -85,7 +86,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper (1 week ago)
 - [Cytoid/Cytoid](https://github.com/Cytoid/Cytoid) - A community-driven touchscreen music game. (1 week ago)
 - [tModLoader/tModLoader](https://github.com/tModLoader/tModLoader) - A mod to make and play Terraria mods. Supports Terraria 1.4 (and earlier) installations  (1 week ago)
-- [radian-software/TerrariaClone](https://github.com/radian-software/TerrariaClone) - 🔥 An incomprehensible hellscape of spaghetti code. (1 week ago)
 
 #### Quote of the day
 
