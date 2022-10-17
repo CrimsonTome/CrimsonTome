@@ -80,6 +80,8 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers. (today)
+- [KevinColemanInc/awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy) - 💡Limiting personal data leaks on the internet (today)
 - [zeGolem/wf](https://github.com/zeGolem/wf) - wf is a UNIX-style utility for running commands on file change (1 day ago)
 - [freeipa/ansible-freeipa](https://github.com/freeipa/ansible-freeipa) - Ansible roles and modules for FreeIPA (1 day ago)
 - [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of &#34;entry point&#34; for running and integrating AppImages (5 days ago)
@@ -88,8 +90,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [eshinn/node-pandoc](https://github.com/eshinn/node-pandoc) - Run Pandoc from NodeJS. Pandoc installation is required. (1 week ago)
 - [standard/awesome-standard](https://github.com/standard/awesome-standard) - Documenting the explosion of packages in the standard ecosystem! (1 week ago)
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper (1 week ago)
-- [Cytoid/Cytoid](https://github.com/Cytoid/Cytoid) - A community-driven touchscreen music game. (1 week ago)
-- [tModLoader/tModLoader](https://github.com/tModLoader/tModLoader) - A mod to make and play Terraria mods. Supports Terraria 1.4 (and earlier) installations  (1 week ago)
 
 #### Quote of the day
 
