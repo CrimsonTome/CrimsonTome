@@ -80,6 +80,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [0xMatt/Dotfiles](https://github.com/0xMatt/Dotfiles) - Setup script and dots for starting off a fedora 29 minimal install (today)
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers. (today)
 - [KevinColemanInc/awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy) - 💡Limiting personal data leaks on the internet (today)
 - [zeGolem/wf](https://github.com/zeGolem/wf) - wf is a UNIX-style utility for running commands on file change (1 day ago)
@@ -89,7 +90,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [KieranRobson/awesome-information-science](https://github.com/KieranRobson/awesome-information-science) - ℹ️ A curated list of information science books, tools and resources. (6 days ago)
 - [eshinn/node-pandoc](https://github.com/eshinn/node-pandoc) - Run Pandoc from NodeJS. Pandoc installation is required. (1 week ago)
 - [standard/awesome-standard](https://github.com/standard/awesome-standard) - Documenting the explosion of packages in the standard ecosystem! (1 week ago)
-- [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper (1 week ago)
 
 #### Quote of the day
 
