@@ -80,16 +80,16 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server) (today)
+- [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node. (today)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2022) (today)
+- [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js (today)
+- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs (today)
+- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS (today)
 - [0xMatt/Dotfiles](https://github.com/0xMatt/Dotfiles) - Setup script and dots for starting off a fedora 29 minimal install (today)
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers. (today)
 - [KevinColemanInc/awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy) - 💡Limiting personal data leaks on the internet (today)
 - [zeGolem/wf](https://github.com/zeGolem/wf) - wf is a UNIX-style utility for running commands on file change (1 day ago)
-- [freeipa/ansible-freeipa](https://github.com/freeipa/ansible-freeipa) - Ansible roles and modules for FreeIPA (1 day ago)
-- [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of &#34;entry point&#34; for running and integrating AppImages (5 days ago)
-- [streetsidesoftware/cspell-dicts](https://github.com/streetsidesoftware/cspell-dicts) - Various cspell dictionaries (6 days ago)
-- [KieranRobson/awesome-information-science](https://github.com/KieranRobson/awesome-information-science) - ℹ️ A curated list of information science books, tools and resources. (6 days ago)
-- [eshinn/node-pandoc](https://github.com/eshinn/node-pandoc) - Run Pandoc from NodeJS. Pandoc installation is required. (1 week ago)
-- [standard/awesome-standard](https://github.com/standard/awesome-standard) - Documenting the explosion of packages in the standard ecosystem! (1 week ago)
 
 #### Quote of the day
 
