@@ -80,6 +80,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (today)
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen (today)
 - [11ty/api-screenshot](https://github.com/11ty/api-screenshot) - A service to add web page screenshots to your Eleventy sites. (today)
 - [catppuccin/palette](https://github.com/catppuccin/palette) - 🎨 Soothing pastel theme to use within your projects! (today)
@@ -89,7 +90,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [gliderlabs/logspout](https://github.com/gliderlabs/logspout) - Log routing for Docker container logs (1 day ago)
 - [jaedle/mirror-to-gitea](https://github.com/jaedle/mirror-to-gitea) - Mirror your github repositories to your gitea server (1 day ago)
 - [arialdomartini/oh-my-git](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh (1 day ago)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (1 day ago)
 
 #### Quote of the day
 
