@@ -80,16 +80,16 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen (today)
+- [11ty/api-screenshot](https://github.com/11ty/api-screenshot) - A service to add web page screenshots to your Eleventy sites. (today)
+- [catppuccin/palette](https://github.com/catppuccin/palette) - 🎨 Soothing pastel theme to use within your projects! (today)
+- [catppuccin/sddm](https://github.com/catppuccin/sddm) -  🔒 Soothing pastel theme for SDDM (today)
+- [catppuccin/tailwindcss](https://github.com/catppuccin/tailwindcss) - 💨 Soothing pastel theme for Tailwind CSS (today)
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface (1 day ago)
 - [gliderlabs/logspout](https://github.com/gliderlabs/logspout) - Log routing for Docker container logs (1 day ago)
 - [jaedle/mirror-to-gitea](https://github.com/jaedle/mirror-to-gitea) - Mirror your github repositories to your gitea server (1 day ago)
 - [arialdomartini/oh-my-git](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh (1 day ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (1 day ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 day ago)
-- [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server) (1 day ago)
-- [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node. (1 day ago)
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2022) (1 day ago)
-- [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js (1 day ago)
 
 #### Quote of the day
 
