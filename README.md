@@ -80,6 +80,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [euronay/deferat](https://github.com/euronay/deferat) - 🖋 Simple blog engine to display markdown posts (today)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (2 days ago)
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen (2 days ago)
 - [11ty/api-screenshot](https://github.com/11ty/api-screenshot) - A service to add web page screenshots to your Eleventy sites. (2 days ago)
@@ -89,7 +90,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface (3 days ago)
 - [gliderlabs/logspout](https://github.com/gliderlabs/logspout) - Log routing for Docker container logs (3 days ago)
 - [jaedle/mirror-to-gitea](https://github.com/jaedle/mirror-to-gitea) - Mirror your github repositories to your gitea server (3 days ago)
-- [arialdomartini/oh-my-git](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh (3 days ago)
 
 #### Quote of the day
 
