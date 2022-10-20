@@ -80,6 +80,8 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [ColombiaPython/social-media-automation](https://github.com/ColombiaPython/social-media-automation) - Selenium Scripts To Post In Facebook, Twitter And Linkedin (today)
+- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. (today)
 - [euronay/deferat](https://github.com/euronay/deferat) - 🖋 Simple blog engine to display markdown posts (today)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (2 days ago)
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen (2 days ago)
@@ -88,8 +90,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [catppuccin/sddm](https://github.com/catppuccin/sddm) -  🔒 Soothing pastel theme for SDDM (2 days ago)
 - [catppuccin/tailwindcss](https://github.com/catppuccin/tailwindcss) - 💨 Soothing pastel theme for Tailwind CSS (2 days ago)
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface (3 days ago)
-- [gliderlabs/logspout](https://github.com/gliderlabs/logspout) - Log routing for Docker container logs (3 days ago)
-- [jaedle/mirror-to-gitea](https://github.com/jaedle/mirror-to-gitea) - Mirror your github repositories to your gitea server (3 days ago)
 
 #### Quote of the day
 
