@@ -80,6 +80,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [gmt2001/ouroboros](https://github.com/gmt2001/ouroboros) - Automatically update running docker containers with newest available image (today)
 - [KieranRobson/Kieranrobson.com](https://github.com/KieranRobson/Kieranrobson.com) - Personal Site (today)
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs (today)
 - [WaterfoxCo/Waterfox](https://github.com/WaterfoxCo/Waterfox) - The official Waterfox 💧 source code repository (1 day ago)
@@ -89,7 +90,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. (1 day ago)
 - [euronay/deferat](https://github.com/euronay/deferat) - 🖋 Simple blog engine to display markdown posts (1 day ago)
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (3 days ago)
-- [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen (3 days ago)
 
 #### Quote of the day
 
