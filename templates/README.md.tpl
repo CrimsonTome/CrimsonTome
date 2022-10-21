@@ -1,6 +1,8 @@
 ### Hi there, I'm CrimsonTome 👋
 
-> Admin at [Freeside](https://freeside.co.uk) and Webmaster for [HullCSS](https://hullcss.org)
+> Admin at [Freeside](https://freeside.co.uk) and Webmaster for [HullCSS](https://hullcss.org)  
+
+A copy of my CV is available [here](https://crimsontome.com/img/cv-10-22.pdf)
 
 ![Discord](https://img.shields.io/badge/Discord-CrimsonTome427%237459-blue)
 
