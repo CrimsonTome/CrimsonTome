@@ -82,6 +82,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [mogery/cohost.js](https://github.com/mogery/cohost.js) - Unofficial API for cohost.org (today)
 - [gmt2001/ouroboros](https://github.com/gmt2001/ouroboros) - Automatically update running docker containers with newest available image (today)
 - [KieranRobson/Kieranrobson.com](https://github.com/KieranRobson/Kieranrobson.com) - Personal Site (today)
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs (today)
@@ -91,7 +92,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [ColombiaPython/social-media-automation](https://github.com/ColombiaPython/social-media-automation) - Selenium Scripts To Post In Facebook, Twitter And Linkedin (1 day ago)
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. (1 day ago)
 - [euronay/deferat](https://github.com/euronay/deferat) - 🖋 Simple blog engine to display markdown posts (1 day ago)
-- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (3 days ago)
 
 #### Quote of the day
 
