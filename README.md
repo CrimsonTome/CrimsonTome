@@ -82,6 +82,8 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [microsoft/TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) - A starter template for TypeScript and React with a detailed README describing how to use the two together. (today)
+- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (today)
 - [mogery/cohost.js](https://github.com/mogery/cohost.js) - Unofficial API for cohost.org (1 day ago)
 - [gmt2001/ouroboros](https://github.com/gmt2001/ouroboros) - Automatically update running docker containers with newest available image (1 day ago)
 - [KieranRobson/Kieranrobson.com](https://github.com/KieranRobson/Kieranrobson.com) - Personal Site (1 day ago)
@@ -90,8 +92,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [mazen160/GithubCloner](https://github.com/mazen160/GithubCloner) - A script that clones Github repositories of users and organizations. (2 days ago)
 - [iia/github-mass-clone](https://github.com/iia/github-mass-clone) - A simple and basic curses based tool for cloning multiple repositories from GitHub. (2 days ago)
 - [ColombiaPython/social-media-automation](https://github.com/ColombiaPython/social-media-automation) - Selenium Scripts To Post In Facebook, Twitter And Linkedin (2 days ago)
-- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. (2 days ago)
-- [euronay/deferat](https://github.com/euronay/deferat) - 🖋 Simple blog engine to display markdown posts (2 days ago)
 
 #### Quote of the day
 
