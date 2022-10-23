@@ -34,11 +34,11 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/migrate](https://github.com/CrimsonTome/migrate) -  (1 day ago)
-- [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) - The HullCSS discord bot for automating some tasks within the hullcss discord server (1 day ago)
-- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (2 days ago)
-- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (3 days ago)
-- [CrimsonTome/sysadmin-workshops](https://github.com/CrimsonTome/sysadmin-workshops) - Slides for workshops on teaching sysadmin skills to students at the University of Hull (6 days ago)
+- [CrimsonTome/migrate](https://github.com/CrimsonTome/migrate) -  (2 days ago)
+- [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) - The HullCSS discord bot for automating some tasks within the hullcss discord server (2 days ago)
+- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (3 days ago)
+- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (4 days ago)
+- [CrimsonTome/sysadmin-workshops](https://github.com/CrimsonTome/sysadmin-workshops) - Slides for workshops on teaching sysadmin skills to students at the University of Hull (1 week ago)
 - [Hull-Robotics-Society/hullrs-bot](https://github.com/Hull-Robotics-Society/hullrs-bot) - The HullRS discord bot to automate some tasks within the society discord server. (1 week ago)
 - [KieranRobson/Arr-Bot](https://github.com/KieranRobson/Arr-Bot) - A custom sea of thieves bot that will help with error codes and riddles (1 week ago)
 - [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) - A multipurpose discord bot with admin, fun and information commands (1 week ago)
@@ -60,16 +60,16 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 🔨 My recent Pull Requests
 
-- [Rename CONDUCT.md to CODE_OF_CONDUCT.md](https://github.com/hullcss/hullcss-discord-bot/pull/26) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (1 day ago)
+- [Rename CONDUCT.md to CODE_OF_CONDUCT.md](https://github.com/hullcss/hullcss-discord-bot/pull/26) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (2 days ago)
 - [add license info and tldr link](https://github.com/Hull-Robotics-Society/hullrs-bot/pull/7) on [Hull-Robotics-Society/hullrs-bot](https://github.com/Hull-Robotics-Society/hullrs-bot) (1 week ago)
 - [add License info with tldr link](https://github.com/KieranRobson/Arr-Bot/pull/10) on [KieranRobson/Arr-Bot](https://github.com/KieranRobson/Arr-Bot) (1 week ago)
 - [add license header and tldr link](https://github.com/hullcss/hullcss-discord-bot/pull/19) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (1 week ago)
 - [add license heading and tldr legal link](https://github.com/KieranRobson/Clarence-Bot/pull/28) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (1 week ago)
 - [add tldr cc0 license](https://github.com/KieranRobson/awesome-information-science/pull/1) on [KieranRobson/awesome-information-science](https://github.com/KieranRobson/awesome-information-science) (1 week ago)
-- [add conduct page](https://github.com/hullcss/hullcss-discord-bot/pull/16) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (1 week ago)
-- [Add contrributing policy for hullcss bot](https://github.com/hullcss/hullcss-discord-bot/pull/15) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (1 week ago)
-- [add code of conduct](https://github.com/KieranRobson/Clarence-Bot/pull/18) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (1 week ago)
-- [add Contributing Guidelines for Clarence](https://github.com/KieranRobson/Clarence-Bot/pull/17) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (1 week ago)
+- [add conduct page](https://github.com/hullcss/hullcss-discord-bot/pull/16) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (2 weeks ago)
+- [Add contrributing policy for hullcss bot](https://github.com/hullcss/hullcss-discord-bot/pull/15) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (2 weeks ago)
+- [add code of conduct](https://github.com/KieranRobson/Clarence-Bot/pull/18) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (2 weeks ago)
+- [add Contributing Guidelines for Clarence](https://github.com/KieranRobson/Clarence-Bot/pull/17) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -82,16 +82,16 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [microsoft/TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) - A starter template for TypeScript and React with a detailed README describing how to use the two together. (today)
-- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (today)
-- [mogery/cohost.js](https://github.com/mogery/cohost.js) - Unofficial API for cohost.org (1 day ago)
-- [gmt2001/ouroboros](https://github.com/gmt2001/ouroboros) - Automatically update running docker containers with newest available image (1 day ago)
-- [KieranRobson/Kieranrobson.com](https://github.com/KieranRobson/Kieranrobson.com) - Personal Site (1 day ago)
-- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs (1 day ago)
-- [WaterfoxCo/Waterfox](https://github.com/WaterfoxCo/Waterfox) - The official Waterfox 💧 source code repository (2 days ago)
-- [mazen160/GithubCloner](https://github.com/mazen160/GithubCloner) - A script that clones Github repositories of users and organizations. (2 days ago)
-- [iia/github-mass-clone](https://github.com/iia/github-mass-clone) - A simple and basic curses based tool for cloning multiple repositories from GitHub. (2 days ago)
-- [ColombiaPython/social-media-automation](https://github.com/ColombiaPython/social-media-automation) - Selenium Scripts To Post In Facebook, Twitter And Linkedin (2 days ago)
+- [microsoft/TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) - A starter template for TypeScript and React with a detailed README describing how to use the two together. (1 day ago)
+- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (1 day ago)
+- [mogery/cohost.js](https://github.com/mogery/cohost.js) - Unofficial API for cohost.org (2 days ago)
+- [gmt2001/ouroboros](https://github.com/gmt2001/ouroboros) - Automatically update running docker containers with newest available image (2 days ago)
+- [KieranRobson/Kieranrobson.com](https://github.com/KieranRobson/Kieranrobson.com) - Personal Site (2 days ago)
+- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs (2 days ago)
+- [WaterfoxCo/Waterfox](https://github.com/WaterfoxCo/Waterfox) - The official Waterfox 💧 source code repository (3 days ago)
+- [mazen160/GithubCloner](https://github.com/mazen160/GithubCloner) - A script that clones Github repositories of users and organizations. (3 days ago)
+- [iia/github-mass-clone](https://github.com/iia/github-mass-clone) - A simple and basic curses based tool for cloning multiple repositories from GitHub. (3 days ago)
+- [ColombiaPython/social-media-automation](https://github.com/ColombiaPython/social-media-automation) - Selenium Scripts To Post In Facebook, Twitter And Linkedin (3 days ago)
 
 #### Quote of the day
 
