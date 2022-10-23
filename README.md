@@ -82,6 +82,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [valknight/Cohost.py](https://github.com/valknight/Cohost.py) - A python library for Cohost.org! (today)
 - [microsoft/TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) - A starter template for TypeScript and React with a detailed README describing how to use the two together. (1 day ago)
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (1 day ago)
 - [mogery/cohost.js](https://github.com/mogery/cohost.js) - Unofficial API for cohost.org (2 days ago)
@@ -91,7 +92,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [WaterfoxCo/Waterfox](https://github.com/WaterfoxCo/Waterfox) - The official Waterfox 💧 source code repository (3 days ago)
 - [mazen160/GithubCloner](https://github.com/mazen160/GithubCloner) - A script that clones Github repositories of users and organizations. (3 days ago)
 - [iia/github-mass-clone](https://github.com/iia/github-mass-clone) - A simple and basic curses based tool for cloning multiple repositories from GitHub. (3 days ago)
-- [ColombiaPython/social-media-automation](https://github.com/ColombiaPython/social-media-automation) - Selenium Scripts To Post In Facebook, Twitter And Linkedin (3 days ago)
 
 #### Quote of the day
 
