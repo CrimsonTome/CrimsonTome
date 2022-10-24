@@ -35,14 +35,14 @@ View my [GitHub Stats](/pages/stats.md)
 #### 👷 Check out what I'm currently working on
 
 - [CrimsonTome/blog-to-cohost](https://github.com/CrimsonTome/blog-to-cohost) - bot using cohost.py and feedparser to automate posting blog posts to cohost (today)
+- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (today)
 - [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) - The HullCSS discord bot for automating some tasks within the hullcss discord server (3 days ago)
 - [CrimsonTome/migrate](https://github.com/CrimsonTome/migrate) -  (3 days ago)
-- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (4 days ago)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (5 days ago)
 - [CrimsonTome/sysadmin-workshops](https://github.com/CrimsonTome/sysadmin-workshops) - Slides for workshops on teaching sysadmin skills to students at the University of Hull (1 week ago)
-- [KieranRobson/Arr-Bot](https://github.com/KieranRobson/Arr-Bot) - A custom sea of thieves bot that will help with error codes and riddles (1 week ago)
 - [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) - A multipurpose discord bot with admin, fun and information commands (1 week ago)
 - [KieranRobson/awesome-information-science](https://github.com/KieranRobson/awesome-information-science) - ℹ️ A curated list of information science books, tools and resources. (1 week ago)
+- [KieranRobson/Arr-Bot](https://github.com/KieranRobson/Arr-Bot) - A custom sea of thieves bot that will help with error codes and riddles (1 week ago)
 - [Hull-Robotics-Society/hullrs-bot](https://github.com/Hull-Robotics-Society/hullrs-bot) - The HullRS discord bot to automate some tasks within the society discord server. (1 week ago)
 
 #### 🌱 My latest projects
@@ -73,11 +73,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 📜 My recent blog posts
 
-- [VPS setup 2, electric boogaloo](https://blog.crimsontome.com/posts/VPS-setup-2-electric-boogaloo/) (1 month ago)
-- [Automating container updates with Ouroboros](https://blog.crimsontome.com/posts/automating-container-updates-with-ouroboros/) (2 months ago)
-- [My current VPS setup](https://blog.crimsontome.com/posts/my-current-vps-setup/) (4 months ago)
-- [Locking sites with Nginx Proxy Manager](https://blog.crimsontome.com/posts/locking-sites-with-nginx-proxy-manager/) (4 months ago)
-- [An introduction to a potential series on Proxmox](https://blog.crimsontome.com/posts/PVE/) (8 months ago)
+- [VPS setup 2, electric boogaloo](https://.crimsontome.com/posts/VPS-setup-2-electric-boogaloo/) (1 month ago)
+- [Automating container updates with Ouroboros](https://.crimsontome.com/posts/automating-container-updates-with-ouroboros/) (2 months ago)
+- [My current VPS setup](https://.crimsontome.com/posts/my-current-vps-setup/) (4 months ago)
+- [Locking sites with Nginx Proxy Manager](https://.crimsontome.com/posts/locking-sites-with-nginx-proxy-manager/) (4 months ago)
+- [An introduction to a potential series on Proxmox](https://.crimsontome.com/posts/PVE/) (8 months ago)
 
 
 #### ⭐ Recent Stars
