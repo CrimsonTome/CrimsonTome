@@ -82,6 +82,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting(on premises &amp; private web servers) and managing software applications by yourself or your organization. (today)
 - [github/codeql](https://github.com/github/codeql) - CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security (1 day ago)
 - [valknight/Cohost.py](https://github.com/valknight/Cohost.py) - A python library for Cohost.org! (2 days ago)
 - [microsoft/TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) - A starter template for TypeScript and React with a detailed README describing how to use the two together. (3 days ago)
@@ -91,7 +92,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [KieranRobson/Kieranrobson.com](https://github.com/KieranRobson/Kieranrobson.com) - Personal Site (4 days ago)
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs (4 days ago)
 - [WaterfoxCo/Waterfox](https://github.com/WaterfoxCo/Waterfox) - The official Waterfox 💧 source code repository (5 days ago)
-- [mazen160/GithubCloner](https://github.com/mazen160/GithubCloner) - A script that clones Github repositories of users and organizations. (5 days ago)
 
 #### Quote of the day
 
