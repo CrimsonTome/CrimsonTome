@@ -82,6 +82,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (today)
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting(on premises &amp; private web servers) and managing software applications by yourself or your organization. (today)
 - [github/codeql](https://github.com/github/codeql) - CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security (1 day ago)
 - [valknight/Cohost.py](https://github.com/valknight/Cohost.py) - A python library for Cohost.org! (2 days ago)
@@ -91,7 +92,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [gmt2001/ouroboros](https://github.com/gmt2001/ouroboros) - Automatically update running docker containers with newest available image (4 days ago)
 - [KieranRobson/Kieranrobson.com](https://github.com/KieranRobson/Kieranrobson.com) - Personal Site (4 days ago)
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs (4 days ago)
-- [WaterfoxCo/Waterfox](https://github.com/WaterfoxCo/Waterfox) - The official Waterfox 💧 source code repository (5 days ago)
 
 #### Quote of the day
 
