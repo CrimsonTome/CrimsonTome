@@ -82,6 +82,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher (today)
 - [Fizzadar/pyinfra-docker](https://github.com/Fizzadar/pyinfra-docker) - Install and configure Docker using pyinfra. (1 day ago)
 - [crystal-linux/jade](https://github.com/crystal-linux/jade) - Jade is the backend and TUI installer for crystal linux. (1 day ago)
 - [crystal-linux/amethyst](https://github.com/crystal-linux/amethyst) - Amethyst is a fast, efficient and lightweight AUR helper and Pacman wrapper. Made for Crystal, compatible with any Arch-based Linux distribution (1 day ago)
@@ -91,7 +92,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements. (2 days ago)
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (2 days ago)
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting(on premises &amp; private web servers) and managing software applications by yourself or your organization. (2 days ago)
-- [github/codeql](https://github.com/github/codeql) - CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security (3 days ago)
 
 #### Quote of the day
 
