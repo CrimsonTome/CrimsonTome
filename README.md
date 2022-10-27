@@ -34,11 +34,11 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [FreesideHull/pyinfra-config](https://github.com/FreesideHull/pyinfra-config) - pyinfra config for using administering Freeside machines (today)
-- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (today)
-- [CrimsonTome/blog-to-cohost](https://github.com/CrimsonTome/blog-to-cohost) - bot using cohost.py and feedparser to automate posting blog posts to cohost (2 days ago)
-- [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) - The HullCSS discord bot for automating some tasks within the hullcss discord server (5 days ago)
-- [CrimsonTome/migrate](https://github.com/CrimsonTome/migrate) -  (5 days ago)
+- [FreesideHull/pyinfra-config](https://github.com/FreesideHull/pyinfra-config) - pyinfra config for using administering Freeside machines (1 day ago)
+- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (1 day ago)
+- [CrimsonTome/blog-to-cohost](https://github.com/CrimsonTome/blog-to-cohost) - bot using cohost.py and feedparser to automate posting blog posts to cohost (3 days ago)
+- [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) - The HullCSS discord bot for automating some tasks within the hullcss discord server (6 days ago)
+- [CrimsonTome/migrate](https://github.com/CrimsonTome/migrate) -  (6 days ago)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (1 week ago)
 - [CrimsonTome/sysadmin-workshops](https://github.com/CrimsonTome/sysadmin-workshops) - Slides for workshops on teaching sysadmin skills to students at the University of Hull (1 week ago)
 - [KieranRobson/Arr-Bot](https://github.com/KieranRobson/Arr-Bot) - A custom sea of thieves bot that will help with error codes and riddles (2 weeks ago)
@@ -60,7 +60,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 🔨 My recent Pull Requests
 
-- [Rename CONDUCT.md to CODE_OF_CONDUCT.md](https://github.com/hullcss/hullcss-discord-bot/pull/26) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (5 days ago)
+- [Rename CONDUCT.md to CODE_OF_CONDUCT.md](https://github.com/hullcss/hullcss-discord-bot/pull/26) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (6 days ago)
 - [add license info and tldr link](https://github.com/Hull-Robotics-Society/hullrs-bot/pull/7) on [Hull-Robotics-Society/hullrs-bot](https://github.com/Hull-Robotics-Society/hullrs-bot) (2 weeks ago)
 - [add License info with tldr link](https://github.com/KieranRobson/Arr-Bot/pull/10) on [KieranRobson/Arr-Bot](https://github.com/KieranRobson/Arr-Bot) (2 weeks ago)
 - [add license header and tldr link](https://github.com/hullcss/hullcss-discord-bot/pull/19) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (2 weeks ago)
@@ -82,16 +82,16 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [Fizzadar/pyinfra-docker](https://github.com/Fizzadar/pyinfra-docker) - Install and configure Docker using pyinfra. (today)
-- [crystal-linux/jade](https://github.com/crystal-linux/jade) - Jade is the backend and TUI installer for crystal linux. (today)
-- [crystal-linux/amethyst](https://github.com/crystal-linux/amethyst) - Amethyst is a fast, efficient and lightweight AUR helper and Pacman wrapper. Made for Crystal, compatible with any Arch-based Linux distribution (today)
-- [Lavender-Discord/Lavender](https://github.com/Lavender-Discord/Lavender) - A highly customizeable and good looking discord theme. (1 day ago)
-- [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator (1 day ago)
-- [citra-emu/citra](https://github.com/citra-emu/citra) - A Nintendo 3DS Emulator (1 day ago)
-- [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements. (1 day ago)
-- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (1 day ago)
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting(on premises &amp; private web servers) and managing software applications by yourself or your organization. (1 day ago)
-- [github/codeql](https://github.com/github/codeql) - CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security (2 days ago)
+- [Fizzadar/pyinfra-docker](https://github.com/Fizzadar/pyinfra-docker) - Install and configure Docker using pyinfra. (1 day ago)
+- [crystal-linux/jade](https://github.com/crystal-linux/jade) - Jade is the backend and TUI installer for crystal linux. (1 day ago)
+- [crystal-linux/amethyst](https://github.com/crystal-linux/amethyst) - Amethyst is a fast, efficient and lightweight AUR helper and Pacman wrapper. Made for Crystal, compatible with any Arch-based Linux distribution (1 day ago)
+- [Lavender-Discord/Lavender](https://github.com/Lavender-Discord/Lavender) - A highly customizeable and good looking discord theme. (2 days ago)
+- [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator (2 days ago)
+- [citra-emu/citra](https://github.com/citra-emu/citra) - A Nintendo 3DS Emulator (2 days ago)
+- [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements. (2 days ago)
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (2 days ago)
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting(on premises &amp; private web servers) and managing software applications by yourself or your organization. (2 days ago)
+- [github/codeql](https://github.com/github/codeql) - CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security (3 days ago)
 
 #### Quote of the day
 
