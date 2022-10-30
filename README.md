@@ -34,14 +34,14 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [FreesideHull/pyinfra-config](https://github.com/FreesideHull/pyinfra-config) - pyinfra config for using administering Freeside machines (today)
-- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (today)
-- [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (today)
-- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (today)
-- [CrimsonTome/blog-to-cohost](https://github.com/CrimsonTome/blog-to-cohost) - bot using cohost.py and feedparser to automate posting blog posts to cohost (5 days ago)
+- [FreesideHull/pyinfra-config](https://github.com/FreesideHull/pyinfra-config) - pyinfra config for using administering Freeside machines (1 day ago)
+- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (1 day ago)
+- [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (1 day ago)
+- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (1 day ago)
+- [CrimsonTome/blog-to-cohost](https://github.com/CrimsonTome/blog-to-cohost) - bot using cohost.py and feedparser to automate posting blog posts to cohost (6 days ago)
 - [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) - The HullCSS discord bot for automating some tasks within the hullcss discord server (1 week ago)
 - [CrimsonTome/migrate](https://github.com/CrimsonTome/migrate) -  (1 week ago)
-- [CrimsonTome/sysadmin-workshops](https://github.com/CrimsonTome/sysadmin-workshops) - Slides for workshops on teaching sysadmin skills to students at the University of Hull (1 week ago)
+- [CrimsonTome/sysadmin-workshops](https://github.com/CrimsonTome/sysadmin-workshops) - Slides for workshops on teaching sysadmin skills to students at the University of Hull (2 weeks ago)
 - [KieranRobson/Arr-Bot](https://github.com/KieranRobson/Arr-Bot) - A custom sea of thieves bot that will help with error codes and riddles (2 weeks ago)
 - [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) - A multipurpose discord bot with admin, fun and information commands (2 weeks ago)
 
@@ -66,10 +66,10 @@ View my [GitHub Stats](/pages/stats.md)
 - [add license header and tldr link](https://github.com/hullcss/hullcss-discord-bot/pull/19) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (2 weeks ago)
 - [add license heading and tldr legal link](https://github.com/KieranRobson/Clarence-Bot/pull/28) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (2 weeks ago)
 - [add tldr cc0 license](https://github.com/KieranRobson/awesome-information-science/pull/1) on [KieranRobson/awesome-information-science](https://github.com/KieranRobson/awesome-information-science) (2 weeks ago)
-- [add conduct page](https://github.com/hullcss/hullcss-discord-bot/pull/16) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (2 weeks ago)
-- [Add contrributing policy for hullcss bot](https://github.com/hullcss/hullcss-discord-bot/pull/15) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (2 weeks ago)
-- [add code of conduct](https://github.com/KieranRobson/Clarence-Bot/pull/18) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (2 weeks ago)
-- [add Contributing Guidelines for Clarence](https://github.com/KieranRobson/Clarence-Bot/pull/17) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (2 weeks ago)
+- [add conduct page](https://github.com/hullcss/hullcss-discord-bot/pull/16) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (3 weeks ago)
+- [Add contrributing policy for hullcss bot](https://github.com/hullcss/hullcss-discord-bot/pull/15) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (3 weeks ago)
+- [add code of conduct](https://github.com/KieranRobson/Clarence-Bot/pull/18) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (3 weeks ago)
+- [add Contributing Guidelines for Clarence](https://github.com/KieranRobson/Clarence-Bot/pull/17) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -82,16 +82,16 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher (2 days ago)
-- [Fizzadar/pyinfra-docker](https://github.com/Fizzadar/pyinfra-docker) - Install and configure Docker using pyinfra. (3 days ago)
-- [crystal-linux/jade](https://github.com/crystal-linux/jade) - Jade is the backend and TUI installer for crystal linux. (3 days ago)
-- [crystal-linux/amethyst](https://github.com/crystal-linux/amethyst) - Amethyst is a fast, efficient and lightweight AUR helper and Pacman wrapper. Made for Crystal, compatible with any Arch-based Linux distribution (3 days ago)
-- [Lavender-Discord/Lavender](https://github.com/Lavender-Discord/Lavender) - A highly customizeable and good looking discord theme. (4 days ago)
-- [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator (4 days ago)
-- [citra-emu/citra](https://github.com/citra-emu/citra) - A Nintendo 3DS Emulator (4 days ago)
-- [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements. (4 days ago)
-- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (4 days ago)
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting(on premises &amp; private web servers) and managing software applications by yourself or your organization. (4 days ago)
+- [catppuccin/rust](https://github.com/catppuccin/rust) - 🦀 Soothing pastel theme for Rust (today)
+- [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher (3 days ago)
+- [Fizzadar/pyinfra-docker](https://github.com/Fizzadar/pyinfra-docker) - Install and configure Docker using pyinfra. (4 days ago)
+- [crystal-linux/jade](https://github.com/crystal-linux/jade) - Jade is the backend and TUI installer for crystal linux. (4 days ago)
+- [crystal-linux/amethyst](https://github.com/crystal-linux/amethyst) - Amethyst is a fast, efficient and lightweight AUR helper and Pacman wrapper. Made for Crystal, compatible with any Arch-based Linux distribution (4 days ago)
+- [Lavender-Discord/Lavender](https://github.com/Lavender-Discord/Lavender) - A highly customizeable and good looking discord theme. (5 days ago)
+- [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator (5 days ago)
+- [citra-emu/citra](https://github.com/citra-emu/citra) - A Nintendo 3DS Emulator (5 days ago)
+- [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements. (5 days ago)
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (5 days ago)
 
 #### Quote of the day
 
