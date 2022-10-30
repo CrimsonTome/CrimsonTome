@@ -82,6 +82,8 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg) - A pure CSS database of user requested backgrounds for @Discord. (today)
+- [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem. (today)
 - [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) - Various tips &amp; tricks (today)
 - [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing (today)
 - [catppuccin/rust](https://github.com/catppuccin/rust) - 🦀 Soothing pastel theme for Rust (today)
@@ -90,8 +92,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [crystal-linux/jade](https://github.com/crystal-linux/jade) - Jade is the backend and TUI installer for crystal linux. (4 days ago)
 - [crystal-linux/amethyst](https://github.com/crystal-linux/amethyst) - Amethyst is a fast, efficient and lightweight AUR helper and Pacman wrapper. Made for Crystal, compatible with any Arch-based Linux distribution (4 days ago)
 - [Lavender-Discord/Lavender](https://github.com/Lavender-Discord/Lavender) - A highly customizeable and good looking discord theme. (5 days ago)
-- [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator (5 days ago)
-- [citra-emu/citra](https://github.com/citra-emu/citra) - A Nintendo 3DS Emulator (5 days ago)
 
 #### Quote of the day
 
