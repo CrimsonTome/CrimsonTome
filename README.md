@@ -82,6 +82,8 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) - Various tips &amp; tricks (today)
+- [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing (today)
 - [catppuccin/rust](https://github.com/catppuccin/rust) - 🦀 Soothing pastel theme for Rust (today)
 - [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher (3 days ago)
 - [Fizzadar/pyinfra-docker](https://github.com/Fizzadar/pyinfra-docker) - Install and configure Docker using pyinfra. (4 days ago)
@@ -90,8 +92,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [Lavender-Discord/Lavender](https://github.com/Lavender-Discord/Lavender) - A highly customizeable and good looking discord theme. (5 days ago)
 - [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator (5 days ago)
 - [citra-emu/citra](https://github.com/citra-emu/citra) - A Nintendo 3DS Emulator (5 days ago)
-- [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements. (5 days ago)
-- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (5 days ago)
 
 #### Quote of the day
 
