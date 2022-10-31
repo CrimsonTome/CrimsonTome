@@ -82,6 +82,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App (today)
 - [woocommerce/automations](https://github.com/woocommerce/automations) - Various GitHub Action automations to assist with repository project management. (today)
 - [Discord-Custom-Covers/usrbg](https://github.com/Discord-Custom-Covers/usrbg) - A pure CSS database of user requested backgrounds for @Discord. (1 day ago)
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem. (1 day ago)
@@ -91,7 +92,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher (4 days ago)
 - [Fizzadar/pyinfra-docker](https://github.com/Fizzadar/pyinfra-docker) - Install and configure Docker using pyinfra. (5 days ago)
 - [crystal-linux/jade](https://github.com/crystal-linux/jade) - Jade is the backend and TUI installer for crystal linux. (5 days ago)
-- [crystal-linux/amethyst](https://github.com/crystal-linux/amethyst) - Amethyst is a fast, efficient and lightweight AUR helper and Pacman wrapper. Made for Crystal, compatible with any Arch-based Linux distribution (5 days ago)
 
 #### Quote of the day
 
