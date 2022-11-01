@@ -82,6 +82,8 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra) - hydra (today)
+- [hackerschoice/gsocket](https://github.com/hackerschoice/gsocket) - Connect like there is no firewall. Securely. (today)
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning &amp; syncing, Pandoc conversion, &#43; more, in a single portable script. (1 day ago)
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App (1 day ago)
 - [woocommerce/automations](https://github.com/woocommerce/automations) - Various GitHub Action automations to assist with repository project management. (1 day ago)
@@ -90,8 +92,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) - Various tips &amp; tricks (2 days ago)
 - [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing (2 days ago)
 - [catppuccin/rust](https://github.com/catppuccin/rust) - 🦀 Soothing pastel theme for Rust (2 days ago)
-- [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher (5 days ago)
-- [Fizzadar/pyinfra-docker](https://github.com/Fizzadar/pyinfra-docker) - Install and configure Docker using pyinfra. (6 days ago)
 
 #### Quote of the day
 
