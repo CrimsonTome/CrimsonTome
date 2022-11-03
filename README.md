@@ -53,11 +53,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [Aliucord/AliucordManager](https://github.com/Aliucord/AliucordManager) - Aliucord Manager - Aliucord Installer rewrite in Kotlin and Jetpack Compose (today)
 - [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨ (today)
 - [tpope/vim-pathogen](https://github.com/tpope/vim-pathogen) - pathogen.vim: manage your runtimepath (today)
 - [witch-house/pronoun.is](https://github.com/witch-house/pronoun.is) - Show people how to use pronouns! (today)
 - [MadeBaruna/paimon-moe](https://github.com/MadeBaruna/paimon-moe) - Your best Genshin Impact companion! Help you plan what to farm with ascension calculator and database. Also track your progress with todo and wish counter. (1 day ago)
-- [vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra) - hydra (2 days ago)
 
 #### Quote of the day
 
