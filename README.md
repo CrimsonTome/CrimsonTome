@@ -27,10 +27,10 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (5 days ago)
+- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (today)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (6 days ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (1 week ago)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (1 week ago)
-- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (1 week ago)
 - [FreesideHull/pyinfra-config](https://github.com/FreesideHull/pyinfra-config) - pyinfra config for using administering Freeside machines (1 week ago)
 
 
@@ -48,16 +48,16 @@ View my [GitHub Stats](/pages/stats.md)
 - [Automating container updates with Ouroboros](https://crimsontome.com/posts/automating-container-updates-with-ouroboros/) (2 months ago)
 - [My current VPS setup](https://crimsontome.com/posts/my-current-vps-setup/) (5 months ago)
 - [Locking sites with Nginx Proxy Manager](https://crimsontome.com/posts/locking-sites-with-nginx-proxy-manager/) (5 months ago)
-- [An introduction to a potential series on Proxmox](https://crimsontome.com/posts/PVE/) (8 months ago)
+- [An introduction to a potential series on Proxmox](https://crimsontome.com/posts/PVE/) (9 months ago)
 
 
 #### ⭐ Recent Stars
 
-- [binji/binjgb](https://github.com/binji/binjgb) - Gameboy emulator implemented in C, that also runs in the browser (1 day ago)
-- [binji/pokegb](https://github.com/binji/pokegb) - A gameboy emulator that only plays Pokemon Blue, in ~50 lines of c&#43;&#43;. (1 day ago)
-- [binji/smolnes](https://github.com/binji/smolnes) - NES emulator in &lt;5000 bytes of C&#43;&#43; (1 day ago)
-- [catppuccin/prismlauncher](https://github.com/catppuccin/prismlauncher) - 🧱 Soothing pastel theme for Prism Launcher (2 days ago)
-- [Aliucord/AliucordManager](https://github.com/Aliucord/AliucordManager) - Aliucord Manager - Aliucord Installer rewrite in Kotlin and Jetpack Compose (3 days ago)
+- [binji/binjgb](https://github.com/binji/binjgb) - Gameboy emulator implemented in C, that also runs in the browser (2 days ago)
+- [binji/pokegb](https://github.com/binji/pokegb) - A gameboy emulator that only plays Pokemon Blue, in ~50 lines of c&#43;&#43;. (2 days ago)
+- [binji/smolnes](https://github.com/binji/smolnes) - NES emulator in &lt;5000 bytes of C&#43;&#43; (2 days ago)
+- [catppuccin/prismlauncher](https://github.com/catppuccin/prismlauncher) - 🧱 Soothing pastel theme for Prism Launcher (3 days ago)
+- [Aliucord/AliucordManager](https://github.com/Aliucord/AliucordManager) - Aliucord Manager - Aliucord Installer rewrite in Kotlin and Jetpack Compose (4 days ago)
 
 #### Quote of the day
 
