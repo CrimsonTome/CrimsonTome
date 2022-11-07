@@ -53,11 +53,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [jnmcfly/awesome-startpage](https://github.com/jnmcfly/awesome-startpage) - This is a carefully compiled list of remarkable projects with the focus on startpages. (today)
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community (today)
 - [binji/binjgb](https://github.com/binji/binjgb) - Gameboy emulator implemented in C, that also runs in the browser (2 days ago)
 - [binji/pokegb](https://github.com/binji/pokegb) - A gameboy emulator that only plays Pokemon Blue, in ~50 lines of c&#43;&#43;. (2 days ago)
 - [binji/smolnes](https://github.com/binji/smolnes) - NES emulator in &lt;5000 bytes of C&#43;&#43; (2 days ago)
-- [catppuccin/prismlauncher](https://github.com/catppuccin/prismlauncher) - 🧱 Soothing pastel theme for Prism Launcher (3 days ago)
 
 #### Quote of the day
 
