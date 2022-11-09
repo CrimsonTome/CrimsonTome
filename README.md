@@ -4,9 +4,11 @@
 
 A copy of my CV is available [here](https://crimsontome.com/img/cv-10-22.pdf)
 
-![Discord](https://img.shields.io/badge/Discord-CrimsonTome427%237459-blue)
-
-![Email](https://img.shields.io/badge/Email-crimsontome427%40protonmail.com-blueviolet)
+<p>
+<a href="https://discord.com/users/449573875743981569"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+<a href="https://crimsontome.com"><img src="https://custom-icon-badges.demolab.com/badge/Website-4c4c51?style=for-the-badge&logo=link&logoColor=white">
+<a href="mailto:crimsontome427@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
+</p>
 
 [![@crimsontome's Holopin board](https://holopin.me/crimsontome)](https://holopin.io/@crimsontome)
 
@@ -53,11 +55,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [maehr/academic-pandoc-template](https://github.com/maehr/academic-pandoc-template) - Write beautifully typeset academic texts with distraction-free Markdown and Pandoc. (today)
 - [jnmcfly/awesome-startpage](https://github.com/jnmcfly/awesome-startpage) - This is a carefully compiled list of remarkable projects with the focus on startpages. (2 days ago)
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community (2 days ago)
 - [binji/binjgb](https://github.com/binji/binjgb) - Gameboy emulator implemented in C, that also runs in the browser (4 days ago)
 - [binji/pokegb](https://github.com/binji/pokegb) - A gameboy emulator that only plays Pokemon Blue, in ~50 lines of c&#43;&#43;. (4 days ago)
-- [binji/smolnes](https://github.com/binji/smolnes) - NES emulator in &lt;5000 bytes of C&#43;&#43; (4 days ago)
 
 #### Quote of the day
 
