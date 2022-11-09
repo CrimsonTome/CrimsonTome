@@ -8,6 +8,7 @@ A copy of my CV is available [here](https://crimsontome.com/img/cv-10-22.pdf)
 <a href="https://discord.com/users/449573875743981569"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 <a href="https://crimsontome.com"><img src="https://custom-icon-badges.demolab.com/badge/Website-4c4c51?style=for-the-badge&logo=link&logoColor=white">
 <a href="mailto:crimsontome427@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
+<a href="https://www.linkedin.com/in/matt-clark-aa776b1b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </p>
 
 [![@crimsontome's Holopin board](https://holopin.me/crimsontome)](https://holopin.io/@crimsontome)
