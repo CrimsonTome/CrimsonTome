@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs (today)
+- [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications. (today)
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more (today)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services. (2 days ago)
 - [campus-experts/awesome-campus-expert](https://github.com/campus-experts/awesome-campus-expert) - 🕶 An awesome list of resources for campus experts! 🕶 (3 days ago)
-- [solusipse/fiche](https://github.com/solusipse/fiche) - Command line pastebin for sharing terminal output. (4 days ago)
-- [kitabisa/teler](https://github.com/kitabisa/teler) - Real-time HTTP Intrusion Detection (4 days ago)
 
 #### Quote of the day
 
