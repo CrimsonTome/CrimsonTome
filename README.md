@@ -30,11 +30,11 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [FreesideHull/pyinfra-config](https://github.com/FreesideHull/pyinfra-config) - pyinfra config for using administering Freeside machines (today)
-- [CrimsonTome/asp.net-testing](https://github.com/CrimsonTome/asp.net-testing) - asp.net-testing (1 day ago)
+- [FreesideHull/pyinfra-config](https://github.com/FreesideHull/pyinfra-config) - pyinfra config for using administering Freeside machines (1 day ago)
+- [CrimsonTome/asp.net-testing](https://github.com/CrimsonTome/asp.net-testing) - asp.net-testing (2 days ago)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (1 week ago)
 - [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (1 week ago)
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 week ago)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (2 weeks ago)
 
 
 #### 🔨 My recent Pull Requests
@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services. (1 day ago)
-- [campus-experts/awesome-campus-expert](https://github.com/campus-experts/awesome-campus-expert) - 🕶 An awesome list of resources for campus experts! 🕶 (2 days ago)
-- [solusipse/fiche](https://github.com/solusipse/fiche) - Command line pastebin for sharing terminal output. (3 days ago)
-- [kitabisa/teler](https://github.com/kitabisa/teler) - Real-time HTTP Intrusion Detection (3 days ago)
-- [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒ (3 days ago)
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services. (2 days ago)
+- [campus-experts/awesome-campus-expert](https://github.com/campus-experts/awesome-campus-expert) - 🕶 An awesome list of resources for campus experts! 🕶 (3 days ago)
+- [solusipse/fiche](https://github.com/solusipse/fiche) - Command line pastebin for sharing terminal output. (4 days ago)
+- [kitabisa/teler](https://github.com/kitabisa/teler) - Real-time HTTP Intrusion Detection (4 days ago)
+- [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒ (4 days ago)
 
 #### Quote of the day
 
