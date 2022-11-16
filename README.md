@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [campus-experts/becoming-an-expert](https://github.com/campus-experts/becoming-an-expert) - Learn to build technical communities on your campus 🚩 (today)
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs (1 day ago)
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications. (1 day ago)
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more (1 day ago)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services. (3 days ago)
-- [campus-experts/awesome-campus-expert](https://github.com/campus-experts/awesome-campus-expert) - 🕶 An awesome list of resources for campus experts! 🕶 (4 days ago)
 
 #### Quote of the day
 
