@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [tsoding/olive.c](https://github.com/tsoding/olive.c) - Simple 2D Graphics Library for C (today)
 - [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web. (1 day ago)
 - [campus-experts/becoming-an-expert](https://github.com/campus-experts/becoming-an-expert) - Learn to build technical communities on your campus 🚩 (4 days ago)
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs (5 days ago)
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications. (5 days ago)
-- [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more (5 days ago)
 
 #### Quote of the day
 
