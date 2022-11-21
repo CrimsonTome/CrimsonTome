@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [fcambus/ansiweather](https://github.com/fcambus/ansiweather) - Weather in terminal, with ANSI colors and Unicode symbols (today)
-- [i3/i3](https://github.com/i3/i3) - A tiling window manager (today)
-- [greshake/i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust (today)
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal (today)
-- [Kharacternyk/viter](https://github.com/Kharacternyk/viter) - A Vim-ish terminal emulator written and expandable in Python. (today)
+- [l3ib/nitrogen](https://github.com/l3ib/nitrogen) - Background browser and setter for X windows. (today)
+- [LazoCoder/Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon terminal themes. (today)
+- [magicmonty/bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users (today)
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell (today)
+- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line (today)
 
 #### Quote of the day
 
