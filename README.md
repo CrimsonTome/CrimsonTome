@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager (today)
+- [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux (today)
+- [conformal/spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11. (today)
 - [tsoding/olive.c](https://github.com/tsoding/olive.c) - Simple 2D Graphics Library for C (1 day ago)
 - [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web. (2 days ago)
-- [campus-experts/becoming-an-expert](https://github.com/campus-experts/becoming-an-expert) - Learn to build technical communities on your campus 🚩 (5 days ago)
-- [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs (6 days ago)
-- [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications. (6 days ago)
 
 #### Quote of the day
 
