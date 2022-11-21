@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager (today)
-- [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux (today)
-- [conformal/spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11. (today)
-- [tsoding/olive.c](https://github.com/tsoding/olive.c) - Simple 2D Graphics Library for C (1 day ago)
-- [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web. (2 days ago)
+- [fcambus/ansiweather](https://github.com/fcambus/ansiweather) - Weather in terminal, with ANSI colors and Unicode symbols (today)
+- [i3/i3](https://github.com/i3/i3) - A tiling window manager (today)
+- [greshake/i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust (today)
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal (today)
+- [Kharacternyk/viter](https://github.com/Kharacternyk/viter) - A Vim-ish terminal emulator written and expandable in Python. (today)
 
 #### Quote of the day
 
