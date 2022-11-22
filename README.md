@@ -30,11 +30,11 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (today)
 - [CrimsonTome/migrate](https://github.com/CrimsonTome/migrate) -  (today)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (3 days ago)
 - [FreesideHull/pyinfra-config](https://github.com/FreesideHull/pyinfra-config) - pyinfra config for using administering Freeside machines (4 days ago)
 - [CrimsonTome/asp.net-testing](https://github.com/CrimsonTome/asp.net-testing) - asp.net-testing (1 week ago)
-- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (2 weeks ago)
 
 
 #### 🔨 My recent Pull Requests
