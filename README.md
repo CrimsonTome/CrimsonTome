@@ -30,10 +30,10 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (today)
 - [CrimsonTome/migrate](https://github.com/CrimsonTome/migrate) -  (today)
-- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (3 days ago)
-- [FreesideHull/pyinfra-config](https://github.com/FreesideHull/pyinfra-config) - pyinfra config for using administering Freeside machines (4 days ago)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (today)
+- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (4 days ago)
+- [FreesideHull/pyinfra-config](https://github.com/FreesideHull/pyinfra-config) - pyinfra config for using administering Freeside machines (5 days ago)
 - [CrimsonTome/asp.net-testing](https://github.com/CrimsonTome/asp.net-testing) - asp.net-testing (1 week ago)
 
 
@@ -48,7 +48,7 @@ View my [GitHub Stats](/pages/stats.md)
 #### 📜 My recent blog posts
 
 - [VPS setup 2, electric boogaloo](https://crimsontome.com/posts/VPS-setup-2-electric-boogaloo/) (2 months ago)
-- [Automating container updates with Ouroboros](https://crimsontome.com/posts/automating-container-updates-with-ouroboros/) (2 months ago)
+- [Automating container updates with Ouroboros](https://crimsontome.com/posts/automating-container-updates-with-ouroboros/) (3 months ago)
 - [My current VPS setup](https://crimsontome.com/posts/my-current-vps-setup/) (5 months ago)
 - [Locking sites with Nginx Proxy Manager](https://crimsontome.com/posts/locking-sites-with-nginx-proxy-manager/) (5 months ago)
 - [An introduction to a potential series on Proxmox](https://crimsontome.com/posts/PVE/) (9 months ago)
@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [l3ib/nitrogen](https://github.com/l3ib/nitrogen) - Background browser and setter for X windows. (1 day ago)
-- [LazoCoder/Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon terminal themes. (1 day ago)
-- [magicmonty/bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users (1 day ago)
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell (1 day ago)
-- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line (1 day ago)
+- [CrimsonTome/migrate](https://github.com/CrimsonTome/migrate) -  (1 day ago)
+- [l3ib/nitrogen](https://github.com/l3ib/nitrogen) - Background browser and setter for X windows. (2 days ago)
+- [LazoCoder/Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon terminal themes. (2 days ago)
+- [magicmonty/bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users (2 days ago)
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell (2 days ago)
 
 #### Quote of the day
 
