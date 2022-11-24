@@ -30,10 +30,10 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/migrate](https://github.com/CrimsonTome/migrate) -  (today)
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (today)
-- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (4 days ago)
-- [FreesideHull/pyinfra-config](https://github.com/FreesideHull/pyinfra-config) - pyinfra config for using administering Freeside machines (5 days ago)
+- [CrimsonTome/migrate](https://github.com/CrimsonTome/migrate) -  (1 day ago)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 day ago)
+- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (5 days ago)
+- [FreesideHull/pyinfra-config](https://github.com/FreesideHull/pyinfra-config) - pyinfra config for using administering Freeside machines (6 days ago)
 - [CrimsonTome/asp.net-testing](https://github.com/CrimsonTome/asp.net-testing) - asp.net-testing (1 week ago)
 
 
@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [CrimsonTome/migrate](https://github.com/CrimsonTome/migrate) -  (1 day ago)
-- [l3ib/nitrogen](https://github.com/l3ib/nitrogen) - Background browser and setter for X windows. (2 days ago)
-- [LazoCoder/Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon terminal themes. (2 days ago)
-- [magicmonty/bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users (2 days ago)
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell (2 days ago)
+- [CrimsonTome/migrate](https://github.com/CrimsonTome/migrate) -  (2 days ago)
+- [l3ib/nitrogen](https://github.com/l3ib/nitrogen) - Background browser and setter for X windows. (3 days ago)
+- [LazoCoder/Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon terminal themes. (3 days ago)
+- [magicmonty/bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users (3 days ago)
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell (3 days ago)
 
 #### Quote of the day
 
