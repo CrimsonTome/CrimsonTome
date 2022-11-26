@@ -30,9 +30,9 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/migrate](https://github.com/CrimsonTome/migrate) -  (2 days ago)
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (2 days ago)
-- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (6 days ago)
+- [CrimsonTome/migrate](https://github.com/CrimsonTome/migrate) -  (3 days ago)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (3 days ago)
+- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (1 week ago)
 - [FreesideHull/pyinfra-config](https://github.com/FreesideHull/pyinfra-config) - pyinfra config for using administering Freeside machines (1 week ago)
 - [CrimsonTome/asp.net-testing](https://github.com/CrimsonTome/asp.net-testing) - asp.net-testing (1 week ago)
 
@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [CrimsonTome/migrate](https://github.com/CrimsonTome/migrate) -  (3 days ago)
-- [l3ib/nitrogen](https://github.com/l3ib/nitrogen) - Background browser and setter for X windows. (4 days ago)
-- [LazoCoder/Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon terminal themes. (4 days ago)
-- [magicmonty/bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users (4 days ago)
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell (4 days ago)
+- [CrimsonTome/migrate](https://github.com/CrimsonTome/migrate) -  (4 days ago)
+- [l3ib/nitrogen](https://github.com/l3ib/nitrogen) - Background browser and setter for X windows. (5 days ago)
+- [LazoCoder/Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon terminal themes. (5 days ago)
+- [magicmonty/bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users (5 days ago)
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell (5 days ago)
 
 #### Quote of the day
 
