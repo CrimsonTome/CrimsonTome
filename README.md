@@ -30,11 +30,11 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
+- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (today)
 - [CrimsonTome/migrate](https://github.com/CrimsonTome/migrate) -  (4 days ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (4 days ago)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (1 week ago)
 - [FreesideHull/pyinfra-config](https://github.com/FreesideHull/pyinfra-config) - pyinfra config for using administering Freeside machines (1 week ago)
-- [CrimsonTome/asp.net-testing](https://github.com/CrimsonTome/asp.net-testing) - asp.net-testing (2 weeks ago)
 
 
 #### 🔨 My recent Pull Requests
@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [tenacityteam/saucedacity](https://github.com/tenacityteam/saucedacity) - A free open-source audio editor based on Audacity focusing on general improvements. Will be the new future codebase of Tenacity starting with 1.3 (today)
 - [OrkoHunter/keep](https://github.com/OrkoHunter/keep) - A Meta CLI toolkit : Personal shell command keeper and snippets manager (today)
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (today)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify alternative. (1 day ago)
 - [rmoriz/openra-dockerfile](https://github.com/rmoriz/openra-dockerfile) - Dockerfile for OpenRA dedicated server (1 day ago)
-- [CrimsonTome/migrate](https://github.com/CrimsonTome/migrate) -  (5 days ago)
 
 #### Quote of the day
 
