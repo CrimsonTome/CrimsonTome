@@ -57,7 +57,7 @@ View my [GitHub Stats](/pages/stats.md)
 #### ⭐ Recent Stars
 
 - [dlenski/gp-saml-gui](https://github.com/dlenski/gp-saml-gui) - Interactively authenticate to GlobalProtect VPNs that require SAML (today)
-- [tenacityteam/saucedacity](https://github.com/tenacityteam/saucedacity) - A free open-source audio editor based on Audacity focusing on general improvements. Will be the new future codebase of Tenacity starting with 1.3 (today)
+- [tenacityteam/saucedacity](https://github.com/tenacityteam/saucedacity) - THIS REPO IS NOT MAINTAINED ANYMORE. Please see https://codeberg.org/tenacityteam/tenacity for Tenacity, which is maintained. (today)
 - [OrkoHunter/keep](https://github.com/OrkoHunter/keep) - A Meta CLI toolkit : Personal shell command keeper and snippets manager (today)
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (today)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify alternative. (1 day ago)
