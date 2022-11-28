@@ -30,9 +30,9 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (today)
-- [CrimsonTome/migrate](https://github.com/CrimsonTome/migrate) -  (today)
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (today)
+- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (1 day ago)
+- [CrimsonTome/migrate](https://github.com/CrimsonTome/migrate) -  (1 day ago)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 day ago)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (1 week ago)
 - [FreesideHull/pyinfra-config](https://github.com/FreesideHull/pyinfra-config) - pyinfra config for using administering Freeside machines (1 week ago)
 
@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [dlenski/gp-saml-gui](https://github.com/dlenski/gp-saml-gui) - Interactively authenticate to GlobalProtect VPNs that require SAML (today)
-- [tenacityteam/saucedacity](https://github.com/tenacityteam/saucedacity) - THIS REPO IS NOT MAINTAINED ANYMORE. Please see https://codeberg.org/tenacityteam/tenacity for Tenacity, which is maintained. (today)
-- [OrkoHunter/keep](https://github.com/OrkoHunter/keep) - A Meta CLI toolkit : Personal shell command keeper and snippets manager (today)
-- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (today)
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify alternative. (1 day ago)
+- [dlenski/gp-saml-gui](https://github.com/dlenski/gp-saml-gui) - Interactively authenticate to GlobalProtect VPNs that require SAML (1 day ago)
+- [tenacityteam/saucedacity](https://github.com/tenacityteam/saucedacity) - THIS REPO IS NOT MAINTAINED ANYMORE. Please see https://codeberg.org/tenacityteam/tenacity for Tenacity, which is maintained. (1 day ago)
+- [OrkoHunter/keep](https://github.com/OrkoHunter/keep) - A Meta CLI toolkit : Personal shell command keeper and snippets manager (1 day ago)
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (1 day ago)
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify alternative. (2 days ago)
 
 #### Quote of the day
 
