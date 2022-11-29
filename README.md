@@ -30,9 +30,9 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (today)
-- [CrimsonTome/migrate](https://github.com/CrimsonTome/migrate) -  (1 day ago)
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 day ago)
+- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (1 day ago)
+- [CrimsonTome/migrate](https://github.com/CrimsonTome/migrate) -  (2 days ago)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (2 days ago)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (1 week ago)
 - [FreesideHull/pyinfra-config](https://github.com/FreesideHull/pyinfra-config) - pyinfra config for using administering Freeside machines (1 week ago)
 
@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - Json.NET is a popular high-performance JSON framework for .NET (today)
-- [dlenski/gp-saml-gui](https://github.com/dlenski/gp-saml-gui) - Interactively authenticate to GlobalProtect VPNs that require SAML (1 day ago)
-- [tenacityteam/saucedacity](https://github.com/tenacityteam/saucedacity) - THIS REPO IS NOT MAINTAINED ANYMORE. Please see https://codeberg.org/tenacityteam/tenacity for Tenacity, which is maintained. (1 day ago)
-- [OrkoHunter/keep](https://github.com/OrkoHunter/keep) - A Meta CLI toolkit : Personal shell command keeper and snippets manager (1 day ago)
-- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (1 day ago)
+- [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments. (1 day ago)
+- [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - Json.NET is a popular high-performance JSON framework for .NET (1 day ago)
+- [dlenski/gp-saml-gui](https://github.com/dlenski/gp-saml-gui) - Interactively authenticate to GlobalProtect VPNs that require SAML (2 days ago)
+- [tenacityteam/saucedacity](https://github.com/tenacityteam/saucedacity) - THIS REPO IS NOT MAINTAINED ANYMORE. Please see https://codeberg.org/tenacityteam/tenacity for Tenacity, which is maintained. (2 days ago)
+- [OrkoHunter/keep](https://github.com/OrkoHunter/keep) - A Meta CLI toolkit : Personal shell command keeper and snippets manager (2 days ago)
 
 #### Quote of the day
 
