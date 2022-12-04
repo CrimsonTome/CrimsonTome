@@ -30,11 +30,11 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/AdventOfCode](https://github.com/CrimsonTome/AdventOfCode) - Solutions for AoC events (2 days ago)
-- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (2 days ago)
-- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (5 days ago)
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (6 days ago)
-- [CrimsonTome/migrate](https://github.com/CrimsonTome/migrate) -  (6 days ago)
+- [CrimsonTome/AdventOfCode](https://github.com/CrimsonTome/AdventOfCode) - Solutions for AoC events (3 days ago)
+- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (3 days ago)
+- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (6 days ago)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 week ago)
+- [CrimsonTome/migrate](https://github.com/CrimsonTome/migrate) -  (1 week ago)
 
 
 #### 🔨 My recent Pull Requests
@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [AnnieTalvasto/presentations](https://github.com/AnnieTalvasto/presentations) - Materials &amp; links from sessions. (today)
-- [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator (1 day ago)
-- [Bismuth-Forge/bismuth](https://github.com/Bismuth-Forge/bismuth) - KDE Plasma add-on, that tiles your windows automatically and lets you manage them via keyboard, similarly to i3, Sway or dwm. (2 days ago)
-- [MariaDB/server](https://github.com/MariaDB/server) - MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry. (2 days ago)
-- [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) - A collection of awesome resources related to the yearly Advent of Code challenge. (2 days ago)
+- [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft! (today)
+- [erohtar/Dasherr](https://github.com/erohtar/Dasherr) - A minimal and lightweight dashboard for your self-hosted services (and bookmarks) (today)
+- [AnnieTalvasto/presentations](https://github.com/AnnieTalvasto/presentations) - Materials &amp; links from sessions. (1 day ago)
+- [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator (2 days ago)
+- [Bismuth-Forge/bismuth](https://github.com/Bismuth-Forge/bismuth) - KDE Plasma add-on, that tiles your windows automatically and lets you manage them via keyboard, similarly to i3, Sway or dwm. (3 days ago)
 
 #### Quote of the day
 
