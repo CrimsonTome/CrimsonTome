@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) - Collection of decent Community-made GRUB themes. Contributions welcome! (today)
 - [100daysofdevops/100daysofdevops](https://github.com/100daysofdevops/100daysofdevops) -  (today)
 - [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft! (1 day ago)
 - [erohtar/Dasherr](https://github.com/erohtar/Dasherr) - A minimal and lightweight dashboard for your self-hosted services (and bookmarks) (1 day ago)
 - [AnnieTalvasto/presentations](https://github.com/AnnieTalvasto/presentations) - Materials &amp; links from sessions. (2 days ago)
-- [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator (3 days ago)
 
 #### Quote of the day
 
