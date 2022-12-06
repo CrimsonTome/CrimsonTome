@@ -30,8 +30,8 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/AdventOfCode](https://github.com/CrimsonTome/AdventOfCode) - Solutions for AoC events (4 days ago)
-- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (4 days ago)
+- [CrimsonTome/AdventOfCode](https://github.com/CrimsonTome/AdventOfCode) - Solutions for AoC events (5 days ago)
+- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (5 days ago)
 - [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (1 week ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 week ago)
 - [CrimsonTome/migrate](https://github.com/CrimsonTome/migrate) -  (1 week ago)
@@ -49,18 +49,18 @@ View my [GitHub Stats](/pages/stats.md)
 
 - [VPS setup 2, electric boogaloo](https://crimsontome.com/posts/VPS-setup-2-electric-boogaloo/) (3 months ago)
 - [Automating container updates with Ouroboros](https://crimsontome.com/posts/automating-container-updates-with-ouroboros/) (3 months ago)
-- [My current VPS setup](https://crimsontome.com/posts/my-current-vps-setup/) (5 months ago)
-- [Locking sites with Nginx Proxy Manager](https://crimsontome.com/posts/locking-sites-with-nginx-proxy-manager/) (5 months ago)
+- [My current VPS setup](https://crimsontome.com/posts/my-current-vps-setup/) (6 months ago)
+- [Locking sites with Nginx Proxy Manager](https://crimsontome.com/posts/locking-sites-with-nginx-proxy-manager/) (6 months ago)
 - [An introduction to a potential series on Proxmox](https://crimsontome.com/posts/PVE/) (9 months ago)
 
 
 #### ⭐ Recent Stars
 
-- [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) - Collection of decent Community-made GRUB themes. Contributions welcome! (today)
-- [100daysofdevops/100daysofdevops](https://github.com/100daysofdevops/100daysofdevops) -  (today)
-- [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft! (1 day ago)
-- [erohtar/Dasherr](https://github.com/erohtar/Dasherr) - A minimal and lightweight dashboard for your self-hosted services (and bookmarks) (1 day ago)
-- [AnnieTalvasto/presentations](https://github.com/AnnieTalvasto/presentations) - Materials &amp; links from sessions. (2 days ago)
+- [CrazyRobMiles/CSharpYellowBookCode](https://github.com/CrazyRobMiles/CSharpYellowBookCode) - Sample code for the C# Yellow Book (1 day ago)
+- [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) - Collection of decent Community-made GRUB themes. Contributions welcome! (1 day ago)
+- [100daysofdevops/100daysofdevops](https://github.com/100daysofdevops/100daysofdevops) -  (1 day ago)
+- [Lxtharia/minegrub-theme](https://github.com/Lxtharia/minegrub-theme) - A Grub Theme in the style of Minecraft! (2 days ago)
+- [erohtar/Dasherr](https://github.com/erohtar/Dasherr) - A minimal and lightweight dashboard for your self-hosted services (and bookmarks) (2 days ago)
 
 #### Quote of the day
 
