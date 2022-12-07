@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes) - A hugh collection (80&#43;) of plymouth themes ported from android bootanimations (today)
+- [vinceliuice/grub2-themes](https://github.com/vinceliuice/grub2-themes) - Modern Design theme for Grub2 (today)
 - [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞ (today)
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features (today)
 - [CrazyRobMiles/CSharpYellowBookCode](https://github.com/CrazyRobMiles/CSharpYellowBookCode) - Sample code for the C# Yellow Book (2 days ago)
-- [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) - Collection of decent Community-made GRUB themes. Contributions welcome! (2 days ago)
-- [100daysofdevops/100daysofdevops](https://github.com/100daysofdevops/100daysofdevops) -  (2 days ago)
 
 #### Quote of the day
 
