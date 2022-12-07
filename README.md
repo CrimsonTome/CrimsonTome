@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [willianpaixao/awesome-german](https://github.com/willianpaixao/awesome-german) - A great source of information to learn and practice German as a foreign language. :de: (today)
+- [melling/LanguageLearning](https://github.com/melling/LanguageLearning) - Resources to learn a new language: French, German, Italian, Mandarin, Russian, Spanish, etc (today)
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (today)
 - [Nyr/wireguard-install](https://github.com/Nyr/wireguard-install) - WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora (today)
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux (today)
-- [archcraft-os/archcraft](https://github.com/archcraft-os/archcraft) - // Source : ISO (today)
-- [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux (today)
 
 #### Quote of the day
 
