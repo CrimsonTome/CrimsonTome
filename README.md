@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor (today)
 - [SAP/openui5](https://github.com/SAP/openui5) - OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice. (today)
 - [haveachin/infrared](https://github.com/haveachin/infrared) - An ultra lightweight minecraft reverse proxy and idle placeholder (today)
 - [itzg/mc-router](https://github.com/itzg/mc-router) - Routes Minecraft client connections to backend servers based upon the requested server address (today)
 - [willianpaixao/awesome-german](https://github.com/willianpaixao/awesome-german) - A great source of information to learn and practice German as a foreign language. :de: (1 day ago)
-- [melling/LanguageLearning](https://github.com/melling/LanguageLearning) - Resources to learn a new language: French, German, Italian, Mandarin, Russian, Spanish, etc (1 day ago)
 
 #### Quote of the day
 
