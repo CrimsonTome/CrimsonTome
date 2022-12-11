@@ -30,20 +30,20 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (4 days ago)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (5 days ago)
 - [CrimsonTome/AdventOfCode](https://github.com/CrimsonTome/AdventOfCode) - Solutions for AoC events (1 week ago)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (1 week ago)
 - [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (1 week ago)
-- [CrimsonTome/migrate](https://github.com/CrimsonTome/migrate) -  (1 week ago)
+- [CrimsonTome/migrate](https://github.com/CrimsonTome/migrate) -  (2 weeks ago)
 
 
 #### 🔨 My recent Pull Requests
 
 - [Rename CONDUCT.md to CODE_OF_CONDUCT.md](https://github.com/hullcss/hullcss-discord-bot/pull/26) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (1 month ago)
-- [add license info and tldr link](https://github.com/Hull-Robotics-Society/hullrs-bot/pull/7) on [Hull-Robotics-Society/hullrs-bot](https://github.com/Hull-Robotics-Society/hullrs-bot) (1 month ago)
-- [add License info with tldr link](https://github.com/KieranRobson/Arr-Bot/pull/10) on [KieranRobson/Arr-Bot](https://github.com/KieranRobson/Arr-Bot) (1 month ago)
-- [add license header and tldr link](https://github.com/hullcss/hullcss-discord-bot/pull/19) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (1 month ago)
-- [add license heading and tldr legal link](https://github.com/KieranRobson/Clarence-Bot/pull/28) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (1 month ago)
+- [add license info and tldr link](https://github.com/Hull-Robotics-Society/hullrs-bot/pull/7) on [Hull-Robotics-Society/hullrs-bot](https://github.com/Hull-Robotics-Society/hullrs-bot) (2 months ago)
+- [add License info with tldr link](https://github.com/KieranRobson/Arr-Bot/pull/10) on [KieranRobson/Arr-Bot](https://github.com/KieranRobson/Arr-Bot) (2 months ago)
+- [add license header and tldr link](https://github.com/hullcss/hullcss-discord-bot/pull/19) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (2 months ago)
+- [add license heading and tldr legal link](https://github.com/KieranRobson/Clarence-Bot/pull/28) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (2 months ago)
 
 #### 📜 My recent blog posts
 
@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [vzamora/Proxmox-Cheatsheet](https://github.com/vzamora/Proxmox-Cheatsheet) - This is a compilation of notes I&#39;ve gathered while setting up my own Proxmox server at home. (1 day ago)
-- [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor (2 days ago)
-- [SAP/openui5](https://github.com/SAP/openui5) - OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice. (2 days ago)
-- [haveachin/infrared](https://github.com/haveachin/infrared) - An ultra lightweight minecraft reverse proxy and idle placeholder (2 days ago)
-- [itzg/mc-router](https://github.com/itzg/mc-router) - Routes Minecraft client connections to backend servers based upon the requested server address (2 days ago)
+- [vzamora/Proxmox-Cheatsheet](https://github.com/vzamora/Proxmox-Cheatsheet) - This is a compilation of notes I&#39;ve gathered while setting up my own Proxmox server at home. (2 days ago)
+- [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor (3 days ago)
+- [SAP/openui5](https://github.com/SAP/openui5) - OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice. (3 days ago)
+- [haveachin/infrared](https://github.com/haveachin/infrared) - An ultra lightweight minecraft reverse proxy and idle placeholder (3 days ago)
+- [itzg/mc-router](https://github.com/itzg/mc-router) - Routes Minecraft client connections to backend servers based upon the requested server address (3 days ago)
 
 #### Quote of the day
 
