@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [touhidurrr/UncivServer.xyz](https://github.com/touhidurrr/UncivServer.xyz) - An Open Source Unciv Multiplayer server, written in TypeScript. Powered by Node.js, fastify and Redis. (today)
 - [vzamora/Proxmox-Cheatsheet](https://github.com/vzamora/Proxmox-Cheatsheet) - This is a compilation of notes I&#39;ve gathered while setting up my own Proxmox server at home. (2 days ago)
 - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor (3 days ago)
 - [SAP/openui5](https://github.com/SAP/openui5) - OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice. (3 days ago)
 - [haveachin/infrared](https://github.com/haveachin/infrared) - An ultra lightweight minecraft reverse proxy and idle placeholder (3 days ago)
-- [itzg/mc-router](https://github.com/itzg/mc-router) - Routes Minecraft client connections to backend servers based upon the requested server address (3 days ago)
 
 #### Quote of the day
 
