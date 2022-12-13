@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications. (today)
+- [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud (today)
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (today)
 - [avleen/bashttpd](https://github.com/avleen/bashttpd) - A web server written in bash (today)
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository (2 days ago)
-- [touhidurrr/UncivServer.xyz](https://github.com/touhidurrr/UncivServer.xyz) - An Open Source Unciv Multiplayer server, written in TypeScript. Powered by Node.js, fastify and Redis. (2 days ago)
-- [vzamora/Proxmox-Cheatsheet](https://github.com/vzamora/Proxmox-Cheatsheet) - This is a compilation of notes I&#39;ve gathered while setting up my own Proxmox server at home. (4 days ago)
-- [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor (5 days ago)
 
 #### Quote of the day
 
