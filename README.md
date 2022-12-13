@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [avleen/bashttpd](https://github.com/avleen/bashttpd) - A web server written in bash (today)
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository (2 days ago)
 - [touhidurrr/UncivServer.xyz](https://github.com/touhidurrr/UncivServer.xyz) - An Open Source Unciv Multiplayer server, written in TypeScript. Powered by Node.js, fastify and Redis. (2 days ago)
 - [vzamora/Proxmox-Cheatsheet](https://github.com/vzamora/Proxmox-Cheatsheet) - This is a compilation of notes I&#39;ve gathered while setting up my own Proxmox server at home. (4 days ago)
 - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor (5 days ago)
-- [SAP/openui5](https://github.com/SAP/openui5) - OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice. (5 days ago)
 
 #### Quote of the day
 
