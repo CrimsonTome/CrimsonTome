@@ -30,7 +30,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (6 days ago)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 week ago)
 - [CrimsonTome/AdventOfCode](https://github.com/CrimsonTome/AdventOfCode) - Solutions for AoC events (1 week ago)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (1 week ago)
 - [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (2 weeks ago)
@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [vim/vim](https://github.com/vim/vim) - The official Vim repository (1 day ago)
-- [touhidurrr/UncivServer.xyz](https://github.com/touhidurrr/UncivServer.xyz) - An Open Source Unciv Multiplayer server, written in TypeScript. Powered by Node.js, fastify and Redis. (1 day ago)
-- [vzamora/Proxmox-Cheatsheet](https://github.com/vzamora/Proxmox-Cheatsheet) - This is a compilation of notes I&#39;ve gathered while setting up my own Proxmox server at home. (3 days ago)
-- [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor (4 days ago)
-- [SAP/openui5](https://github.com/SAP/openui5) - OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice. (4 days ago)
+- [vim/vim](https://github.com/vim/vim) - The official Vim repository (2 days ago)
+- [touhidurrr/UncivServer.xyz](https://github.com/touhidurrr/UncivServer.xyz) - An Open Source Unciv Multiplayer server, written in TypeScript. Powered by Node.js, fastify and Redis. (2 days ago)
+- [vzamora/Proxmox-Cheatsheet](https://github.com/vzamora/Proxmox-Cheatsheet) - This is a compilation of notes I&#39;ve gathered while setting up my own Proxmox server at home. (4 days ago)
+- [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor (5 days ago)
+- [SAP/openui5](https://github.com/SAP/openui5) - OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice. (5 days ago)
 
 #### Quote of the day
 
