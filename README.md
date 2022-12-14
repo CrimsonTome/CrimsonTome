@@ -30,7 +30,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/flask-testing](https://github.com/CrimsonTome/flask-testing) - flask-testing (today)
+- [CrimsonTome/flask-testing](https://github.com/CrimsonTome/flask-testing) - flask-testing (1 day ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 week ago)
 - [CrimsonTome/AdventOfCode](https://github.com/CrimsonTome/AdventOfCode) - Solutions for AoC events (1 week ago)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (1 week ago)
@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite &amp; Vue powered static site generator. (today)
-- [realpython/discover-flask](https://github.com/realpython/discover-flask) - Full Stack Web Development with Flask. (today)
-- [adhocore/docker-lemp](https://github.com/adhocore/docker-lemp) - A single container LEMP complete fullstack with latest release of PHP7.4.33, 8.0.26 &amp; 8.1.13/8.2RC and MySQL, nginx, PostgreSQL, phalcon, swoole, mailcatcher, beanstalkd, elasticsearch, memcached, redis, adminer and all you ever need; on top alpine3.15 (today)
-- [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications. (today)
-- [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud (today)
+- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite &amp; Vue powered static site generator. (1 day ago)
+- [realpython/discover-flask](https://github.com/realpython/discover-flask) - Full Stack Web Development with Flask. (1 day ago)
+- [adhocore/docker-lemp](https://github.com/adhocore/docker-lemp) - A single container LEMP complete fullstack with latest release of PHP7.4.33, 8.0.26 &amp; 8.1.13/8.2RC and MySQL, nginx, PostgreSQL, phalcon, swoole, mailcatcher, beanstalkd, elasticsearch, memcached, redis, adminer and all you ever need; on top alpine3.15 (1 day ago)
+- [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications. (1 day ago)
+- [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud (1 day ago)
 
 #### Quote of the day
 
