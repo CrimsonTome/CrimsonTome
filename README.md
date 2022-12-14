@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [FireEmblemUniverse/fireemblem8u](https://github.com/FireEmblemUniverse/fireemblem8u) - Decompilation/disassembly of Fire Emblem: The Sacred Stones (today)
+- [FEBuilderGBA/FEBuilderGBA](https://github.com/FEBuilderGBA/FEBuilderGBA) -  (today)
+- [Robosturm/Commander_Wars](https://github.com/Robosturm/Commander_Wars) - The aim of this project is to create an Advance Wars Clone with a lot of additions customizations and modding support. For Contact Inforamtion see the wiki page. Take a view on the game. (today)
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite &amp; Vue powered static site generator. (1 day ago)
 - [realpython/discover-flask](https://github.com/realpython/discover-flask) - Full Stack Web Development with Flask. (1 day ago)
-- [adhocore/docker-lemp](https://github.com/adhocore/docker-lemp) - A single container LEMP complete fullstack with latest release of PHP7.4.33, 8.0.26 &amp; 8.1.13/8.2RC and MySQL, nginx, PostgreSQL, phalcon, swoole, mailcatcher, beanstalkd, elasticsearch, memcached, redis, adminer and all you ever need; on top alpine3.15 (1 day ago)
-- [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications. (1 day ago)
-- [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud (1 day ago)
 
 #### Quote of the day
 
