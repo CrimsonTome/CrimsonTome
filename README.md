@@ -30,7 +30,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/flask-testing](https://github.com/CrimsonTome/flask-testing) - flask-testing (2 days ago)
+- [CrimsonTome/flask-testing](https://github.com/CrimsonTome/flask-testing) - flask-testing (3 days ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 week ago)
 - [CrimsonTome/AdventOfCode](https://github.com/CrimsonTome/AdventOfCode) - Solutions for AoC events (2 weeks ago)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (2 weeks ago)
@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [betaveros/noulith](https://github.com/betaveros/noulith) - *slaps roof of [programming language]* this bad boy can fit so much [syntax sugar] into it (1 day ago)
-- [FireEmblemUniverse/fireemblem8u](https://github.com/FireEmblemUniverse/fireemblem8u) - Decompilation/disassembly of Fire Emblem: The Sacred Stones (1 day ago)
-- [FEBuilderGBA/FEBuilderGBA](https://github.com/FEBuilderGBA/FEBuilderGBA) -  (1 day ago)
-- [Robosturm/Commander_Wars](https://github.com/Robosturm/Commander_Wars) - The aim of this project is to create an Advance Wars Clone with a lot of additions customizations and modding support. For Contact Inforamtion see the wiki page. Take a view on the game. (1 day ago)
-- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite &amp; Vue powered static site generator. (2 days ago)
+- [betaveros/noulith](https://github.com/betaveros/noulith) - *slaps roof of [programming language]* this bad boy can fit so much [syntax sugar] into it (2 days ago)
+- [FireEmblemUniverse/fireemblem8u](https://github.com/FireEmblemUniverse/fireemblem8u) - Decompilation/disassembly of Fire Emblem: The Sacred Stones (2 days ago)
+- [FEBuilderGBA/FEBuilderGBA](https://github.com/FEBuilderGBA/FEBuilderGBA) -  (2 days ago)
+- [Robosturm/Commander_Wars](https://github.com/Robosturm/Commander_Wars) - The aim of this project is to create an Advance Wars Clone with a lot of additions customizations and modding support. For Contact Inforamtion see the wiki page. Take a view on the game. (2 days ago)
+- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite &amp; Vue powered static site generator. (3 days ago)
 
 #### Quote of the day
 
