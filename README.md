@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [collabnix/docker-community-extensions](https://github.com/collabnix/docker-community-extensions) - A Curated List of Docker Extensions (today)
+- [aolofsson/awesome-hardware-tools](https://github.com/aolofsson/awesome-hardware-tools) - List of awesome open source hardware tools (today)
 - [betaveros/noulith](https://github.com/betaveros/noulith) - *slaps roof of [programming language]* this bad boy can fit so much [syntax sugar] into it (2 days ago)
 - [FireEmblemUniverse/fireemblem8u](https://github.com/FireEmblemUniverse/fireemblem8u) - Decompilation/disassembly of Fire Emblem: The Sacred Stones (2 days ago)
 - [FEBuilderGBA/FEBuilderGBA](https://github.com/FEBuilderGBA/FEBuilderGBA) -  (2 days ago)
-- [Robosturm/Commander_Wars](https://github.com/Robosturm/Commander_Wars) - The aim of this project is to create an Advance Wars Clone with a lot of additions customizations and modding support. For Contact Inforamtion see the wiki page. Take a view on the game. (2 days ago)
-- [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite &amp; Vue powered static site generator. (3 days ago)
 
 #### Quote of the day
 
