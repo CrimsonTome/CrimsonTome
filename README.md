@@ -30,7 +30,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/flask-testing](https://github.com/CrimsonTome/flask-testing) - flask-testing (3 days ago)
+- [CrimsonTome/flask-testing](https://github.com/CrimsonTome/flask-testing) - flask-testing (4 days ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 week ago)
 - [CrimsonTome/AdventOfCode](https://github.com/CrimsonTome/AdventOfCode) - Solutions for AoC events (2 weeks ago)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (2 weeks ago)
@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [collabnix/docker-community-extensions](https://github.com/collabnix/docker-community-extensions) - A Curated List of Docker Extensions (today)
-- [aolofsson/awesome-hardware-tools](https://github.com/aolofsson/awesome-hardware-tools) - List of awesome open source hardware tools (today)
-- [betaveros/noulith](https://github.com/betaveros/noulith) - *slaps roof of [programming language]* this bad boy can fit so much [syntax sugar] into it (2 days ago)
-- [FireEmblemUniverse/fireemblem8u](https://github.com/FireEmblemUniverse/fireemblem8u) - Decompilation/disassembly of Fire Emblem: The Sacred Stones (2 days ago)
-- [FEBuilderGBA/FEBuilderGBA](https://github.com/FEBuilderGBA/FEBuilderGBA) -  (2 days ago)
+- [collabnix/docker-community-extensions](https://github.com/collabnix/docker-community-extensions) - A Curated List of Docker Extensions (1 day ago)
+- [aolofsson/awesome-hardware-tools](https://github.com/aolofsson/awesome-hardware-tools) - List of awesome open source hardware tools (1 day ago)
+- [betaveros/noulith](https://github.com/betaveros/noulith) - *slaps roof of [programming language]* this bad boy can fit so much [syntax sugar] into it (3 days ago)
+- [FireEmblemUniverse/fireemblem8u](https://github.com/FireEmblemUniverse/fireemblem8u) - Decompilation/disassembly of Fire Emblem: The Sacred Stones (3 days ago)
+- [FEBuilderGBA/FEBuilderGBA](https://github.com/FEBuilderGBA/FEBuilderGBA) -  (3 days ago)
 
 #### Quote of the day
 
