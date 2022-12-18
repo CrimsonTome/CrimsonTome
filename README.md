@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension and CLI tool for saving a faithful copy of an entire web page in a single HTML file (today)
+- [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform! (today)
 - [ubccr/mokey](https://github.com/ubccr/mokey) - FreeIPA self-service account management portal (today)
 - [freeipa/freeipa-container](https://github.com/freeipa/freeipa-container) - FreeIPA server in containers — images at https://quay.io/repository/freeipa/freeipa-server?tab=tags or https://hub.docker.com/r/freeipa/freeipa-server/tags (today)
 - [miguelgrinberg/Flask-HTTPAuth](https://github.com/miguelgrinberg/Flask-HTTPAuth) - Simple extension that provides Basic, Digest and Token HTTP authentication for Flask routes (today)
-- [pyeve/eve](https://github.com/pyeve/eve) - REST API framework designed for human beings (today)
-- [spec-first/connexion](https://github.com/spec-first/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation &amp; OAuth2 support (today)
 
 #### Quote of the day
 
