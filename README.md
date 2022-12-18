@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [realpython/flask-boilerplate](https://github.com/realpython/flask-boilerplate) - Boilerplate template for a Python Flask application with Flask-SQLAlchemy, Flask-WTF, Fabric, Coverage, and Bootstrap (1 day ago)
-- [collabnix/docker-community-extensions](https://github.com/collabnix/docker-community-extensions) - A Curated List of Docker Extensions (2 days ago)
-- [aolofsson/awesome-hardware-tools](https://github.com/aolofsson/awesome-hardware-tools) - List of awesome open source hardware tools (2 days ago)
-- [betaveros/noulith](https://github.com/betaveros/noulith) - *slaps roof of [programming language]* this bad boy can fit so much [syntax sugar] into it (4 days ago)
-- [FireEmblemUniverse/fireemblem8u](https://github.com/FireEmblemUniverse/fireemblem8u) - Decompilation/disassembly of Fire Emblem: The Sacred Stones (4 days ago)
+- [miguelgrinberg/Flask-HTTPAuth](https://github.com/miguelgrinberg/Flask-HTTPAuth) - Simple extension that provides Basic, Digest and Token HTTP authentication for Flask routes (today)
+- [pyeve/eve](https://github.com/pyeve/eve) - REST API framework designed for human beings (today)
+- [spec-first/connexion](https://github.com/spec-first/connexion) - Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation &amp; OAuth2 support (today)
+- [flask-admin/flask-admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask (today)
+- [humiaozuzu/awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins (today)
 
 #### Quote of the day
 
