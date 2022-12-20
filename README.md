@@ -30,8 +30,8 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/flask-testing](https://github.com/CrimsonTome/flask-testing) - flask-testing (6 days ago)
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 week ago)
+- [CrimsonTome/flask-testing](https://github.com/CrimsonTome/flask-testing) - flask-testing (1 week ago)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (2 weeks ago)
 - [CrimsonTome/AdventOfCode](https://github.com/CrimsonTome/AdventOfCode) - Solutions for AoC events (2 weeks ago)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (2 weeks ago)
 - [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (3 weeks ago)
@@ -39,7 +39,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 🔨 My recent Pull Requests
 
-- [Rename CONDUCT.md to CODE_OF_CONDUCT.md](https://github.com/hullcss/hullcss-discord-bot/pull/26) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (1 month ago)
+- [Rename CONDUCT.md to CODE_OF_CONDUCT.md](https://github.com/hullcss/hullcss-discord-bot/pull/26) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (2 months ago)
 - [add license info and tldr link](https://github.com/Hull-Robotics-Society/hullrs-bot/pull/7) on [Hull-Robotics-Society/hullrs-bot](https://github.com/Hull-Robotics-Society/hullrs-bot) (2 months ago)
 - [add License info with tldr link](https://github.com/KieranRobson/Arr-Bot/pull/10) on [KieranRobson/Arr-Bot](https://github.com/KieranRobson/Arr-Bot) (2 months ago)
 - [add license header and tldr link](https://github.com/hullcss/hullcss-discord-bot/pull/19) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (2 months ago)
@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families (today)
-- [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a toolkit for conversational AI (today)
-- [proxmoxer/proxmoxer](https://github.com/proxmoxer/proxmoxer) - python wrapper for Proxmox API v2 (https://pve.proxmox.com/pve-docs/api-viewer/index.html) (today)
-- [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer! (today)
-- [auri/auri](https://github.com/auri/auri) - Self-service account creation and credential reset for FreeIPA (today)
+- [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families (1 day ago)
+- [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a toolkit for conversational AI (1 day ago)
+- [proxmoxer/proxmoxer](https://github.com/proxmoxer/proxmoxer) - python wrapper for Proxmox API v2 (https://pve.proxmox.com/pve-docs/api-viewer/index.html) (1 day ago)
+- [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer! (1 day ago)
+- [auri/auri](https://github.com/auri/auri) - Self-service account creation and credential reset for FreeIPA (1 day ago)
 
 #### Quote of the day
 
