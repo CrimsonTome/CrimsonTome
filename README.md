@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique (today)
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families (2 days ago)
 - [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a toolkit for conversational AI (2 days ago)
 - [proxmoxer/proxmoxer](https://github.com/proxmoxer/proxmoxer) - python wrapper for Proxmox API v2 (https://pve.proxmox.com/pve-docs/api-viewer/index.html) (2 days ago)
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer! (2 days ago)
-- [auri/auri](https://github.com/auri/auri) - Self-service account creation and credential reset for FreeIPA (2 days ago)
 
 #### Quote of the day
 
