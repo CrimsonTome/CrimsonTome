@@ -48,7 +48,7 @@ View my [GitHub Stats](/pages/stats.md)
 #### 📜 My recent blog posts
 
 - [VPS setup 2, electric boogaloo](https://crimsontome.com/posts/VPS-setup-2-electric-boogaloo/) (3 months ago)
-- [Automating container updates with Ouroboros](https://crimsontome.com/posts/automating-container-updates-with-ouroboros/) (3 months ago)
+- [Automating container updates with Ouroboros](https://crimsontome.com/posts/automating-container-updates-with-ouroboros/) (4 months ago)
 - [My current VPS setup](https://crimsontome.com/posts/my-current-vps-setup/) (6 months ago)
 - [Locking sites with Nginx Proxy Manager](https://crimsontome.com/posts/locking-sites-with-nginx-proxy-manager/) (6 months ago)
 - [An introduction to a potential series on Proxmox](https://crimsontome.com/posts/PVE/) (10 months ago)
@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [ostreedev/ostree](https://github.com/ostreedev/ostree) - Operating system and container binary deployment and upgrades (today)
-- [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images. (today)
-- [iamsoorena/goinside](https://github.com/iamsoorena/goinside) - 🐠 Command line tool that helps going inside docker containers 🐠 (today)
-- [gliderlabs/docker-consul](https://github.com/gliderlabs/docker-consul) - Dockerized Consul (today)
-- [moby/swarmkit](https://github.com/moby/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more. (today)
+- [ostreedev/ostree](https://github.com/ostreedev/ostree) - Operating system and container binary deployment and upgrades (1 day ago)
+- [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images. (1 day ago)
+- [iamsoorena/goinside](https://github.com/iamsoorena/goinside) - 🐠 Command line tool that helps going inside docker containers 🐠 (1 day ago)
+- [gliderlabs/docker-consul](https://github.com/gliderlabs/docker-consul) - Dockerized Consul (1 day ago)
+- [moby/swarmkit](https://github.com/moby/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more. (1 day ago)
 
 #### Quote of the day
 
