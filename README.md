@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [blogc/blogc](https://github.com/blogc/blogc) - A blog compiler. (today)
+- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python. (today)
 - [ostreedev/ostree](https://github.com/ostreedev/ostree) - Operating system and container binary deployment and upgrades (1 day ago)
 - [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images. (1 day ago)
 - [iamsoorena/goinside](https://github.com/iamsoorena/goinside) - 🐠 Command line tool that helps going inside docker containers 🐠 (1 day ago)
-- [gliderlabs/docker-consul](https://github.com/gliderlabs/docker-consul) - Dockerized Consul (1 day ago)
-- [moby/swarmkit](https://github.com/moby/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more. (1 day ago)
 
 #### Quote of the day
 
