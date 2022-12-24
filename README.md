@@ -30,10 +30,10 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
+- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (today)
 - [CrimsonTome/flask-testing](https://github.com/CrimsonTome/flask-testing) - flask-testing (1 week ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (2 weeks ago)
 - [CrimsonTome/AdventOfCode](https://github.com/CrimsonTome/AdventOfCode) - Solutions for AoC events (3 weeks ago)
-- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (3 weeks ago)
 - [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (3 weeks ago)
 
 
