@@ -17,7 +17,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 🤹🏻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=git,docker,vim,bash,cs,css,github,githubactions,linux,py,md,vscode,raspberrypi,latex&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,vim,bash,cs,html,css,github,githubactions,linux,py,md,vscode,raspberrypi,latex&perline=5)](https://skillicons.dev)
 
 #### 🛠 My stack
 
@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [catppuccin/spicetify](https://github.com/catppuccin/spicetify) - 🎧 Soothing pastel theme for Spotify (today)
 - [nordnet/python-freeipa-json](https://github.com/nordnet/python-freeipa-json) - Tiny/basic module for communicating with the FreeIPA API without having to install the entire FreeIPA toolchain (1 day ago)
 - [blogc/blogc](https://github.com/blogc/blogc) - A blog compiler. (1 day ago)
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python. (1 day ago)
 - [ostreedev/ostree](https://github.com/ostreedev/ostree) - Operating system and container binary deployment and upgrades (2 days ago)
-- [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images. (2 days ago)
 
 #### Quote of the day
 
