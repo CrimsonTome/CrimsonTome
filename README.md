@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [nordnet/python-freeipa-json](https://github.com/nordnet/python-freeipa-json) - Tiny/basic module for communicating with the FreeIPA API without having to install the entire FreeIPA toolchain (today)
-- [blogc/blogc](https://github.com/blogc/blogc) - A blog compiler. (today)
-- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python. (today)
-- [ostreedev/ostree](https://github.com/ostreedev/ostree) - Operating system and container binary deployment and upgrades (1 day ago)
-- [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images. (1 day ago)
+- [nordnet/python-freeipa-json](https://github.com/nordnet/python-freeipa-json) - Tiny/basic module for communicating with the FreeIPA API without having to install the entire FreeIPA toolchain (1 day ago)
+- [blogc/blogc](https://github.com/blogc/blogc) - A blog compiler. (1 day ago)
+- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python. (1 day ago)
+- [ostreedev/ostree](https://github.com/ostreedev/ostree) - Operating system and container binary deployment and upgrades (2 days ago)
+- [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images. (2 days ago)
 
 #### Quote of the day
 
