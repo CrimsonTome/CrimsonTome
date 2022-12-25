@@ -30,8 +30,8 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (today)
-- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (today)
+- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (1 day ago)
+- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (1 day ago)
 - [CrimsonTome/flask-testing](https://github.com/CrimsonTome/flask-testing) - flask-testing (1 week ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (2 weeks ago)
 - [CrimsonTome/AdventOfCode](https://github.com/CrimsonTome/AdventOfCode) - Solutions for AoC events (3 weeks ago)
@@ -47,7 +47,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 📜 My recent blog posts
 
-- [A (short) end of year update](https://crimsontome.com/posts/a-quick-update/) (today)
+- [A (short) end of year update](https://crimsontome.com/posts/a-quick-update/) (1 day ago)
 - [VPS setup 2, electric boogaloo](https://crimsontome.com/posts/VPS-setup-2-electric-boogaloo/) (3 months ago)
 - [Automating container updates with Ouroboros](https://crimsontome.com/posts/automating-container-updates-with-ouroboros/) (4 months ago)
 - [My current VPS setup](https://crimsontome.com/posts/my-current-vps-setup/) (6 months ago)
@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [catppuccin/spicetify](https://github.com/catppuccin/spicetify) - 🎧 Soothing pastel theme for Spotify (today)
-- [nordnet/python-freeipa-json](https://github.com/nordnet/python-freeipa-json) - Tiny/basic module for communicating with the FreeIPA API without having to install the entire FreeIPA toolchain (1 day ago)
-- [blogc/blogc](https://github.com/blogc/blogc) - A blog compiler. (1 day ago)
-- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python. (1 day ago)
-- [ostreedev/ostree](https://github.com/ostreedev/ostree) - Operating system and container binary deployment and upgrades (2 days ago)
+- [catppuccin/spicetify](https://github.com/catppuccin/spicetify) - 🎧 Soothing pastel theme for Spotify (1 day ago)
+- [nordnet/python-freeipa-json](https://github.com/nordnet/python-freeipa-json) - Tiny/basic module for communicating with the FreeIPA API without having to install the entire FreeIPA toolchain (2 days ago)
+- [blogc/blogc](https://github.com/blogc/blogc) - A blog compiler. (2 days ago)
+- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python. (2 days ago)
+- [ostreedev/ostree](https://github.com/ostreedev/ostree) - Operating system and container binary deployment and upgrades (3 days ago)
 
 #### Quote of the day
 
