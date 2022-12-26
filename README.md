@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [nate-sys/muc](https://github.com/nate-sys/muc) - See your most used commands (today)
 - [catppuccin/spicetify](https://github.com/catppuccin/spicetify) - 🎧 Soothing pastel theme for Spotify (2 days ago)
 - [nordnet/python-freeipa-json](https://github.com/nordnet/python-freeipa-json) - Tiny/basic module for communicating with the FreeIPA API without having to install the entire FreeIPA toolchain (3 days ago)
 - [blogc/blogc](https://github.com/blogc/blogc) - A blog compiler. (3 days ago)
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python. (3 days ago)
-- [ostreedev/ostree](https://github.com/ostreedev/ostree) - Operating system and container binary deployment and upgrades (4 days ago)
 
 #### Quote of the day
 
