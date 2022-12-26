@@ -56,7 +56,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [nate-sys/muc](https://github.com/nate-sys/muc) - See your most used commands (today)
+- [nate-sys/muc](https://github.com/nate-sys/muc) - Visualize your most used commands (today)
 - [catppuccin/spicetify](https://github.com/catppuccin/spicetify) - 🎧 Soothing pastel theme for Spotify (2 days ago)
 - [nordnet/python-freeipa-json](https://github.com/nordnet/python-freeipa-json) - Tiny/basic module for communicating with the FreeIPA API without having to install the entire FreeIPA toolchain (3 days ago)
 - [blogc/blogc](https://github.com/blogc/blogc) - A blog compiler. (3 days ago)
