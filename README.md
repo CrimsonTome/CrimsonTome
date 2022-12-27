@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [AntonyLeons/Ward](https://github.com/AntonyLeons/Ward) - Server dashboard (today)
 - [nate-sys/muc](https://github.com/nate-sys/muc) - Visualize your most used commands (1 day ago)
 - [catppuccin/spicetify](https://github.com/catppuccin/spicetify) - 🎧 Soothing pastel theme for Spotify (3 days ago)
 - [nordnet/python-freeipa-json](https://github.com/nordnet/python-freeipa-json) - Tiny/basic module for communicating with the FreeIPA API without having to install the entire FreeIPA toolchain (4 days ago)
 - [blogc/blogc](https://github.com/blogc/blogc) - A blog compiler. (4 days ago)
-- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python. (4 days ago)
 
 #### Quote of the day
 
