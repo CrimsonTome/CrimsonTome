@@ -47,7 +47,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 📜 My recent blog posts
 
-- [Self host your password manager!](https://crimsontome.com/posts/password-managers/) (6 days ago)
+- [Self host your password manager!](https://crimsontome.com/posts/password-managers/) (today)
 - [A (short) end of year update](https://crimsontome.com/posts/a-quick-update/) (1 week ago)
 - [VPS setup 2, electric boogaloo](https://crimsontome.com/posts/VPS-setup-2-electric-boogaloo/) (3 months ago)
 - [Automating container updates with Ouroboros](https://crimsontome.com/posts/automating-container-updates-with-ouroboros/) (4 months ago)
