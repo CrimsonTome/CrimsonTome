@@ -30,7 +30,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (5 days ago)
+- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (6 days ago)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (1 week ago)
 - [CrimsonTome/flask-testing](https://github.com/CrimsonTome/flask-testing) - flask-testing (2 weeks ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (3 weeks ago)
@@ -56,8 +56,8 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [AntonyLeons/Ward](https://github.com/AntonyLeons/Ward) - Server dashboard (4 days ago)
-- [nate-sys/muc](https://github.com/nate-sys/muc) - Visualize your most used commands (5 days ago)
+- [AntonyLeons/Ward](https://github.com/AntonyLeons/Ward) - Server dashboard (5 days ago)
+- [nate-sys/muc](https://github.com/nate-sys/muc) - Visualize your most used commands (6 days ago)
 - [catppuccin/spicetify](https://github.com/catppuccin/spicetify) - 🎧 Soothing pastel theme for Spotify (1 week ago)
 - [nordnet/python-freeipa-json](https://github.com/nordnet/python-freeipa-json) - Tiny/basic module for communicating with the FreeIPA API without having to install the entire FreeIPA toolchain (1 week ago)
 - [blogc/blogc](https://github.com/blogc/blogc) - A blog compiler. (1 week ago)
