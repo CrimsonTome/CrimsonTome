@@ -30,7 +30,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (6 days ago)
+- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (today)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (1 week ago)
 - [CrimsonTome/flask-testing](https://github.com/CrimsonTome/flask-testing) - flask-testing (2 weeks ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (3 weeks ago)
@@ -47,11 +47,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 📜 My recent blog posts
 
+- [Self host your password manager!](https://crimsontome.com/posts/password-managers/) (6 days ago)
 - [A (short) end of year update](https://crimsontome.com/posts/a-quick-update/) (1 week ago)
 - [VPS setup 2, electric boogaloo](https://crimsontome.com/posts/VPS-setup-2-electric-boogaloo/) (3 months ago)
 - [Automating container updates with Ouroboros](https://crimsontome.com/posts/automating-container-updates-with-ouroboros/) (4 months ago)
 - [My current VPS setup](https://crimsontome.com/posts/my-current-vps-setup/) (6 months ago)
-- [Locking sites with Nginx Proxy Manager](https://crimsontome.com/posts/locking-sites-with-nginx-proxy-manager/) (6 months ago)
 
 
 #### ⭐ Recent Stars
