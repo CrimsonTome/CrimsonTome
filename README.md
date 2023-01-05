@@ -30,10 +30,10 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (today)
+- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (1 day ago)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (1 week ago)
 - [CrimsonTome/flask-testing](https://github.com/CrimsonTome/flask-testing) - flask-testing (3 weeks ago)
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (4 weeks ago)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 month ago)
 - [CrimsonTome/AdventOfCode](https://github.com/CrimsonTome/AdventOfCode) - Solutions for AoC events (1 month ago)
 
 
@@ -47,11 +47,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 📜 My recent blog posts
 
-- [Self host your password manager!](https://crimsontome.com/posts/password-managers/) (3 days ago)
+- [Self host your password manager!](https://crimsontome.com/posts/password-managers/) (4 days ago)
 - [A (short) end of year update](https://crimsontome.com/posts/a-quick-update/) (1 week ago)
 - [VPS setup 2, electric boogaloo](https://crimsontome.com/posts/VPS-setup-2-electric-boogaloo/) (4 months ago)
 - [Automating container updates with Ouroboros](https://crimsontome.com/posts/automating-container-updates-with-ouroboros/) (4 months ago)
-- [My current VPS setup](https://crimsontome.com/posts/my-current-vps-setup/) (6 months ago)
+- [My current VPS setup](https://crimsontome.com/posts/my-current-vps-setup/) (7 months ago)
 
 
 #### ⭐ Recent Stars
