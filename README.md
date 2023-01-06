@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt (today)
 - [catppuccin/discord](https://github.com/catppuccin/discord) - 🎮 Soothing pastel theme for Discord (1 day ago)
 - [AntonyLeons/Ward](https://github.com/AntonyLeons/Ward) - Server dashboard (1 week ago)
 - [nate-sys/muc](https://github.com/nate-sys/muc) - Visualize your most used commands (1 week ago)
 - [catppuccin/spicetify](https://github.com/catppuccin/spicetify) - 🎧 Soothing pastel theme for Spotify (1 week ago)
-- [nordnet/python-freeipa-json](https://github.com/nordnet/python-freeipa-json) - Tiny/basic module for communicating with the FreeIPA API without having to install the entire FreeIPA toolchain (2 weeks ago)
 
 #### Quote of the day
 
