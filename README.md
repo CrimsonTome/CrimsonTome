@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [jdharmon/scryfallapi](https://github.com/jdharmon/scryfallapi) - Scryfall API clients in multiple languages. (today)
+- [jdharmon/scryfallapi-csharp](https://github.com/jdharmon/scryfallapi-csharp) - C# Scryfall API Client (today)
 - [dell/dkms](https://github.com/dell/dkms) - Dynamic Kernel Module Support (today)
 - [tomaspinho/rtl8821ce](https://github.com/tomaspinho/rtl8821ce) -  (today)
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt (today)
-- [catppuccin/discord](https://github.com/catppuccin/discord) - 🎮 Soothing pastel theme for Discord (1 day ago)
-- [AntonyLeons/Ward](https://github.com/AntonyLeons/Ward) - Server dashboard (1 week ago)
 
 #### Quote of the day
 
