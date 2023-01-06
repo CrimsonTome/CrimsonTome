@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [dell/dkms](https://github.com/dell/dkms) - Dynamic Kernel Module Support (today)
+- [tomaspinho/rtl8821ce](https://github.com/tomaspinho/rtl8821ce) -  (today)
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt (today)
 - [catppuccin/discord](https://github.com/catppuccin/discord) - 🎮 Soothing pastel theme for Discord (1 day ago)
 - [AntonyLeons/Ward](https://github.com/AntonyLeons/Ward) - Server dashboard (1 week ago)
-- [nate-sys/muc](https://github.com/nate-sys/muc) - Visualize your most used commands (1 week ago)
-- [catppuccin/spicetify](https://github.com/catppuccin/spicetify) - 🎧 Soothing pastel theme for Spotify (1 week ago)
 
 #### Quote of the day
 
