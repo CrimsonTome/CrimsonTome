@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [catppuccin/steam](https://github.com/catppuccin/steam) - 🕹️ Soothing pastel theme for Steam (WIP) (today)
+- [catppuccin/minecraft](https://github.com/catppuccin/minecraft) - ⛏️ Soothing pastel theme for Minecraft (today)
+- [catppuccin/github](https://github.com/catppuccin/github) - 🐈‍⬛ Soothing pastel theme for GitHub (today)
 - [sansyrox/robyn](https://github.com/sansyrox/robyn) - Robyn is a fast and extensible async python web server with a rust runtime (today)
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Easily manage wine prefixes in a new way. Run Windows software and games on Linux (today)
-- [jdharmon/scryfallapi](https://github.com/jdharmon/scryfallapi) - Scryfall API clients in multiple languages. (1 day ago)
-- [jdharmon/scryfallapi-csharp](https://github.com/jdharmon/scryfallapi-csharp) - C# Scryfall API Client (1 day ago)
-- [dell/dkms](https://github.com/dell/dkms) - Dynamic Kernel Module Support (1 day ago)
 
 #### Quote of the day
 
