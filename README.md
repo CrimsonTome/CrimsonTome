@@ -31,10 +31,10 @@ View my [GitHub Stats](/pages/stats.md)
 #### 👷 Check out what I'm currently working on
 
 - [CrimsonTome/mtg-bot](https://github.com/CrimsonTome/mtg-bot) - A Discord.js V13 bot for searching Magic the Gathering Cards (today)
-- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (1 day ago)
-- [FreesideHull/pyinfra-config](https://github.com/FreesideHull/pyinfra-config) - pyinfra config for using administering Freeside machines (1 day ago)
-- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (1 week ago)
-- [CrimsonTome/flask-testing](https://github.com/CrimsonTome/flask-testing) - flask-testing (3 weeks ago)
+- [CrimsonTome/discord-bot-template](https://github.com/CrimsonTome/discord-bot-template) - template repo for creating discord bots (today)
+- [FreesideHull/pyinfra-config](https://github.com/FreesideHull/pyinfra-config) - pyinfra config for using administering Freeside machines (2 days ago)
+- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (2 days ago)
+- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (2 weeks ago)
 
 
 #### 🔨 My recent Pull Requests
@@ -47,8 +47,8 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 📜 My recent blog posts
 
-- [Self host your password manager!](https://crimsontome.com/posts/password-managers/) (5 days ago)
-- [A (short) end of year update](https://crimsontome.com/posts/a-quick-update/) (1 week ago)
+- [Self host your password manager!](https://crimsontome.com/posts/password-managers/) (6 days ago)
+- [A (short) end of year update](https://crimsontome.com/posts/a-quick-update/) (2 weeks ago)
 - [VPS setup 2, electric boogaloo](https://crimsontome.com/posts/VPS-setup-2-electric-boogaloo/) (4 months ago)
 - [Automating container updates with Ouroboros](https://crimsontome.com/posts/automating-container-updates-with-ouroboros/) (4 months ago)
 - [My current VPS setup](https://crimsontome.com/posts/my-current-vps-setup/) (7 months ago)
@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [jdharmon/scryfallapi](https://github.com/jdharmon/scryfallapi) - Scryfall API clients in multiple languages. (today)
-- [jdharmon/scryfallapi-csharp](https://github.com/jdharmon/scryfallapi-csharp) - C# Scryfall API Client (today)
-- [dell/dkms](https://github.com/dell/dkms) - Dynamic Kernel Module Support (today)
-- [tomaspinho/rtl8821ce](https://github.com/tomaspinho/rtl8821ce) -  (today)
-- [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt (today)
+- [jdharmon/scryfallapi](https://github.com/jdharmon/scryfallapi) - Scryfall API clients in multiple languages. (1 day ago)
+- [jdharmon/scryfallapi-csharp](https://github.com/jdharmon/scryfallapi-csharp) - C# Scryfall API Client (1 day ago)
+- [dell/dkms](https://github.com/dell/dkms) - Dynamic Kernel Module Support (1 day ago)
+- [tomaspinho/rtl8821ce](https://github.com/tomaspinho/rtl8821ce) -  (1 day ago)
+- [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt (1 day ago)
 
 #### Quote of the day
 
