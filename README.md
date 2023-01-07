@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [sansyrox/robyn](https://github.com/sansyrox/robyn) - Robyn is a fast and extensible async python web server with a rust runtime (today)
+- [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Easily manage wine prefixes in a new way. Run Windows software and games on Linux (today)
 - [jdharmon/scryfallapi](https://github.com/jdharmon/scryfallapi) - Scryfall API clients in multiple languages. (1 day ago)
 - [jdharmon/scryfallapi-csharp](https://github.com/jdharmon/scryfallapi-csharp) - C# Scryfall API Client (1 day ago)
 - [dell/dkms](https://github.com/dell/dkms) - Dynamic Kernel Module Support (1 day ago)
-- [tomaspinho/rtl8821ce](https://github.com/tomaspinho/rtl8821ce) -  (1 day ago)
-- [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt (1 day ago)
 
 #### Quote of the day
 
