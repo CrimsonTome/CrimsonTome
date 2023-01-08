@@ -30,10 +30,10 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/mtg-bot](https://github.com/CrimsonTome/mtg-bot) - A Discord.js V13 bot for searching Magic the Gathering Cards (today)
-- [CrimsonTome/discord-bot-template](https://github.com/CrimsonTome/discord-bot-template) - template repo for creating discord bots (today)
-- [FreesideHull/pyinfra-config](https://github.com/FreesideHull/pyinfra-config) - pyinfra config for using administering Freeside machines (2 days ago)
-- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (2 days ago)
+- [CrimsonTome/mtg-bot](https://github.com/CrimsonTome/mtg-bot) - A Discord.js V13 bot for searching Magic the Gathering Cards (1 day ago)
+- [CrimsonTome/discord-bot-template](https://github.com/CrimsonTome/discord-bot-template) - template repo for creating discord bots (1 day ago)
+- [FreesideHull/pyinfra-config](https://github.com/FreesideHull/pyinfra-config) - pyinfra config for using administering Freeside machines (3 days ago)
+- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (3 days ago)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (2 weeks ago)
 
 
@@ -47,7 +47,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 📜 My recent blog posts
 
-- [Self host your password manager!](https://crimsontome.com/posts/password-managers/) (6 days ago)
+- [Self host your password manager!](https://crimsontome.com/posts/password-managers/) (1 week ago)
 - [A (short) end of year update](https://crimsontome.com/posts/a-quick-update/) (2 weeks ago)
 - [VPS setup 2, electric boogaloo](https://crimsontome.com/posts/VPS-setup-2-electric-boogaloo/) (4 months ago)
 - [Automating container updates with Ouroboros](https://crimsontome.com/posts/automating-container-updates-with-ouroboros/) (4 months ago)
@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [catppuccin/duckduckgo](https://github.com/catppuccin/duckduckgo) - 🦆 Soothing pastel theme for DuckDuckGo (today)
-- [catppuccin/steam](https://github.com/catppuccin/steam) - 🕹️ Soothing pastel theme for Steam (WIP) (today)
-- [catppuccin/minecraft](https://github.com/catppuccin/minecraft) - ⛏️ Soothing pastel theme for Minecraft (today)
-- [catppuccin/github](https://github.com/catppuccin/github) - 🐈‍⬛ Soothing pastel theme for GitHub (today)
-- [sansyrox/robyn](https://github.com/sansyrox/robyn) - Robyn is a fast and extensible async python web server with a rust runtime (today)
+- [catppuccin/duckduckgo](https://github.com/catppuccin/duckduckgo) - 🦆 Soothing pastel theme for DuckDuckGo (1 day ago)
+- [catppuccin/steam](https://github.com/catppuccin/steam) - 🕹️ Soothing pastel theme for Steam (WIP) (1 day ago)
+- [catppuccin/minecraft](https://github.com/catppuccin/minecraft) - ⛏️ Soothing pastel theme for Minecraft (1 day ago)
+- [catppuccin/github](https://github.com/catppuccin/github) - 🐈‍⬛ Soothing pastel theme for GitHub (1 day ago)
+- [sansyrox/robyn](https://github.com/sansyrox/robyn) - Robyn is a fast and extensible async python web server with a rust runtime (1 day ago)
 
 #### Quote of the day
 
