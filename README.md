@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [cornelius/awesome-open-source](https://github.com/cornelius/awesome-open-source) - A curated list of resources related to how to do open source projects (today)
 - [catppuccin/duckduckgo](https://github.com/catppuccin/duckduckgo) - 🦆 Soothing pastel theme for DuckDuckGo (2 days ago)
 - [catppuccin/steam](https://github.com/catppuccin/steam) - 🕹️ Soothing pastel theme for Steam (WIP) (2 days ago)
 - [catppuccin/minecraft](https://github.com/catppuccin/minecraft) - ⛏️ Soothing pastel theme for Minecraft (2 days ago)
 - [catppuccin/github](https://github.com/catppuccin/github) - 🐈‍⬛ Soothing pastel theme for GitHub (2 days ago)
-- [sansyrox/robyn](https://github.com/sansyrox/robyn) - Robyn is a fast and extensible async python web server with a rust runtime (2 days ago)
 
 #### Quote of the day
 
