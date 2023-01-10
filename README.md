@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [dsuryd/dotNetify](https://github.com/dsuryd/dotNetify) - Simple, lightweight, yet powerful way to build real-time web apps. (today)
+- [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy. (today)
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software (1 day ago)
 - [cornelius/awesome-open-source](https://github.com/cornelius/awesome-open-source) - A curated list of resources related to how to do open source projects (1 day ago)
 - [catppuccin/duckduckgo](https://github.com/catppuccin/duckduckgo) - 🦆 Soothing pastel theme for DuckDuckGo (3 days ago)
-- [catppuccin/steam](https://github.com/catppuccin/steam) - 🕹️ Soothing pastel theme for Steam (WIP) (3 days ago)
-- [catppuccin/minecraft](https://github.com/catppuccin/minecraft) - ⛏️ Soothing pastel theme for Minecraft (3 days ago)
 
 #### Quote of the day
 
