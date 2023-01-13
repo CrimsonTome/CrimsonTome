@@ -30,8 +30,8 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/mtg-bot](https://github.com/CrimsonTome/mtg-bot) - A Discord.js V13 bot for searching Magic the Gathering Cards (5 days ago)
-- [CrimsonTome/discord-bot-template](https://github.com/CrimsonTome/discord-bot-template) - template repo for creating discord bots (5 days ago)
+- [CrimsonTome/mtg-bot](https://github.com/CrimsonTome/mtg-bot) - A Discord.js V13 bot for searching Magic the Gathering Cards (6 days ago)
+- [CrimsonTome/discord-bot-template](https://github.com/CrimsonTome/discord-bot-template) - template repo for creating discord bots (6 days ago)
 - [FreesideHull/pyinfra-config](https://github.com/FreesideHull/pyinfra-config) - pyinfra config for using administering Freeside machines (1 week ago)
 - [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (1 week ago)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (2 weeks ago)
@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys. (today)
-- [dsuryd/dotNetify](https://github.com/dsuryd/dotNetify) - Simple, lightweight, yet powerful way to build real-time web apps. (2 days ago)
-- [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy. (2 days ago)
-- [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software (3 days ago)
-- [cornelius/awesome-open-source](https://github.com/cornelius/awesome-open-source) - A curated list of resources related to how to do open source projects (3 days ago)
+- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys. (1 day ago)
+- [dsuryd/dotNetify](https://github.com/dsuryd/dotNetify) - Simple, lightweight, yet powerful way to build real-time web apps. (3 days ago)
+- [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy. (3 days ago)
+- [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software (4 days ago)
+- [cornelius/awesome-open-source](https://github.com/cornelius/awesome-open-source) - A curated list of resources related to how to do open source projects (4 days ago)
 
 #### Quote of the day
 
