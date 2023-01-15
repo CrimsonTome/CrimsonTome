@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [catppuccin/youtube](https://github.com/catppuccin/youtube) - 📺 Soothing pastel theme for YouTube (today)
+- [catppuccin/cursors](https://github.com/catppuccin/cursors) - 🐁 Soothing pastel mouse cursors (today)
 - [z411/trackma](https://github.com/z411/trackma) - Open multi-site list manager for Unix-like systems. (ex-wMAL) (today)
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org (1 day ago)
 - [cobbler/cobbler](https://github.com/cobbler/cobbler) - Cobbler is a versatile Linux deployment server (1 day ago)
-- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys. (3 days ago)
-- [dsuryd/dotNetify](https://github.com/dsuryd/dotNetify) - Simple, lightweight, yet powerful way to build real-time web apps. (5 days ago)
 
 #### Quote of the day
 
