@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic. (2 days ago)
-- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (2 days ago)
-- [catppuccin/youtube](https://github.com/catppuccin/youtube) - 📺 Soothing pastel theme for YouTube (2 days ago)
-- [catppuccin/cursors](https://github.com/catppuccin/cursors) - 🐁 Soothing pastel mouse cursors (2 days ago)
-- [z411/trackma](https://github.com/z411/trackma) - Open multi-site list manager for Unix-like systems. (ex-wMAL) (2 days ago)
+- [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic. (3 days ago)
+- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (3 days ago)
+- [catppuccin/youtube](https://github.com/catppuccin/youtube) - 📺 Soothing pastel theme for YouTube (3 days ago)
+- [catppuccin/cursors](https://github.com/catppuccin/cursors) - 🐁 Soothing pastel mouse cursors (3 days ago)
+- [z411/trackma](https://github.com/z411/trackma) - Open multi-site list manager for Unix-like systems. (ex-wMAL) (3 days ago)
 
 #### Quote of the day
 
