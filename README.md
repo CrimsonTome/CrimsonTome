@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm (today)
 - [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic. (3 days ago)
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (3 days ago)
 - [catppuccin/youtube](https://github.com/catppuccin/youtube) - 📺 Soothing pastel theme for YouTube (3 days ago)
 - [catppuccin/cursors](https://github.com/catppuccin/cursors) - 🐁 Soothing pastel mouse cursors (3 days ago)
-- [z411/trackma](https://github.com/z411/trackma) - Open multi-site list manager for Unix-like systems. (ex-wMAL) (3 days ago)
 
 #### Quote of the day
 
