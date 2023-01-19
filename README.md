@@ -30,11 +30,11 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
+- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (today)
 - [CrimsonTome/mtg-bot](https://github.com/CrimsonTome/mtg-bot) - A Discord.js V13 bot for searching Magic the Gathering Cards (1 week ago)
 - [CrimsonTome/discord-bot-template](https://github.com/CrimsonTome/discord-bot-template) - template repo for creating discord bots (1 week ago)
-- [FreesideHull/pyinfra-config](https://github.com/FreesideHull/pyinfra-config) - pyinfra config for using administering Freeside machines (2 weeks ago)
 - [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (2 weeks ago)
-- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (3 weeks ago)
+- [FreesideHull/pyinfra-config](https://github.com/FreesideHull/pyinfra-config) - pyinfra config for using administering Freeside machines (2 weeks ago)
 
 
 #### 🔨 My recent Pull Requests
