@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [danxfisher/Plex-Discord-Bot](https://github.com/danxfisher/Plex-Discord-Bot) - A Discord bot that allows you to search, play, and queue music from your Plex Media Server. (today)
+- [jkap/eggbug-rs](https://github.com/jkap/eggbug-rs) - Bot library for cohost.org (today)
+- [jkap/cohost-logo-maker](https://github.com/jkap/cohost-logo-maker) -  (today)
 - [rclone/rclone](https://github.com/rclone/rclone) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files (2 days ago)
 - [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm (2 days ago)
-- [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic. (5 days ago)
-- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (5 days ago)
-- [catppuccin/youtube](https://github.com/catppuccin/youtube) - 📺 Soothing pastel theme for YouTube (5 days ago)
 
 #### Quote of the day
 
