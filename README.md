@@ -30,9 +30,9 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (1 day ago)
-- [CrimsonTome/mtg-bot](https://github.com/CrimsonTome/mtg-bot) - A Discord.js V13 bot for searching Magic the Gathering Cards (1 week ago)
-- [CrimsonTome/discord-bot-template](https://github.com/CrimsonTome/discord-bot-template) - template repo for creating discord bots (1 week ago)
+- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (2 days ago)
+- [CrimsonTome/mtg-bot](https://github.com/CrimsonTome/mtg-bot) - A Discord.js V13 bot for searching Magic the Gathering Cards (2 weeks ago)
+- [CrimsonTome/discord-bot-template](https://github.com/CrimsonTome/discord-bot-template) - template repo for creating discord bots (2 weeks ago)
 - [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (2 weeks ago)
 - [FreesideHull/pyinfra-config](https://github.com/FreesideHull/pyinfra-config) - pyinfra config for using administering Freeside machines (2 weeks ago)
 
@@ -48,7 +48,7 @@ View my [GitHub Stats](/pages/stats.md)
 #### 📜 My recent blog posts
 
 - [Self host your password manager!](https://crimsontome.com/posts/password-managers/) (2 weeks ago)
-- [A (short) end of year update](https://crimsontome.com/posts/a-quick-update/) (3 weeks ago)
+- [A (short) end of year update](https://crimsontome.com/posts/a-quick-update/) (4 weeks ago)
 - [VPS setup 2, electric boogaloo](https://crimsontome.com/posts/VPS-setup-2-electric-boogaloo/) (4 months ago)
 - [Automating container updates with Ouroboros](https://crimsontome.com/posts/automating-container-updates-with-ouroboros/) (4 months ago)
 - [My current VPS setup](https://crimsontome.com/posts/my-current-vps-setup/) (7 months ago)
@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [danxfisher/Plex-Discord-Bot](https://github.com/danxfisher/Plex-Discord-Bot) - A Discord bot that allows you to search, play, and queue music from your Plex Media Server. (today)
-- [jkap/eggbug-rs](https://github.com/jkap/eggbug-rs) - Bot library for cohost.org (today)
-- [jkap/cohost-logo-maker](https://github.com/jkap/cohost-logo-maker) -  (today)
-- [rclone/rclone](https://github.com/rclone/rclone) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files (2 days ago)
-- [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm (2 days ago)
+- [catppuccin/conky](https://github.com/catppuccin/conky) - 🐶 Soothing pastel theme for Conky (1 day ago)
+- [danxfisher/Plex-Discord-Bot](https://github.com/danxfisher/Plex-Discord-Bot) - A Discord bot that allows you to search, play, and queue music from your Plex Media Server. (1 day ago)
+- [jkap/eggbug-rs](https://github.com/jkap/eggbug-rs) - Bot library for cohost.org (1 day ago)
+- [jkap/cohost-logo-maker](https://github.com/jkap/cohost-logo-maker) -  (1 day ago)
+- [rclone/rclone](https://github.com/rclone/rclone) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files (3 days ago)
 
 #### Quote of the day
 
