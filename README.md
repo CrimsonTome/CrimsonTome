@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [nanoninja/docker-nginx-php-mysql](https://github.com/nanoninja/docker-nginx-php-mysql) - Docker running Nginx, PHP-FPM, MySQL &amp; PHPMyAdmin (today)
+- [cytopia/devilbox](https://github.com/cytopia/devilbox) - A modern Docker LAMP stack and MEAN stack for local development (today)
 - [catppuccin/conky](https://github.com/catppuccin/conky) - 🐶 Soothing pastel theme for Conky (1 day ago)
 - [danxfisher/Plex-Discord-Bot](https://github.com/danxfisher/Plex-Discord-Bot) - A Discord bot that allows you to search, play, and queue music from your Plex Media Server. (1 day ago)
 - [jkap/eggbug-rs](https://github.com/jkap/eggbug-rs) - Bot library for cohost.org (1 day ago)
-- [jkap/cohost-logo-maker](https://github.com/jkap/cohost-logo-maker) -  (1 day ago)
-- [rclone/rclone](https://github.com/rclone/rclone) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files (3 days ago)
 
 #### Quote of the day
 
