@@ -30,7 +30,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (2 days ago)
+- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (3 days ago)
 - [CrimsonTome/mtg-bot](https://github.com/CrimsonTome/mtg-bot) - A Discord.js V13 bot for searching Magic the Gathering Cards (2 weeks ago)
 - [CrimsonTome/discord-bot-template](https://github.com/CrimsonTome/discord-bot-template) - template repo for creating discord bots (2 weeks ago)
 - [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (2 weeks ago)
@@ -47,20 +47,20 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 📜 My recent blog posts
 
-- [Self host your password manager!](https://crimsontome.com/posts/password-managers/) (2 weeks ago)
+- [Self host your password manager!](https://crimsontome.com/posts/password-managers/) (3 weeks ago)
 - [A (short) end of year update](https://crimsontome.com/posts/a-quick-update/) (4 weeks ago)
 - [VPS setup 2, electric boogaloo](https://crimsontome.com/posts/VPS-setup-2-electric-boogaloo/) (4 months ago)
-- [Automating container updates with Ouroboros](https://crimsontome.com/posts/automating-container-updates-with-ouroboros/) (4 months ago)
+- [Automating container updates with Ouroboros](https://crimsontome.com/posts/automating-container-updates-with-ouroboros/) (5 months ago)
 - [My current VPS setup](https://crimsontome.com/posts/my-current-vps-setup/) (7 months ago)
 
 
 #### ⭐ Recent Stars
 
-- [nanoninja/docker-nginx-php-mysql](https://github.com/nanoninja/docker-nginx-php-mysql) - Docker running Nginx, PHP-FPM, MySQL &amp; PHPMyAdmin (today)
-- [cytopia/devilbox](https://github.com/cytopia/devilbox) - A modern Docker LAMP stack and MEAN stack for local development (today)
-- [catppuccin/conky](https://github.com/catppuccin/conky) - 🐶 Soothing pastel theme for Conky (1 day ago)
-- [danxfisher/Plex-Discord-Bot](https://github.com/danxfisher/Plex-Discord-Bot) - A Discord bot that allows you to search, play, and queue music from your Plex Media Server. (1 day ago)
-- [jkap/eggbug-rs](https://github.com/jkap/eggbug-rs) - Bot library for cohost.org (1 day ago)
+- [nanoninja/docker-nginx-php-mysql](https://github.com/nanoninja/docker-nginx-php-mysql) - Docker running Nginx, PHP-FPM, MySQL &amp; PHPMyAdmin (1 day ago)
+- [cytopia/devilbox](https://github.com/cytopia/devilbox) - A modern Docker LAMP stack and MEAN stack for local development (1 day ago)
+- [catppuccin/conky](https://github.com/catppuccin/conky) - 🐶 Soothing pastel theme for Conky (2 days ago)
+- [danxfisher/Plex-Discord-Bot](https://github.com/danxfisher/Plex-Discord-Bot) - A Discord bot that allows you to search, play, and queue music from your Plex Media Server. (2 days ago)
+- [jkap/eggbug-rs](https://github.com/jkap/eggbug-rs) - Bot library for cohost.org (2 days ago)
 
 #### Quote of the day
 
