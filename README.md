@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles (today)
+- [nginxinc/NGINX-Demos](https://github.com/nginxinc/NGINX-Demos) - NGINX and NGINX Plus demos (today)
 - [nanoninja/docker-nginx-php-mysql](https://github.com/nanoninja/docker-nginx-php-mysql) - Docker running Nginx, PHP-FPM, MySQL &amp; PHPMyAdmin (1 day ago)
 - [cytopia/devilbox](https://github.com/cytopia/devilbox) - A modern Docker LAMP stack and MEAN stack for local development (1 day ago)
 - [catppuccin/conky](https://github.com/catppuccin/conky) - 🐶 Soothing pastel theme for Conky (2 days ago)
-- [danxfisher/Plex-Discord-Bot](https://github.com/danxfisher/Plex-Discord-Bot) - A Discord bot that allows you to search, play, and queue music from your Plex Media Server. (2 days ago)
-- [jkap/eggbug-rs](https://github.com/jkap/eggbug-rs) - Bot library for cohost.org (2 days ago)
 
 #### Quote of the day
 
