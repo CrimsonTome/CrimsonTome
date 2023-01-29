@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [pop-os/core](https://github.com/pop-os/core) - WIP immutable base (today)
 - [campus-experts/becoming-an-expert](https://github.com/campus-experts/becoming-an-expert) - Learn to build technical communities on your campus 🚩 (1 day ago)
 - [avaunit02/cursor-converter](https://github.com/avaunit02/cursor-converter) - Convert Windows cursors to Linux cursors (4 days ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (5 days ago)
 - [jellyfin/jellyfin-web](https://github.com/jellyfin/jellyfin-web) - Web Client for Jellyfin (5 days ago)
-- [sbrl/FactorioAssemblyLanguage](https://github.com/sbrl/FactorioAssemblyLanguage) - An assembly language that compiles to factorio circuit networks (1 week ago)
 
 #### Quote of the day
 
