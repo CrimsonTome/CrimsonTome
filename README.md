@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (today)
 - [ElasticEmail/elasticemail-bash](https://github.com/ElasticEmail/elasticemail-bash) -  (today)
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android. (today)
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib (today)
 - [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) - Python package for scraping recipes data (today)
-- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (1 day ago)
 
 #### Quote of the day
 
