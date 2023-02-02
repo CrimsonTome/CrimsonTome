@@ -30,11 +30,11 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (today)
-- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (4 days ago)
+- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (1 day ago)
+- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (5 days ago)
 - [CrimsonTome/mtg-bot](https://github.com/CrimsonTome/mtg-bot) - A Discord.js V13 bot for searching Magic the Gathering Cards (3 weeks ago)
 - [CrimsonTome/discord-bot-template](https://github.com/CrimsonTome/discord-bot-template) - template repo for creating discord bots (3 weeks ago)
-- [FreesideHull/pyinfra-config](https://github.com/FreesideHull/pyinfra-config) - pyinfra config for using administering Freeside machines (3 weeks ago)
+- [FreesideHull/pyinfra-config](https://github.com/FreesideHull/pyinfra-config) - pyinfra config for using administering Freeside machines (4 weeks ago)
 
 
 #### 🔨 My recent Pull Requests
@@ -47,7 +47,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 📜 My recent blog posts
 
-- [On switching to nginx properly](https://crimsontome.com/posts/on-switching-to-nginx-properly/) (today)
+- [On switching to nginx properly](https://crimsontome.com/posts/on-switching-to-nginx-properly/) (1 day ago)
 - [Self host your password manager!](https://crimsontome.com/posts/password-managers/) (1 month ago)
 - [A (short) end of year update](https://crimsontome.com/posts/a-quick-update/) (1 month ago)
 - [VPS setup 2, electric boogaloo](https://crimsontome.com/posts/VPS-setup-2-electric-boogaloo/) (5 months ago)
@@ -56,10 +56,10 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (today)
-- [volitank/nala](https://github.com/volitank/nala) - a wrapper for the apt package manager. (2 days ago)
-- [pop-os/core](https://github.com/pop-os/core) - WIP immutable base (3 days ago)
-- [campus-experts/becoming-an-expert](https://github.com/campus-experts/becoming-an-expert) - Learn to build technical communities on your campus 🚩 (4 days ago)
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (1 day ago)
+- [volitank/nala](https://github.com/volitank/nala) - a wrapper for the apt package manager. (3 days ago)
+- [pop-os/core](https://github.com/pop-os/core) - WIP immutable base (4 days ago)
+- [campus-experts/becoming-an-expert](https://github.com/campus-experts/becoming-an-expert) - Learn to build technical communities on your campus 🚩 (5 days ago)
 - [avaunit02/cursor-converter](https://github.com/avaunit02/cursor-converter) - Convert Windows cursors to Linux cursors (1 week ago)
 
 #### Quote of the day
