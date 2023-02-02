@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) - Python package for scraping recipes data (today)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (1 day ago)
 - [volitank/nala](https://github.com/volitank/nala) - a wrapper for the apt package manager. (3 days ago)
 - [pop-os/core](https://github.com/pop-os/core) - WIP immutable base (4 days ago)
 - [campus-experts/becoming-an-expert](https://github.com/campus-experts/becoming-an-expert) - Learn to build technical communities on your campus 🚩 (5 days ago)
-- [avaunit02/cursor-converter](https://github.com/avaunit02/cursor-converter) - Convert Windows cursors to Linux cursors (1 week ago)
 
 #### Quote of the day
 
