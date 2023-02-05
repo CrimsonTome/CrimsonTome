@@ -30,7 +30,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (3 days ago)
+- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (4 days ago)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (1 week ago)
 - [CrimsonTome/mtg-bot](https://github.com/CrimsonTome/mtg-bot) - A Discord.js V13 bot for searching Magic the Gathering Cards (4 weeks ago)
 - [CrimsonTome/discord-bot-template](https://github.com/CrimsonTome/discord-bot-template) - template repo for creating discord bots (4 weeks ago)
@@ -47,7 +47,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 📜 My recent blog posts
 
-- [On switching to nginx properly](https://crimsontome.com/posts/on-switching-to-nginx-properly/) (3 days ago)
+- [On switching to nginx properly](https://crimsontome.com/posts/on-switching-to-nginx-properly/) (4 days ago)
 - [Self host your password manager!](https://crimsontome.com/posts/password-managers/) (1 month ago)
 - [A (short) end of year update](https://crimsontome.com/posts/a-quick-update/) (1 month ago)
 - [VPS setup 2, electric boogaloo](https://crimsontome.com/posts/VPS-setup-2-electric-boogaloo/) (5 months ago)
@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator (today)
-- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (2 days ago)
-- [ElasticEmail/elasticemail-bash](https://github.com/ElasticEmail/elasticemail-bash) -  (2 days ago)
-- [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android. (2 days ago)
-- [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib (2 days ago)
+- [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator (1 day ago)
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (3 days ago)
+- [ElasticEmail/elasticemail-bash](https://github.com/ElasticEmail/elasticemail-bash) -  (3 days ago)
+- [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android. (3 days ago)
+- [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib (3 days ago)
 
 #### Quote of the day
 
