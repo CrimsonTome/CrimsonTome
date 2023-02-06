@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [bobthecow/git-flow-completion](https://github.com/bobthecow/git-flow-completion) - Bash, Zsh and fish completion support for git-flow. (today)
+- [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen&#39;s branching model. (today)
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator (2 days ago)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (4 days ago)
 - [ElasticEmail/elasticemail-bash](https://github.com/ElasticEmail/elasticemail-bash) -  (4 days ago)
-- [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android. (4 days ago)
-- [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib (4 days ago)
 
 #### Quote of the day
 
