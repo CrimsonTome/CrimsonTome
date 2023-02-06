@@ -2,7 +2,7 @@
 
 > Admin at [Freeside](https://freeside.co.uk) and Webmaster for [HullCSS](https://hullcss.org)  
 
-A copy of my CV is available [here](https://crimsontome.com/img/cv-10-22.pdf)
+A copy of my CV is available [here](https://crimsontome.com/img/cv-02-23.pdf)
 
 <p>
 <a href="https://discord.com/users/449573875743981569"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
