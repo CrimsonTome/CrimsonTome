@@ -2,7 +2,7 @@
 
 > Admin at [Freeside](https://freeside.co.uk) and Webmaster for [HullCSS](https://hullcss.org)  
 
-A copy of my CV is available [here](https://crimsontome.com/img/cv-10-22.pdf)
+A copy of my CV is available [here](https://crimsontome.com/img/cv-02-23.pdf)
 
 <p>
 <a href="https://discord.com/users/449573875743981569"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
@@ -30,8 +30,8 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
+- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (today)
 - [CrimsonTome/kattis](https://github.com/CrimsonTome/kattis) - scuffed Kattis solutions probably in C&#43;&#43; (today)
-- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (5 days ago)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (1 week ago)
 - [CrimsonTome/mtg-bot](https://github.com/CrimsonTome/mtg-bot) - A Discord.js V13 bot for searching Magic the Gathering Cards (1 month ago)
 - [CrimsonTome/discord-bot-template](https://github.com/CrimsonTome/discord-bot-template) - template repo for creating discord bots (1 month ago)
