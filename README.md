@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository. (today)
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor (today)
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client (today)
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor &amp; pixel art tool (Windows, macOS, Linux) (today)
 - [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database (today)
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C&#43;&#43; (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. (today)
 
 #### Quote of the day
 
