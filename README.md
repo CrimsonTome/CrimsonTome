@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [ProkopRandacek/FactorioFotograf](https://github.com/ProkopRandacek/FactorioFotograf) - Factorio map generator for Linux (today)
-- [bobthecow/git-flow-completion](https://github.com/bobthecow/git-flow-completion) - Bash, Zsh and fish completion support for git-flow. (1 day ago)
-- [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen&#39;s branching model. (1 day ago)
-- [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator (3 days ago)
-- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (5 days ago)
+- [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor (today)
+- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client (today)
+- [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor &amp; pixel art tool (Windows, macOS, Linux) (today)
+- [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database (today)
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C&#43;&#43; (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. (today)
 
 #### Quote of the day
 
