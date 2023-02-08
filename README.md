@@ -30,11 +30,11 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/kattis](https://github.com/CrimsonTome/kattis) - scuffed Kattis solutions probably in C&#43;&#43; (today)
-- [CrimsonTome/scaffolding](https://github.com/CrimsonTome/scaffolding) - scaffolding I often use in git repos (today)
-- [CrimsonTome/Dockerfiles](https://github.com/CrimsonTome/Dockerfiles) - Dockerfiles I use regularly (today)
-- [CrimsonTome/A-level-Project](https://github.com/CrimsonTome/A-level-Project) - Old A level project from college (today)
-- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (today)
+- [CrimsonTome/kattis](https://github.com/CrimsonTome/kattis) - scuffed Kattis solutions probably in C&#43;&#43; (1 day ago)
+- [CrimsonTome/scaffolding](https://github.com/CrimsonTome/scaffolding) - scaffolding I often use in git repos (1 day ago)
+- [CrimsonTome/Dockerfiles](https://github.com/CrimsonTome/Dockerfiles) - Dockerfiles I use regularly (1 day ago)
+- [CrimsonTome/A-level-Project](https://github.com/CrimsonTome/A-level-Project) - Old A level project from college (1 day ago)
+- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (1 day ago)
 
 
 #### 🔨 My recent Pull Requests
@@ -47,7 +47,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 📜 My recent blog posts
 
-- [On switching to nginx properly](https://crimsontome.com/posts/on-switching-to-nginx-properly/) (6 days ago)
+- [On switching to nginx properly](https://crimsontome.com/posts/on-switching-to-nginx-properly/) (1 week ago)
 - [Self host your password manager!](https://crimsontome.com/posts/password-managers/) (1 month ago)
 - [A (short) end of year update](https://crimsontome.com/posts/a-quick-update/) (1 month ago)
 - [VPS setup 2, electric boogaloo](https://crimsontome.com/posts/VPS-setup-2-electric-boogaloo/) (5 months ago)
@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository. (today)
-- [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor (today)
-- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client (today)
-- [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor &amp; pixel art tool (Windows, macOS, Linux) (today)
-- [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database (today)
+- [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository. (1 day ago)
+- [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor (1 day ago)
+- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client (1 day ago)
+- [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor &amp; pixel art tool (Windows, macOS, Linux) (1 day ago)
+- [mongodb/mongo](https://github.com/mongodb/mongo) - The MongoDB Database (1 day ago)
 
 #### Quote of the day
 
