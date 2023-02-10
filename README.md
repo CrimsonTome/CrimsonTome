@@ -30,11 +30,11 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/kattis](https://github.com/CrimsonTome/kattis) - scuffed Kattis solutions probably in C&#43;&#43; (2 days ago)
-- [CrimsonTome/scaffolding](https://github.com/CrimsonTome/scaffolding) - scaffolding I often use in git repos (2 days ago)
-- [CrimsonTome/Dockerfiles](https://github.com/CrimsonTome/Dockerfiles) - Dockerfiles I use regularly (2 days ago)
-- [CrimsonTome/A-level-Project](https://github.com/CrimsonTome/A-level-Project) - Old A level project from college (2 days ago)
-- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (2 days ago)
+- [CrimsonTome/kattis](https://github.com/CrimsonTome/kattis) - scuffed Kattis solutions probably in C&#43;&#43; (3 days ago)
+- [CrimsonTome/scaffolding](https://github.com/CrimsonTome/scaffolding) - scaffolding I often use in git repos (3 days ago)
+- [CrimsonTome/Dockerfiles](https://github.com/CrimsonTome/Dockerfiles) - Dockerfiles I use regularly (3 days ago)
+- [CrimsonTome/A-level-Project](https://github.com/CrimsonTome/A-level-Project) - Old A level project from college (3 days ago)
+- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (3 days ago)
 
 
 #### 🔨 My recent Pull Requests
@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser. (1 day ago)
-- [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository. (2 days ago)
-- [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor (2 days ago)
-- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client (2 days ago)
-- [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor &amp; pixel art tool (Windows, macOS, Linux) (2 days ago)
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser. (2 days ago)
+- [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository. (3 days ago)
+- [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor (3 days ago)
+- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client (3 days ago)
+- [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor &amp; pixel art tool (Windows, macOS, Linux) (3 days ago)
 
 #### Quote of the day
 
