@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]  (today)
 - [DDD-group-22-23/DDD-group-project](https://github.com/DDD-group-22-23/DDD-group-project) -  (1 day ago)
 - [bacongobbler/azure-blob-storage-upload](https://github.com/bacongobbler/azure-blob-storage-upload) - Uploads assets to Azure Blob Storage (1 day ago)
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser. (3 days ago)
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository. (4 days ago)
-- [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor (4 days ago)
 
 #### Quote of the day
 
