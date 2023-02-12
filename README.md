@@ -30,11 +30,11 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/kattis](https://github.com/CrimsonTome/kattis) - scuffed Kattis solutions probably in C&#43;&#43; (4 days ago)
-- [CrimsonTome/scaffolding](https://github.com/CrimsonTome/scaffolding) - scaffolding I often use in git repos (4 days ago)
-- [CrimsonTome/Dockerfiles](https://github.com/CrimsonTome/Dockerfiles) - Dockerfiles I use regularly (4 days ago)
-- [CrimsonTome/A-level-Project](https://github.com/CrimsonTome/A-level-Project) - Old A level project from college (4 days ago)
-- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (4 days ago)
+- [CrimsonTome/debian-install-from-minimal](https://github.com/CrimsonTome/debian-install-from-minimal) - debian-install-from-minimal (1 day ago)
+- [CrimsonTome/Dockerfiles](https://github.com/CrimsonTome/Dockerfiles) - Dockerfiles I use regularly (5 days ago)
+- [CrimsonTome/A-level-Project](https://github.com/CrimsonTome/A-level-Project) - Old A level project from college (5 days ago)
+- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (5 days ago)
+- [CrimsonTome/scaffolding](https://github.com/CrimsonTome/scaffolding) - scaffolding I often use in git repos (5 days ago)
 
 
 #### 🔨 My recent Pull Requests
@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [sbrl/GoosePlus](https://github.com/sbrl/GoosePlus) - Meta search engine that lets you create your own custom !bangs - just like DuckDuckGo! (today)
-- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]  (today)
-- [DDD-group-22-23/DDD-group-project](https://github.com/DDD-group-22-23/DDD-group-project) -  (1 day ago)
-- [bacongobbler/azure-blob-storage-upload](https://github.com/bacongobbler/azure-blob-storage-upload) - Uploads assets to Azure Blob Storage (1 day ago)
-- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser. (3 days ago)
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. (today)
+- [sbrl/GoosePlus](https://github.com/sbrl/GoosePlus) - Meta search engine that lets you create your own custom !bangs - just like DuckDuckGo! (1 day ago)
+- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]  (1 day ago)
+- [DDD-group-22-23/DDD-group-project](https://github.com/DDD-group-22-23/DDD-group-project) -  (2 days ago)
+- [bacongobbler/azure-blob-storage-upload](https://github.com/bacongobbler/azure-blob-storage-upload) - Uploads assets to Azure Blob Storage (2 days ago)
 
 #### Quote of the day
 
