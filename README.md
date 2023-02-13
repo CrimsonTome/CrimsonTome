@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (today)
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol &amp; multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. (1 day ago)
 - [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers (1 day ago)
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software. (1 day ago)
 - [sbrl/GoosePlus](https://github.com/sbrl/GoosePlus) - Meta search engine that lets you create your own custom !bangs - just like DuckDuckGo! (2 days ago)
-- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]  (2 days ago)
 
 #### Quote of the day
 
