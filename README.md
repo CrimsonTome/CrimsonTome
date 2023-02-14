@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm CrimsonTome [(She/Her)](http://pronoun.is/she)
+### 👋 Hi there, I'm CrimsonTome [(She/Her)](https://en.pronouns.page/she/her)
 
 > Admin at [Freeside](https://freeside.co.uk) and Webmaster for [HullCSS](https://hullcss.org)  
 
