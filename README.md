@@ -1,8 +1,10 @@
 ### 👋 Hi there, I'm CrimsonTome [(She/Her)](https://en.pronouns.page/she/her) [🍰](https://cake.avris.it/pC3)[&lt;3](https://spectrum.avris.it/EVRK)
 
-> Admin at [Freeside](https://freeside.co.uk) and Webmaster for [HullCSS](https://hullcss.org)  
+> Admin at [Freeside](https://freeside.co.uk) and Webmaster for [HullCSS](https://hullcss.org)   
 
-A copy of my CV is available [here](https://crimsontome.com/img/cv-02-23.pdf)
+--> Many of my old / private repositories have been moved to my git server @ https://git.crimsontome.com &lt;-- 
+
+A copy of my CV is available [here](https://crimsontome.com/img/cv-02-23.pdf) 
 
 <p>
 <a href="https://discord.com/users/449573875743981569"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
