@@ -31,10 +31,10 @@ View my [GitHub Stats](/pages/stats.md)
 #### 👷 Check out what I'm currently working on
 
 - [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (today)
-- [CrimsonTome/debian-install-from-minimal](https://github.com/CrimsonTome/debian-install-from-minimal) - debian-install-from-minimal (1 day ago)
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 day ago)
-- [CrimsonTome/A-level-Project](https://github.com/CrimsonTome/A-level-Project) - Old A level project from college (6 days ago)
-- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (6 days ago)
+- [CrimsonTome/debian-install-from-minimal](https://github.com/CrimsonTome/debian-install-from-minimal) - debian-install-from-minimal (2 days ago)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (2 days ago)
+- [CrimsonTome/A-level-Project](https://github.com/CrimsonTome/A-level-Project) - Old A level project from college (1 week ago)
+- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (1 week ago)
 
 
 #### 🔨 My recent Pull Requests
@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [KDE/latte-dock](https://github.com/KDE/latte-dock) - Replacement dock for Plasma desktops, providing an elegant and intuitive experience for your tasks and plasmoids (today)
-- [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.) (today)
-- [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (today)
-- [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol &amp; multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. (1 day ago)
-- [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers (1 day ago)
+- [jordansissel/fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity. (1 day ago)
+- [KDE/latte-dock](https://github.com/KDE/latte-dock) - Replacement dock for Plasma desktops, providing an elegant and intuitive experience for your tasks and plasmoids (1 day ago)
+- [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.) (1 day ago)
+- [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (1 day ago)
+- [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol &amp; multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. (2 days ago)
 
 #### Quote of the day
 
