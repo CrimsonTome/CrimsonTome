@@ -47,7 +47,7 @@ View my [GitHub Stats](/pages/stats.md)
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://crimsontome.com/feed/feed.xml" 5}}
+{{range rss "https://crimsontome.com/atom.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
