@@ -32,7 +32,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Eleventy (3 days ago)
+- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Zola (today)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (5 days ago)
 - [CrimsonTome/debian-install-from-minimal](https://github.com/CrimsonTome/debian-install-from-minimal) - debian-install-from-minimal (5 days ago)
 - [CrimsonTome/A-level-Project](https://github.com/CrimsonTome/A-level-Project) - Old A level project from college (1 week ago)
@@ -41,19 +41,19 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 🔨 My recent Pull Requests
 
+- [chore: edit crimsontome&#39;s feed path](https://github.com/FreesideHull/hullblogs.com/pull/13) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (today)
 - [Rename CONDUCT.md to CODE_OF_CONDUCT.md](https://github.com/hullcss/hullcss-discord-bot/pull/26) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (3 months ago)
 - [add license info and tldr link](https://github.com/Hull-Robotics-Society/hullrs-bot/pull/7) on [Hull-Robotics-Society/hullrs-bot](https://github.com/Hull-Robotics-Society/hullrs-bot) (4 months ago)
 - [add License info with tldr link](https://github.com/KieranRobson/Arr-Bot/pull/10) on [KieranRobson/Arr-Bot](https://github.com/KieranRobson/Arr-Bot) (4 months ago)
 - [add license header and tldr link](https://github.com/hullcss/hullcss-discord-bot/pull/19) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (4 months ago)
-- [add license heading and tldr legal link](https://github.com/KieranRobson/Clarence-Bot/pull/28) on [KieranRobson/Clarence-Bot](https://github.com/KieranRobson/Clarence-Bot) (4 months ago)
 
 #### 📜 My recent blog posts
 
-- [On switching to nginx properly](https://crimsontome.com/posts/on-switching-to-nginx-properly/) (2 weeks ago)
-- [Self host your password manager!](https://crimsontome.com/posts/password-managers/) (1 month ago)
-- [A (short) end of year update](https://crimsontome.com/posts/a-quick-update/) (1 month ago)
-- [VPS setup 2, electric boogaloo](https://crimsontome.com/posts/VPS-setup-2-electric-boogaloo/) (5 months ago)
-- [Automating container updates with Ouroboros](https://crimsontome.com/posts/automating-container-updates-with-ouroboros/) (5 months ago)
+- [Fedora -  a review](https://crimsontome.com/drafts/fedora-a-review/) (4 days ago)
+- [On switching to nginx properly](https://crimsontome.com/on-switching-to-nginx-properly/) (2 weeks ago)
+- [Self host your password manager!](https://crimsontome.com/password-managers/) (1 month ago)
+- [A (short) end of year update](https://crimsontome.com/a-quick-update/) (1 month ago)
+- [VPS setup 2, electric boogaloo](https://crimsontome.com/vps-setup-2-electric-boogaloo/) (5 months ago)
 
 
 #### ⭐ Recent Stars
