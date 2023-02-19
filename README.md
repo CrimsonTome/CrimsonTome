@@ -32,16 +32,16 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Zola (1 day ago)
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (6 days ago)
-- [CrimsonTome/debian-install-from-minimal](https://github.com/CrimsonTome/debian-install-from-minimal) - debian-install-from-minimal (6 days ago)
+- [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Zola (2 days ago)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 week ago)
+- [CrimsonTome/debian-install-from-minimal](https://github.com/CrimsonTome/debian-install-from-minimal) - debian-install-from-minimal (1 week ago)
 - [CrimsonTome/A-level-Project](https://github.com/CrimsonTome/A-level-Project) - Old A level project from college (1 week ago)
 - [CrimsonTome/kattis](https://github.com/CrimsonTome/kattis) - scuffed Kattis solutions probably in C&#43;&#43; (1 week ago)
 
 
 #### 🔨 My recent Pull Requests
 
-- [chore: edit crimsontome&#39;s feed path](https://github.com/FreesideHull/hullblogs.com/pull/13) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (1 day ago)
+- [chore: edit crimsontome&#39;s feed path](https://github.com/FreesideHull/hullblogs.com/pull/13) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (2 days ago)
 - [Rename CONDUCT.md to CODE_OF_CONDUCT.md](https://github.com/hullcss/hullcss-discord-bot/pull/26) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (4 months ago)
 - [add license info and tldr link](https://github.com/Hull-Robotics-Society/hullrs-bot/pull/7) on [Hull-Robotics-Society/hullrs-bot](https://github.com/Hull-Robotics-Society/hullrs-bot) (4 months ago)
 - [add License info with tldr link](https://github.com/KieranRobson/Arr-Bot/pull/10) on [KieranRobson/Arr-Bot](https://github.com/KieranRobson/Arr-Bot) (4 months ago)
@@ -49,7 +49,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 📜 My recent blog posts
 
-- [Fedora -  a review](https://crimsontome.com/drafts/fedora-a-review/) (5 days ago)
+- [Fedora -  a review](https://crimsontome.com/drafts/fedora-a-review/) (6 days ago)
 - [On switching to nginx properly](https://crimsontome.com/on-switching-to-nginx-properly/) (2 weeks ago)
 - [Self host your password manager!](https://crimsontome.com/password-managers/) (1 month ago)
 - [A (short) end of year update](https://crimsontome.com/a-quick-update/) (1 month ago)
@@ -58,11 +58,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard: (today)
-- [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight mobile-friendly Docker Swarm management UI (2 days ago)
-- [jordansissel/fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity. (5 days ago)
-- [KDE/latte-dock](https://github.com/KDE/latte-dock) - Replacement dock for Plasma desktops, providing an elegant and intuitive experience for your tasks and plasmoids (5 days ago)
-- [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.) (5 days ago)
+- [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard: (1 day ago)
+- [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight mobile-friendly Docker Swarm management UI (3 days ago)
+- [jordansissel/fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity. (6 days ago)
+- [KDE/latte-dock](https://github.com/KDE/latte-dock) - Replacement dock for Plasma desktops, providing an elegant and intuitive experience for your tasks and plasmoids (6 days ago)
+- [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.) (6 days ago)
 
 #### Quote of the day
 
