@@ -33,10 +33,10 @@ View my [GitHub Stats](/pages/stats.md)
 #### 👷 Check out what I'm currently working on
 
 - [CrimsonTome/crimsontome-blog](https://github.com/CrimsonTome/crimsontome-blog) - Personal Computer Science oriented blog | Created using Zola (today)
+- [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (2 days ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 week ago)
 - [CrimsonTome/debian-install-from-minimal](https://github.com/CrimsonTome/debian-install-from-minimal) - debian-install-from-minimal (1 week ago)
 - [CrimsonTome/A-level-Project](https://github.com/CrimsonTome/A-level-Project) - Old A level project from college (1 week ago)
-- [CrimsonTome/kattis](https://github.com/CrimsonTome/kattis) - scuffed Kattis solutions probably in C&#43;&#43; (1 week ago)
 
 
 #### 🔨 My recent Pull Requests
