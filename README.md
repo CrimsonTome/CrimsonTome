@@ -58,11 +58,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Grid (today)
 - [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox (today)
 - [rosolko/WebDriverManager.Net](https://github.com/rosolko/WebDriverManager.Net) - Automatic Selenium Webdriver binaries management for .Net (today)
 - [wilsonzlin/minify-html](https://github.com/wilsonzlin/minify-html) - Extremely fast and smart HTML &#43; JS &#43; CSS minifier, available for Rust, Deno, Java, Node.js, Python, Ruby, and WASM (today)
 - [Gobidev/pfetch-rs](https://github.com/Gobidev/pfetch-rs) - A rewrite of the pfetch system information tool in Rust (1 day ago)
-- [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework (2 days ago)
 
 #### Quote of the day
 
