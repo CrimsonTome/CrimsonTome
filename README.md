@@ -58,11 +58,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox (today)
+- [rosolko/WebDriverManager.Net](https://github.com/rosolko/WebDriverManager.Net) - Automatic Selenium Webdriver binaries management for .Net (today)
 - [wilsonzlin/minify-html](https://github.com/wilsonzlin/minify-html) - Extremely fast and smart HTML &#43; JS &#43; CSS minifier, available for Rust, Deno, Java, Node.js, Python, Ruby, and WASM (today)
 - [Gobidev/pfetch-rs](https://github.com/Gobidev/pfetch-rs) - A rewrite of the pfetch system information tool in Rust (1 day ago)
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework (2 days ago)
-- [puppetlabs/puppet](https://github.com/puppetlabs/puppet) - Server automation framework and application (2 days ago)
-- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (2 days ago)
 
 #### Quote of the day
 
