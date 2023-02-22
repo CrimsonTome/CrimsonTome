@@ -58,11 +58,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [BigAnteater/KVM-GPU-Passthrough](https://github.com/BigAnteater/KVM-GPU-Passthrough) - This is a simple, mostly automated guide to pass a GPU through to a VM. (today)
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through &#34;loaders&#34;, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff. (today)
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (today)
 - [AlmaLinux/docker-images](https://github.com/AlmaLinux/docker-images) -   Home for AlmaLinux Docker image RootFS files and production version of sources (today)
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Grid (1 day ago)
-- [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox (1 day ago)
 
 #### Quote of the day
 
