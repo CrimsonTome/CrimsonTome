@@ -32,11 +32,11 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (today)
 - [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (today)
 - [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (1 day ago)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (1 day ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (5 days ago)
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 week ago)
 
 
 #### 🔨 My recent Pull Requests
@@ -58,11 +58,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through &#34;loaders&#34;, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff. (today)
+- [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott! (today)
 - [AlmaLinux/docker-images](https://github.com/AlmaLinux/docker-images) -   Home for AlmaLinux Docker image RootFS files and production version of sources (today)
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Grid (1 day ago)
 - [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox (1 day ago)
-- [rosolko/WebDriverManager.Net](https://github.com/rosolko/WebDriverManager.Net) - Automatic Selenium Webdriver binaries management for .Net (1 day ago)
-- [wilsonzlin/minify-html](https://github.com/wilsonzlin/minify-html) - Extremely fast and smart HTML &#43; JS &#43; CSS minifier, available for Rust, Deno, Java, Node.js, Python, Ruby, and WASM (1 day ago)
 
 #### Quote of the day
 
