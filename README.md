@@ -32,16 +32,16 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (today)
-- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (today)
-- [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (4 days ago)
+- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (1 day ago)
+- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (1 day ago)
+- [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (5 days ago)
 - [CrimsonTome/debian-install-from-minimal](https://github.com/CrimsonTome/debian-install-from-minimal) - debian-install-from-minimal (1 week ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 week ago)
 
 
 #### 🔨 My recent Pull Requests
 
-- [chore: edit crimsontome&#39;s feed path](https://github.com/FreesideHull/hullblogs.com/pull/13) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (4 days ago)
+- [chore: edit crimsontome&#39;s feed path](https://github.com/FreesideHull/hullblogs.com/pull/13) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (5 days ago)
 - [Rename CONDUCT.md to CODE_OF_CONDUCT.md](https://github.com/hullcss/hullcss-discord-bot/pull/26) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (4 months ago)
 - [add license info and tldr link](https://github.com/Hull-Robotics-Society/hullrs-bot/pull/7) on [Hull-Robotics-Society/hullrs-bot](https://github.com/Hull-Robotics-Society/hullrs-bot) (4 months ago)
 - [add License info with tldr link](https://github.com/KieranRobson/Arr-Bot/pull/10) on [KieranRobson/Arr-Bot](https://github.com/KieranRobson/Arr-Bot) (4 months ago)
@@ -50,19 +50,19 @@ View my [GitHub Stats](/pages/stats.md)
 #### 📜 My recent blog posts
 
 - [Fedora -  a review](https://crimsontome.com/drafts/fedora-a-review/) (1 week ago)
-- [On switching to nginx properly](https://crimsontome.com/on-switching-to-nginx-properly/) (2 weeks ago)
+- [On switching to nginx properly](https://crimsontome.com/on-switching-to-nginx-properly/) (3 weeks ago)
 - [Self host your password manager!](https://crimsontome.com/password-managers/) (1 month ago)
-- [A (short) end of year update](https://crimsontome.com/a-quick-update/) (1 month ago)
+- [A (short) end of year update](https://crimsontome.com/a-quick-update/) (2 months ago)
 - [VPS setup 2, electric boogaloo](https://crimsontome.com/vps-setup-2-electric-boogaloo/) (5 months ago)
 
 
 #### ⭐ Recent Stars
 
-- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Grid (today)
-- [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox (today)
-- [rosolko/WebDriverManager.Net](https://github.com/rosolko/WebDriverManager.Net) - Automatic Selenium Webdriver binaries management for .Net (today)
-- [wilsonzlin/minify-html](https://github.com/wilsonzlin/minify-html) - Extremely fast and smart HTML &#43; JS &#43; CSS minifier, available for Rust, Deno, Java, Node.js, Python, Ruby, and WASM (today)
-- [Gobidev/pfetch-rs](https://github.com/Gobidev/pfetch-rs) - A rewrite of the pfetch system information tool in Rust (1 day ago)
+- [AlmaLinux/docker-images](https://github.com/AlmaLinux/docker-images) -   Home for AlmaLinux Docker image RootFS files and production version of sources (today)
+- [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Grid (1 day ago)
+- [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox (1 day ago)
+- [rosolko/WebDriverManager.Net](https://github.com/rosolko/WebDriverManager.Net) - Automatic Selenium Webdriver binaries management for .Net (1 day ago)
+- [wilsonzlin/minify-html](https://github.com/wilsonzlin/minify-html) - Extremely fast and smart HTML &#43; JS &#43; CSS minifier, available for Rust, Deno, Java, Node.js, Python, Ruby, and WASM (1 day ago)
 
 #### Quote of the day
 
