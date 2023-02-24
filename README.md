@@ -32,11 +32,11 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
+- [CrimsonTome/Hephaestus](https://github.com/CrimsonTome/Hephaestus) - Forge your new installation (today)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (2 days ago)
 - [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (2 days ago)
 - [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (3 days ago)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (3 days ago)
-- [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (1 week ago)
 
 
 #### 🔨 My recent Pull Requests
@@ -58,11 +58,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel (today)
 - [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage (today)
 - [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver. (today)
 - [waldur/python-freeipa](https://github.com/waldur/python-freeipa) - python-freeipa is lightweight FreeIPA client. (1 day ago)
 - [BigAnteater/KVM-GPU-Passthrough](https://github.com/BigAnteater/KVM-GPU-Passthrough) - This is a simple, mostly automated guide to pass a GPU through to a VM. (2 days ago)
-- [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through &#34;loaders&#34;, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff. (2 days ago)
 
 #### Quote of the day
 
