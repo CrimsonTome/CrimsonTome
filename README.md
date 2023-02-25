@@ -32,10 +32,10 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (2 days ago)
-- [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (2 days ago)
-- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (3 days ago)
-- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (3 days ago)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (3 days ago)
+- [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (3 days ago)
+- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (4 days ago)
+- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (4 days ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (1 week ago)
 
 
@@ -58,11 +58,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel (today)
-- [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage (today)
-- [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver. (today)
-- [waldur/python-freeipa](https://github.com/waldur/python-freeipa) - python-freeipa is lightweight FreeIPA client. (1 day ago)
-- [BigAnteater/KVM-GPU-Passthrough](https://github.com/BigAnteater/KVM-GPU-Passthrough) - This is a simple, mostly automated guide to pass a GPU through to a VM. (2 days ago)
+- [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel (1 day ago)
+- [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage (1 day ago)
+- [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver. (1 day ago)
+- [waldur/python-freeipa](https://github.com/waldur/python-freeipa) - python-freeipa is lightweight FreeIPA client. (2 days ago)
+- [BigAnteater/KVM-GPU-Passthrough](https://github.com/BigAnteater/KVM-GPU-Passthrough) - This is a simple, mostly automated guide to pass a GPU through to a VM. (3 days ago)
 
 #### Quote of the day
 
