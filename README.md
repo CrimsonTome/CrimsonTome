@@ -32,9 +32,9 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
+- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (today)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (3 days ago)
 - [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (3 days ago)
-- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (4 days ago)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (4 days ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (1 week ago)
 
@@ -58,11 +58,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils (today)
+- [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. (today)
+- [zinclabs/zincobserve](https://github.com/zinclabs/zincobserve) - 🚀 10x easier, 🚀 10x cheaper, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces). (today)
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel (1 day ago)
 - [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage (1 day ago)
-- [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver. (1 day ago)
-- [waldur/python-freeipa](https://github.com/waldur/python-freeipa) - python-freeipa is lightweight FreeIPA client. (2 days ago)
-- [BigAnteater/KVM-GPU-Passthrough](https://github.com/BigAnteater/KVM-GPU-Passthrough) - This is a simple, mostly automated guide to pass a GPU through to a VM. (3 days ago)
 
 #### Quote of the day
 
