@@ -58,11 +58,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [beardedio/terraria](https://github.com/beardedio/terraria) - Docker images to run a Terraria Server. Images with TShock Server or Vanilla Server are available. (today)
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils (3 days ago)
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. (3 days ago)
 - [zinclabs/zincobserve](https://github.com/zinclabs/zincobserve) - 🚀 10x easier, 🚀 10x cheaper, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces). (3 days ago)
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel (4 days ago)
-- [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage (4 days ago)
 
 #### Quote of the day
 
