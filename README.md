@@ -32,9 +32,9 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (2 days ago)
-- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (3 days ago)
-- [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (6 days ago)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (3 days ago)
+- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (4 days ago)
+- [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (1 week ago)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (1 week ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (1 week ago)
 
@@ -50,7 +50,7 @@ View my [GitHub Stats](/pages/stats.md)
 #### 📜 My recent blog posts
 
 - [Fedora -  a review](https://crimsontome.com/drafts/fedora-a-review/) (2 weeks ago)
-- [On switching to nginx properly](https://crimsontome.com/on-switching-to-nginx-properly/) (3 weeks ago)
+- [On switching to nginx properly](https://crimsontome.com/on-switching-to-nginx-properly/) (4 weeks ago)
 - [Self host your password manager!](https://crimsontome.com/password-managers/) (1 month ago)
 - [A (short) end of year update](https://crimsontome.com/a-quick-update/) (2 months ago)
 - [VPS setup 2, electric boogaloo](https://crimsontome.com/vps-setup-2-electric-boogaloo/) (5 months ago)
@@ -58,11 +58,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [beardedio/terraria](https://github.com/beardedio/terraria) - Docker images to run a Terraria Server. Images with TShock Server or Vanilla Server are available. (today)
-- [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils (3 days ago)
-- [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. (3 days ago)
-- [zinclabs/zincobserve](https://github.com/zinclabs/zincobserve) - 🚀 10x easier, 🚀 10x cheaper, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces). (3 days ago)
-- [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel (4 days ago)
+- [beardedio/terraria](https://github.com/beardedio/terraria) - Docker images to run a Terraria Server. Images with TShock Server or Vanilla Server are available. (1 day ago)
+- [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils (4 days ago)
+- [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. (4 days ago)
+- [zinclabs/zincobserve](https://github.com/zinclabs/zincobserve) - 🚀 10x easier, 🚀 10x cheaper, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces). (4 days ago)
+- [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel (5 days ago)
 
 #### Quote of the day
 
