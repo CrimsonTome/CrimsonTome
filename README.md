@@ -45,7 +45,6 @@ View my [GitHub Stats](/pages/stats.md)
 - [Rename CONDUCT.md to CODE_OF_CONDUCT.md](https://github.com/hullcss/hullcss-discord-bot/pull/26) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (4 months ago)
 - [add license info and tldr link](https://github.com/Hull-Robotics-Society/hullrs-bot/pull/7) on [Hull-Robotics-Society/hullrs-bot](https://github.com/Hull-Robotics-Society/hullrs-bot) (4 months ago)
 - [add License info with tldr link](https://github.com/KieranRobson/Arr-Bot/pull/10) on [KieranRobson/Arr-Bot](https://github.com/KieranRobson/Arr-Bot) (4 months ago)
-- [add license header and tldr link](https://github.com/hullcss/hullcss-discord-bot/pull/19) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (4 months ago)
 
 #### 📜 My recent blog posts
 
