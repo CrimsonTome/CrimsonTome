@@ -32,8 +32,8 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (today)
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (3 days ago)
+- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (1 day ago)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (4 days ago)
 - [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (1 week ago)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (1 week ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (1 week ago)
@@ -51,18 +51,18 @@ View my [GitHub Stats](/pages/stats.md)
 
 - [Fedora -  a review](https://crimsontome.com/drafts/fedora-a-review/) (2 weeks ago)
 - [On switching to nginx properly](https://crimsontome.com/on-switching-to-nginx-properly/) (4 weeks ago)
-- [Self host your password manager!](https://crimsontome.com/password-managers/) (1 month ago)
+- [Self host your password manager!](https://crimsontome.com/password-managers/) (2 months ago)
 - [A (short) end of year update](https://crimsontome.com/a-quick-update/) (2 months ago)
 - [VPS setup 2, electric boogaloo](https://crimsontome.com/vps-setup-2-electric-boogaloo/) (5 months ago)
 
 
 #### ⭐ Recent Stars
 
-- [alex47/KDE-Rounded-Corners](https://github.com/alex47/KDE-Rounded-Corners) - Rounds the corners of your windows (today)
-- [leftwm/leftwm](https://github.com/leftwm/leftwm) - A tiling window manager for Adventurers (today)
-- [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod (today)
-- [beardedio/terraria](https://github.com/beardedio/terraria) - Docker images to run a Terraria Server. Images with TShock Server or Vanilla Server are available. (1 day ago)
-- [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils (4 days ago)
+- [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants. (1 day ago)
+- [alex47/KDE-Rounded-Corners](https://github.com/alex47/KDE-Rounded-Corners) - Rounds the corners of your windows (1 day ago)
+- [leftwm/leftwm](https://github.com/leftwm/leftwm) - A tiling window manager for Adventurers (1 day ago)
+- [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod (1 day ago)
+- [beardedio/terraria](https://github.com/beardedio/terraria) - Docker images to run a Terraria Server. Images with TShock Server or Vanilla Server are available. (2 days ago)
 
 #### Quote of the day
 
