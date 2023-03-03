@@ -32,16 +32,16 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (today)
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (4 days ago)
+- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (1 day ago)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (5 days ago)
 - [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (1 week ago)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (1 week ago)
-- [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (1 week ago)
+- [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (2 weeks ago)
 
 
 #### 🔨 My recent Pull Requests
 
-- [chore: edit crimsontome&#39;s feed path](https://github.com/FreesideHull/hullblogs.com/pull/13) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (1 week ago)
+- [chore: edit crimsontome&#39;s feed path](https://github.com/FreesideHull/hullblogs.com/pull/13) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (2 weeks ago)
 - [Rename CONDUCT.md to CODE_OF_CONDUCT.md](https://github.com/hullcss/hullcss-discord-bot/pull/26) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (4 months ago)
 - [add license info and tldr link](https://github.com/Hull-Robotics-Society/hullrs-bot/pull/7) on [Hull-Robotics-Society/hullrs-bot](https://github.com/Hull-Robotics-Society/hullrs-bot) (4 months ago)
 - [add License info with tldr link](https://github.com/KieranRobson/Arr-Bot/pull/10) on [KieranRobson/Arr-Bot](https://github.com/KieranRobson/Arr-Bot) (4 months ago)
@@ -49,19 +49,19 @@ View my [GitHub Stats](/pages/stats.md)
 #### 📜 My recent blog posts
 
 - [Fedora -  a review](https://crimsontome.com/drafts/fedora-a-review/) (2 weeks ago)
-- [On switching to nginx properly](https://crimsontome.com/on-switching-to-nginx-properly/) (4 weeks ago)
+- [On switching to nginx properly](https://crimsontome.com/on-switching-to-nginx-properly/) (1 month ago)
 - [Self host your password manager!](https://crimsontome.com/password-managers/) (2 months ago)
 - [A (short) end of year update](https://crimsontome.com/a-quick-update/) (2 months ago)
-- [VPS setup 2, electric boogaloo](https://crimsontome.com/vps-setup-2-electric-boogaloo/) (5 months ago)
+- [VPS setup 2, electric boogaloo](https://crimsontome.com/vps-setup-2-electric-boogaloo/) (6 months ago)
 
 
 #### ⭐ Recent Stars
 
-- [nodiscc/awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) - [mirror] A list of software and resources for professional audio/video/live events production on Linux. (today)
-- [github/markup](https://github.com/github/markup) - Determines which markup library to use to render a content file (e.g. README) on GitHub (today)
-- [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants. (1 day ago)
-- [alex47/KDE-Rounded-Corners](https://github.com/alex47/KDE-Rounded-Corners) - Rounds the corners of your windows (1 day ago)
-- [leftwm/leftwm](https://github.com/leftwm/leftwm) - A tiling window manager for Adventurers (1 day ago)
+- [nodiscc/awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) - [mirror] A list of software and resources for professional audio/video/live events production on Linux. (1 day ago)
+- [github/markup](https://github.com/github/markup) - Determines which markup library to use to render a content file (e.g. README) on GitHub (1 day ago)
+- [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants. (2 days ago)
+- [alex47/KDE-Rounded-Corners](https://github.com/alex47/KDE-Rounded-Corners) - Rounds the corners of your windows (2 days ago)
+- [leftwm/leftwm](https://github.com/leftwm/leftwm) - A tiling window manager for Adventurers (2 days ago)
 
 #### Quote of the day
 
