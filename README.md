@@ -57,11 +57,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager (today)
 - [rpm-software-management/dnf5](https://github.com/rpm-software-management/dnf5) -  Package management library.  (1 day ago)
 - [rpm-software-management/dnf](https://github.com/rpm-software-management/dnf) - Package manager based on libdnf and libsolv. Replaces YUM. (1 day ago)
 - [nodiscc/awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) - [mirror] A list of software and resources for professional audio/video/live events production on Linux. (2 days ago)
 - [github/markup](https://github.com/github/markup) - Determines which markup library to use to render a content file (e.g. README) on GitHub (2 days ago)
-- [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants. (3 days ago)
 
 #### Quote of the day
 
