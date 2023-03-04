@@ -32,8 +32,8 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (today)
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (5 days ago)
+- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (1 day ago)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (6 days ago)
 - [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (1 week ago)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (1 week ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (2 weeks ago)
@@ -57,11 +57,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [rpm-software-management/dnf5](https://github.com/rpm-software-management/dnf5) -  Package management library.  (today)
-- [rpm-software-management/dnf](https://github.com/rpm-software-management/dnf) - Package manager based on libdnf and libsolv. Replaces YUM. (today)
-- [nodiscc/awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) - [mirror] A list of software and resources for professional audio/video/live events production on Linux. (1 day ago)
-- [github/markup](https://github.com/github/markup) - Determines which markup library to use to render a content file (e.g. README) on GitHub (1 day ago)
-- [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants. (2 days ago)
+- [rpm-software-management/dnf5](https://github.com/rpm-software-management/dnf5) -  Package management library.  (1 day ago)
+- [rpm-software-management/dnf](https://github.com/rpm-software-management/dnf) - Package manager based on libdnf and libsolv. Replaces YUM. (1 day ago)
+- [nodiscc/awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) - [mirror] A list of software and resources for professional audio/video/live events production on Linux. (2 days ago)
+- [github/markup](https://github.com/github/markup) - Determines which markup library to use to render a content file (e.g. README) on GitHub (2 days ago)
+- [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants. (3 days ago)
 
 #### Quote of the day
 
