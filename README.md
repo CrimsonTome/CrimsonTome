@@ -57,11 +57,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer (today)
+- [rust-lang/crates.io](https://github.com/rust-lang/crates.io) - The Rust package registry (today)
+- [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs (today)
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager (today)
 - [rpm-software-management/dnf5](https://github.com/rpm-software-management/dnf5) -  Package management library.  (1 day ago)
-- [rpm-software-management/dnf](https://github.com/rpm-software-management/dnf) - Package manager based on libdnf and libsolv. Replaces YUM. (1 day ago)
-- [nodiscc/awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio) - [mirror] A list of software and resources for professional audio/video/live events production on Linux. (2 days ago)
-- [github/markup](https://github.com/github/markup) - Determines which markup library to use to render a content file (e.g. README) on GitHub (2 days ago)
 
 #### Quote of the day
 
