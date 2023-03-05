@@ -32,8 +32,8 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (1 day ago)
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (6 days ago)
+- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (2 days ago)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 week ago)
 - [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (1 week ago)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (1 week ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (2 weeks ago)
@@ -48,7 +48,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 📜 My recent blog posts
 
-- [Fedora -  a review after a year of use](https://crimsontome.com/drafts/fedora-a-review/) (today)
+- [Fedora -  a review after a year of use](https://crimsontome.com/drafts/fedora-a-review/) (1 day ago)
 - [On switching to nginx properly](https://crimsontome.com/on-switching-to-nginx-properly/) (1 month ago)
 - [Self host your password manager!](https://crimsontome.com/password-managers/) (2 months ago)
 - [A (short) end of year update](https://crimsontome.com/a-quick-update/) (2 months ago)
@@ -57,11 +57,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer (today)
-- [rust-lang/crates.io](https://github.com/rust-lang/crates.io) - The Rust package registry (today)
-- [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs (today)
-- [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager (today)
-- [rpm-software-management/dnf5](https://github.com/rpm-software-management/dnf5) -  Package management library.  (1 day ago)
+- [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer (1 day ago)
+- [rust-lang/crates.io](https://github.com/rust-lang/crates.io) - The Rust package registry (1 day ago)
+- [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs (1 day ago)
+- [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager (1 day ago)
+- [rpm-software-management/dnf5](https://github.com/rpm-software-management/dnf5) -  Package management library.  (2 days ago)
 
 #### Quote of the day
 
