@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man&#39;s VPN.  Forwards over ssh.  Doesn&#39;t require admin.  Works with Linux and MacOS.  Supports DNS tunneling. (today)
 - [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer (5 days ago)
 - [rust-lang/crates.io](https://github.com/rust-lang/crates.io) - The Rust package registry (5 days ago)
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs (5 days ago)
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager (5 days ago)
-- [rpm-software-management/dnf5](https://github.com/rpm-software-management/dnf5) -  Package management library.  (6 days ago)
 
 #### Quote of the day
 
