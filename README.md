@@ -32,7 +32,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (5 days ago)
+- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (6 days ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 week ago)
 - [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (2 weeks ago)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (2 weeks ago)
@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 - [chore: edit crimsontome&#39;s feed path](https://github.com/FreesideHull/hullblogs.com/pull/13) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (3 weeks ago)
 - [Rename CONDUCT.md to CODE_OF_CONDUCT.md](https://github.com/hullcss/hullcss-discord-bot/pull/26) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (4 months ago)
-- [add license info and tldr link](https://github.com/Hull-Robotics-Society/hullrs-bot/pull/7) on [Hull-Robotics-Society/hullrs-bot](https://github.com/Hull-Robotics-Society/hullrs-bot) (4 months ago)
+- [add license info and tldr link](https://github.com/Hull-Robotics-Society/hullrs-bot/pull/7) on [Hull-Robotics-Society/hullrs-bot](https://github.com/Hull-Robotics-Society/hullrs-bot) (5 months ago)
 
 #### 📜 My recent blog posts
 
-- [Fedora -  a review after a year of use](https://crimsontome.com/fedora-a-review/) (6 days ago)
+- [Fedora -  a review after a year of use](https://crimsontome.com/fedora-a-review/) (1 week ago)
 - [On switching to nginx properly](https://crimsontome.com/on-switching-to-nginx-properly/) (1 month ago)
 - [Self host your password manager!](https://crimsontome.com/password-managers/) (2 months ago)
 - [A (short) end of year update](https://crimsontome.com/a-quick-update/) (2 months ago)
@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application (today)
-- [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man&#39;s VPN.  Forwards over ssh.  Doesn&#39;t require admin.  Works with Linux and MacOS.  Supports DNS tunneling. (1 day ago)
-- [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer (6 days ago)
-- [rust-lang/crates.io](https://github.com/rust-lang/crates.io) - The Rust package registry (6 days ago)
-- [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs (6 days ago)
+- [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application (1 day ago)
+- [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man&#39;s VPN.  Forwards over ssh.  Doesn&#39;t require admin.  Works with Linux and MacOS.  Supports DNS tunneling. (2 days ago)
+- [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer (1 week ago)
+- [rust-lang/crates.io](https://github.com/rust-lang/crates.io) - The Rust package registry (1 week ago)
+- [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs (1 week ago)
 
 #### Quote of the day
 
