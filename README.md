@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances (today)
+- [canonical/cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization (today)
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application (2 days ago)
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man&#39;s VPN.  Forwards over ssh.  Doesn&#39;t require admin.  Works with Linux and MacOS.  Supports DNS tunneling. (3 days ago)
 - [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer (1 week ago)
-- [rust-lang/crates.io](https://github.com/rust-lang/crates.io) - The Rust package registry (1 week ago)
-- [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs (1 week ago)
 
 #### Quote of the day
 
