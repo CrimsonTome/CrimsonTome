@@ -32,16 +32,16 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (today)
+- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (1 day ago)
 - [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (2 weeks ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (3 weeks ago)
-- [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (3 weeks ago)
+- [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (4 weeks ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (1 month ago)
 
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add Dockerfile](https://github.com/FreesideHull/hullblogs.com/pull/15) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (2 days ago)
+- [feat: add Dockerfile](https://github.com/FreesideHull/hullblogs.com/pull/15) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (3 days ago)
 - [chore: edit crimsontome&#39;s feed path](https://github.com/FreesideHull/hullblogs.com/pull/13) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (1 month ago)
 - [Rename CONDUCT.md to CODE_OF_CONDUCT.md](https://github.com/hullcss/hullcss-discord-bot/pull/26) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (5 months ago)
 
@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.   (today)
-- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (today)
-- [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes. (5 days ago)
-- [LibVNC/libvncserver](https://github.com/LibVNC/libvncserver) - LibVNCServer/LibVNCClient are cross-platform C libraries that allow you to easily implement VNC server or client functionality in your program. (6 days ago)
-- [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server (6 days ago)
+- [melonDS-emu/melonDS](https://github.com/melonDS-emu/melonDS) - DS emulator, sorta (today)
+- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.   (1 day ago)
+- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (1 day ago)
+- [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes. (6 days ago)
+- [LibVNC/libvncserver](https://github.com/LibVNC/libvncserver) - LibVNCServer/LibVNCClient are cross-platform C libraries that allow you to easily implement VNC server or client functionality in your program. (1 week ago)
 
 #### Quote of the day
 
