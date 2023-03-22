@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [melonDS-emu/melonDS](https://github.com/melonDS-emu/melonDS) - DS emulator, sorta (today)
-- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.   (1 day ago)
-- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn. (1 day ago)
-- [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes. (6 days ago)
-- [LibVNC/libvncserver](https://github.com/LibVNC/libvncserver) - LibVNCServer/LibVNCClient are cross-platform C libraries that allow you to easily implement VNC server or client functionality in your program. (1 week ago)
+- [mtrdp642/PokeApiNet](https://github.com/mtrdp642/PokeApiNet) - .Net wrapper for the Pokemon API PokeAPI (today)
+- [PokeAPI/pokebase](https://github.com/PokeAPI/pokebase) - Python 3 wrapper for Pokéapi v2 (today)
+- [PokeAPI/pokedex-promise-v2](https://github.com/PokeAPI/pokedex-promise-v2) - An easy way to use pokeapi v2 with promises in node.js (today)
+- [PokeAPI/pokeapi](https://github.com/PokeAPI/pokeapi) - The Pokémon API (today)
+- [smogon/pokemon-showdown](https://github.com/smogon/pokemon-showdown) - Pokémon battle simulator. (today)
 
 #### Quote of the day
 
