@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [mtrdp642/PokeApiNet](https://github.com/mtrdp642/PokeApiNet) - .Net wrapper for the Pokemon API PokeAPI (today)
-- [PokeAPI/pokebase](https://github.com/PokeAPI/pokebase) - Python 3 wrapper for Pokéapi v2 (today)
-- [PokeAPI/pokedex-promise-v2](https://github.com/PokeAPI/pokedex-promise-v2) - An easy way to use pokeapi v2 with promises in node.js (today)
-- [PokeAPI/pokeapi](https://github.com/PokeAPI/pokeapi) - The Pokémon API (today)
-- [smogon/pokemon-showdown](https://github.com/smogon/pokemon-showdown) - Pokémon battle simulator. (today)
+- [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust. (today)
+- [xonotic/xonotic](https://github.com/xonotic/xonotic) - Mirror of https://gitlab.com/xonotic - Xonotic (superproject containing build scripts and tools to download other repositories and assets) (today)
+- [http-rs/tide](https://github.com/http-rs/tide) - Fast and friendly HTTP server framework for async Rust (today)
+- [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included) (today)
+- [freeciv/freeciv](https://github.com/freeciv/freeciv) - Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization. Upstream repository for the standalone Freeciv client and server. Report bugs and submit patches at https://osdn.net/projects/freeciv/ticket/ (today)
 
 #### Quote of the day
 
