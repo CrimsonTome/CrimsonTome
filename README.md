@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [silkfire/Pastel](https://github.com/silkfire/Pastel) - Snazz up your console output! (today)
 - [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) - Unifi Docker files (today)
 - [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) -  (today)
 - [DexManly/Borderlands3ReadOnlyManager](https://github.com/DexManly/Borderlands3ReadOnlyManager) - A Borderlands 3 file manager that allows for one click set/unset read only. (4 days ago)
 - [watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) - Watches over your Cargo project&#39;s source. (6 days ago)
-- [Plume-org/Plume](https://github.com/Plume-org/Plume) - Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror) (6 days ago)
 
 #### Quote of the day
 
