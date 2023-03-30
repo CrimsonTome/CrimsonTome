@@ -32,7 +32,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (1 day ago)
+- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (2 days ago)
 - [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (3 weeks ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 month ago)
 - [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (1 month ago)
@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [silkfire/Pastel](https://github.com/silkfire/Pastel) - Snazz up your console output! (today)
-- [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) - Unifi Docker files (today)
-- [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) -  (today)
-- [DexManly/Borderlands3ReadOnlyManager](https://github.com/DexManly/Borderlands3ReadOnlyManager) - A Borderlands 3 file manager that allows for one click set/unset read only. (4 days ago)
-- [watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) - Watches over your Cargo project&#39;s source. (6 days ago)
+- [silkfire/Pastel](https://github.com/silkfire/Pastel) - Snazz up your console output! (1 day ago)
+- [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) - Unifi Docker files (1 day ago)
+- [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) -  (1 day ago)
+- [DexManly/Borderlands3ReadOnlyManager](https://github.com/DexManly/Borderlands3ReadOnlyManager) - A Borderlands 3 file manager that allows for one click set/unset read only. (5 days ago)
+- [watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) - Watches over your Cargo project&#39;s source. (1 week ago)
 
 #### Quote of the day
 
