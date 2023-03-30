@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [Staacks/gbinterceptor](https://github.com/Staacks/gbinterceptor) - Capture or stream Game Boy gameplay footage via USB without modifying the Game Boy. (today)
 - [silkfire/Pastel](https://github.com/silkfire/Pastel) - Snazz up your console output! (1 day ago)
 - [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) - Unifi Docker files (1 day ago)
 - [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) -  (1 day ago)
 - [DexManly/Borderlands3ReadOnlyManager](https://github.com/DexManly/Borderlands3ReadOnlyManager) - A Borderlands 3 file manager that allows for one click set/unset read only. (5 days ago)
-- [watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) - Watches over your Cargo project&#39;s source. (1 week ago)
 
 #### Quote of the day
 
