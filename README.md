@@ -32,7 +32,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (3 days ago)
+- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (4 days ago)
 - [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (3 weeks ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 month ago)
 - [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (1 month ago)
@@ -47,20 +47,20 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 📜 My recent blog posts
 
-- [Fedora -  a review after a year of use](https://crimsontome.com/fedora-a-review/) (3 weeks ago)
+- [Fedora -  a review after a year of use](https://crimsontome.com/fedora-a-review/) (4 weeks ago)
 - [On switching to nginx properly](https://crimsontome.com/on-switching-to-nginx-properly/) (1 month ago)
-- [Self host your password manager!](https://crimsontome.com/password-managers/) (2 months ago)
+- [Self host your password manager!](https://crimsontome.com/password-managers/) (3 months ago)
 - [A (short) end of year update](https://crimsontome.com/a-quick-update/) (3 months ago)
 - [VPS setup 2, electric boogaloo](https://crimsontome.com/vps-setup-2-electric-boogaloo/) (6 months ago)
 
 
 #### ⭐ Recent Stars
 
-- [Staacks/gbinterceptor](https://github.com/Staacks/gbinterceptor) - Capture or stream Game Boy gameplay footage via USB without modifying the Game Boy. (1 day ago)
-- [silkfire/Pastel](https://github.com/silkfire/Pastel) - Snazz up your console output! (2 days ago)
-- [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) - Unifi Docker files (2 days ago)
-- [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) -  (2 days ago)
-- [DexManly/Borderlands3ReadOnlyManager](https://github.com/DexManly/Borderlands3ReadOnlyManager) - A Borderlands 3 file manager that allows for one click set/unset read only. (6 days ago)
+- [Staacks/gbinterceptor](https://github.com/Staacks/gbinterceptor) - Capture or stream Game Boy gameplay footage via USB without modifying the Game Boy. (2 days ago)
+- [silkfire/Pastel](https://github.com/silkfire/Pastel) - Snazz up your console output! (3 days ago)
+- [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) - Unifi Docker files (3 days ago)
+- [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) -  (3 days ago)
+- [DexManly/Borderlands3ReadOnlyManager](https://github.com/DexManly/Borderlands3ReadOnlyManager) - A Borderlands 3 file manager that allows for one click set/unset read only. (1 week ago)
 
 #### Quote of the day
 
