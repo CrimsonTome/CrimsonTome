@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [rocky-linux/wiki.rockylinux.org](https://github.com/rocky-linux/wiki.rockylinux.org) - The Rocky Linux project&#39;s wiki (today)
 - [Staacks/gbinterceptor](https://github.com/Staacks/gbinterceptor) - Capture or stream Game Boy gameplay footage via USB without modifying the Game Boy. (2 days ago)
 - [silkfire/Pastel](https://github.com/silkfire/Pastel) - Snazz up your console output! (3 days ago)
 - [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) - Unifi Docker files (3 days ago)
 - [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) -  (3 days ago)
-- [DexManly/Borderlands3ReadOnlyManager](https://github.com/DexManly/Borderlands3ReadOnlyManager) - A Borderlands 3 file manager that allows for one click set/unset read only. (1 week ago)
 
 #### Quote of the day
 
