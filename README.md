@@ -32,8 +32,8 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (4 days ago)
-- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (3 weeks ago)
+- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (5 days ago)
+- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (4 weeks ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 month ago)
 - [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (1 month ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (1 month ago)
@@ -41,26 +41,26 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add Dockerfile](https://github.com/FreesideHull/hullblogs.com/pull/15) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (1 week ago)
+- [feat: add Dockerfile](https://github.com/FreesideHull/hullblogs.com/pull/15) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (2 weeks ago)
 - [chore: edit crimsontome&#39;s feed path](https://github.com/FreesideHull/hullblogs.com/pull/13) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (1 month ago)
 - [Rename CONDUCT.md to CODE_OF_CONDUCT.md](https://github.com/hullcss/hullcss-discord-bot/pull/26) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (5 months ago)
 
 #### 📜 My recent blog posts
 
 - [Fedora -  a review after a year of use](https://crimsontome.com/fedora-a-review/) (4 weeks ago)
-- [On switching to nginx properly](https://crimsontome.com/on-switching-to-nginx-properly/) (1 month ago)
+- [On switching to nginx properly](https://crimsontome.com/on-switching-to-nginx-properly/) (2 months ago)
 - [Self host your password manager!](https://crimsontome.com/password-managers/) (3 months ago)
 - [A (short) end of year update](https://crimsontome.com/a-quick-update/) (3 months ago)
-- [VPS setup 2, electric boogaloo](https://crimsontome.com/vps-setup-2-electric-boogaloo/) (6 months ago)
+- [VPS setup 2, electric boogaloo](https://crimsontome.com/vps-setup-2-electric-boogaloo/) (7 months ago)
 
 
 #### ⭐ Recent Stars
 
-- [rocky-linux/wiki.rockylinux.org](https://github.com/rocky-linux/wiki.rockylinux.org) - The Rocky Linux project&#39;s wiki (today)
-- [Staacks/gbinterceptor](https://github.com/Staacks/gbinterceptor) - Capture or stream Game Boy gameplay footage via USB without modifying the Game Boy. (2 days ago)
-- [silkfire/Pastel](https://github.com/silkfire/Pastel) - Snazz up your console output! (3 days ago)
-- [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) - Unifi Docker files (3 days ago)
-- [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) -  (3 days ago)
+- [rocky-linux/wiki.rockylinux.org](https://github.com/rocky-linux/wiki.rockylinux.org) - The Rocky Linux project&#39;s wiki (1 day ago)
+- [Staacks/gbinterceptor](https://github.com/Staacks/gbinterceptor) - Capture or stream Game Boy gameplay footage via USB without modifying the Game Boy. (3 days ago)
+- [silkfire/Pastel](https://github.com/silkfire/Pastel) - Snazz up your console output! (4 days ago)
+- [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) - Unifi Docker files (4 days ago)
+- [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) -  (4 days ago)
 
 #### Quote of the day
 
