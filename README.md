@@ -32,7 +32,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (5 days ago)
+- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (6 days ago)
 - [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (4 weeks ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 month ago)
 - [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (1 month ago)
@@ -47,7 +47,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 📜 My recent blog posts
 
-- [Fedora -  a review after a year of use](https://crimsontome.com/fedora-a-review/) (4 weeks ago)
+- [Fedora -  a review after a year of use](https://crimsontome.com/fedora-a-review/) (1 month ago)
 - [On switching to nginx properly](https://crimsontome.com/on-switching-to-nginx-properly/) (2 months ago)
 - [Self host your password manager!](https://crimsontome.com/password-managers/) (3 months ago)
 - [A (short) end of year update](https://crimsontome.com/a-quick-update/) (3 months ago)
@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [rocky-linux/wiki.rockylinux.org](https://github.com/rocky-linux/wiki.rockylinux.org) - The Rocky Linux project&#39;s wiki (1 day ago)
-- [Staacks/gbinterceptor](https://github.com/Staacks/gbinterceptor) - Capture or stream Game Boy gameplay footage via USB without modifying the Game Boy. (3 days ago)
-- [silkfire/Pastel](https://github.com/silkfire/Pastel) - Snazz up your console output! (4 days ago)
-- [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) - Unifi Docker files (4 days ago)
-- [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) -  (4 days ago)
+- [rocky-linux/wiki.rockylinux.org](https://github.com/rocky-linux/wiki.rockylinux.org) - The Rocky Linux project&#39;s wiki (2 days ago)
+- [Staacks/gbinterceptor](https://github.com/Staacks/gbinterceptor) - Capture or stream Game Boy gameplay footage via USB without modifying the Game Boy. (4 days ago)
+- [silkfire/Pastel](https://github.com/silkfire/Pastel) - Snazz up your console output! (5 days ago)
+- [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) - Unifi Docker files (5 days ago)
+- [linuxserver/docker-unifi-controller](https://github.com/linuxserver/docker-unifi-controller) -  (5 days ago)
 
 #### Quote of the day
 
