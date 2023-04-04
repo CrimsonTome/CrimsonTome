@@ -32,8 +32,8 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (6 days ago)
-- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (4 weeks ago)
+- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (1 week ago)
+- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (1 month ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 month ago)
 - [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (1 month ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (1 month ago)
@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [catppuccin/visual-studio](https://github.com/catppuccin/visual-studio) - :ocean: Soothing pastel themes for Visual Studio (today)
-- [rocky-linux/wiki.rockylinux.org](https://github.com/rocky-linux/wiki.rockylinux.org) - The Rocky Linux project&#39;s wiki (2 days ago)
-- [Staacks/gbinterceptor](https://github.com/Staacks/gbinterceptor) - Capture or stream Game Boy gameplay footage via USB without modifying the Game Boy. (4 days ago)
-- [silkfire/Pastel](https://github.com/silkfire/Pastel) - Snazz up your console output! (5 days ago)
-- [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) - Unifi Docker files (5 days ago)
+- [catppuccin/visual-studio](https://github.com/catppuccin/visual-studio) - :ocean: Soothing pastel themes for Visual Studio (1 day ago)
+- [rocky-linux/wiki.rockylinux.org](https://github.com/rocky-linux/wiki.rockylinux.org) - The Rocky Linux project&#39;s wiki (3 days ago)
+- [Staacks/gbinterceptor](https://github.com/Staacks/gbinterceptor) - Capture or stream Game Boy gameplay footage via USB without modifying the Game Boy. (5 days ago)
+- [silkfire/Pastel](https://github.com/silkfire/Pastel) - Snazz up your console output! (6 days ago)
+- [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) - Unifi Docker files (6 days ago)
 
 #### Quote of the day
 
