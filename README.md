@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features. (today)
 - [catppuccin/visual-studio](https://github.com/catppuccin/visual-studio) - :ocean: Soothing pastel themes for Visual Studio (6 days ago)
 - [rocky-linux/wiki.rockylinux.org](https://github.com/rocky-linux/wiki.rockylinux.org) - The Rocky Linux project&#39;s wiki (1 week ago)
 - [Staacks/gbinterceptor](https://github.com/Staacks/gbinterceptor) - Capture or stream Game Boy gameplay footage via USB without modifying the Game Boy. (1 week ago)
 - [silkfire/Pastel](https://github.com/silkfire/Pastel) - Snazz up your console output! (1 week ago)
-- [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) - Unifi Docker files (1 week ago)
 
 #### Quote of the day
 
