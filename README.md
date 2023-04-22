@@ -56,11 +56,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [justfoolingaround/animdl](https://github.com/justfoolingaround/animdl) - A highly efficient, fast, powerful and light-weight anime downloader and streamer for your favorite anime. (today)
 - [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) - A GUI to quickly manage your WSL2 instances (1 day ago)
 - [kintesh/containerise](https://github.com/kintesh/containerise) - Firefox extension to automatically open websites in a container (1 day ago)
 - [Ryavell/VisualStudioDiscordRPC](https://github.com/Ryavell/VisualStudioDiscordRPC) - Discord rich presence for Visual Studio with support for 2019 and 2022 versions. (1 week ago)
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features. (1 week ago)
-- [catppuccin/visual-studio](https://github.com/catppuccin/visual-studio) - :ocean: Soothing pastel themes for Visual Studio (2 weeks ago)
 
 #### Quote of the day
 
