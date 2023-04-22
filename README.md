@@ -32,10 +32,10 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (today)
-- [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (today)
+- [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (1 day ago)
+- [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (1 day ago)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (1 week ago)
-- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (1 week ago)
+- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (2 weeks ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 month ago)
 
 
@@ -56,8 +56,8 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) - A GUI to quickly manage your WSL2 instances (today)
-- [kintesh/containerise](https://github.com/kintesh/containerise) - Firefox extension to automatically open websites in a container (today)
+- [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) - A GUI to quickly manage your WSL2 instances (1 day ago)
+- [kintesh/containerise](https://github.com/kintesh/containerise) - Firefox extension to automatically open websites in a container (1 day ago)
 - [Ryavell/VisualStudioDiscordRPC](https://github.com/Ryavell/VisualStudioDiscordRPC) - Discord rich presence for Visual Studio with support for 2019 and 2022 versions. (1 week ago)
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features. (1 week ago)
 - [catppuccin/visual-studio](https://github.com/catppuccin/visual-studio) - :ocean: Soothing pastel themes for Visual Studio (2 weeks ago)
