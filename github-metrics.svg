@@ -1471,7 +1471,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PatrickF1/fzf.fish</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔍🐟 Fzf plugin for Fish</div>
@@ -1524,7 +1524,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>danhper/fundle</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A minimalist package manager for fish shell</div>
@@ -1577,7 +1577,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>justinmayer/tacklebox</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Framework for organizing and sharing fish shell functions</div>
@@ -1630,7 +1630,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oh-my-fish/packages-main</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Primary Oh My Fish package repository.</div>
@@ -2347,7 +2347,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.74m out of 397m repositories</span>
+                                    <span class="gh">ranked 4.73m out of 397m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2468,7 +2468,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Apr 2023, 19:16:11 (timezone Europe/London) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 29 Apr 2023, 20:10:38 (timezone Europe/London) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
