@@ -58,11 +58,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [justfoolingaround/animdl](https://github.com/justfoolingaround/animdl) - A highly efficient, fast, powerful and light-weight anime downloader and streamer for your favorite anime. (1 week ago)
-- [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) - A GUI to quickly manage your WSL2 instances (1 week ago)
-- [kintesh/containerise](https://github.com/kintesh/containerise) - Firefox extension to automatically open websites in a container (1 week ago)
-- [Ryavell/VisualStudioDiscordRPC](https://github.com/Ryavell/VisualStudioDiscordRPC) - Discord rich presence for Visual Studio with support for 2019 and 2022 versions. (2 weeks ago)
-- [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features. (2 weeks ago)
+- [danhper/fundle](https://github.com/danhper/fundle) - A minimalist package manager for fish shell (today)
+- [justinmayer/tacklebox](https://github.com/justinmayer/tacklebox) - Framework for organizing and sharing fish shell functions (today)
+- [oh-my-fish/packages-main](https://github.com/oh-my-fish/packages-main) - Primary Oh My Fish package repository. (today)
+- [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework (today)
+- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish. (today)
 
 #### Quote of the day
 
