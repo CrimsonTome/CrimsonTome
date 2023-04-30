@@ -32,7 +32,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [DDD-group-22-23/DDD-group-project](https://github.com/DDD-group-22-23/DDD-group-project) - Assignment repo for DDD T2 project (5 days ago)
+- [DDD-group-22-23/DDD-group-project](https://github.com/DDD-group-22-23/DDD-group-project) - Assignment repo for DDD T2 project (6 days ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (1 week ago)
 - [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (1 week ago)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (2 weeks ago)
@@ -58,11 +58,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish) - 🔍🐟 Fzf plugin for Fish (today)
-- [danhper/fundle](https://github.com/danhper/fundle) - A minimalist package manager for fish shell (today)
-- [justinmayer/tacklebox](https://github.com/justinmayer/tacklebox) - Framework for organizing and sharing fish shell functions (today)
-- [oh-my-fish/packages-main](https://github.com/oh-my-fish/packages-main) - Primary Oh My Fish package repository. (today)
-- [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework (today)
+- [PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish) - 🔍🐟 Fzf plugin for Fish (1 day ago)
+- [danhper/fundle](https://github.com/danhper/fundle) - A minimalist package manager for fish shell (1 day ago)
+- [justinmayer/tacklebox](https://github.com/justinmayer/tacklebox) - Framework for organizing and sharing fish shell functions (1 day ago)
+- [oh-my-fish/packages-main](https://github.com/oh-my-fish/packages-main) - Primary Oh My Fish package repository. (1 day ago)
+- [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework (1 day ago)
 
 #### Quote of the day
 
