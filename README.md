@@ -32,10 +32,10 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
+- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (today)
 - [DDD-group-22-23/DDD-group-project](https://github.com/DDD-group-22-23/DDD-group-project) - Assignment repo for DDD T2 project (1 week ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (1 week ago)
 - [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (1 week ago)
-- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (2 weeks ago)
 - [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (3 weeks ago)
 
 
@@ -58,11 +58,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [max-niederman/ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test. (today)
+- [lemnos/tt](https://github.com/lemnos/tt) - A terminal based typing test. (today)
 - [PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish) - 🔍🐟 Fzf plugin for Fish (2 days ago)
 - [danhper/fundle](https://github.com/danhper/fundle) - A minimalist package manager for fish shell (2 days ago)
 - [justinmayer/tacklebox](https://github.com/justinmayer/tacklebox) - Framework for organizing and sharing fish shell functions (2 days ago)
-- [oh-my-fish/packages-main](https://github.com/oh-my-fish/packages-main) - Primary Oh My Fish package repository. (2 days ago)
-- [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework (2 days ago)
 
 #### Quote of the day
 
