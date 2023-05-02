@@ -32,7 +32,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (today)
+- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (1 day ago)
 - [DDD-group-22-23/DDD-group-project](https://github.com/DDD-group-22-23/DDD-group-project) - Assignment repo for DDD T2 project (1 week ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (1 week ago)
 - [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (1 week ago)
@@ -50,19 +50,19 @@ View my [GitHub Stats](/pages/stats.md)
 #### 📜 My recent blog posts
 
 - [Fedora -  a review after a year of use](https://crimsontome.com/fedora-a-review/) (1 month ago)
-- [On switching to nginx properly](https://crimsontome.com/on-switching-to-nginx-properly/) (2 months ago)
+- [On switching to nginx properly](https://crimsontome.com/on-switching-to-nginx-properly/) (3 months ago)
 - [Self host your password manager!](https://crimsontome.com/password-managers/) (4 months ago)
 - [A (short) end of year update](https://crimsontome.com/a-quick-update/) (4 months ago)
-- [VPS setup 2, electric boogaloo](https://crimsontome.com/vps-setup-2-electric-boogaloo/) (7 months ago)
+- [VPS setup 2, electric boogaloo](https://crimsontome.com/vps-setup-2-electric-boogaloo/) (8 months ago)
 
 
 #### ⭐ Recent Stars
 
-- [max-niederman/ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test. (today)
-- [lemnos/tt](https://github.com/lemnos/tt) - A terminal based typing test. (today)
-- [PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish) - 🔍🐟 Fzf plugin for Fish (2 days ago)
-- [danhper/fundle](https://github.com/danhper/fundle) - A minimalist package manager for fish shell (2 days ago)
-- [justinmayer/tacklebox](https://github.com/justinmayer/tacklebox) - Framework for organizing and sharing fish shell functions (2 days ago)
+- [max-niederman/ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test. (1 day ago)
+- [lemnos/tt](https://github.com/lemnos/tt) - A terminal based typing test. (1 day ago)
+- [PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish) - 🔍🐟 Fzf plugin for Fish (3 days ago)
+- [danhper/fundle](https://github.com/danhper/fundle) - A minimalist package manager for fish shell (3 days ago)
+- [justinmayer/tacklebox](https://github.com/justinmayer/tacklebox) - Framework for organizing and sharing fish shell functions (3 days ago)
 
 #### Quote of the day
 
