@@ -58,11 +58,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. (today)
 - [max-niederman/ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test. (1 day ago)
 - [lemnos/tt](https://github.com/lemnos/tt) - A terminal based typing test. (1 day ago)
 - [PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish) - 🔍🐟 Fzf plugin for Fish (3 days ago)
 - [danhper/fundle](https://github.com/danhper/fundle) - A minimalist package manager for fish shell (3 days ago)
-- [justinmayer/tacklebox](https://github.com/justinmayer/tacklebox) - Framework for organizing and sharing fish shell functions (3 days ago)
 
 #### Quote of the day
 
