@@ -4,7 +4,7 @@
 
 --> Many of my old / private repositories have been moved to my git server @ https://git.crimsontome.com &lt;-- 
 
-A copy of my CV is available [here](https://crimsontome.com/img/cv-02-23.pdf) 
+A copy of my CV is available [here](https://crimsontome.com/img/rccv-04-23.pdf) 
 
 <p>
 <a href="https://discord.com/users/449573875743981569"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
