@@ -58,11 +58,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP&#43;everything else server: a mail server in a box. (today)
 - [redscientistlabs/RTCV](https://github.com/redscientistlabs/RTCV) - Real-Time Corruptor, Vanguard, CorruptCore, NetCore2 https://redscientist.com/rtc (5 days ago)
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. (1 week ago)
 - [max-niederman/ttyper](https://github.com/max-niederman/ttyper) - Terminal-based typing test. (1 week ago)
 - [lemnos/tt](https://github.com/lemnos/tt) - A terminal based typing test. (1 week ago)
-- [PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish) - 🔍🐟 Fzf plugin for Fish (1 week ago)
 
 #### Quote of the day
 
