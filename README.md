@@ -45,7 +45,7 @@ View my [GitHub Stats](/pages/stats.md)
 - [2nd checkpoint slides](https://github.com/DDD-group-22-23/DDD-group-project/pull/7) on [DDD-group-22-23/DDD-group-project](https://github.com/DDD-group-22-23/DDD-group-project) (2 months ago)
 - [feature/selenium](https://github.com/DDD-group-22-23/DDD-group-project/pull/6) on [DDD-group-22-23/DDD-group-project](https://github.com/DDD-group-22-23/DDD-group-project) (2 months ago)
 - [chore: edit crimsontome&#39;s feed path](https://github.com/FreesideHull/hullblogs.com/pull/13) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (3 months ago)
-- [Rename CONDUCT.md to CODE_OF_CONDUCT.md](https://github.com/hullcss/hullcss-discord-bot/pull/26) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (6 months ago)
+- [Rename CONDUCT.md to CODE_OF_CONDUCT.md](https://github.com/hullcss/hullcss-discord-bot/pull/26) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (7 months ago)
 
 #### 📜 My recent blog posts
 
@@ -58,11 +58,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [stenzek/duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64 (3 days ago)
+- [stenzek/duckstation](https://github.com/stenzek/duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64 (4 days ago)
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording (1 week ago)
 - [stav121/i3wm-themer](https://github.com/stav121/i3wm-themer) -  🎨 Theme collection manager for i3-wm (1 week ago)
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP&#43;everything else server: a mail server in a box. (1 week ago)
-- [redscientistlabs/RTCV](https://github.com/redscientistlabs/RTCV) - Real-Time Corruptor, Vanguard, CorruptCore, NetCore2 https://redscientist.com/rtc (1 week ago)
+- [redscientistlabs/RTCV](https://github.com/redscientistlabs/RTCV) - Real-Time Corruptor, Vanguard, CorruptCore, NetCore2 https://redscientist.com/rtc (2 weeks ago)
 
 #### Quote of the day
 
