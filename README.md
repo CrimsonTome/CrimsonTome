@@ -32,8 +32,8 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (today)
-- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (2 days ago)
+- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (1 day ago)
+- [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (3 days ago)
 - [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (4 weeks ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (4 weeks ago)
 - [DDD-group-22-23/DDD-group-project](https://github.com/DDD-group-22-23/DDD-group-project) - Assignment repo for DDD T2 project (1 month ago)
@@ -49,7 +49,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 📜 My recent blog posts
 
-- [Fedora -  a review after a year of use](https://crimsontome.com/fedora-a-review/) (2 months ago)
+- [Fedora -  a review after a year of use](https://crimsontome.com/fedora-a-review/) (3 months ago)
 - [On switching to nginx properly](https://crimsontome.com/on-switching-to-nginx-properly/) (4 months ago)
 - [Self host your password manager!](https://crimsontome.com/password-managers/) (5 months ago)
 - [A (short) end of year update](https://crimsontome.com/a-quick-update/) (5 months ago)
@@ -58,7 +58,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!  (2 days ago)
+- [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!  (3 days ago)
 - [PaperMC/Folia](https://github.com/PaperMC/Folia) - Fork of Paper which adds regionised multithreading to the dedicated server. (1 week ago)
 - [mmcc-xx/WhosAtMyFeeder](https://github.com/mmcc-xx/WhosAtMyFeeder) -  (1 week ago)
 - [mazen160/GithubCloner](https://github.com/mazen160/GithubCloner) - A script that clones Github repositories of users and organizations. (1 week ago)
