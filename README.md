@@ -58,11 +58,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [EverestAPI/Resources](https://github.com/EverestAPI/Resources) - Celeste modding resources collected and maintained by the community. Feel free to submit a PR or edit the wiki. (today)
+- [EverestAPI/CelesteTAS-EverestInterop](https://github.com/EverestAPI/CelesteTAS-EverestInterop) - Everest interop for DevilSquirrel&#39;s CelesteTAS (today)
+- [ShootMe/CelesteTAS](https://github.com/ShootMe/CelesteTAS) - Simple TAS tools for the game Celeste (today)
 - [mkj/dropbear](https://github.com/mkj/dropbear) - Dropbear SSH (1 week ago)
 - [mtoensing/Docker-Minecraft-PaperMC-Server](https://github.com/mtoensing/Docker-Minecraft-PaperMC-Server) - Starts a Minecraft PaperMC server (1 week ago)
-- [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100&#43; programming languages (1 week ago)
-- [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!  (2 weeks ago)
-- [PaperMC/Folia](https://github.com/PaperMC/Folia) - Fork of Paper which adds regionised multithreading to the dedicated server. (2 weeks ago)
 
 #### Quote of the day
 
