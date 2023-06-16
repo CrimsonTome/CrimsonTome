@@ -58,11 +58,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [EverestAPI/Resources](https://github.com/EverestAPI/Resources) - Celeste modding resources collected and maintained by the community. Feel free to submit a PR or edit the wiki. (2 days ago)
-- [EverestAPI/CelesteTAS-EverestInterop](https://github.com/EverestAPI/CelesteTAS-EverestInterop) - Everest interop for DevilSquirrel&#39;s CelesteTAS (2 days ago)
-- [ShootMe/CelesteTAS](https://github.com/ShootMe/CelesteTAS) - Simple TAS tools for the game Celeste (2 days ago)
+- [EverestAPI/Resources](https://github.com/EverestAPI/Resources) - Celeste modding resources collected and maintained by the community. Feel free to submit a PR or edit the wiki. (3 days ago)
+- [EverestAPI/CelesteTAS-EverestInterop](https://github.com/EverestAPI/CelesteTAS-EverestInterop) - Everest interop for DevilSquirrel&#39;s CelesteTAS (3 days ago)
+- [ShootMe/CelesteTAS](https://github.com/ShootMe/CelesteTAS) - Simple TAS tools for the game Celeste (3 days ago)
 - [mkj/dropbear](https://github.com/mkj/dropbear) - Dropbear SSH (1 week ago)
-- [mtoensing/Docker-Minecraft-PaperMC-Server](https://github.com/mtoensing/Docker-Minecraft-PaperMC-Server) - Starts a Minecraft PaperMC server (1 week ago)
+- [mtoensing/Docker-Minecraft-PaperMC-Server](https://github.com/mtoensing/Docker-Minecraft-PaperMC-Server) - Starts a Minecraft PaperMC server (2 weeks ago)
 
 #### Quote of the day
 
