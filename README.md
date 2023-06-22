@@ -52,7 +52,7 @@ View my [GitHub Stats](/pages/stats.md)
 - [Fedora -  a review after a year of use](https://crimsontome.com/fedora-a-review/) (3 months ago)
 - [On switching to nginx properly](https://crimsontome.com/on-switching-to-nginx-properly/) (4 months ago)
 - [Self host your password manager!](https://crimsontome.com/password-managers/) (5 months ago)
-- [A (short) end of year update](https://crimsontome.com/a-quick-update/) (5 months ago)
+- [A (short) end of year update](https://crimsontome.com/a-quick-update/) (6 months ago)
 - [VPS setup 2, electric boogaloo](https://crimsontome.com/vps-setup-2-electric-boogaloo/) (9 months ago)
 
 
