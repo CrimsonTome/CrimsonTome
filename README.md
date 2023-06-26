@@ -58,11 +58,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse (today)
+- [liftoff-app/liftoff](https://github.com/liftoff-app/liftoff) - 🐒  A mobile client for lemmy (today)
+- [lemmygtk/lemoa](https://github.com/lemmygtk/lemoa) - Native Gtk client for Lemmy (today)
 - [EverestAPI/Resources](https://github.com/EverestAPI/Resources) - Celeste modding resources collected and maintained by the community. Feel free to submit a PR or edit the wiki. (1 week ago)
 - [EverestAPI/CelesteTAS-EverestInterop](https://github.com/EverestAPI/CelesteTAS-EverestInterop) - Everest interop for DevilSquirrel&#39;s CelesteTAS (1 week ago)
-- [ShootMe/CelesteTAS](https://github.com/ShootMe/CelesteTAS) - Simple TAS tools for the game Celeste (1 week ago)
-- [mkj/dropbear](https://github.com/mkj/dropbear) - Dropbear SSH (2 weeks ago)
-- [mtoensing/Docker-Minecraft-PaperMC-Server](https://github.com/mtoensing/Docker-Minecraft-PaperMC-Server) - Starts a Minecraft PaperMC server (3 weeks ago)
 
 #### Quote of the day
 
