@@ -58,11 +58,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper (today)
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse (today)
 - [liftoff-app/liftoff](https://github.com/liftoff-app/liftoff) - 🐒  A mobile client for lemmy (today)
 - [lemmygtk/lemoa](https://github.com/lemmygtk/lemoa) - Native Gtk client for Lemmy (today)
 - [EverestAPI/Resources](https://github.com/EverestAPI/Resources) - Celeste modding resources collected and maintained by the community. Feel free to submit a PR or edit the wiki. (1 week ago)
-- [EverestAPI/CelesteTAS-EverestInterop](https://github.com/EverestAPI/CelesteTAS-EverestInterop) - Everest interop for DevilSquirrel&#39;s CelesteTAS (1 week ago)
 
 #### Quote of the day
 
