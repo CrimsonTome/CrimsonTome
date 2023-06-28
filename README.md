@@ -58,11 +58,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor                                      (today)
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper (2 days ago)
 - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse (2 days ago)
 - [liftoff-app/liftoff](https://github.com/liftoff-app/liftoff) - 🐒  A mobile client for lemmy (2 days ago)
 - [lemmygtk/lemoa](https://github.com/lemmygtk/lemoa) - Native Gtk client for Lemmy (2 days ago)
-- [EverestAPI/Resources](https://github.com/EverestAPI/Resources) - Celeste modding resources collected and maintained by the community. Feel free to submit a PR or edit the wiki. (2 weeks ago)
 
 #### Quote of the day
 
