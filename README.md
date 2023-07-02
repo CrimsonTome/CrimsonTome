@@ -32,8 +32,8 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (1 day ago)
-- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (4 days ago)
+- [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (2 days ago)
+- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (5 days ago)
 - [hullcss/hullcss-site-jet](https://github.com/hullcss/hullcss-site-jet) - A rewrite of hullcss.org with JET (1 month ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (1 month ago)
 - [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (1 month ago)
@@ -49,7 +49,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 📜 My recent blog posts
 
-- [Fedora -  a review after a year of use](https://crimsontome.com/fedora-a-review/) (3 months ago)
+- [Fedora -  a review after a year of use](https://crimsontome.com/fedora-a-review/) (4 months ago)
 - [On switching to nginx properly](https://crimsontome.com/on-switching-to-nginx-properly/) (5 months ago)
 - [Self host your password manager!](https://crimsontome.com/password-managers/) (6 months ago)
 - [A (short) end of year update](https://crimsontome.com/a-quick-update/) (6 months ago)
@@ -58,11 +58,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [kokoscript/echowo](https://github.com/kokoscript/echowo) - Near-drop-in replacement for the Unix echo command which also uwu-fies text (today)
-- [fvwmorg/fvwm3](https://github.com/fvwmorg/fvwm3) - FVWM version 3 -- the successor to fvwm2 (today)
-- [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor                                      (3 days ago)
-- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper (5 days ago)
-- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse (5 days ago)
+- [kokoscript/echowo](https://github.com/kokoscript/echowo) - Near-drop-in replacement for the Unix echo command which also uwu-fies text (1 day ago)
+- [fvwmorg/fvwm3](https://github.com/fvwmorg/fvwm3) - FVWM version 3 -- the successor to fvwm2 (1 day ago)
+- [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor                                      (4 days ago)
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper (6 days ago)
+- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse (6 days ago)
 
 #### Quote of the day
 
