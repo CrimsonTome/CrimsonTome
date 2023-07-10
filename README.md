@@ -58,8 +58,8 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [KDE/heaptrack](https://github.com/KDE/heaptrack) - A heap memory profiler for Linux (today)
-- [Suwayomi/Tachidesk-Server](https://github.com/Suwayomi/Tachidesk-Server) - A rewrite of Tachiyomi for the Desktop (1 day ago)
+- [KDE/heaptrack](https://github.com/KDE/heaptrack) - A heap memory profiler for Linux (1 day ago)
+- [Suwayomi/Tachidesk-Server](https://github.com/Suwayomi/Tachidesk-Server) - A rewrite of Tachiyomi for the Desktop (2 days ago)
 - [kokoscript/echowo](https://github.com/kokoscript/echowo) - Near-drop-in replacement for the Unix echo command which also uwu-fies text (1 week ago)
 - [fvwmorg/fvwm3](https://github.com/fvwmorg/fvwm3) - FVWM version 3 -- the successor to fvwm2 (1 week ago)
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor                                      (1 week ago)
