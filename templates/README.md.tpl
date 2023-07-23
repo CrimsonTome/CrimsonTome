@@ -2,15 +2,15 @@
 
 > Admin at [Freeside](https://freeside.co.uk) and Webmaster for [HullCSS](https://hullcss.org)   
 
---> Many of my old / private repositories have been moved to my git server @ https://git.crimsontome.com <-- 
+--> Many of my old / private repositories have been moved to my git server @ ~~https://git.crimsontome.com~~ <-- 
 
 A copy of my CV is available [here](https://crimsontome.com/img/rccv-04-23.pdf) 
 
 <p>
 <a href="https://discord.com/users/449573875743981569"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-<a href="https://crimsontome.com"><img src="https://custom-icon-badges.demolab.com/badge/Website-4c4c51?style=for-the-badge&logo=link&logoColor=white">
+~~<a href="https://crimsontome.com"><img src="https://custom-icon-badges.demolab.com/badge/Website-4c4c51?style=for-the-badge&logo=link&logoColor=white">~~
 <a href="mailto:crimsontome427@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
-<a href="https://www.linkedin.com/in/matt-clark-aa776b1b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/robyn-clark-aa776b1b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </p>
 
 [![@crimsontome's Holopin board](https://holopin.me/crimsontome)](https://holopin.io/@crimsontome)
