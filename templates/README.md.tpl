@@ -1,14 +1,9 @@
 ### 👋 Hi there, I'm CrimsonTome [(She/Her)](https://en.pronouns.page/@crimsontome427) 
 
-> Admin at [Freeside](https://freeside.co.uk) and Webmaster for [HullCSS](https://hullcss.org)   
-
---> Many of my old / private repositories have been moved to my git server @ ~~https://git.crimsontome.com~~ <-- 
-
-~~A copy of my CV is available [here](https://crimsontome.com/img/rccv-04-23.pdf)~~
+> Admin at [Freeside](https://freeside.co.uk) and DevOps Engineer at [VISR Dynamics](https://visr-vr.com)
 
 <p>
 <a href="https://discord.com/users/449573875743981569"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-~~<a href="https://crimsontome.com"><img src="https://custom-icon-badges.demolab.com/badge/Website-4c4c51?style=for-the-badge&logo=link&logoColor=white">~~
 <a href="mailto:crimsontome427@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
 <a href="https://www.linkedin.com/in/robyn-clark-aa776b1b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </p>
@@ -19,7 +14,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 🤹🏻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=git,docker,vim,bash,cs,html,css,github,githubactions,linux,py,md,vscode,raspberrypi,latex&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,bash,cs,github,githubactions,linux,py,md,vscode,raspberrypi&perline=4)](https://skillicons.dev)
 
 #### 🛠 My stack
 
