@@ -10,8 +10,8 @@
 
 [![@crimsontome's Holopin board](https://holopin.me/crimsontome)](https://holopin.io/@crimsontome)
 
-View my [GitHub Stats](/pages/stats.md)
-
+View my [GitHub Stats](/pages/stats.md)  
+View my [CV](/rccv100923.pdf)
 #### 🤹🏻 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=git,docker,bash,cs,github,githubactions,linux,py,md,vscode,raspberrypi&perline=4)](https://skillicons.dev)
