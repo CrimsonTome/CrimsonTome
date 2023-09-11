@@ -44,11 +44,11 @@ View my [CV](/rccv100923.pdf)
 
 #### ⭐ Recent Stars
 
-- [opentffoundation/opentf](https://github.com/opentffoundation/opentf) - OpenTF lets you declaratively manage your cloud infrastructure. (4 days ago)
-- [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation &#34;runc&#34; that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs. (5 days ago)
-- [cognitive-engineering-lab/aquascope](https://github.com/cognitive-engineering-lab/aquascope) - Interactive visualizations of Rust at compile-time and run-time (5 days ago)
-- [RockstarLang/rockstar](https://github.com/RockstarLang/rockstar) - The Rockstar programming language specification (6 days ago)
-- [docker/docker-install](https://github.com/docker/docker-install) - Docker installation script (6 days ago)
+- [opentffoundation/opentf](https://github.com/opentffoundation/opentf) - OpenTF lets you declaratively manage your cloud infrastructure. (5 days ago)
+- [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation &#34;runc&#34; that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs. (6 days ago)
+- [cognitive-engineering-lab/aquascope](https://github.com/cognitive-engineering-lab/aquascope) - Interactive visualizations of Rust at compile-time and run-time (6 days ago)
+- [RockstarLang/rockstar](https://github.com/RockstarLang/rockstar) - The Rockstar programming language specification (1 week ago)
+- [docker/docker-install](https://github.com/docker/docker-install) - Docker installation script (1 week ago)
 
 #### Quote of the day
 
