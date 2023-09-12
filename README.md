@@ -27,7 +27,7 @@ View my [CV](/rccv100923.pdf)
   
 #### 👷 Check out what I'm currently working on
 
-- [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (1 week ago)
+- [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (2 weeks ago)
 - [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (1 month ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (2 months ago)
 - [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (2 months ago)
@@ -44,11 +44,11 @@ View my [CV](/rccv100923.pdf)
 
 #### ⭐ Recent Stars
 
-- [MGough/sensorhub](https://github.com/MGough/sensorhub) - A simple library to use with the DockerPi SensorHub (EP-0106) (today)
-- [passbolt/passbolt_docker](https://github.com/passbolt/passbolt_docker) - Get started with Passbolt CE using docker! (today)
-- [opentffoundation/opentf](https://github.com/opentffoundation/opentf) - OpenTF lets you declaratively manage your cloud infrastructure. (5 days ago)
-- [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation &#34;runc&#34; that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs. (6 days ago)
-- [cognitive-engineering-lab/aquascope](https://github.com/cognitive-engineering-lab/aquascope) - Interactive visualizations of Rust at compile-time and run-time (6 days ago)
+- [MGough/sensorhub](https://github.com/MGough/sensorhub) - A simple library to use with the DockerPi SensorHub (EP-0106) (1 day ago)
+- [passbolt/passbolt_docker](https://github.com/passbolt/passbolt_docker) - Get started with Passbolt CE using docker! (1 day ago)
+- [opentffoundation/opentf](https://github.com/opentffoundation/opentf) - OpenTF lets you declaratively manage your cloud infrastructure. (6 days ago)
+- [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation &#34;runc&#34; that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs. (1 week ago)
+- [cognitive-engineering-lab/aquascope](https://github.com/cognitive-engineering-lab/aquascope) - Interactive visualizations of Rust at compile-time and run-time (1 week ago)
 
 #### Quote of the day
 
