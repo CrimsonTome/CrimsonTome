@@ -1,6 +1,7 @@
 ### 👋 Hi there, I'm CrimsonTome [(She/Her)](https://en.pronouns.page/@crimsontome427) 
 
 > Admin at [Freeside](https://freeside.co.uk) and DevOps Engineer at [VISR Dynamics](https://visr-vr.com)
+> View my [CV](/rccv100923.pdf)
 
 <p>
 <a href="https://discord.com/users/449573875743981569"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
@@ -8,13 +9,11 @@
 <a href="https://www.linkedin.com/in/robyn-clark-aa776b1b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </p>
 
-[![@crimsontome's Holopin board](https://holopin.me/crimsontome)](https://holopin.io/@crimsontome)
-
 View my [GitHub Stats](/pages/stats.md)  
-View my [CV](/rccv100923.pdf)
+
 #### 🤹🏻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=git,docker,bash,cs,github,githubactions,linux,py,md,vscode,raspberrypi&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,bash,cs,github,githubactions,linux,py,md,raspberrypi&perline=5)](https://skillicons.dev)
 
 #### 🛠 My stack
 
