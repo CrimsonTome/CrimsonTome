@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm CrimsonTome [(She/Her)](https://en.pronouns.page/@crimsontome427) 
 
-> Admin at [Freeside](https://freeside.co.uk) and DevOps Engineer at [VISR Dynamics](https://visr-vr.com)
+> Admin at [Freeside](https://freeside.co.uk) and DevOps Engineer at [VISR Dynamics](https://visr-vr.com)  
 > View my [CV](/rccv100923.pdf)
 
 <p>
