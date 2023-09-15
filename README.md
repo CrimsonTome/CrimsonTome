@@ -1,6 +1,7 @@
 ### 👋 Hi there, I'm CrimsonTome [(She/Her)](https://en.pronouns.page/@crimsontome427) 
 
 > Admin at [Freeside](https://freeside.co.uk) and DevOps Engineer at [VISR Dynamics](https://visr-vr.com)
+> View my [CV](/rccv100923.pdf)
 
 <p>
 <a href="https://discord.com/users/449573875743981569"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
@@ -8,13 +9,11 @@
 <a href="https://www.linkedin.com/in/robyn-clark-aa776b1b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </p>
 
-[![@crimsontome's Holopin board](https://holopin.me/crimsontome)](https://holopin.io/@crimsontome)
-
 View my [GitHub Stats](/pages/stats.md)  
-View my [CV](/rccv100923.pdf)
+
 #### 🤹🏻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=git,docker,bash,cs,github,githubactions,linux,py,md,vscode,raspberrypi&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,bash,cs,github,githubactions,linux,py,md,raspberrypi&perline=5)](https://skillicons.dev)
 
 #### 🛠 My stack
 
@@ -44,11 +43,11 @@ View my [CV](/rccv100923.pdf)
 
 #### ⭐ Recent Stars
 
+- [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk (today)
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard (today)
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust (1 day ago)
 - [MGough/sensorhub](https://github.com/MGough/sensorhub) - A simple library to use with the DockerPi SensorHub (EP-0106) (4 days ago)
 - [passbolt/passbolt_docker](https://github.com/passbolt/passbolt_docker) - Get started with Passbolt CE using docker! (4 days ago)
-- [opentffoundation/opentf](https://github.com/opentffoundation/opentf) - OpenTF lets you declaratively manage your cloud infrastructure. (1 week ago)
-- [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation &#34;runc&#34; that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs. (1 week ago)
 
 #### Quote of the day
 
