@@ -39,15 +39,15 @@ View my [GitHub Stats](/pages/stats.md)
 - [2nd checkpoint slides](https://github.com/DDD-group-22-23/DDD-group-project/pull/7) on [DDD-group-22-23/DDD-group-project](https://github.com/DDD-group-22-23/DDD-group-project) (6 months ago)
 - [feature/selenium](https://github.com/DDD-group-22-23/DDD-group-project/pull/6) on [DDD-group-22-23/DDD-group-project](https://github.com/DDD-group-22-23/DDD-group-project) (6 months ago)
 - [chore: edit crimsontome&#39;s feed path](https://github.com/FreesideHull/hullblogs.com/pull/13) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (7 months ago)
-- [Rename CONDUCT.md to CODE_OF_CONDUCT.md](https://github.com/hullcss/hullcss-discord-bot/pull/26) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (10 months ago)
+- [Rename CONDUCT.md to CODE_OF_CONDUCT.md](https://github.com/hullcss/hullcss-discord-bot/pull/26) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (11 months ago)
 
 #### ⭐ Recent Stars
 
-- [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk (today)
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard (today)
-- [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust (1 day ago)
-- [MGough/sensorhub](https://github.com/MGough/sensorhub) - A simple library to use with the DockerPi SensorHub (EP-0106) (4 days ago)
-- [passbolt/passbolt_docker](https://github.com/passbolt/passbolt_docker) - Get started with Passbolt CE using docker! (4 days ago)
+- [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk (1 day ago)
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard (1 day ago)
+- [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust (2 days ago)
+- [MGough/sensorhub](https://github.com/MGough/sensorhub) - A simple library to use with the DockerPi SensorHub (EP-0106) (5 days ago)
+- [passbolt/passbolt_docker](https://github.com/passbolt/passbolt_docker) - Get started with Passbolt CE using docker! (5 days ago)
 
 #### Quote of the day
 
