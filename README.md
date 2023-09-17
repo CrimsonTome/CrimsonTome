@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk (1 day ago)
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard (1 day ago)
-- [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust (2 days ago)
-- [MGough/sensorhub](https://github.com/MGough/sensorhub) - A simple library to use with the DockerPi SensorHub (EP-0106) (5 days ago)
-- [passbolt/passbolt_docker](https://github.com/passbolt/passbolt_docker) - Get started with Passbolt CE using docker! (5 days ago)
+- [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk (2 days ago)
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard (2 days ago)
+- [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust (3 days ago)
+- [MGough/sensorhub](https://github.com/MGough/sensorhub) - A simple library to use with the DockerPi SensorHub (EP-0106) (6 days ago)
+- [passbolt/passbolt_docker](https://github.com/passbolt/passbolt_docker) - Get started with Passbolt CE using docker! (6 days ago)
 
 #### Quote of the day
 
