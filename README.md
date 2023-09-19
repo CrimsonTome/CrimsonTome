@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀 (today)
 - [denysdovhan/learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script (1 day ago)
 - [openjdk/jdk](https://github.com/openjdk/jdk) - JDK main-line development https://openjdk.org/projects/jdk (4 days ago)
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard (4 days ago)
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust (5 days ago)
-- [MGough/sensorhub](https://github.com/MGough/sensorhub) - A simple library to use with the DockerPi SensorHub (EP-0106) (1 week ago)
 
 #### Quote of the day
 
