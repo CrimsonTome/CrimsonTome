@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [iliana/eggbug-rs](https://github.com/iliana/eggbug-rs) - Bot library for cohost.org (1 day ago)
-- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from. (3 days ago)
-- [cpsdqs/prechoster](https://github.com/cpsdqs/prechoster) - cohost.org post preprocessor. it’s for posting on cohost.org. cohost.org posting. with css. dangerous css posting. you can be making a post that is so cascaded. in a style sheets way. advanced posting on a website online. you can use web technologies in a web browser. to make posts. posting online right now today. lol how long can i make this descr (3 days ago)
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀 (3 days ago)
-- [denysdovhan/learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script (4 days ago)
+- [catppuccin/fish](https://github.com/catppuccin/fish) - 🐟 Soothing pastel theme for the Fish Shell (today)
+- [catppuccin/plymouth](https://github.com/catppuccin/plymouth) - 🚗 Soothing pastel theme for Plymouth (today)
+- [catppuccin/gitea](https://github.com/catppuccin/gitea) - 🍵 Soothing pastel theme for Gitea (today)
+- [catppuccin/refind](https://github.com/catppuccin/refind) - 🔄 Soothing pastel theme for rEFInd (today)
+- [catppuccin/starship](https://github.com/catppuccin/starship) - 🚀 Soothing pastel theme for Starship (today)
 
 #### Quote of the day
 
