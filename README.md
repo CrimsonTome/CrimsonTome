@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python (X11 &#43; Wayland) (today)
 - [catppuccin/fish](https://github.com/catppuccin/fish) - 🐟 Soothing pastel theme for the Fish Shell (3 days ago)
 - [catppuccin/plymouth](https://github.com/catppuccin/plymouth) - 🚗 Soothing pastel theme for Plymouth (3 days ago)
 - [catppuccin/gitea](https://github.com/catppuccin/gitea) - 🍵 Soothing pastel theme for Gitea (3 days ago)
 - [catppuccin/refind](https://github.com/catppuccin/refind) - 🔄 Soothing pastel theme for rEFInd (3 days ago)
-- [catppuccin/starship](https://github.com/catppuccin/starship) - 🚀 Soothing pastel theme for Starship (3 days ago)
 
 #### Quote of the day
 
