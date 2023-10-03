@@ -37,7 +37,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 - [Add Docker Compose support](https://github.com/hullcss/hullcss-discord-bot/pull/205) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (1 week ago)
 - [feat: add Dockerfile](https://github.com/FreesideHull/hullblogs.com/pull/15) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (6 months ago)
-- [2nd checkpoint slides](https://github.com/DDD-group-22-23/DDD-group-project/pull/7) on [DDD-group-22-23/DDD-group-project](https://github.com/DDD-group-22-23/DDD-group-project) (6 months ago)
+- [2nd checkpoint slides](https://github.com/DDD-group-22-23/DDD-group-project/pull/7) on [DDD-group-22-23/DDD-group-project](https://github.com/DDD-group-22-23/DDD-group-project) (7 months ago)
 - [feature/selenium](https://github.com/DDD-group-22-23/DDD-group-project/pull/6) on [DDD-group-22-23/DDD-group-project](https://github.com/DDD-group-22-23/DDD-group-project) (7 months ago)
 - [chore: edit crimsontome&#39;s feed path](https://github.com/FreesideHull/hullblogs.com/pull/13) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (7 months ago)
 
