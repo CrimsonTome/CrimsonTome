@@ -43,8 +43,8 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [hullcss/hullcss-astro](https://github.com/hullcss/hullcss-astro) -  (3 days ago)
-- [rafaelmardojai/forge-sparks](https://github.com/rafaelmardojai/forge-sparks) - Get git forges notifications (5 days ago)
+- [hullcss/hullcss-astro](https://github.com/hullcss/hullcss-astro) -  (4 days ago)
+- [rafaelmardojai/forge-sparks](https://github.com/rafaelmardojai/forge-sparks) - Get git forges notifications (6 days ago)
 - [ubuntu/adsys](https://github.com/ubuntu/adsys) - Active Directory bridging tool suite (1 week ago)
 - [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - An opinionated set of configurations for firefox. (1 week ago)
 - [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python (X11 &#43; Wayland) (3 weeks ago)
