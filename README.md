@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) - Playing Pokemon Red with Reinforcement Learning (today)
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design. (1 day ago)
 - [hullcss/hullcss-astro](https://github.com/hullcss/hullcss-astro) -  (5 days ago)
 - [rafaelmardojai/forge-sparks](https://github.com/rafaelmardojai/forge-sparks) - Get git forges notifications (1 week ago)
 - [ubuntu/adsys](https://github.com/ubuntu/adsys) - Active Directory bridging tool suite (1 week ago)
-- [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - An opinionated set of configurations for firefox. (1 week ago)
 
 #### Quote of the day
 
