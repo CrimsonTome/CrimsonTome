@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [mue/mue](https://github.com/mue/mue) - Fast, open and free-to-use new tab page for modern browsers (today)
 - [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) - Playing Pokemon Red with Reinforcement Learning (1 day ago)
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design. (2 days ago)
 - [hullcss/hullcss-astro](https://github.com/hullcss/hullcss-astro) -  (6 days ago)
 - [rafaelmardojai/forge-sparks](https://github.com/rafaelmardojai/forge-sparks) - Get git forges notifications (1 week ago)
-- [ubuntu/adsys](https://github.com/ubuntu/adsys) - Active Directory bridging tool suite (1 week ago)
 
 #### Quote of the day
 
