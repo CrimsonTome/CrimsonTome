@@ -43,10 +43,10 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends (3 days ago)
-- [mue/mue](https://github.com/mue/mue) - Fast, open and free-to-use new tab page for modern browsers (3 days ago)
-- [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) - Playing Pokemon Red with Reinforcement Learning (4 days ago)
-- [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design. (5 days ago)
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends (4 days ago)
+- [mue/mue](https://github.com/mue/mue) - Fast, open and free-to-use new tab page for modern browsers (4 days ago)
+- [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) - Playing Pokemon Red with Reinforcement Learning (5 days ago)
+- [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design. (6 days ago)
 - [hullcss/hullcss-astro](https://github.com/hullcss/hullcss-astro) -  (1 week ago)
 
 #### Quote of the day
