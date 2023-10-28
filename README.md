@@ -28,8 +28,8 @@ View my [GitHub Stats](/pages/stats.md)
 
 - [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (3 weeks ago)
 - [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) - The HullCSS discord bot for automating some tasks within the hullcss discord server (1 month ago)
-- [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (1 month ago)
-- [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (2 months ago)
+- [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (2 months ago)
+- [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (3 months ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (3 months ago)
 
 
@@ -38,7 +38,7 @@ View my [GitHub Stats](/pages/stats.md)
 - [Add Docker Compose support](https://github.com/hullcss/hullcss-discord-bot/pull/205) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (1 month ago)
 - [feat: add Dockerfile](https://github.com/FreesideHull/hullblogs.com/pull/15) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (7 months ago)
 - [2nd checkpoint slides](https://github.com/DDD-group-22-23/DDD-group-project/pull/7) on [DDD-group-22-23/DDD-group-project](https://github.com/DDD-group-22-23/DDD-group-project) (7 months ago)
-- [feature/selenium](https://github.com/DDD-group-22-23/DDD-group-project/pull/6) on [DDD-group-22-23/DDD-group-project](https://github.com/DDD-group-22-23/DDD-group-project) (7 months ago)
+- [feature/selenium](https://github.com/DDD-group-22-23/DDD-group-project/pull/6) on [DDD-group-22-23/DDD-group-project](https://github.com/DDD-group-22-23/DDD-group-project) (8 months ago)
 - [chore: edit crimsontome&#39;s feed path](https://github.com/FreesideHull/hullblogs.com/pull/13) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (8 months ago)
 
 #### ⭐ Recent Stars
