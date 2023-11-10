@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [Lissy93/bug-bounties](https://github.com/Lissy93/bug-bounties) - ⚔️ A compiled list of companies who have active programs for responsible disclosure (today)
+- [franciscolourenco/done](https://github.com/franciscolourenco/done) - A fish-shell package to automatically receive notifications when long processes finish. (today)
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete (today)
 - [MCMi460/NSO-RPC](https://github.com/MCMi460/NSO-RPC) - Connect your Nintendo Switch playing status to Discord! (today)
 - [antisoftwareclub/numbers](https://github.com/antisoftwareclub/numbers) - everyone&#39;s favorite cohost feature (1 day ago)
-- [dart-lang/sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, dart2js, core libraries, and more. (1 week ago)
-- [conduit-dart/conduit](https://github.com/conduit-dart/conduit) - Dart HTTP server framework for building REST APIs. Includes PostgreSQL ORM and OAuth2 provider. (1 week ago)
 
 #### Quote of the day
 
