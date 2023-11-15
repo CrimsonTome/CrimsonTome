@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm (today)
 - [void-linux/xbps](https://github.com/void-linux/xbps) - The X Binary Package System (XBPS) (today)
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter (1 day ago)
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code (1 day ago)
 - [libretro/libretro-database](https://github.com/libretro/libretro-database) - Repository containing cheatcode files, content data files, etc. (1 day ago)
-- [archtaurus/RetroPieBIOS](https://github.com/archtaurus/RetroPieBIOS) - Full BIOS collection for RetroPie (1 day ago)
 
 #### Quote of the day
 
