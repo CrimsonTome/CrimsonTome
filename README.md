@@ -26,7 +26,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (4 days ago)
+- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (5 days ago)
 - [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) - The HullCSS discord bot for automating some tasks within the hullcss discord server (1 month ago)
 - [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (2 months ago)
 - [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (3 months ago)
@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter (today)
-- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code (today)
-- [libretro/libretro-database](https://github.com/libretro/libretro-database) - Repository containing cheatcode files, content data files, etc. (today)
-- [archtaurus/RetroPieBIOS](https://github.com/archtaurus/RetroPieBIOS) - Full BIOS collection for RetroPie (today)
-- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust (today)
+- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter (1 day ago)
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code (1 day ago)
+- [libretro/libretro-database](https://github.com/libretro/libretro-database) - Repository containing cheatcode files, content data files, etc. (1 day ago)
+- [archtaurus/RetroPieBIOS](https://github.com/archtaurus/RetroPieBIOS) - Full BIOS collection for RetroPie (1 day ago)
+- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust (1 day ago)
 
 #### Quote of the day
 
