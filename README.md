@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need (today)
+- [minekube/gate](https://github.com/minekube/gate) - High-Performance, Low-Memory, Lightweight, Extensible Minecraft Reverse Proxy with Excellent Multi-Protocol Version Support - Velocity/Bungee Replacement - Ready for dev and large deploy! (today)
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua. (today)
 - [EverestAPI/Everest](https://github.com/EverestAPI/Everest) - Everest - Celeste Mod Loader / Mod API (today)
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm (1 day ago)
-- [void-linux/xbps](https://github.com/void-linux/xbps) - The X Binary Package System (XBPS) (1 day ago)
-- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter (2 days ago)
 
 #### Quote of the day
 
