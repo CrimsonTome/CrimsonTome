@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [jorgebucaran/hydro](https://github.com/jorgebucaran/hydro) - Ultra-pure, lag-free prompt with async Git status—just for Fish (today)
 - [hecrj/coffee](https://github.com/hecrj/coffee) - An opinionated 2D game engine for Rust (today)
 - [nickeb96/puffer-fish](https://github.com/nickeb96/puffer-fish) - 🐡 Text Expansions for Fish (today)
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need (1 week ago)
 - [minekube/gate](https://github.com/minekube/gate) - High-Performance, Low-Memory, Lightweight, Extensible Minecraft Reverse Proxy with Excellent Multi-Protocol Version Support - Velocity/Bungee Replacement - Ready for dev and large deploy! (1 week ago)
-- [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua. (1 week ago)
 
 #### Quote of the day
 
