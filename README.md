@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [mrowa44/emojify](https://github.com/mrowa44/emojify) - Emoji on the command line :scream: (today)
+- [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers (today)
+- [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers (today)
+- [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language &#43; Versatile Interactive Shell (today)
 - [jorgebucaran/hydro](https://github.com/jorgebucaran/hydro) - Ultra-pure, lag-free prompt with async Git status—just for Fish (today)
-- [hecrj/coffee](https://github.com/hecrj/coffee) - An opinionated 2D game engine for Rust (today)
-- [nickeb96/puffer-fish](https://github.com/nickeb96/puffer-fish) - 🐡 Text Expansions for Fish (today)
-- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need (1 week ago)
-- [minekube/gate](https://github.com/minekube/gate) - High-Performance, Low-Memory, Lightweight, Extensible Minecraft Reverse Proxy with Excellent Multi-Protocol Version Support - Velocity/Bungee Replacement - Ready for dev and large deploy! (1 week ago)
 
 #### Quote of the day
 
