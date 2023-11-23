@@ -35,19 +35,19 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 🔨 My recent Pull Requests
 
+- [Fix repo link in a few places](https://github.com/hullcss/hullcss-astro/pull/18) on [hullcss/hullcss-astro](https://github.com/hullcss/hullcss-astro) (today)
 - [Add Docker Compose support](https://github.com/hullcss/hullcss-discord-bot/pull/205) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (2 months ago)
 - [feat: add Dockerfile](https://github.com/FreesideHull/hullblogs.com/pull/15) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (8 months ago)
 - [2nd checkpoint slides](https://github.com/DDD-group-22-23/DDD-group-project/pull/7) on [DDD-group-22-23/DDD-group-project](https://github.com/DDD-group-22-23/DDD-group-project) (8 months ago)
 - [feature/selenium](https://github.com/DDD-group-22-23/DDD-group-project/pull/6) on [DDD-group-22-23/DDD-group-project](https://github.com/DDD-group-22-23/DDD-group-project) (8 months ago)
-- [chore: edit crimsontome&#39;s feed path](https://github.com/FreesideHull/hullblogs.com/pull/13) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (9 months ago)
 
 #### ⭐ Recent Stars
 
+- [hecrj/coffee](https://github.com/hecrj/coffee) - An opinionated 2D game engine for Rust (today)
+- [nickeb96/puffer-fish](https://github.com/nickeb96/puffer-fish) - 🐡 Text Expansions for Fish (today)
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need (1 week ago)
 - [minekube/gate](https://github.com/minekube/gate) - High-Performance, Low-Memory, Lightweight, Extensible Minecraft Reverse Proxy with Excellent Multi-Protocol Version Support - Velocity/Bungee Replacement - Ready for dev and large deploy! (1 week ago)
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua. (1 week ago)
-- [EverestAPI/Everest](https://github.com/EverestAPI/Everest) - Everest - Celeste Mod Loader / Mod API (1 week ago)
-- [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm (1 week ago)
 
 #### Quote of the day
 
