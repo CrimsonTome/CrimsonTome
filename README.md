@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [uuner/sedtris](https://github.com/uuner/sedtris) - Tetris in sed (today)
+- [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal. (today)
+- [sananth12/ImageScraper](https://github.com/sananth12/ImageScraper) - :scissors: High performance, multi-threaded image scraper (today)
 - [mrowa44/emojify](https://github.com/mrowa44/emojify) - Emoji on the command line :scream: (today)
 - [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers (today)
-- [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers (today)
-- [elves/elvish](https://github.com/elves/elvish) - Elvish = Expressive Programming Language &#43; Versatile Interactive Shell (today)
-- [jorgebucaran/hydro](https://github.com/jorgebucaran/hydro) - Ultra-pure, lag-free prompt with async Git status—just for Fish (today)
 
 #### Quote of the day
 
