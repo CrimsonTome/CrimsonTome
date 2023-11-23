@@ -43,10 +43,10 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need (6 days ago)
-- [minekube/gate](https://github.com/minekube/gate) - High-Performance, Low-Memory, Lightweight, Extensible Minecraft Reverse Proxy with Excellent Multi-Protocol Version Support - Velocity/Bungee Replacement - Ready for dev and large deploy! (6 days ago)
-- [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua. (6 days ago)
-- [EverestAPI/Everest](https://github.com/EverestAPI/Everest) - Everest - Celeste Mod Loader / Mod API (6 days ago)
+- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need (1 week ago)
+- [minekube/gate](https://github.com/minekube/gate) - High-Performance, Low-Memory, Lightweight, Extensible Minecraft Reverse Proxy with Excellent Multi-Protocol Version Support - Velocity/Bungee Replacement - Ready for dev and large deploy! (1 week ago)
+- [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua. (1 week ago)
+- [EverestAPI/Everest](https://github.com/EverestAPI/Everest) - Everest - Celeste Mod Loader / Mod API (1 week ago)
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm (1 week ago)
 
 #### Quote of the day
