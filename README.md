@@ -26,7 +26,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (2 weeks ago)
+- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (today)
 - [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) - The HullCSS discord bot for automating some tasks within the hullcss discord server (2 months ago)
 - [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (3 months ago)
 - [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (4 months ago)
@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [ValveSoftware/wine](https://github.com/ValveSoftware/wine) - Wine with a bit of extra spice (today)
+- [jkap/FixTumblr](https://github.com/jkap/FixTumblr) - Fix broken Twitter/X embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others (today)
+- [EirikaDoesntCode/Pond-Woodland-Renewable](https://github.com/EirikaDoesntCode/Pond-Woodland-Renewable) - EirikaDoesntKnowWhatShesDoing&#39;s submission for the Hull Uni Three Thing Game (today)
+- [labwc/labwc](https://github.com/labwc/labwc) - A Wayland window-stacking compositor (today)
 - [uuner/sedtris](https://github.com/uuner/sedtris) - Tetris in sed (6 days ago)
-- [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal. (6 days ago)
-- [sananth12/ImageScraper](https://github.com/sananth12/ImageScraper) - :scissors: High performance, multi-threaded image scraper (6 days ago)
-- [mrowa44/emojify](https://github.com/mrowa44/emojify) - Emoji on the command line :scream: (6 days ago)
-- [libfuse/sshfs](https://github.com/libfuse/sshfs) - A network filesystem client to connect to SSH servers (6 days ago)
 
 #### Quote of the day
 
