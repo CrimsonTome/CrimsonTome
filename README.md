@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [catppuccin/kde](https://github.com/catppuccin/kde) - 🌻 Soothing pastel theme for KDE (today)
+- [catppuccin/bat](https://github.com/catppuccin/bat) - 🦇️ Soothing pastel theme for Bat (today)
 - [virt-manager/virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt (today)
 - [ValveSoftware/wine](https://github.com/ValveSoftware/wine) - Wine with a bit of extra spice (1 day ago)
 - [jkap/FixTumblr](https://github.com/jkap/FixTumblr) - Fix broken Twitter/X embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others (1 day ago)
-- [EirikaDoesntCode/Pond-Woodland-Renewable](https://github.com/EirikaDoesntCode/Pond-Woodland-Renewable) - EirikaDoesntKnowWhatShesDoing&#39;s submission for the Hull Uni Three Thing Game (1 day ago)
-- [labwc/labwc](https://github.com/labwc/labwc) - A Wayland window-stacking compositor (1 day ago)
 
 #### Quote of the day
 
