@@ -26,7 +26,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (today)
+- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (1 day ago)
 - [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) - The HullCSS discord bot for automating some tasks within the hullcss discord server (2 months ago)
 - [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (3 months ago)
 - [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (4 months ago)
@@ -35,7 +35,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 🔨 My recent Pull Requests
 
-- [Fix repo link in a few places](https://github.com/hullcss/hullcss-astro/pull/18) on [hullcss/hullcss-astro](https://github.com/hullcss/hullcss-astro) (6 days ago)
+- [Fix repo link in a few places](https://github.com/hullcss/hullcss-astro/pull/18) on [hullcss/hullcss-astro](https://github.com/hullcss/hullcss-astro) (1 week ago)
 - [Add Docker Compose support](https://github.com/hullcss/hullcss-discord-bot/pull/205) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (2 months ago)
 - [feat: add Dockerfile](https://github.com/FreesideHull/hullblogs.com/pull/15) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (8 months ago)
 - [2nd checkpoint slides](https://github.com/DDD-group-22-23/DDD-group-project/pull/7) on [DDD-group-22-23/DDD-group-project](https://github.com/DDD-group-22-23/DDD-group-project) (8 months ago)
@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [ValveSoftware/wine](https://github.com/ValveSoftware/wine) - Wine with a bit of extra spice (today)
-- [jkap/FixTumblr](https://github.com/jkap/FixTumblr) - Fix broken Twitter/X embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others (today)
-- [EirikaDoesntCode/Pond-Woodland-Renewable](https://github.com/EirikaDoesntCode/Pond-Woodland-Renewable) - EirikaDoesntKnowWhatShesDoing&#39;s submission for the Hull Uni Three Thing Game (today)
-- [labwc/labwc](https://github.com/labwc/labwc) - A Wayland window-stacking compositor (today)
-- [uuner/sedtris](https://github.com/uuner/sedtris) - Tetris in sed (6 days ago)
+- [ValveSoftware/wine](https://github.com/ValveSoftware/wine) - Wine with a bit of extra spice (1 day ago)
+- [jkap/FixTumblr](https://github.com/jkap/FixTumblr) - Fix broken Twitter/X embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others (1 day ago)
+- [EirikaDoesntCode/Pond-Woodland-Renewable](https://github.com/EirikaDoesntCode/Pond-Woodland-Renewable) - EirikaDoesntKnowWhatShesDoing&#39;s submission for the Hull Uni Three Thing Game (1 day ago)
+- [labwc/labwc](https://github.com/labwc/labwc) - A Wayland window-stacking compositor (1 day ago)
+- [uuner/sedtris](https://github.com/uuner/sedtris) - Tetris in sed (1 week ago)
 
 #### Quote of the day
 
