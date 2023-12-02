@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [chmln/sd](https://github.com/chmln/sd) - Intuitive find &amp; replace CLI (sed alternative) (today)
 - [pop-os/popsicle](https://github.com/pop-os/popsicle) - Multiple USB File Flasher (2 days ago)
 - [catppuccin/kde](https://github.com/catppuccin/kde) - 🌻 Soothing pastel theme for KDE (2 days ago)
 - [catppuccin/bat](https://github.com/catppuccin/bat) - 🦇️ Soothing pastel theme for Bat (2 days ago)
 - [virt-manager/virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt (2 days ago)
-- [ValveSoftware/wine](https://github.com/ValveSoftware/wine) - Wine with a bit of extra spice (3 days ago)
 
 #### Quote of the day
 
