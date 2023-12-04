@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [EirikaDoesntCode/AdventOfCode2023](https://github.com/EirikaDoesntCode/AdventOfCode2023) - Eirika attempts Advent of Code 2023 (today)
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find &amp; replace CLI (sed alternative) (2 days ago)
 - [pop-os/popsicle](https://github.com/pop-os/popsicle) - Multiple USB File Flasher (4 days ago)
 - [catppuccin/kde](https://github.com/catppuccin/kde) - 🌻 Soothing pastel theme for KDE (4 days ago)
 - [catppuccin/bat](https://github.com/catppuccin/bat) - 🦇️ Soothing pastel theme for Bat (4 days ago)
-- [virt-manager/virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt (4 days ago)
 
 #### Quote of the day
 
