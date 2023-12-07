@@ -35,7 +35,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 🔨 My recent Pull Requests
 
-- [Fix repo link in a few places](https://github.com/hullcss/hullcss-astro/pull/18) on [hullcss/hullcss-astro](https://github.com/hullcss/hullcss-astro) (1 week ago)
+- [Fix repo link in a few places](https://github.com/hullcss/hullcss-astro/pull/18) on [hullcss/hullcss-astro](https://github.com/hullcss/hullcss-astro) (2 weeks ago)
 - [Add Docker Compose support](https://github.com/hullcss/hullcss-discord-bot/pull/205) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (2 months ago)
 - [feat: add Dockerfile](https://github.com/FreesideHull/hullblogs.com/pull/15) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (8 months ago)
 - [2nd checkpoint slides](https://github.com/DDD-group-22-23/DDD-group-project/pull/7) on [DDD-group-22-23/DDD-group-project](https://github.com/DDD-group-22-23/DDD-group-project) (9 months ago)
@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [ringabout/awesome-nim](https://github.com/ringabout/awesome-nim) - A curated list of awesome Nim frameworks, libraries, software and resources. (1 day ago)
-- [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥ (1 day ago)
-- [EirikaDoesntCode/AdventOfCode2023](https://github.com/EirikaDoesntCode/AdventOfCode2023) - Eirika attempts Advent of Code 2023 (2 days ago)
-- [chmln/sd](https://github.com/chmln/sd) - Intuitive find &amp; replace CLI (sed alternative) (4 days ago)
-- [pop-os/popsicle](https://github.com/pop-os/popsicle) - Multiple USB File Flasher (6 days ago)
+- [ringabout/awesome-nim](https://github.com/ringabout/awesome-nim) - A curated list of awesome Nim frameworks, libraries, software and resources. (2 days ago)
+- [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥ (2 days ago)
+- [EirikaDoesntCode/AdventOfCode2023](https://github.com/EirikaDoesntCode/AdventOfCode2023) - Eirika attempts Advent of Code 2023 (3 days ago)
+- [chmln/sd](https://github.com/chmln/sd) - Intuitive find &amp; replace CLI (sed alternative) (5 days ago)
+- [pop-os/popsicle](https://github.com/pop-os/popsicle) - Multiple USB File Flasher (1 week ago)
 
 #### Quote of the day
 
