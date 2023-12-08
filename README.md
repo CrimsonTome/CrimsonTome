@@ -43,10 +43,10 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [ringabout/awesome-nim](https://github.com/ringabout/awesome-nim) - A curated list of awesome Nim frameworks, libraries, software and resources. (2 days ago)
-- [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥ (2 days ago)
-- [EirikaDoesntCode/AdventOfCode2023](https://github.com/EirikaDoesntCode/AdventOfCode2023) - Eirika attempts Advent of Code 2023 (3 days ago)
-- [chmln/sd](https://github.com/chmln/sd) - Intuitive find &amp; replace CLI (sed alternative) (5 days ago)
+- [ringabout/awesome-nim](https://github.com/ringabout/awesome-nim) - A curated list of awesome Nim frameworks, libraries, software and resources. (3 days ago)
+- [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥ (3 days ago)
+- [EirikaDoesntCode/AdventOfCode2023](https://github.com/EirikaDoesntCode/AdventOfCode2023) - Eirika attempts Advent of Code 2023 (4 days ago)
+- [chmln/sd](https://github.com/chmln/sd) - Intuitive find &amp; replace CLI (sed alternative) (6 days ago)
 - [pop-os/popsicle](https://github.com/pop-os/popsicle) - Multiple USB File Flasher (1 week ago)
 
 #### Quote of the day
