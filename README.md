@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀 (1 day ago)
-- [fn2006/PollyMC](https://github.com/fn2006/PollyMC) - DRM-free Prism Launcher fork with support for custom auth servers. (1 day ago)
-- [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (1 day ago)
-- [ringabout/awesome-nim](https://github.com/ringabout/awesome-nim) - A curated list of awesome Nim frameworks, libraries, software and resources. (4 days ago)
-- [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥ (4 days ago)
+- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀 (2 days ago)
+- [fn2006/PollyMC](https://github.com/fn2006/PollyMC) - DRM-free Prism Launcher fork with support for custom auth servers. (2 days ago)
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (2 days ago)
+- [ringabout/awesome-nim](https://github.com/ringabout/awesome-nim) - A curated list of awesome Nim frameworks, libraries, software and resources. (5 days ago)
+- [HapticX/happyx](https://github.com/HapticX/happyx) - Macro-oriented asynchronous web-framework written in Nim with ♥ (5 days ago)
 
 #### Quote of the day
 
