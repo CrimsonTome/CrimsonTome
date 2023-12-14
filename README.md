@@ -35,19 +35,19 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 🔨 My recent Pull Requests
 
-- [Fix repo link in a few places](https://github.com/hullcss/hullcss-astro/pull/18) on [hullcss/hullcss-astro](https://github.com/hullcss/hullcss-astro) (2 weeks ago)
+- [Fix repo link in a few places](https://github.com/hullcss/hullcss-astro/pull/18) on [hullcss/hullcss-astro](https://github.com/hullcss/hullcss-astro) (3 weeks ago)
 - [Add Docker Compose support](https://github.com/hullcss/hullcss-discord-bot/pull/205) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (2 months ago)
-- [feat: add Dockerfile](https://github.com/FreesideHull/hullblogs.com/pull/15) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (8 months ago)
+- [feat: add Dockerfile](https://github.com/FreesideHull/hullblogs.com/pull/15) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (9 months ago)
 - [2nd checkpoint slides](https://github.com/DDD-group-22-23/DDD-group-project/pull/7) on [DDD-group-22-23/DDD-group-project](https://github.com/DDD-group-22-23/DDD-group-project) (9 months ago)
 - [feature/selenium](https://github.com/DDD-group-22-23/DDD-group-project/pull/6) on [DDD-group-22-23/DDD-group-project](https://github.com/DDD-group-22-23/DDD-group-project) (9 months ago)
 
 #### ⭐ Recent Stars
 
-- [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node. (2 days ago)
-- [balderdashy/sails](https://github.com/balderdashy/sails) - Realtime MVC Framework for Node.js (2 days ago)
-- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀 (5 days ago)
-- [fn2006/PollyMC](https://github.com/fn2006/PollyMC) - DRM-free Prism Launcher fork with support for custom auth servers. (5 days ago)
-- [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (5 days ago)
+- [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node. (3 days ago)
+- [balderdashy/sails](https://github.com/balderdashy/sails) - Realtime MVC Framework for Node.js (3 days ago)
+- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀 (6 days ago)
+- [fn2006/PollyMC](https://github.com/fn2006/PollyMC) - DRM-free Prism Launcher fork with support for custom auth servers. (6 days ago)
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (6 days ago)
 
 #### Quote of the day
 
