@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell (today)
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node. (3 days ago)
 - [balderdashy/sails](https://github.com/balderdashy/sails) - Realtime MVC Framework for Node.js (3 days ago)
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀 (6 days ago)
 - [fn2006/PollyMC](https://github.com/fn2006/PollyMC) - DRM-free Prism Launcher fork with support for custom auth servers. (6 days ago)
-- [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (6 days ago)
 
 #### Quote of the day
 
