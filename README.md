@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [jorgebucaran/autopair.fish](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command line (today)
 - [ryansheehan/terraria](https://github.com/ryansheehan/terraria) - Dockerfile for terraria (1 day ago)
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell (1 day ago)
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node. (4 days ago)
 - [balderdashy/sails](https://github.com/balderdashy/sails) - Realtime MVC Framework for Node.js (4 days ago)
-- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀 (1 week ago)
 
 #### Quote of the day
 
