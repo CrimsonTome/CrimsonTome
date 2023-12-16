@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [gazorby/fish-abbreviation-tips](https://github.com/gazorby/fish-abbreviation-tips) - 💡 Help you remembering your abbreviations (today)
-- [jorgebucaran/autopair.fish](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command line (today)
-- [ryansheehan/terraria](https://github.com/ryansheehan/terraria) - Dockerfile for terraria (1 day ago)
-- [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell (1 day ago)
-- [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node. (4 days ago)
+- [gazorby/fish-abbreviation-tips](https://github.com/gazorby/fish-abbreviation-tips) - 💡 Help you remembering your abbreviations (1 day ago)
+- [jorgebucaran/autopair.fish](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command line (1 day ago)
+- [ryansheehan/terraria](https://github.com/ryansheehan/terraria) - Dockerfile for terraria (2 days ago)
+- [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell (2 days ago)
+- [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node. (5 days ago)
 
 #### Quote of the day
 
