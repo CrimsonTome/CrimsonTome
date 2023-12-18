@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components (today)
 - [gazorby/fish-abbreviation-tips](https://github.com/gazorby/fish-abbreviation-tips) - 💡 Help you remembering your abbreviations (3 days ago)
 - [jorgebucaran/autopair.fish](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command line (3 days ago)
 - [ryansheehan/terraria](https://github.com/ryansheehan/terraria) - Dockerfile for terraria (4 days ago)
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell (4 days ago)
-- [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node. (1 week ago)
 
 #### Quote of the day
 
