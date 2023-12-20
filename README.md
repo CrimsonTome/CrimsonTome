@@ -26,8 +26,8 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 day ago)
-- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (2 weeks ago)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (2 days ago)
+- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (3 weeks ago)
 - [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) - The HullCSS discord bot for automating some tasks within the hullcss discord server (3 months ago)
 - [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (3 months ago)
 - [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (4 months ago)
@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history (today)
-- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to &#39;find&#39; (1 day ago)
-- [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification (1 day ago)
-- [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components (1 day ago)
-- [gazorby/fish-abbreviation-tips](https://github.com/gazorby/fish-abbreviation-tips) - 💡 Help you remembering your abbreviations (4 days ago)
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history (1 day ago)
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to &#39;find&#39; (2 days ago)
+- [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification (2 days ago)
+- [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components (2 days ago)
+- [gazorby/fish-abbreviation-tips](https://github.com/gazorby/fish-abbreviation-tips) - 💡 Help you remembering your abbreviations (5 days ago)
 
 #### Quote of the day
 
