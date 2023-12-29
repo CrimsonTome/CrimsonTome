@@ -27,7 +27,7 @@ View my [GitHub Stats](/pages/stats.md)
 #### 👷 Check out what I'm currently working on
 
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 week ago)
-- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (4 weeks ago)
+- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (1 month ago)
 - [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) - The HullCSS discord bot for automating some tasks within the hullcss discord server (3 months ago)
 - [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (4 months ago)
 - [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (5 months ago)
@@ -47,7 +47,7 @@ View my [GitHub Stats](/pages/stats.md)
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to &#39;find&#39; (1 week ago)
 - [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification (1 week ago)
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components (1 week ago)
-- [gazorby/fish-abbreviation-tips](https://github.com/gazorby/fish-abbreviation-tips) - 💡 Help you remembering your abbreviations (1 week ago)
+- [gazorby/fish-abbreviation-tips](https://github.com/gazorby/fish-abbreviation-tips) - 💡 Help you remembering your abbreviations (2 weeks ago)
 
 #### Quote of the day
 
