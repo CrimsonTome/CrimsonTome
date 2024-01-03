@@ -43,9 +43,9 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [Elsie19/clam](https://github.com/Elsie19/clam) - Development tools for writing shell scripts (today)
-- [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command (today)
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (1 day ago)
+- [Elsie19/clam](https://github.com/Elsie19/clam) - Development tools for writing shell scripts (1 day ago)
+- [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command (1 day ago)
+- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (2 days ago)
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history (2 weeks ago)
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to &#39;find&#39; (2 weeks ago)
 
