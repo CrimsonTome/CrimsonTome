@@ -26,8 +26,8 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 day ago)
-- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (2 days ago)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (2 days ago)
+- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (3 days ago)
 - [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) - The HullCSS discord bot for automating some tasks within the hullcss discord server (3 months ago)
 - [FreesideHull/FreesideBot](https://github.com/FreesideHull/FreesideBot) - Freeside Bot repo (4 months ago)
 - [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (5 months ago)
@@ -43,9 +43,9 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [Elsie19/clam](https://github.com/Elsie19/clam) - Development tools for writing shell scripts (3 days ago)
-- [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command (3 days ago)
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (4 days ago)
+- [Elsie19/clam](https://github.com/Elsie19/clam) - Development tools for writing shell scripts (4 days ago)
+- [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command (4 days ago)
+- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (5 days ago)
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history (2 weeks ago)
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to &#39;find&#39; (2 weeks ago)
 
