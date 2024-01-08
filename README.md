@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [oddlama/vane](https://github.com/oddlama/vane) - Immersive and lore friendly enhancements for vanilla Minecraft (today)
 - [Elsie19/clam](https://github.com/Elsie19/clam) - Development tools for writing shell scripts (6 days ago)
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command (6 days ago)
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (1 week ago)
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history (2 weeks ago)
-- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to &#39;find&#39; (3 weeks ago)
 
 #### Quote of the day
 
