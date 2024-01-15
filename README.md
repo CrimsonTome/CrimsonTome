@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [EngineHub/WorldEdit](https://github.com/EngineHub/WorldEdit) - 🗺️ Minecraft map editor and mod (6 days ago)
-- [oddlama/vane](https://github.com/oddlama/vane) - Immersive and lore friendly enhancements for vanilla Minecraft (6 days ago)
+- [EngineHub/WorldEdit](https://github.com/EngineHub/WorldEdit) - 🗺️ Minecraft map editor and mod (1 week ago)
+- [oddlama/vane](https://github.com/oddlama/vane) - Immersive and lore friendly enhancements for vanilla Minecraft (1 week ago)
 - [Elsie19/clam](https://github.com/Elsie19/clam) - Development tools for writing shell scripts (1 week ago)
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command (1 week ago)
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (1 week ago)
+- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (2 weeks ago)
 
 #### Quote of the day
 
