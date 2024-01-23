@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work! (today)
 - [CelestialCartographers/Loenn](https://github.com/CelestialCartographers/Loenn) - A Visual Map Maker and Level Editor for the game Celeste but better than the other one (1 day ago)
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust (1 day ago)
 - [EngineHub/WorldEdit](https://github.com/EngineHub/WorldEdit) - 🗺️ Minecraft map editor and mod (2 weeks ago)
 - [oddlama/vane](https://github.com/oddlama/vane) - Immersive and lore friendly enhancements for vanilla Minecraft (2 weeks ago)
-- [Elsie19/clam](https://github.com/Elsie19/clam) - Development tools for writing shell scripts (3 weeks ago)
 
 #### Quote of the day
 
