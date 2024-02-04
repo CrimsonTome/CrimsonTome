@@ -43,8 +43,8 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net (5 days ago)
-- [EirikaDoesntCode/MysteryDungeon](https://github.com/EirikaDoesntCode/MysteryDungeon) - Godot project to make a mystery dungeon style game (5 days ago)
+- [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net (6 days ago)
+- [EirikaDoesntCode/MysteryDungeon](https://github.com/EirikaDoesntCode/MysteryDungeon) - Godot project to make a mystery dungeon style game (6 days ago)
 - [Gabb-c/pokenode-ts](https://github.com/Gabb-c/pokenode-ts) - A lightweight Node.js wrapper for the PokéAPI with built-in types. (1 week ago)
 - [mozilla/nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired) (1 week ago)
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work! (1 week ago)
