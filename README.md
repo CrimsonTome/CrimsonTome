@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [hashicorp/raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol (today)
+- [corosync/corosync](https://github.com/corosync/corosync) - The Corosync Cluster Engine (today)
 - [DomiStyle/docker-idrac6](https://github.com/DomiStyle/docker-idrac6) - iDRAC 6 web interface and VNC proxy (today)
 - [PluralKit/PluralKit](https://github.com/PluralKit/PluralKit) -  (1 week ago)
 - [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :) (1 week ago)
-- [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net (2 weeks ago)
-- [EirikaDoesntCode/MysteryDungeon](https://github.com/EirikaDoesntCode/MysteryDungeon) - Godot project to make a mystery dungeon style game (2 weeks ago)
 
 #### Quote of the day
 
