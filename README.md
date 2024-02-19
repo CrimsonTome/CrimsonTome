@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui) (today)
 - [hashicorp/raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol (4 days ago)
 - [corosync/corosync](https://github.com/corosync/corosync) - The Corosync Cluster Engine (4 days ago)
 - [DomiStyle/docker-idrac6](https://github.com/DomiStyle/docker-idrac6) - iDRAC 6 web interface and VNC proxy (4 days ago)
 - [PluralKit/PluralKit](https://github.com/PluralKit/PluralKit) -  (1 week ago)
-- [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :) (1 week ago)
 
 #### Quote of the day
 
