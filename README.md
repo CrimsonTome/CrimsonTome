@@ -26,7 +26,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (6 days ago)
+- [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (1 week ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 month ago)
 - [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (1 month ago)
 - [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) - The HullCSS discord bot for automating some tasks within the hullcss discord server (5 months ago)
@@ -43,9 +43,9 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [hashicorp/raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol (3 days ago)
-- [corosync/corosync](https://github.com/corosync/corosync) - The Corosync Cluster Engine (3 days ago)
-- [DomiStyle/docker-idrac6](https://github.com/DomiStyle/docker-idrac6) - iDRAC 6 web interface and VNC proxy (3 days ago)
+- [hashicorp/raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol (4 days ago)
+- [corosync/corosync](https://github.com/corosync/corosync) - The Corosync Cluster Engine (4 days ago)
+- [DomiStyle/docker-idrac6](https://github.com/DomiStyle/docker-idrac6) - iDRAC 6 web interface and VNC proxy (4 days ago)
 - [PluralKit/PluralKit](https://github.com/PluralKit/PluralKit) -  (1 week ago)
 - [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :) (1 week ago)
 
