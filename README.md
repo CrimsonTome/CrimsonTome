@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers. (today)
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui) (2 days ago)
 - [hashicorp/raft](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol (6 days ago)
 - [corosync/corosync](https://github.com/corosync/corosync) - The Corosync Cluster Engine (6 days ago)
 - [DomiStyle/docker-idrac6](https://github.com/DomiStyle/docker-idrac6) - iDRAC 6 web interface and VNC proxy (6 days ago)
-- [PluralKit/PluralKit](https://github.com/PluralKit/PluralKit) -  (2 weeks ago)
 
 #### Quote of the day
 
