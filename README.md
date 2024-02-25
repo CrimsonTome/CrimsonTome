@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. (today)
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash: (3 days ago)
 - [catppuccin/grub](https://github.com/catppuccin/grub) - 🌕 Soothing pastel theme for Grub2 (4 days ago)
 - [catppuccin/dark-reader](https://github.com/catppuccin/dark-reader) - ✴️ Soothing pastel theme for Dark Reader (4 days ago)
 - [catppuccin/firefox](https://github.com/catppuccin/firefox) - 🦊 Soothing pastel theme for Firefox (4 days ago)
-- [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers. (4 days ago)
 
 #### Quote of the day
 
