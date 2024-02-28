@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [yarrick/pingfs](https://github.com/yarrick/pingfs) - Stores your data in ICMP ping packets (today)
 - [broeker/spacebook](https://github.com/broeker/spacebook) - 💥 Create fast and simple documentation to explain almost anything. Uses Eleventy, Tailwind 2.0, and Alpine JS with an optional Netlify CMS. (1 day ago)
 - [CodeWithNous/Nous](https://github.com/CodeWithNous/Nous) - A fictional programming language mock-up with the intent of affecting the minds of those it&#39;s run on.  (2 days ago)
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix. (2 days ago)
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox] (2 days ago)
-- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]  (2 days ago)
 
 #### Quote of the day
 
