@@ -26,7 +26,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/nix](https://github.com/CrimsonTome/nix) - nix configs etc (4 days ago)
+- [CrimsonTome/nix](https://github.com/CrimsonTome/nix) - nix configs etc (5 days ago)
 - [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (2 weeks ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 month ago)
 - [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (1 month ago)
@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [yarrick/pingfs](https://github.com/yarrick/pingfs) - Stores your data in ICMP ping packets (2 days ago)
-- [broeker/spacebook](https://github.com/broeker/spacebook) - 💥 Create fast and simple documentation to explain almost anything. Uses Eleventy, Tailwind 2.0, and Alpine JS with an optional Netlify CMS. (3 days ago)
-- [CodeWithNous/Nous](https://github.com/CodeWithNous/Nous) - A fictional programming language mock-up with the intent of affecting the minds of those it&#39;s run on.  (4 days ago)
-- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix. (4 days ago)
-- [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox] (4 days ago)
+- [yarrick/pingfs](https://github.com/yarrick/pingfs) - Stores your data in ICMP ping packets (3 days ago)
+- [broeker/spacebook](https://github.com/broeker/spacebook) - 💥 Create fast and simple documentation to explain almost anything. Uses Eleventy, Tailwind 2.0, and Alpine JS with an optional Netlify CMS. (4 days ago)
+- [CodeWithNous/Nous](https://github.com/CodeWithNous/Nous) - A fictional programming language mock-up with the intent of affecting the minds of those it&#39;s run on.  (5 days ago)
+- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix. (5 days ago)
+- [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox] (5 days ago)
 
 #### Quote of the day
 
