@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [citra-mirror/citra](https://github.com/citra-mirror/citra) - A Nintendo 3DS Emulator (unofficial mirror fork) (today)
 - [yarrick/pingfs](https://github.com/yarrick/pingfs) - Stores your data in ICMP ping packets (1 week ago)
 - [broeker/spacebook](https://github.com/broeker/spacebook) - 💥 Create fast and simple documentation to explain almost anything. Uses Eleventy, Tailwind 2.0, and Alpine JS with an optional Netlify CMS. (1 week ago)
 - [CodeWithNous/Nous](https://github.com/CodeWithNous/Nous) - A fictional programming language mock-up with the intent of affecting the minds of those it&#39;s run on.  (1 week ago)
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix. (1 week ago)
-- [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox] (1 week ago)
 
 #### Quote of the day
 
