@@ -43,8 +43,8 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [lkarlslund/Adalanche](https://github.com/lkarlslund/Adalanche) - Active Directory ACL Visualizer and Explorer - who&#39;s really Domain Admin? (Commerical versions available from NetSection) (2 days ago)
-- [citra-mirror/citra](https://github.com/citra-mirror/citra) - A Nintendo 3DS Emulator (unofficial mirror fork) (6 days ago)
+- [lkarlslund/Adalanche](https://github.com/lkarlslund/Adalanche) - Active Directory ACL Visualizer and Explorer - who&#39;s really Domain Admin? (Commerical versions available from NetSection) (3 days ago)
+- [citra-mirror/citra](https://github.com/citra-mirror/citra) - A Nintendo 3DS Emulator (unofficial mirror fork) (1 week ago)
 - [yarrick/pingfs](https://github.com/yarrick/pingfs) - Stores your data in ICMP ping packets (2 weeks ago)
 - [broeker/spacebook](https://github.com/broeker/spacebook) - 💥 Create fast and simple documentation to explain almost anything. Uses Eleventy, Tailwind 2.0, and Alpine JS with an optional Netlify CMS. (2 weeks ago)
 - [CodeWithNous/Nous](https://github.com/CodeWithNous/Nous) - A fictional programming language mock-up with the intent of affecting the minds of those it&#39;s run on.  (2 weeks ago)
