@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [OpenAsar/arrpc](https://github.com/OpenAsar/arrpc) - Open Discord RPC server for atypical setups (today)
+- [Vencord/Installer](https://github.com/Vencord/Installer) - A cross platform gui/cli app for installing Vencord (today)
+- [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop gives you the performance of web Discord and the comfort of Discord Desktop (today)
 - [lkarlslund/Adalanche](https://github.com/lkarlslund/Adalanche) - Active Directory ACL Visualizer and Explorer - who&#39;s really Domain Admin? (Commerical versions available from NetSection) (1 week ago)
 - [citra-mirror/citra](https://github.com/citra-mirror/citra) - A Nintendo 3DS Emulator (unofficial mirror fork) (1 week ago)
-- [yarrick/pingfs](https://github.com/yarrick/pingfs) - Stores your data in ICMP ping packets (2 weeks ago)
-- [broeker/spacebook](https://github.com/broeker/spacebook) - 💥 Create fast and simple documentation to explain almost anything. Uses Eleventy, Tailwind 2.0, and Alpine JS with an optional Netlify CMS. (2 weeks ago)
-- [CodeWithNous/Nous](https://github.com/CodeWithNous/Nous) - A fictional programming language mock-up with the intent of affecting the minds of those it&#39;s run on.  (3 weeks ago)
 
 #### Quote of the day
 
