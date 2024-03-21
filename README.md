@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [OpenAsar/arrpc](https://github.com/OpenAsar/arrpc) - Open Discord RPC server for atypical setups (2 days ago)
-- [Vencord/Installer](https://github.com/Vencord/Installer) - A cross platform gui/cli app for installing Vencord (2 days ago)
-- [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop gives you the performance of web Discord and the comfort of Discord Desktop (2 days ago)
+- [OpenAsar/arrpc](https://github.com/OpenAsar/arrpc) - Open Discord RPC server for atypical setups (3 days ago)
+- [Vencord/Installer](https://github.com/Vencord/Installer) - A cross platform gui/cli app for installing Vencord (3 days ago)
+- [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop gives you the performance of web Discord and the comfort of Discord Desktop (3 days ago)
 - [lkarlslund/Adalanche](https://github.com/lkarlslund/Adalanche) - Active Directory ACL Visualizer and Explorer - who&#39;s really Domain Admin? (Commerical versions available from NetSection) (1 week ago)
-- [citra-mirror/citra](https://github.com/citra-mirror/citra) - A Nintendo 3DS Emulator (unofficial mirror fork) (1 week ago)
+- [citra-mirror/citra](https://github.com/citra-mirror/citra) - A Nintendo 3DS Emulator (unofficial mirror fork) (2 weeks ago)
 
 #### Quote of the day
 
