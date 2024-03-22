@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [jellyfin/jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Jellyfin Desktop Client based on Plex Media Player (today)
+- [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile (today)
+- [catppuccin/website](https://github.com/catppuccin/website) - 🌐 Soothing pastel theme for the World Wide Web (WIP)  (today)
 - [OpenAsar/arrpc](https://github.com/OpenAsar/arrpc) - Open Discord RPC server for atypical setups (4 days ago)
 - [Vencord/Installer](https://github.com/Vencord/Installer) - A cross platform gui/cli app for installing Vencord (4 days ago)
-- [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop gives you the performance of web Discord and the comfort of Discord Desktop (4 days ago)
-- [lkarlslund/Adalanche](https://github.com/lkarlslund/Adalanche) - Active Directory ACL Visualizer and Explorer - who&#39;s really Domain Admin? (Commerical versions available from NetSection) (1 week ago)
-- [citra-mirror/citra](https://github.com/citra-mirror/citra) - A Nintendo 3DS Emulator (unofficial mirror fork) (2 weeks ago)
 
 #### Quote of the day
 
