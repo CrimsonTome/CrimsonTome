@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [tgrosinger/ledger-obsidian](https://github.com/tgrosinger/ledger-obsidian) - Plain text accounting in Obsidian.md (today)
 - [jellyfin/jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Jellyfin Desktop Client based on Plex Media Player (today)
 - [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile (today)
 - [catppuccin/website](https://github.com/catppuccin/website) - 🌐 Soothing pastel theme for the World Wide Web (WIP)  (today)
 - [OpenAsar/arrpc](https://github.com/OpenAsar/arrpc) - Open Discord RPC server for atypical setups (4 days ago)
-- [Vencord/Installer](https://github.com/Vencord/Installer) - A cross platform gui/cli app for installing Vencord (4 days ago)
 
 #### Quote of the day
 
