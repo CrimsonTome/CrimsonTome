@@ -46,7 +46,7 @@ View my [GitHub Stats](/pages/stats.md)
 - [tgrosinger/ledger-obsidian](https://github.com/tgrosinger/ledger-obsidian) - Plain text accounting in Obsidian.md (2 days ago)
 - [jellyfin/jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Jellyfin Desktop Client based on Plex Media Player (2 days ago)
 - [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile (2 days ago)
-- [catppuccin/website](https://github.com/catppuccin/website) - 🌐 Soothing pastel theme for the World Wide Web (WIP)  (2 days ago)
+- [catppuccin/website](https://github.com/catppuccin/website) - 🌐 Soothing pastel theme for the World Wide Web (2 days ago)
 - [OpenAsar/arrpc](https://github.com/OpenAsar/arrpc) - Open Discord RPC server for atypical setups (6 days ago)
 
 #### Quote of the day
