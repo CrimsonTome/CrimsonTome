@@ -26,7 +26,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/nix](https://github.com/CrimsonTome/nix) - nix configs etc (3 weeks ago)
+- [CrimsonTome/nix](https://github.com/CrimsonTome/nix) - nix configs etc (4 weeks ago)
 - [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (1 month ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (2 months ago)
 - [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (2 months ago)
@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [tgrosinger/ledger-obsidian](https://github.com/tgrosinger/ledger-obsidian) - Plain text accounting in Obsidian.md (2 days ago)
-- [jellyfin/jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Jellyfin Desktop Client based on Plex Media Player (2 days ago)
-- [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile (2 days ago)
-- [catppuccin/website](https://github.com/catppuccin/website) - 🌐 Soothing pastel theme for the World Wide Web (2 days ago)
-- [OpenAsar/arrpc](https://github.com/OpenAsar/arrpc) - Open Discord RPC server for atypical setups (6 days ago)
+- [tgrosinger/ledger-obsidian](https://github.com/tgrosinger/ledger-obsidian) - Plain text accounting in Obsidian.md (3 days ago)
+- [jellyfin/jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Jellyfin Desktop Client based on Plex Media Player (3 days ago)
+- [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile (3 days ago)
+- [catppuccin/website](https://github.com/catppuccin/website) - 🌐 Soothing pastel theme for the World Wide Web (3 days ago)
+- [OpenAsar/arrpc](https://github.com/OpenAsar/arrpc) - Open Discord RPC server for atypical setups (1 week ago)
 
 #### Quote of the day
 
