@@ -43,10 +43,10 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [tgrosinger/ledger-obsidian](https://github.com/tgrosinger/ledger-obsidian) - Plain text accounting in Obsidian.md (5 days ago)
-- [jellyfin/jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Jellyfin Desktop Client based on Plex Media Player (5 days ago)
-- [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile (5 days ago)
-- [catppuccin/website](https://github.com/catppuccin/website) - 🌐 Soothing pastel theme for the World Wide Web (5 days ago)
+- [tgrosinger/ledger-obsidian](https://github.com/tgrosinger/ledger-obsidian) - Plain text accounting in Obsidian.md (6 days ago)
+- [jellyfin/jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Jellyfin Desktop Client based on Plex Media Player (6 days ago)
+- [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile (6 days ago)
+- [catppuccin/website](https://github.com/catppuccin/website) - 🌐 Soothing pastel theme for the World Wide Web (6 days ago)
 - [OpenAsar/arrpc](https://github.com/OpenAsar/arrpc) - Open Discord RPC server for atypical setups (1 week ago)
 
 #### Quote of the day
