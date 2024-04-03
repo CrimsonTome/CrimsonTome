@@ -28,7 +28,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 - [CrimsonTome/nix](https://github.com/CrimsonTome/nix) - nix configs etc (1 month ago)
 - [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (1 month ago)
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (2 months ago)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (3 months ago)
 - [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (3 months ago)
 - [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) - The HullCSS discord bot for automating some tasks within the hullcss discord server (6 months ago)
 
@@ -43,7 +43,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client (3 days ago)
+- [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client (4 days ago)
 - [tgrosinger/ledger-obsidian](https://github.com/tgrosinger/ledger-obsidian) - Plain text accounting in Obsidian.md (1 week ago)
 - [jellyfin/jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Jellyfin Desktop Client based on Plex Media Player (1 week ago)
 - [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile (1 week ago)
