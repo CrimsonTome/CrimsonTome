@@ -43,7 +43,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client (4 days ago)
+- [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client (5 days ago)
 - [tgrosinger/ledger-obsidian](https://github.com/tgrosinger/ledger-obsidian) - Plain text accounting in Obsidian.md (1 week ago)
 - [jellyfin/jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Jellyfin Desktop Client based on Plex Media Player (1 week ago)
 - [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile (1 week ago)
