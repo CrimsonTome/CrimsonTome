@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [ParallelSSH/parallel-ssh](https://github.com/ParallelSSH/parallel-ssh) - Asynchronous parallel SSH client library. (today)
-- [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client (5 days ago)
-- [tgrosinger/ledger-obsidian](https://github.com/tgrosinger/ledger-obsidian) - Plain text accounting in Obsidian.md (1 week ago)
-- [jellyfin/jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Jellyfin Desktop Client based on Plex Media Player (1 week ago)
-- [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile (1 week ago)
+- [ParallelSSH/parallel-ssh](https://github.com/ParallelSSH/parallel-ssh) - Asynchronous parallel SSH client library. (1 day ago)
+- [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client (6 days ago)
+- [tgrosinger/ledger-obsidian](https://github.com/tgrosinger/ledger-obsidian) - Plain text accounting in Obsidian.md (2 weeks ago)
+- [jellyfin/jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Jellyfin Desktop Client based on Plex Media Player (2 weeks ago)
+- [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile (2 weeks ago)
 
 #### Quote of the day
 
