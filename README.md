@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [pagefaultgames/pokerogue-server](https://github.com/pagefaultgames/pokerogue-server) -  (today)
+- [pagefaultgames/pokerogue](https://github.com/pagefaultgames/pokerogue) -  (today)
+- [catppuccin/hyprland](https://github.com/catppuccin/hyprland) - 🌻 Soothing pastel theme for Hyprland (today)
+- [Lissy93/raid-calculator](https://github.com/Lissy93/raid-calculator) - 💽 A quick tool for determining and comparing approximate capacity, speed and fault tolerance of different RAID configurations (today)
 - [ParallelSSH/parallel-ssh](https://github.com/ParallelSSH/parallel-ssh) - Asynchronous parallel SSH client library. (4 days ago)
-- [lutris/lutris](https://github.com/lutris/lutris) - Lutris desktop client (1 week ago)
-- [tgrosinger/ledger-obsidian](https://github.com/tgrosinger/ledger-obsidian) - Plain text accounting in Obsidian.md (2 weeks ago)
-- [jellyfin/jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Jellyfin Desktop Client based on Plex Media Player (2 weeks ago)
-- [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile (2 weeks ago)
 
 #### Quote of the day
 
