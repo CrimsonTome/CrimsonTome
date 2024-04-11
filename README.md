@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [pagefaultgames/pokerogue-server](https://github.com/pagefaultgames/pokerogue-server) -  (2 days ago)
-- [pagefaultgames/pokerogue](https://github.com/pagefaultgames/pokerogue) -  (2 days ago)
-- [catppuccin/hyprland](https://github.com/catppuccin/hyprland) - 🌻 Soothing pastel theme for Hyprland (2 days ago)
-- [Lissy93/raid-calculator](https://github.com/Lissy93/raid-calculator) - 💽 A quick tool for determining and comparing approximate capacity, speed and fault tolerance of different RAID configurations (2 days ago)
-- [ParallelSSH/parallel-ssh](https://github.com/ParallelSSH/parallel-ssh) - Asynchronous parallel SSH client library. (6 days ago)
+- [pagefaultgames/pokerogue-server](https://github.com/pagefaultgames/pokerogue-server) -  (3 days ago)
+- [pagefaultgames/pokerogue](https://github.com/pagefaultgames/pokerogue) -  (3 days ago)
+- [catppuccin/hyprland](https://github.com/catppuccin/hyprland) - 🌻 Soothing pastel theme for Hyprland (3 days ago)
+- [Lissy93/raid-calculator](https://github.com/Lissy93/raid-calculator) - 💽 A quick tool for determining and comparing approximate capacity, speed and fault tolerance of different RAID configurations (3 days ago)
+- [ParallelSSH/parallel-ssh](https://github.com/ParallelSSH/parallel-ssh) - Asynchronous parallel SSH client library. (1 week ago)
 
 #### Quote of the day
 
