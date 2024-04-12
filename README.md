@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu (today)
 - [pagefaultgames/pokerogue-server](https://github.com/pagefaultgames/pokerogue-server) -  (4 days ago)
 - [pagefaultgames/pokerogue](https://github.com/pagefaultgames/pokerogue) -  (4 days ago)
 - [catppuccin/hyprland](https://github.com/catppuccin/hyprland) - 🌻 Soothing pastel theme for Hyprland (4 days ago)
 - [Lissy93/raid-calculator](https://github.com/Lissy93/raid-calculator) - 💽 A quick tool for determining and comparing approximate capacity, speed and fault tolerance of different RAID configurations (4 days ago)
-- [ParallelSSH/parallel-ssh](https://github.com/ParallelSSH/parallel-ssh) - Asynchronous parallel SSH client library. (1 week ago)
 
 #### Quote of the day
 
