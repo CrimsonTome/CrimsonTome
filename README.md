@@ -26,10 +26,10 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (today)
 - [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (3 days ago)
 - [CrimsonTome/nix](https://github.com/CrimsonTome/nix) - nix configs etc (1 month ago)
 - [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (2 months ago)
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (3 months ago)
 - [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) - The HullCSS discord bot for automating some tasks within the hullcss discord server (6 months ago)
 
 
