@@ -26,8 +26,8 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (today)
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (today)
+- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (1 day ago)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 day ago)
 - [CrimsonTome/nix](https://github.com/CrimsonTome/nix) - nix configs etc (1 month ago)
 - [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (2 months ago)
 - [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) - The HullCSS discord bot for automating some tasks within the hullcss discord server (6 months ago)
@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu (2 days ago)
-- [pagefaultgames/pokerogue-server](https://github.com/pagefaultgames/pokerogue-server) -  (6 days ago)
-- [pagefaultgames/pokerogue](https://github.com/pagefaultgames/pokerogue) -  (6 days ago)
-- [catppuccin/hyprland](https://github.com/catppuccin/hyprland) - 🌻 Soothing pastel theme for Hyprland (6 days ago)
-- [Lissy93/raid-calculator](https://github.com/Lissy93/raid-calculator) - 💽 A quick tool for determining and comparing approximate capacity, speed and fault tolerance of different RAID configurations (6 days ago)
+- [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu (3 days ago)
+- [pagefaultgames/pokerogue-server](https://github.com/pagefaultgames/pokerogue-server) -  (1 week ago)
+- [pagefaultgames/pokerogue](https://github.com/pagefaultgames/pokerogue) -  (1 week ago)
+- [catppuccin/hyprland](https://github.com/catppuccin/hyprland) - 🌻 Soothing pastel theme for Hyprland (1 week ago)
+- [Lissy93/raid-calculator](https://github.com/Lissy93/raid-calculator) - 💽 A quick tool for determining and comparing approximate capacity, speed and fault tolerance of different RAID configurations (1 week ago)
 
 #### Quote of the day
 
