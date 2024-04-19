@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [Lissy93/anti-theft-charge](https://github.com/Lissy93/anti-theft-charge) - 🔋 Safely charge your phone in public places without the worry of it being stolen (today)
+- [Lissy93/git-in](https://github.com/Lissy93/git-in) - 🫶 &#34;git&#34; into opensource. A roadmap and set of guides to help you get started with open source (today)
 - [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock) - 🔒 Soothing pastel theme for Hyprlock (2 days ago)
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library (2 days ago)
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu (1 week ago)
-- [pagefaultgames/pokerogue-server](https://github.com/pagefaultgames/pokerogue-server) -  (1 week ago)
-- [pagefaultgames/pokerogue](https://github.com/pagefaultgames/pokerogue) -  (1 week ago)
 
 #### Quote of the day
 
