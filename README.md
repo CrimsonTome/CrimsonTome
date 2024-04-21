@@ -26,16 +26,16 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (3 days ago)
-- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (6 days ago)
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (6 days ago)
+- [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (4 days ago)
+- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (1 week ago)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 week ago)
 - [CrimsonTome/nix](https://github.com/CrimsonTome/nix) - nix configs etc (1 month ago)
 - [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (2 months ago)
 
 
 #### 🔨 My recent Pull Requests
 
-- [Fix repo link in a few places](https://github.com/hullcss/hullcss-astro/pull/18) on [hullcss/hullcss-astro](https://github.com/hullcss/hullcss-astro) (4 months ago)
+- [Fix repo link in a few places](https://github.com/hullcss/hullcss-astro/pull/18) on [hullcss/hullcss-astro](https://github.com/hullcss/hullcss-astro) (5 months ago)
 - [Add Docker Compose support](https://github.com/hullcss/hullcss-discord-bot/pull/205) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (7 months ago)
 - [feat: add Dockerfile](https://github.com/FreesideHull/hullblogs.com/pull/15) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (1 year ago)
 - [2nd checkpoint slides](https://github.com/DDD-group-22-23/DDD-group-project/pull/7) on [DDD-group-22-23/DDD-group-project](https://github.com/DDD-group-22-23/DDD-group-project) (1 year ago)
@@ -43,10 +43,10 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [Lissy93/anti-theft-charge](https://github.com/Lissy93/anti-theft-charge) - 🔋 Safely charge your phone in public places without the worry of it being stolen (1 day ago)
-- [Lissy93/git-in](https://github.com/Lissy93/git-in) - 🫶 &#34;git&#34; into opensource. A roadmap and set of guides to help you get started with open source (1 day ago)
-- [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock) - 🔒 Soothing pastel theme for Hyprlock (3 days ago)
-- [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library (3 days ago)
+- [Lissy93/anti-theft-charge](https://github.com/Lissy93/anti-theft-charge) - 🔋 Safely charge your phone in public places without the worry of it being stolen (2 days ago)
+- [Lissy93/git-in](https://github.com/Lissy93/git-in) - 🫶 &#34;git&#34; into opensource. A roadmap and set of guides to help you get started with open source (2 days ago)
+- [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock) - 🔒 Soothing pastel theme for Hyprlock (4 days ago)
+- [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library (4 days ago)
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu (1 week ago)
 
 #### Quote of the day
