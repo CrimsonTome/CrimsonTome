@@ -43,9 +43,9 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [dropbox/zxcvbn](https://github.com/dropbox/zxcvbn) - Low-Budget Password Strength Estimation (today)
-- [Lissy93/anti-theft-charge](https://github.com/Lissy93/anti-theft-charge) - 🔋 Safely charge your phone in public places without the worry of it being stolen (5 days ago)
-- [Lissy93/git-in](https://github.com/Lissy93/git-in) - 🫶 &#34;git&#34; into opensource. A roadmap and set of guides to help you get started with open source (5 days ago)
+- [dropbox/zxcvbn](https://github.com/dropbox/zxcvbn) - Low-Budget Password Strength Estimation (1 day ago)
+- [Lissy93/anti-theft-charge](https://github.com/Lissy93/anti-theft-charge) - 🔋 Safely charge your phone in public places without the worry of it being stolen (6 days ago)
+- [Lissy93/git-in](https://github.com/Lissy93/git-in) - 🫶 &#34;git&#34; into opensource. A roadmap and set of guides to help you get started with open source (6 days ago)
 - [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock) - 🔒 Soothing pastel theme for Hyprlock (1 week ago)
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library (1 week ago)
 
