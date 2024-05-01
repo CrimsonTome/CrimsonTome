@@ -26,7 +26,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (1 week ago)
+- [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (2 weeks ago)
 - [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (2 weeks ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (2 weeks ago)
 - [CrimsonTome/nix](https://github.com/CrimsonTome/nix) - nix configs etc (2 months ago)
@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [JnyJny/busylight](https://github.com/JnyJny/busylight) - Control USB connected presence lights from multiple vendors via the command-line or web API. (1 day ago)
-- [dropbox/zxcvbn](https://github.com/dropbox/zxcvbn) - Low-Budget Password Strength Estimation (6 days ago)
+- [JnyJny/busylight](https://github.com/JnyJny/busylight) - Control USB connected presence lights from multiple vendors via the command-line or web API. (2 days ago)
+- [dropbox/zxcvbn](https://github.com/dropbox/zxcvbn) - Low-Budget Password Strength Estimation (1 week ago)
 - [Lissy93/anti-theft-charge](https://github.com/Lissy93/anti-theft-charge) - 🔋 Safely charge your phone in public places without the worry of it being stolen (1 week ago)
 - [Lissy93/git-in](https://github.com/Lissy93/git-in) - 🫶 &#34;git&#34; into opensource. A roadmap and set of guides to help you get started with open source (1 week ago)
-- [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock) - 🔒 Soothing pastel theme for Hyprlock (1 week ago)
+- [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock) - 🔒 Soothing pastel theme for Hyprlock (2 weeks ago)
 
 #### Quote of the day
 
