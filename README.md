@@ -27,7 +27,7 @@ View my [GitHub Stats](/pages/stats.md)
 #### 👷 Check out what I'm currently working on
 
 - [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (1 week ago)
-- [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (4 weeks ago)
+- [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (1 month ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 month ago)
 - [CrimsonTome/nix](https://github.com/CrimsonTome/nix) - nix configs etc (2 months ago)
 - [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (3 months ago)
@@ -36,7 +36,7 @@ View my [GitHub Stats](/pages/stats.md)
 #### 🔨 My recent Pull Requests
 
 - [Fix repo link in a few places](https://github.com/hullcss/hullcss-astro/pull/18) on [hullcss/hullcss-astro](https://github.com/hullcss/hullcss-astro) (5 months ago)
-- [Add Docker Compose support](https://github.com/hullcss/hullcss-discord-bot/pull/205) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (7 months ago)
+- [Add Docker Compose support](https://github.com/hullcss/hullcss-discord-bot/pull/205) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (8 months ago)
 - [feat: add Dockerfile](https://github.com/FreesideHull/hullblogs.com/pull/15) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (1 year ago)
 - [2nd checkpoint slides](https://github.com/DDD-group-22-23/DDD-group-project/pull/7) on [DDD-group-22-23/DDD-group-project](https://github.com/DDD-group-22-23/DDD-group-project) (1 year ago)
 - [feature/selenium](https://github.com/DDD-group-22-23/DDD-group-project/pull/6) on [DDD-group-22-23/DDD-group-project](https://github.com/DDD-group-22-23/DDD-group-project) (1 year ago)
@@ -47,7 +47,7 @@ View my [GitHub Stats](/pages/stats.md)
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust (2 weeks ago)
 - [JnyJny/busylight](https://github.com/JnyJny/busylight) - Control USB connected presence lights from multiple vendors via the command-line or web API. (2 weeks ago)
 - [dropbox/zxcvbn](https://github.com/dropbox/zxcvbn) - Low-Budget Password Strength Estimation (3 weeks ago)
-- [Lissy93/anti-theft-charge](https://github.com/Lissy93/anti-theft-charge) - 🔋 Safely charge your phone in public places without the worry of it being stolen (3 weeks ago)
+- [Lissy93/anti-theft-charge](https://github.com/Lissy93/anti-theft-charge) - 🔋 Safely charge your phone in public places without the worry of it being stolen (4 weeks ago)
 
 #### Quote of the day
 
