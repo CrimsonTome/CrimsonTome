@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [OmniSharp/csharp-language-server-protocol](https://github.com/OmniSharp/csharp-language-server-protocol) - Language Server Protocol in C# (today)
 - [tnychn/mpv-discord](https://github.com/tnychn/mpv-discord) - 🎈 A cross-platform Discord Rich Presence integration for mpv with no external dependencies. (2 weeks ago)
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust (2 weeks ago)
 - [JnyJny/busylight](https://github.com/JnyJny/busylight) - Control USB connected presence lights from multiple vendors via the command-line or web API. (3 weeks ago)
 - [dropbox/zxcvbn](https://github.com/dropbox/zxcvbn) - Low-Budget Password Strength Estimation (3 weeks ago)
-- [Lissy93/anti-theft-charge](https://github.com/Lissy93/anti-theft-charge) - 🔋 Safely charge your phone in public places without the worry of it being stolen (1 month ago)
 
 #### Quote of the day
 
