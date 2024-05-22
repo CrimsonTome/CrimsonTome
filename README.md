@@ -43,10 +43,10 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system (1 day ago)
-- [OmniSharp/csharp-language-server-protocol](https://github.com/OmniSharp/csharp-language-server-protocol) - Language Server Protocol in C# (1 day ago)
+- [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system (2 days ago)
+- [OmniSharp/csharp-language-server-protocol](https://github.com/OmniSharp/csharp-language-server-protocol) - Language Server Protocol in C# (2 days ago)
 - [tnychn/mpv-discord](https://github.com/tnychn/mpv-discord) - 🎈 A cross-platform Discord Rich Presence integration for mpv with no external dependencies. (2 weeks ago)
-- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust (2 weeks ago)
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust (3 weeks ago)
 - [JnyJny/busylight](https://github.com/JnyJny/busylight) - Control USB connected presence lights from multiple vendors via the command-line or web API. (3 weeks ago)
 
 #### Quote of the day
