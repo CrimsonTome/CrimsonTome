@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [fog/fog](https://github.com/fog/fog) - The Ruby cloud services library. (today)
+- [Azure/azure-storage-azcopy](https://github.com/Azure/azure-storage-azcopy) - The new Azure Storage data transfer utility - AzCopy v10 (today)
 - [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system (3 days ago)
 - [OmniSharp/csharp-language-server-protocol](https://github.com/OmniSharp/csharp-language-server-protocol) - Language Server Protocol in C# (3 days ago)
 - [tnychn/mpv-discord](https://github.com/tnychn/mpv-discord) - 🎈 A cross-platform Discord Rich Presence integration for mpv with no external dependencies. (2 weeks ago)
-- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust (3 weeks ago)
-- [JnyJny/busylight](https://github.com/JnyJny/busylight) - Control USB connected presence lights from multiple vendors via the command-line or web API. (3 weeks ago)
 
 #### Quote of the day
 
