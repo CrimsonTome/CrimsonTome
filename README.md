@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [fog/fog](https://github.com/fog/fog) - The Ruby cloud services library. (1 day ago)
-- [Azure/azure-storage-azcopy](https://github.com/Azure/azure-storage-azcopy) - The new Azure Storage data transfer utility - AzCopy v10 (1 day ago)
-- [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system (4 days ago)
-- [OmniSharp/csharp-language-server-protocol](https://github.com/OmniSharp/csharp-language-server-protocol) - Language Server Protocol in C# (4 days ago)
-- [tnychn/mpv-discord](https://github.com/tnychn/mpv-discord) - 🎈 A cross-platform Discord Rich Presence integration for mpv with no external dependencies. (2 weeks ago)
+- [fog/fog](https://github.com/fog/fog) - The Ruby cloud services library. (2 days ago)
+- [Azure/azure-storage-azcopy](https://github.com/Azure/azure-storage-azcopy) - The new Azure Storage data transfer utility - AzCopy v10 (2 days ago)
+- [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system (5 days ago)
+- [OmniSharp/csharp-language-server-protocol](https://github.com/OmniSharp/csharp-language-server-protocol) - Language Server Protocol in C# (5 days ago)
+- [tnychn/mpv-discord](https://github.com/tnychn/mpv-discord) - 🎈 A cross-platform Discord Rich Presence integration for mpv with no external dependencies. (3 weeks ago)
 
 #### Quote of the day
 
