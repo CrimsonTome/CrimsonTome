@@ -29,7 +29,7 @@ View my [GitHub Stats](/pages/stats.md)
 - [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (2 weeks ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (1 month ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 month ago)
-- [CrimsonTome/nix](https://github.com/CrimsonTome/nix) - nix configs etc (2 months ago)
+- [CrimsonTome/nix](https://github.com/CrimsonTome/nix) - nix configs etc (3 months ago)
 - [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (3 months ago)
 
 
@@ -43,10 +43,10 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [fog/fog](https://github.com/fog/fog) - The Ruby cloud services library. (2 days ago)
-- [Azure/azure-storage-azcopy](https://github.com/Azure/azure-storage-azcopy) - The new Azure Storage data transfer utility - AzCopy v10 (2 days ago)
-- [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system (5 days ago)
-- [OmniSharp/csharp-language-server-protocol](https://github.com/OmniSharp/csharp-language-server-protocol) - Language Server Protocol in C# (5 days ago)
+- [fog/fog](https://github.com/fog/fog) - The Ruby cloud services library. (3 days ago)
+- [Azure/azure-storage-azcopy](https://github.com/Azure/azure-storage-azcopy) - The new Azure Storage data transfer utility - AzCopy v10 (3 days ago)
+- [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system (6 days ago)
+- [OmniSharp/csharp-language-server-protocol](https://github.com/OmniSharp/csharp-language-server-protocol) - Language Server Protocol in C# (6 days ago)
 - [tnychn/mpv-discord](https://github.com/tnychn/mpv-discord) - 🎈 A cross-platform Discord Rich Presence integration for mpv with no external dependencies. (3 weeks ago)
 
 #### Quote of the day
