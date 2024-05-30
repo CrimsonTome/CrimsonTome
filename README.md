@@ -43,9 +43,9 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [simeononsecurity/FireFox-Privacy-Script](https://github.com/simeononsecurity/FireFox-Privacy-Script) - Implement the privacy oriented configurations for FireFox (1 day ago)
-- [fog/fog](https://github.com/fog/fog) - The Ruby cloud services library. (6 days ago)
-- [Azure/azure-storage-azcopy](https://github.com/Azure/azure-storage-azcopy) - The new Azure Storage data transfer utility - AzCopy v10 (6 days ago)
+- [simeononsecurity/FireFox-Privacy-Script](https://github.com/simeononsecurity/FireFox-Privacy-Script) - Implement the privacy oriented configurations for FireFox (2 days ago)
+- [fog/fog](https://github.com/fog/fog) - The Ruby cloud services library. (1 week ago)
+- [Azure/azure-storage-azcopy](https://github.com/Azure/azure-storage-azcopy) - The new Azure Storage data transfer utility - AzCopy v10 (1 week ago)
 - [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system (1 week ago)
 - [OmniSharp/csharp-language-server-protocol](https://github.com/OmniSharp/csharp-language-server-protocol) - Language Server Protocol in C# (1 week ago)
 
