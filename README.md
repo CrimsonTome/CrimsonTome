@@ -43,7 +43,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [heiswayi/thinkspace](https://github.com/heiswayi/thinkspace) - Just another minimalist Jekyll theme which designed for technical writing blog. (1 day ago)
+- [heiswayi/thinkspace](https://github.com/heiswayi/thinkspace) - Just another minimalist Jekyll theme which designed for technical writing blog. (2 days ago)
 - [catppuccin/i3](https://github.com/catppuccin/i3) - 🌻 Soothing pastel themes for i3 &amp; sway (1 week ago)
 - [simeononsecurity/FireFox-Privacy-Script](https://github.com/simeononsecurity/FireFox-Privacy-Script) - Implement the privacy oriented configurations for FireFox (1 week ago)
 - [fog/fog](https://github.com/fog/fog) - The Ruby cloud services library. (2 weeks ago)
