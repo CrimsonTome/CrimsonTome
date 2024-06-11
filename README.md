@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins &amp; other Fish treasures 🐚💎 (today)
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more (1 day ago)
 - [jethrokuan/z](https://github.com/jethrokuan/z) - Pure-fish z directory jumping (2 days ago)
 - [heiswayi/thinkspace](https://github.com/heiswayi/thinkspace) - Just another minimalist Jekyll theme which designed for technical writing blog. (4 days ago)
 - [catppuccin/i3](https://github.com/catppuccin/i3) - 🌻 Soothing pastel themes for i3 &amp; sway (1 week ago)
-- [simeononsecurity/FireFox-Privacy-Script](https://github.com/simeononsecurity/FireFox-Privacy-Script) - Implement the privacy oriented configurations for FireFox (2 weeks ago)
 
 #### Quote of the day
 
