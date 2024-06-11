@@ -30,7 +30,7 @@ View my [GitHub Stats](/pages/stats.md)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (1 month ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 month ago)
 - [CrimsonTome/nix](https://github.com/CrimsonTome/nix) - nix configs etc (3 months ago)
-- [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (3 months ago)
+- [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (4 months ago)
 
 
 #### 🔨 My recent Pull Requests
@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more (today)
-- [jethrokuan/z](https://github.com/jethrokuan/z) - Pure-fish z directory jumping (1 day ago)
-- [heiswayi/thinkspace](https://github.com/heiswayi/thinkspace) - Just another minimalist Jekyll theme which designed for technical writing blog. (3 days ago)
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more (1 day ago)
+- [jethrokuan/z](https://github.com/jethrokuan/z) - Pure-fish z directory jumping (2 days ago)
+- [heiswayi/thinkspace](https://github.com/heiswayi/thinkspace) - Just another minimalist Jekyll theme which designed for technical writing blog. (4 days ago)
 - [catppuccin/i3](https://github.com/catppuccin/i3) - 🌻 Soothing pastel themes for i3 &amp; sway (1 week ago)
-- [simeononsecurity/FireFox-Privacy-Script](https://github.com/simeononsecurity/FireFox-Privacy-Script) - Implement the privacy oriented configurations for FireFox (1 week ago)
+- [simeononsecurity/FireFox-Privacy-Script](https://github.com/simeononsecurity/FireFox-Privacy-Script) - Implement the privacy oriented configurations for FireFox (2 weeks ago)
 
 #### Quote of the day
 
