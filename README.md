@@ -28,7 +28,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 - [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (1 month ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (1 month ago)
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 month ago)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (2 months ago)
 - [CrimsonTome/nix](https://github.com/CrimsonTome/nix) - nix configs etc (3 months ago)
 - [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (4 months ago)
 
@@ -43,11 +43,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins &amp; other Fish treasures 🐚💎 (1 day ago)
-- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more (2 days ago)
-- [jethrokuan/z](https://github.com/jethrokuan/z) - Pure-fish z directory jumping (3 days ago)
-- [heiswayi/thinkspace](https://github.com/heiswayi/thinkspace) - Just another minimalist Jekyll theme which designed for technical writing blog. (5 days ago)
-- [catppuccin/i3](https://github.com/catppuccin/i3) - 🌻 Soothing pastel themes for i3 &amp; sway (1 week ago)
+- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins &amp; other Fish treasures 🐚💎 (2 days ago)
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more (3 days ago)
+- [jethrokuan/z](https://github.com/jethrokuan/z) - Pure-fish z directory jumping (4 days ago)
+- [heiswayi/thinkspace](https://github.com/heiswayi/thinkspace) - Just another minimalist Jekyll theme which designed for technical writing blog. (6 days ago)
+- [catppuccin/i3](https://github.com/catppuccin/i3) - 🌻 Soothing pastel themes for i3 &amp; sway (2 weeks ago)
 
 #### Quote of the day
 
