@@ -1568,7 +1568,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>asdf-vm/asdf</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more</div>
@@ -2303,7 +2303,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.29m out of 204m repositories</span>
+                                    <span class="gh">ranked 5.29m out of 196m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -2424,7 +2424,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jun 2024, 14:17:23 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Jun 2024, 15:13:51 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
