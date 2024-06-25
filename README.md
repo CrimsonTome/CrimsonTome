@@ -29,7 +29,7 @@ View my [GitHub Stats](/pages/stats.md)
 - [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (1 month ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (2 months ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (2 months ago)
-- [CrimsonTome/nix](https://github.com/CrimsonTome/nix) - nix configs etc (3 months ago)
+- [CrimsonTome/nix](https://github.com/CrimsonTome/nix) - nix configs etc (4 months ago)
 - [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (4 months ago)
 
 
@@ -44,7 +44,7 @@ View my [GitHub Stats](/pages/stats.md)
 #### ⭐ Recent Stars
 
 - [jorgebucaran/replay.fish](https://github.com/jorgebucaran/replay.fish) - Run Bash commands, replay changes in Fish 🍤 (1 week ago)
-- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins &amp; other Fish treasures 🐚💎 (1 week ago)
+- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins &amp; other Fish treasures 🐚💎 (2 weeks ago)
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more (2 weeks ago)
 - [jethrokuan/z](https://github.com/jethrokuan/z) - Pure-fish z directory jumping (2 weeks ago)
 - [heiswayi/thinkspace](https://github.com/heiswayi/thinkspace) - Just another minimalist Jekyll theme which designed for technical writing blog. (2 weeks ago)
