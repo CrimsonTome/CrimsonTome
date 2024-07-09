@@ -1,13 +1,6 @@
 ### 👋 Hi there, I'm CrimsonTome [(She/Her)](https://en.pronouns.page/@crimsontome427) 
 
-> Admin at [Freeside](https://freeside.co.uk) and DevOps Engineer at [VISR Dynamics](https://visr-vr.com)  
-> View my [CV](/rccv100923.pdf)
-
-<p>
-<a href="https://discord.com/users/449573875743981569"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-<a href="mailto:crimsontome427@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
-<a href="https://www.linkedin.com/in/robyn-clark-aa776b1b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</p>
+> Admin at [Freeside](https://freeside.co.uk) and Systems Engineer at [VISR Dynamics](https://visr-vr.com)  
 
 View my [GitHub Stats](/pages/stats.md)  
 
@@ -43,11 +36,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [limine-bootloader/limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager. (today)
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (5 days ago)
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you&#39;d like. (1 week ago)
 - [jorgebucaran/replay.fish](https://github.com/jorgebucaran/replay.fish) - Run Bash commands, replay changes in Fish 🍤 (3 weeks ago)
 - [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins &amp; other Fish treasures 🐚💎 (4 weeks ago)
-- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more (4 weeks ago)
 
 #### Quote of the day
 
