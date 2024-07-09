@@ -36,11 +36,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada: (today)
 - [limine-bootloader/limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager. (today)
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (5 days ago)
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you&#39;d like. (1 week ago)
 - [jorgebucaran/replay.fish](https://github.com/jorgebucaran/replay.fish) - Run Bash commands, replay changes in Fish 🍤 (3 weeks ago)
-- [jorgebucaran/awsm.fish](https://github.com/jorgebucaran/awsm.fish) - A curation of prompts, plugins &amp; other Fish treasures 🐚💎 (4 weeks ago)
 
 #### Quote of the day
 
