@@ -19,7 +19,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (2 months ago)
+- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (3 months ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (3 months ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (3 months ago)
 - [CrimsonTome/nix](https://github.com/CrimsonTome/nix) - nix configs etc (5 months ago)
@@ -36,8 +36,8 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (1 day ago)
-- [icholy/ttygif](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs (5 days ago)
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (2 days ago)
+- [icholy/ttygif](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs (6 days ago)
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge. (2 weeks ago)
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor (3 weeks ago)
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada: (3 weeks ago)
