@@ -36,8 +36,8 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation (1 day ago)
-- [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes (5 days ago)
+- [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation (2 days ago)
+- [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes (6 days ago)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (1 week ago)
 - [icholy/ttygif](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs (1 week ago)
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge. (3 weeks ago)
