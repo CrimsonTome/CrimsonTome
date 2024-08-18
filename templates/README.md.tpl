@@ -1,12 +1,12 @@
 ### 👋 Hi there, I'm CrimsonTome [(She/Her)](https://en.pronouns.page/@crimsontome427) 
 
-> Admin at [Freeside](https://freeside.co.uk) and Systems Engineer at [VISR Dynamics](https://visr-vr.com)  
+> Systems Engineer at [VISR Dynamics](https://visr-vr.com)  
 
 View my [GitHub Stats](/pages/stats.md)  
 
 #### 🤹🏻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=git,docker,bash,cs,github,githubactions,linux,py,md,raspberrypi&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,bash,cs,github,githubactions,linux,py,md,raspberrypi,azure,gitlab,nginx&perline=7)](https://skillicons.dev)
 
 #### 🛠 My stack
 
