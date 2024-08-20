@@ -19,7 +19,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (1 day ago)
+- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (2 days ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (4 months ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (4 months ago)
 - [CrimsonTome/nix](https://github.com/CrimsonTome/nix) - nix configs etc (5 months ago)
@@ -36,11 +36,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love (1 day ago)
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love (2 days ago)
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation (1 week ago)
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes (2 weeks ago)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (2 weeks ago)
-- [icholy/ttygif](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs (2 weeks ago)
+- [icholy/ttygif](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs (3 weeks ago)
 
 #### Quote of the day
 
