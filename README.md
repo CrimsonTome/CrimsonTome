@@ -36,11 +36,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [MechaDragonX/Bheithir](https://github.com/MechaDragonX/Bheithir) - Discord Rich Presence (RPC) for emulators. Supports DOSBox, FCEUX, Snes9x, Fusion, and VBA-M right now. Uses Lachee/discord-rpc-csharp. (today)
 - [rwmt/Multiplayer](https://github.com/rwmt/Multiplayer) - Zetrith&#39;s Multiplayer mod for RimWorld (1 day ago)
 - [kiooeht/StSLib](https://github.com/kiooeht/StSLib) - A collection of keywords and mechanics for other Slay the Spire mods to use. (2 days ago)
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love (1 week ago)
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation (2 weeks ago)
-- [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes (2 weeks ago)
 
 #### Quote of the day
 
