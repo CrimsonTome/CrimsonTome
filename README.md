@@ -31,14 +31,14 @@ View my [GitHub Stats](/pages/stats.md)
 - [Fix repo link in a few places](https://github.com/hullcss/hullcss-astro/pull/18) on [hullcss/hullcss-astro](https://github.com/hullcss/hullcss-astro) (9 months ago)
 - [Add Docker Compose support](https://github.com/hullcss/hullcss-discord-bot/pull/205) on [hullcss/hullcss-discord-bot](https://github.com/hullcss/hullcss-discord-bot) (11 months ago)
 - [feat: add Dockerfile](https://github.com/FreesideHull/hullblogs.com/pull/15) on [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) (1 year ago)
-- [2nd checkpoint slides](https://github.com/DDD-group-22-23/DDD-group-project/pull/7) on [DDD-group-22-23/DDD-group-project](https://github.com/DDD-group-22-23/DDD-group-project) (1 year ago)
+- [2nd checkpoint slides](https://github.com/DDD-group-22-23/DDD-group-project/pull/7) on [DDD-group-22-23/DDD-group-project](https://github.com/DDD-group-22-23/DDD-group-project) (2 years ago)
 - [feature/selenium](https://github.com/DDD-group-22-23/DDD-group-project/pull/6) on [DDD-group-22-23/DDD-group-project](https://github.com/DDD-group-22-23/DDD-group-project) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [MechaDragonX/Bheithir](https://github.com/MechaDragonX/Bheithir) - Discord Rich Presence (RPC) for emulators. Supports DOSBox, FCEUX, Snes9x, Fusion, and VBA-M right now. Uses Lachee/discord-rpc-csharp. (2 days ago)
-- [rwmt/Multiplayer](https://github.com/rwmt/Multiplayer) - Zetrith&#39;s Multiplayer mod for RimWorld (3 days ago)
-- [kiooeht/StSLib](https://github.com/kiooeht/StSLib) - A collection of keywords and mechanics for other Slay the Spire mods to use. (4 days ago)
+- [MechaDragonX/Bheithir](https://github.com/MechaDragonX/Bheithir) - Discord Rich Presence (RPC) for emulators. Supports DOSBox, FCEUX, Snes9x, Fusion, and VBA-M right now. Uses Lachee/discord-rpc-csharp. (3 days ago)
+- [rwmt/Multiplayer](https://github.com/rwmt/Multiplayer) - Zetrith&#39;s Multiplayer mod for RimWorld (4 days ago)
+- [kiooeht/StSLib](https://github.com/kiooeht/StSLib) - A collection of keywords and mechanics for other Slay the Spire mods to use. (5 days ago)
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love (1 week ago)
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation (2 weeks ago)
 
