@@ -36,11 +36,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls (today)
 - [MechaDragonX/Bheithir](https://github.com/MechaDragonX/Bheithir) - Discord Rich Presence (RPC) for emulators. Supports DOSBox, FCEUX, Snes9x, Fusion, and VBA-M right now. Uses Lachee/discord-rpc-csharp. (4 days ago)
 - [rwmt/Multiplayer](https://github.com/rwmt/Multiplayer) - Zetrith&#39;s Multiplayer mod for RimWorld (5 days ago)
 - [kiooeht/StSLib](https://github.com/kiooeht/StSLib) - A collection of keywords and mechanics for other Slay the Spire mods to use. (6 days ago)
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love (1 week ago)
-- [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation (2 weeks ago)
 
 #### Quote of the day
 
