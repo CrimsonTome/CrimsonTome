@@ -36,11 +36,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [catppuccin/obs](https://github.com/catppuccin/obs) - ⏺️ Soothing pastel theme for OBS Studio (today)
+- [dotnet/efcore](https://github.com/dotnet/efcore) - EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations. (today)
+- [matslina/awib](https://github.com/matslina/awib) - a brainfuck compiler written in brainfuck (today)
 - [xflux-gui/fluxgui](https://github.com/xflux-gui/fluxgui) - Better lighting for Linux. Open source GUI for xflux (1 day ago)
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls (1 day ago)
-- [MechaDragonX/Bheithir](https://github.com/MechaDragonX/Bheithir) - Discord Rich Presence (RPC) for emulators. Supports DOSBox, FCEUX, Snes9x, Fusion, and VBA-M right now. Uses Lachee/discord-rpc-csharp. (5 days ago)
-- [rwmt/Multiplayer](https://github.com/rwmt/Multiplayer) - Zetrith&#39;s Multiplayer mod for RimWorld (6 days ago)
-- [kiooeht/StSLib](https://github.com/kiooeht/StSLib) - A collection of keywords and mechanics for other Slay the Spire mods to use. (1 week ago)
 
 #### Quote of the day
 
