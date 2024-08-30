@@ -19,7 +19,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (today)
+- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (1 day ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (4 months ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (4 months ago)
 - [CrimsonTome/nix](https://github.com/CrimsonTome/nix) - nix configs etc (6 months ago)
@@ -36,11 +36,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [xflux-gui/fluxgui](https://github.com/xflux-gui/fluxgui) - Better lighting for Linux. Open source GUI for xflux (today)
-- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls (today)
-- [MechaDragonX/Bheithir](https://github.com/MechaDragonX/Bheithir) - Discord Rich Presence (RPC) for emulators. Supports DOSBox, FCEUX, Snes9x, Fusion, and VBA-M right now. Uses Lachee/discord-rpc-csharp. (4 days ago)
-- [rwmt/Multiplayer](https://github.com/rwmt/Multiplayer) - Zetrith&#39;s Multiplayer mod for RimWorld (5 days ago)
-- [kiooeht/StSLib](https://github.com/kiooeht/StSLib) - A collection of keywords and mechanics for other Slay the Spire mods to use. (6 days ago)
+- [xflux-gui/fluxgui](https://github.com/xflux-gui/fluxgui) - Better lighting for Linux. Open source GUI for xflux (1 day ago)
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls (1 day ago)
+- [MechaDragonX/Bheithir](https://github.com/MechaDragonX/Bheithir) - Discord Rich Presence (RPC) for emulators. Supports DOSBox, FCEUX, Snes9x, Fusion, and VBA-M right now. Uses Lachee/discord-rpc-csharp. (5 days ago)
+- [rwmt/Multiplayer](https://github.com/rwmt/Multiplayer) - Zetrith&#39;s Multiplayer mod for RimWorld (6 days ago)
+- [kiooeht/StSLib](https://github.com/kiooeht/StSLib) - A collection of keywords and mechanics for other Slay the Spire mods to use. (1 week ago)
 
 #### Quote of the day
 
