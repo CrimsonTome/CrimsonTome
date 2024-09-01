@@ -36,11 +36,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [openstenoproject/plover](https://github.com/openstenoproject/plover) - Open source stenotype engine (today)
 - [catppuccin/obs](https://github.com/catppuccin/obs) - ⏺️ Soothing pastel theme for OBS Studio (2 days ago)
 - [dotnet/efcore](https://github.com/dotnet/efcore) - EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations. (2 days ago)
 - [matslina/awib](https://github.com/matslina/awib) - a brainfuck compiler written in brainfuck (2 days ago)
 - [xflux-gui/fluxgui](https://github.com/xflux-gui/fluxgui) - Better lighting for Linux. Open source GUI for xflux (3 days ago)
-- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls (3 days ago)
 
 #### Quote of the day
 
