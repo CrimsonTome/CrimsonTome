@@ -19,7 +19,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (2 days ago)
+- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (3 days ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (4 months ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (4 months ago)
 - [CrimsonTome/nix](https://github.com/CrimsonTome/nix) - nix configs etc (6 months ago)
@@ -36,11 +36,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [catppuccin/obs](https://github.com/catppuccin/obs) - ⏺️ Soothing pastel theme for OBS Studio (1 day ago)
-- [dotnet/efcore](https://github.com/dotnet/efcore) - EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations. (1 day ago)
-- [matslina/awib](https://github.com/matslina/awib) - a brainfuck compiler written in brainfuck (1 day ago)
-- [xflux-gui/fluxgui](https://github.com/xflux-gui/fluxgui) - Better lighting for Linux. Open source GUI for xflux (2 days ago)
-- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls (2 days ago)
+- [catppuccin/obs](https://github.com/catppuccin/obs) - ⏺️ Soothing pastel theme for OBS Studio (2 days ago)
+- [dotnet/efcore](https://github.com/dotnet/efcore) - EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations. (2 days ago)
+- [matslina/awib](https://github.com/matslina/awib) - a brainfuck compiler written in brainfuck (2 days ago)
+- [xflux-gui/fluxgui](https://github.com/xflux-gui/fluxgui) - Better lighting for Linux. Open source GUI for xflux (3 days ago)
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls (3 days ago)
 
 #### Quote of the day
 
