@@ -36,11 +36,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [nilsve/docker-aseprite-linux](https://github.com/nilsve/docker-aseprite-linux) - Docker container for easily building Aseprite for linux (today)
 - [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau] (today)
 - [evanpurkhiser/rEFInd-minimal](https://github.com/evanpurkhiser/rEFInd-minimal) - A stunningly clean theme for the rEFInd UEFI boot manager. (today)
 - [openstenoproject/plover](https://github.com/openstenoproject/plover) - Open source stenotype engine (2 days ago)
 - [catppuccin/obs](https://github.com/catppuccin/obs) - ⏺️ Soothing pastel theme for OBS Studio (4 days ago)
-- [dotnet/efcore](https://github.com/dotnet/efcore) - EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations. (4 days ago)
 
 #### Quote of the day
 
