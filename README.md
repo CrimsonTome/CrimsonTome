@@ -36,11 +36,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau] (today)
+- [evanpurkhiser/rEFInd-minimal](https://github.com/evanpurkhiser/rEFInd-minimal) - A stunningly clean theme for the rEFInd UEFI boot manager. (today)
 - [openstenoproject/plover](https://github.com/openstenoproject/plover) - Open source stenotype engine (2 days ago)
 - [catppuccin/obs](https://github.com/catppuccin/obs) - ⏺️ Soothing pastel theme for OBS Studio (4 days ago)
 - [dotnet/efcore](https://github.com/dotnet/efcore) - EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations. (4 days ago)
-- [matslina/awib](https://github.com/matslina/awib) - a brainfuck compiler written in brainfuck (4 days ago)
-- [xflux-gui/fluxgui](https://github.com/xflux-gui/fluxgui) - Better lighting for Linux. Open source GUI for xflux (5 days ago)
 
 #### Quote of the day
 
