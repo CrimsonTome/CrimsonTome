@@ -19,8 +19,8 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/MTG-deck-stats](https://github.com/CrimsonTome/MTG-deck-stats) - Application to import data into Tableau or other analytics software (2 days ago)
-- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (3 days ago)
+- [CrimsonTome/MTG-deck-stats](https://github.com/CrimsonTome/MTG-deck-stats) - Application to import data into Tableau or other analytics software (3 days ago)
+- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (4 days ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (4 months ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (4 months ago)
 - [CrimsonTome/nix](https://github.com/CrimsonTome/nix) - nix configs etc (6 months ago)
@@ -36,11 +36,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [89luca89/lilipod](https://github.com/89luca89/lilipod) - Lilipod is a simple container manager, able to download, unpack and use OCI images from various container registries. (2 days ago)
-- [nilsve/docker-aseprite-linux](https://github.com/nilsve/docker-aseprite-linux) - Docker container for easily building Aseprite for linux (4 days ago)
-- [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau] (4 days ago)
-- [evanpurkhiser/rEFInd-minimal](https://github.com/evanpurkhiser/rEFInd-minimal) - A stunningly clean theme for the rEFInd UEFI boot manager. (4 days ago)
-- [openstenoproject/plover](https://github.com/openstenoproject/plover) - Open source stenotype engine (6 days ago)
+- [refact0r/system24](https://github.com/refact0r/system24) - a tui-style discord theme (today)
+- [89luca89/lilipod](https://github.com/89luca89/lilipod) - Lilipod is a simple container manager, able to download, unpack and use OCI images from various container registries. (3 days ago)
+- [nilsve/docker-aseprite-linux](https://github.com/nilsve/docker-aseprite-linux) - Docker container for easily building Aseprite for linux (5 days ago)
+- [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau] (5 days ago)
+- [evanpurkhiser/rEFInd-minimal](https://github.com/evanpurkhiser/rEFInd-minimal) - A stunningly clean theme for the rEFInd UEFI boot manager. (5 days ago)
 
 #### Quote of the day
 
