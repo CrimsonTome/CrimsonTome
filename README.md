@@ -1,7 +1,5 @@
 ### 👋 Hi there, I'm CrimsonTome [(She/Her)](https://en.pronouns.page/@crimsontome427) 
 
-> Systems Engineer at [VISR Dynamics](https://visr-vr.com)  
-
 View my [GitHub Stats](/pages/stats.md)  
 
 #### 🤹🏻 Skills
