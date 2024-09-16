@@ -21,7 +21,7 @@ View my [GitHub Stats](/pages/stats.md)
 - [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (1 week ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (5 months ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (5 months ago)
-- [CrimsonTome/nix](https://github.com/CrimsonTome/nix) - nix configs etc (6 months ago)
+- [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (7 months ago)
 
 
 #### 🔨 My recent Pull Requests
