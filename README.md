@@ -34,11 +34,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [AtomsDevs/Atoms](https://github.com/AtomsDevs/Atoms) - Easily manage Linux Chroot(s) and Containers with Atoms. (2 weeks ago)
-- [refact0r/system24](https://github.com/refact0r/system24) - a tui-style discord theme (2 weeks ago)
-- [89luca89/lilipod](https://github.com/89luca89/lilipod) - Lilipod is a simple container manager, able to download, unpack and use OCI images from various container registries. (2 weeks ago)
-- [nilsve/docker-aseprite-linux](https://github.com/nilsve/docker-aseprite-linux) - Docker container for easily building Aseprite for linux (3 weeks ago)
-- [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau] (3 weeks ago)
+- [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor (today)
+- [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool (today)
+- [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets (today)
+- [LGFae/swww](https://github.com/LGFae/swww) - A Solution to your Wayland Wallpaper Woes (today)
+- [Aylur/ags](https://github.com/Aylur/ags) - A customizable and extensible shell (today)
 
 #### Quote of the day
 
