@@ -34,11 +34,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [nivekuil/rip](https://github.com/nivekuil/rip) -  A safe and ergonomic alternative to rm (today)
 - [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy! (1 week ago)
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor (1 week ago)
 - [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool (1 week ago)
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets (1 week ago)
-- [LGFae/swww](https://github.com/LGFae/swww) - A Solution to your Wayland Wallpaper Woes (1 week ago)
 
 #### Quote of the day
 
