@@ -34,11 +34,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy! (6 days ago)
-- [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor (6 days ago)
-- [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool (6 days ago)
-- [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets (6 days ago)
-- [LGFae/swww](https://github.com/LGFae/swww) - A Solution to your Wayland Wallpaper Woes (6 days ago)
+- [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy! (1 week ago)
+- [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor (1 week ago)
+- [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool (1 week ago)
+- [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets (1 week ago)
+- [LGFae/swww](https://github.com/LGFae/swww) - A Solution to your Wayland Wallpaper Woes (1 week ago)
 
 #### Quote of the day
 
