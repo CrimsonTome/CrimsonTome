@@ -17,7 +17,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (5 days ago)
+- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (6 days ago)
 - [CrimsonTome/MTG-deck-stats](https://github.com/CrimsonTome/MTG-deck-stats) - Application to import data into Tableau or other analytics software (1 month ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (5 months ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (5 months ago)
@@ -34,9 +34,9 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [izumi-niche/OifeyBot](https://github.com/izumi-niche/OifeyBot) - A Fire Emblem bot for Discord. (today)
-- [hyprwm/hypridle](https://github.com/hyprwm/hypridle) - Hyprland&#39;s idle daemon (3 days ago)
-- [nivekuil/rip](https://github.com/nivekuil/rip) -  A safe and ergonomic alternative to rm (5 days ago)
+- [izumi-niche/OifeyBot](https://github.com/izumi-niche/OifeyBot) - A Fire Emblem bot for Discord. (1 day ago)
+- [hyprwm/hypridle](https://github.com/hyprwm/hypridle) - Hyprland&#39;s idle daemon (4 days ago)
+- [nivekuil/rip](https://github.com/nivekuil/rip) -  A safe and ergonomic alternative to rm (6 days ago)
 - [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy! (1 week ago)
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor (1 week ago)
 
