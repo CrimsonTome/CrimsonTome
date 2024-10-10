@@ -34,8 +34,8 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [izumi-niche/OifeyBot](https://github.com/izumi-niche/OifeyBot) - A Fire Emblem bot for Discord. (3 days ago)
-- [hyprwm/hypridle](https://github.com/hyprwm/hypridle) - Hyprland&#39;s idle daemon (6 days ago)
+- [izumi-niche/OifeyBot](https://github.com/izumi-niche/OifeyBot) - A Fire Emblem bot for Discord. (4 days ago)
+- [hyprwm/hypridle](https://github.com/hyprwm/hypridle) - Hyprland&#39;s idle daemon (1 week ago)
 - [nivekuil/rip](https://github.com/nivekuil/rip) -  A safe and ergonomic alternative to rm (1 week ago)
 - [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy! (2 weeks ago)
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor (2 weeks ago)
