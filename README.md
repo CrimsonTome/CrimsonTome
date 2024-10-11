@@ -20,7 +20,7 @@ View my [GitHub Stats](/pages/stats.md)
 - [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (1 week ago)
 - [CrimsonTome/MTG-deck-stats](https://github.com/CrimsonTome/MTG-deck-stats) - Application to import data into Tableau or other analytics software (1 month ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (5 months ago)
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (5 months ago)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (6 months ago)
 - [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (8 months ago)
 
 
@@ -34,9 +34,9 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs (today)
-- [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐 (today)
-- [izumi-niche/OifeyBot](https://github.com/izumi-niche/OifeyBot) - A Fire Emblem bot for Discord. (4 days ago)
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs (1 day ago)
+- [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐 (1 day ago)
+- [izumi-niche/OifeyBot](https://github.com/izumi-niche/OifeyBot) - A Fire Emblem bot for Discord. (5 days ago)
 - [hyprwm/hypridle](https://github.com/hyprwm/hypridle) - Hyprland&#39;s idle daemon (1 week ago)
 - [nivekuil/rip](https://github.com/nivekuil/rip) -  A safe and ergonomic alternative to rm (1 week ago)
 
