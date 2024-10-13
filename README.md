@@ -34,11 +34,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [catsout/wallpaper-engine-kde-plugin](https://github.com/catsout/wallpaper-engine-kde-plugin) - A kde wallpaper plugin integrating wallpaper engine (today)
-- [sbrl/SDI-Docker](https://github.com/sbrl/SDI-Docker) - Assessed coursework Dockerfile for the module 661982 Secure Digital Infrastructure at the University of Hull (today)
-- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs (2 days ago)
-- [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐 (2 days ago)
-- [izumi-niche/OifeyBot](https://github.com/izumi-niche/OifeyBot) - A Fire Emblem bot for Discord. (6 days ago)
+- [catsout/wallpaper-engine-kde-plugin](https://github.com/catsout/wallpaper-engine-kde-plugin) - A kde wallpaper plugin integrating wallpaper engine (1 day ago)
+- [sbrl/SDI-Docker](https://github.com/sbrl/SDI-Docker) - Assessed coursework Dockerfile for the module 661982 Secure Digital Infrastructure at the University of Hull (1 day ago)
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs (3 days ago)
+- [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐 (3 days ago)
+- [izumi-niche/OifeyBot](https://github.com/izumi-niche/OifeyBot) - A Fire Emblem bot for Discord. (1 week ago)
 
 #### Quote of the day
 
