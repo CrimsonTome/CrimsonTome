@@ -34,11 +34,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io (today)
+- [lunasorcery/pillbug](https://github.com/lunasorcery/pillbug) - a (work in progress) gotosocial client (today)
 - [dylanpdx/BetterTwitFix](https://github.com/dylanpdx/BetterTwitFix) - Fix Twitter video embeds in Discord (and Telegram!) (1 day ago)
 - [catsout/wallpaper-engine-kde-plugin](https://github.com/catsout/wallpaper-engine-kde-plugin) - A kde wallpaper plugin integrating wallpaper engine (2 days ago)
 - [sbrl/SDI-Docker](https://github.com/sbrl/SDI-Docker) - Assessed coursework Dockerfile for the module 661982 Secure Digital Infrastructure at the University of Hull (2 days ago)
-- [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs (4 days ago)
-- [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐 (4 days ago)
 
 #### Quote of the day
 
