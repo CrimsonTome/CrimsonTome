@@ -17,7 +17,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (1 week ago)
+- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (2 weeks ago)
 - [CrimsonTome/MTG-deck-stats](https://github.com/CrimsonTome/MTG-deck-stats) - Application to import data into Tableau or other analytics software (1 month ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (6 months ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (6 months ago)
@@ -34,11 +34,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io (today)
-- [lunasorcery/pillbug](https://github.com/lunasorcery/pillbug) - a (work in progress) gotosocial client (today)
-- [dylanpdx/BetterTwitFix](https://github.com/dylanpdx/BetterTwitFix) - Fix Twitter video embeds in Discord (and Telegram!) (1 day ago)
-- [catsout/wallpaper-engine-kde-plugin](https://github.com/catsout/wallpaper-engine-kde-plugin) - A kde wallpaper plugin integrating wallpaper engine (2 days ago)
-- [sbrl/SDI-Docker](https://github.com/sbrl/SDI-Docker) - Assessed coursework Dockerfile for the module 661982 Secure Digital Infrastructure at the University of Hull (2 days ago)
+- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io (1 day ago)
+- [lunasorcery/pillbug](https://github.com/lunasorcery/pillbug) - a (work in progress) gotosocial client (1 day ago)
+- [dylanpdx/BetterTwitFix](https://github.com/dylanpdx/BetterTwitFix) - Fix Twitter video embeds in Discord (and Telegram!) (2 days ago)
+- [catsout/wallpaper-engine-kde-plugin](https://github.com/catsout/wallpaper-engine-kde-plugin) - A kde wallpaper plugin integrating wallpaper engine (3 days ago)
+- [sbrl/SDI-Docker](https://github.com/sbrl/SDI-Docker) - Assessed coursework Dockerfile for the module 661982 Secure Digital Infrastructure at the University of Hull (3 days ago)
 
 #### Quote of the day
 
