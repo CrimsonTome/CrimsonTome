@@ -34,11 +34,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io (1 day ago)
-- [lunasorcery/pillbug](https://github.com/lunasorcery/pillbug) - a (work in progress) gotosocial client (1 day ago)
-- [dylanpdx/BetterTwitFix](https://github.com/dylanpdx/BetterTwitFix) - Fix Twitter video embeds in Discord (and Telegram!) (2 days ago)
-- [catsout/wallpaper-engine-kde-plugin](https://github.com/catsout/wallpaper-engine-kde-plugin) - A kde wallpaper plugin integrating wallpaper engine (3 days ago)
-- [sbrl/SDI-Docker](https://github.com/sbrl/SDI-Docker) - Assessed coursework Dockerfile for the module 661982 Secure Digital Infrastructure at the University of Hull (3 days ago)
+- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io (2 days ago)
+- [lunasorcery/pillbug](https://github.com/lunasorcery/pillbug) - a (work in progress) gotosocial client (2 days ago)
+- [dylanpdx/BetterTwitFix](https://github.com/dylanpdx/BetterTwitFix) - Fix Twitter video embeds in Discord (and Telegram!) (3 days ago)
+- [catsout/wallpaper-engine-kde-plugin](https://github.com/catsout/wallpaper-engine-kde-plugin) - A kde wallpaper plugin integrating wallpaper engine (4 days ago)
+- [sbrl/SDI-Docker](https://github.com/sbrl/SDI-Docker) - Assessed coursework Dockerfile for the module 661982 Secure Digital Infrastructure at the University of Hull (4 days ago)
 
 #### Quote of the day
 
