@@ -34,8 +34,8 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [Gemmstone/PyNGtuber](https://github.com/Gemmstone/PyNGtuber) - PNGtuber software made in Python and HTML (3 days ago)
-- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces (3 days ago)
+- [Gemmstone/PyNGtuber](https://github.com/Gemmstone/PyNGtuber) - PNGtuber software made in Python and HTML (4 days ago)
+- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces (4 days ago)
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. (1 week ago)
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray (3 weeks ago)
 - [0rax/fishline](https://github.com/0rax/fishline) - A powerline prompt framework for the fish-shell built in fish-shell. (3 weeks ago)
