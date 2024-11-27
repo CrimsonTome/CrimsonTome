@@ -34,10 +34,10 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉 (5 days ago)
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor. (6 days ago)
-- [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor (6 days ago)
-- [adi1090x/kitty-cat](https://github.com/adi1090x/kitty-cat) - Simple script to change color-schemes and fonts for kitty terminal. (6 days ago)
+- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉 (6 days ago)
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor. (1 week ago)
+- [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor (1 week ago)
+- [adi1090x/kitty-cat](https://github.com/adi1090x/kitty-cat) - Simple script to change color-schemes and fonts for kitty terminal. (1 week ago)
 - [Gemmstone/PyNGtuber](https://github.com/Gemmstone/PyNGtuber) - PNGtuber software made in Python and HTML (1 week ago)
 
 #### Quote of the day
