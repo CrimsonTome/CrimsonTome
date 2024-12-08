@@ -21,7 +21,7 @@ View my [GitHub Stats](/pages/stats.md)
 - [CrimsonTome/MTG-deck-stats](https://github.com/CrimsonTome/MTG-deck-stats) - Application to import data into Tableau or other analytics software (3 months ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (7 months ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (7 months ago)
-- [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (9 months ago)
+- [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (10 months ago)
 
 
 #### 🔨 My recent Pull Requests
