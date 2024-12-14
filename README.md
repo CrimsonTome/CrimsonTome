@@ -17,7 +17,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (1 week ago)
+- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (2 weeks ago)
 - [CrimsonTome/MTG-deck-stats](https://github.com/CrimsonTome/MTG-deck-stats) - Application to import data into Tableau or other analytics software (3 months ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (8 months ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (8 months ago)
@@ -34,8 +34,8 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates (2 days ago)
-- [FTL-Hyperspace/FTL-Hyperspace](https://github.com/FTL-Hyperspace/FTL-Hyperspace) - Hyperspace -- A mod for FTL: Faster than Light (3 days ago)
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates (3 days ago)
+- [FTL-Hyperspace/FTL-Hyperspace](https://github.com/FTL-Hyperspace/FTL-Hyperspace) - Hyperspace -- A mod for FTL: Faster than Light (4 days ago)
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉 (3 weeks ago)
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor. (3 weeks ago)
 - [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor (3 weeks ago)
