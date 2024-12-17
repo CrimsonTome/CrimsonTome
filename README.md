@@ -34,11 +34,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [MALSync/MALSync](https://github.com/MALSync/MALSync) - Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking. (today)
+- [null2264/yokai](https://github.com/null2264/yokai) - Free and open source manga reader for Android (today)
+- [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android (today)
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates (6 days ago)
 - [FTL-Hyperspace/FTL-Hyperspace](https://github.com/FTL-Hyperspace/FTL-Hyperspace) - Hyperspace -- A mod for FTL: Faster than Light (1 week ago)
-- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉 (3 weeks ago)
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor. (3 weeks ago)
-- [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor (3 weeks ago)
 
 #### Quote of the day
 
