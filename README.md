@@ -34,10 +34,10 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [jellyfin/jellyfin-plugin-anilist](https://github.com/jellyfin/jellyfin-plugin-anilist) -  (today)
-- [MALSync/MALSync](https://github.com/MALSync/MALSync) - Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking. (1 day ago)
-- [null2264/yokai](https://github.com/null2264/yokai) - Free and open source manga reader for Android (1 day ago)
-- [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android (1 day ago)
+- [jellyfin/jellyfin-plugin-anilist](https://github.com/jellyfin/jellyfin-plugin-anilist) -  (1 day ago)
+- [MALSync/MALSync](https://github.com/MALSync/MALSync) - Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking. (2 days ago)
+- [null2264/yokai](https://github.com/null2264/yokai) - Free and open source manga reader for Android (2 days ago)
+- [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android (2 days ago)
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates (1 week ago)
 
 #### Quote of the day
