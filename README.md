@@ -34,11 +34,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go. (today)
+- [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust (today)
 - [Davi-S/sddm-theme-minesddm](https://github.com/Davi-S/sddm-theme-minesddm) - A Minecraft themed SDDM (1 day ago)
 - [jellyfin/jellyfin-plugin-anilist](https://github.com/jellyfin/jellyfin-plugin-anilist) -  (2 days ago)
 - [MALSync/MALSync](https://github.com/MALSync/MALSync) - Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking. (3 days ago)
-- [null2264/yokai](https://github.com/null2264/yokai) - Free and open source manga reader for Android (3 days ago)
-- [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android (3 days ago)
 
 #### Quote of the day
 
