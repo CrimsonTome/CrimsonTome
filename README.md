@@ -17,7 +17,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (2 days ago)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (3 days ago)
 - [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (1 month ago)
 - [CrimsonTome/MTG-deck-stats](https://github.com/CrimsonTome/MTG-deck-stats) - Application to import data into Tableau or other analytics software (3 months ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (8 months ago)
@@ -34,11 +34,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (today)
+- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (1 day ago)
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go. (1 week ago)
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust (1 week ago)
 - [Davi-S/sddm-theme-minesddm](https://github.com/Davi-S/sddm-theme-minesddm) - A Minecraft themed SDDM (1 week ago)
-- [jellyfin/jellyfin-plugin-anilist](https://github.com/jellyfin/jellyfin-plugin-anilist) -  (1 week ago)
+- [jellyfin/jellyfin-plugin-anilist](https://github.com/jellyfin/jellyfin-plugin-anilist) -  (2 weeks ago)
 
 #### Quote of the day
 
