@@ -34,11 +34,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [qwertyquerty/pypresence](https://github.com/qwertyquerty/pypresence) - A complete Discord IPC and Rich Presence wrapper library in Python! (today)
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (2 days ago)
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go. (1 week ago)
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust (1 week ago)
 - [Davi-S/sddm-theme-minesddm](https://github.com/Davi-S/sddm-theme-minesddm) - A Minecraft themed SDDM (2 weeks ago)
-- [jellyfin/jellyfin-plugin-anilist](https://github.com/jellyfin/jellyfin-plugin-anilist) -  (2 weeks ago)
 
 #### Quote of the day
 
