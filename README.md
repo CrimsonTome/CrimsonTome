@@ -21,7 +21,7 @@ View my [GitHub Stats](/pages/stats.md)
 - [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (1 month ago)
 - [CrimsonTome/MTG-deck-stats](https://github.com/CrimsonTome/MTG-deck-stats) - Application to import data into Tableau or other analytics software (4 months ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (8 months ago)
-- [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (10 months ago)
+- [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (11 months ago)
 
 
 #### 🔨 My recent Pull Requests
@@ -34,10 +34,10 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (1 day ago)
-- [hullcss/discord-bot](https://github.com/hullcss/discord-bot) - New HullCSS Discord Bot (4 days ago)
-- [qwertyquerty/pypresence](https://github.com/qwertyquerty/pypresence) - A complete Discord IPC and Rich Presence wrapper library in Python! (4 days ago)
-- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (6 days ago)
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (2 days ago)
+- [hullcss/discord-bot](https://github.com/hullcss/discord-bot) - New HullCSS Discord Bot (5 days ago)
+- [qwertyquerty/pypresence](https://github.com/qwertyquerty/pypresence) - A complete Discord IPC and Rich Presence wrapper library in Python! (5 days ago)
+- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (1 week ago)
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go. (2 weeks ago)
 
 #### Quote of the day
