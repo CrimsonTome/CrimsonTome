@@ -34,9 +34,9 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (3 days ago)
-- [hullcss/discord-bot](https://github.com/hullcss/discord-bot) - New HullCSS Discord Bot (6 days ago)
-- [qwertyquerty/pypresence](https://github.com/qwertyquerty/pypresence) - A complete Discord IPC and Rich Presence wrapper library in Python! (6 days ago)
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (4 days ago)
+- [hullcss/discord-bot](https://github.com/hullcss/discord-bot) - New HullCSS Discord Bot (1 week ago)
+- [qwertyquerty/pypresence](https://github.com/qwertyquerty/pypresence) - A complete Discord IPC and Rich Presence wrapper library in Python! (1 week ago)
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (1 week ago)
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go. (2 weeks ago)
 
