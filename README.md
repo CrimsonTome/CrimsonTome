@@ -34,11 +34,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [azahar-emu/azahar](https://github.com/azahar-emu/azahar) - A new Citra fork (today)
+- [PabloMK7/citra](https://github.com/PabloMK7/citra) - A Nintendo 3DS Emulator (today)
+- [Soaprman/FEFTwiddler](https://github.com/Soaprman/FEFTwiddler) - A save editor for Fire Emblem Fates (today)
 - [ClusterLabs/pacemaker](https://github.com/ClusterLabs/pacemaker) - Pacemaker is an advanced, scalable High-Availability cluster resource manager (3 days ago)
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (1 week ago)
-- [hullcss/discord-bot](https://github.com/hullcss/discord-bot) - New HullCSS Discord Bot (1 week ago)
-- [qwertyquerty/pypresence](https://github.com/qwertyquerty/pypresence) - A complete Discord IPC and Rich Presence wrapper library in Python! (1 week ago)
-- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework. (1 week ago)
 
 #### Quote of the day
 
