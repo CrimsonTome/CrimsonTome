@@ -34,11 +34,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [bewcloud/bewcloud](https://github.com/bewcloud/bewcloud) - A simpler alternative to Nextcloud and ownCloud, built with TypeScript and Deno using Fresh. 🦕 🍋 (today)
-- [azahar-emu/azahar](https://github.com/azahar-emu/azahar) - A new Citra fork (today)
-- [PabloMK7/citra](https://github.com/PabloMK7/citra) - A Nintendo 3DS Emulator (today)
-- [Soaprman/FEFTwiddler](https://github.com/Soaprman/FEFTwiddler) - A save editor for Fire Emblem Fates (today)
-- [ClusterLabs/pacemaker](https://github.com/ClusterLabs/pacemaker) - Pacemaker is an advanced, scalable High-Availability cluster resource manager (3 days ago)
+- [bewcloud/bewcloud](https://github.com/bewcloud/bewcloud) - A simpler alternative to Nextcloud and ownCloud, built with TypeScript and Deno using Fresh. 🦕 🍋 (1 day ago)
+- [azahar-emu/azahar](https://github.com/azahar-emu/azahar) - A new Citra fork (1 day ago)
+- [PabloMK7/citra](https://github.com/PabloMK7/citra) - A Nintendo 3DS Emulator (1 day ago)
+- [Soaprman/FEFTwiddler](https://github.com/Soaprman/FEFTwiddler) - A save editor for Fire Emblem Fates (1 day ago)
+- [ClusterLabs/pacemaker](https://github.com/ClusterLabs/pacemaker) - Pacemaker is an advanced, scalable High-Availability cluster resource manager (4 days ago)
 
 #### Quote of the day
 
