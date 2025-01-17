@@ -34,11 +34,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [DestinyItemManager/DIM](https://github.com/DestinyItemManager/DIM) - Destiny Item Manager (today)
 - [kimai/kimai](https://github.com/kimai/kimai) - Kimai is a web-based multi-user time-tracking application. Works great for everyone: freelancers, companies, organizations - everyone can track their times, generate reports, create invoices and do so much more. SaaS version available at https://www.kimai.cloud (today)
 - [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API (today)
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp) (today)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (1 day ago)
-- [OpenMPT/openmpt](https://github.com/OpenMPT/openmpt) - Official read-only git mirror of the OpenMPT and libopenmpt subversion repository at https://source.openmpt.org/. This repository may occasionally get rebased without further notice when subversion revision properties (commit message) get fixed in recent history after the fact. Be sure to rebase often in case you clone or fork it. (2 days ago)
 
 #### Quote of the day
 
