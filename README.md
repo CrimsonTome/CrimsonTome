@@ -34,11 +34,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [anordal/shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter (today)
+- [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests (today)
+- [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust! (today)
 - [DestinyItemManager/DIM](https://github.com/DestinyItemManager/DIM) - Destiny Item Manager (4 days ago)
 - [kimai/kimai](https://github.com/kimai/kimai) - Kimai is a web-based multi-user time-tracking application. Works great for everyone: freelancers, companies, organizations - everyone can track their times, generate reports, create invoices and do so much more. SaaS version available at https://www.kimai.cloud (4 days ago)
-- [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API (4 days ago)
-- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp) (4 days ago)
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (5 days ago)
 
 #### Quote of the day
 
