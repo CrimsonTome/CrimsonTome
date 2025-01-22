@@ -34,11 +34,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (today)
 - [anordal/shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter (1 day ago)
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests (1 day ago)
 - [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust! (1 day ago)
 - [DestinyItemManager/DIM](https://github.com/DestinyItemManager/DIM) - Destiny Item Manager (5 days ago)
-- [kimai/kimai](https://github.com/kimai/kimai) - Kimai is a web-based multi-user time-tracking application. Works great for everyone: freelancers, companies, organizations - everyone can track their times, generate reports, create invoices and do so much more. SaaS version available at https://www.kimai.cloud (5 days ago)
 
 #### Quote of the day
 
