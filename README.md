@@ -17,7 +17,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (3 weeks ago)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (4 weeks ago)
 - [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (1 month ago)
 - [CrimsonTome/MTG-deck-stats](https://github.com/CrimsonTome/MTG-deck-stats) - Application to import data into Tableau or other analytics software (4 months ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (9 months ago)
@@ -34,11 +34,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform (2 days ago)
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (3 days ago)
-- [anordal/shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter (4 days ago)
-- [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests (4 days ago)
-- [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust! (4 days ago)
+- [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform (3 days ago)
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (4 days ago)
+- [anordal/shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter (5 days ago)
+- [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests (5 days ago)
+- [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust! (5 days ago)
 
 #### Quote of the day
 
