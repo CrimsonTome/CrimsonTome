@@ -34,11 +34,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform (3 days ago)
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (4 days ago)
-- [anordal/shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter (5 days ago)
-- [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests (5 days ago)
-- [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust! (5 days ago)
+- [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform (4 days ago)
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (5 days ago)
+- [anordal/shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter (6 days ago)
+- [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests (6 days ago)
+- [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust! (6 days ago)
 
 #### Quote of the day
 
