@@ -34,11 +34,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜  (today)
 - [G6EJD/ESP32-e-Paper-Weather-Display](https://github.com/G6EJD/ESP32-e-Paper-Weather-Display) - An ESP32 and 2.9&#34;, 4.2&#34; or 7.5&#34; ePaper Display reads Weather Underground data via their API and then displays the weather (today)
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform (5 days ago)
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (6 days ago)
 - [anordal/shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter (1 week ago)
-- [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests (1 week ago)
 
 #### Quote of the day
 
