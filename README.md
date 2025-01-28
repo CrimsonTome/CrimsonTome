@@ -4,7 +4,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### 🤹🏻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=git,docker,bash,cs,github,githubactions,gitlab,windows,linux,debian,prometheus,grafana,py,md,raspberrypi,azure,aws,nginx&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,bash,cs,github,githubactions,gitlab,windows,linux,debian,ubuntu,prometheus,grafana,py,md,raspberrypi,azure,aws,nginx&perline=5)](https://skillicons.dev)
 
 #### 🛠 My stack
 
