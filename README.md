@@ -18,7 +18,7 @@ View my [GitHub Stats](/pages/stats.md)
 #### 👷 Check out what I'm currently working on
 
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 month ago)
-- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (1 month ago)
+- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (2 months ago)
 - [CrimsonTome/MTG-deck-stats](https://github.com/CrimsonTome/MTG-deck-stats) - Application to import data into Tableau or other analytics software (4 months ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (9 months ago)
 - [FreesideHull/StudentResources](https://github.com/FreesideHull/StudentResources) - A list of resources created by and for students (11 months ago)
@@ -34,11 +34,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜  (today)
-- [G6EJD/ESP32-e-Paper-Weather-Display](https://github.com/G6EJD/ESP32-e-Paper-Weather-Display) - An ESP32 and 2.9&#34;, 4.2&#34; or 7.5&#34; ePaper Display reads Weather Underground data via their API and then displays the weather (today)
-- [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform (5 days ago)
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (6 days ago)
-- [anordal/shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter (1 week ago)
+- [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash. (today)
+- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜  (1 day ago)
+- [G6EJD/ESP32-e-Paper-Weather-Display](https://github.com/G6EJD/ESP32-e-Paper-Weather-Display) - An ESP32 and 2.9&#34;, 4.2&#34; or 7.5&#34; ePaper Display reads Weather Underground data via their API and then displays the weather (1 day ago)
+- [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform (6 days ago)
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (1 week ago)
 
 #### Quote of the day
 
