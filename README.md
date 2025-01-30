@@ -34,11 +34,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI. (today)
-- [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash. (today)
-- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜  (1 day ago)
-- [G6EJD/ESP32-e-Paper-Weather-Display](https://github.com/G6EJD/ESP32-e-Paper-Weather-Display) - An ESP32 and 2.9&#34;, 4.2&#34; or 7.5&#34; ePaper Display reads Weather Underground data via their API and then displays the weather (1 day ago)
-- [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform (6 days ago)
+- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI. (1 day ago)
+- [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash. (1 day ago)
+- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜  (2 days ago)
+- [G6EJD/ESP32-e-Paper-Weather-Display](https://github.com/G6EJD/ESP32-e-Paper-Weather-Display) - An ESP32 and 2.9&#34;, 4.2&#34; or 7.5&#34; ePaper Display reads Weather Underground data via their API and then displays the weather (2 days ago)
+- [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform (1 week ago)
 
 #### Quote of the day
 
