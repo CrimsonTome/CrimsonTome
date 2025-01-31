@@ -2,7 +2,8 @@
 
 ![status](https://api.statusbadges.me/badge/status/449573875743981569?simple=true)
 ![vscode](https://api.statusbadges.me/badge/vscode/449573875743981569)
-[![spotify](https://api.statusbadges.me/badge/spotify/449573875743981569)](https://api.statusbadges.me/openspotify/449573875743981569)
+[![spotify](https://api.statusbadges.me/badge/spotify/449573875743981569)](https://api.statusbadges.me/openspotify/449573875743981569)  
+
 View my [GitHub Stats](/pages/stats.md)  
 
 #### 🤹🏻 Skills
