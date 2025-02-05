@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [rambon99/Fire-Emblem-Awakening-Randomizer](https://github.com/rambon99/Fire-Emblem-Awakening-Randomizer) - Application that automatically randomizes Fire Emblem Awakening (2 days ago)
-- [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse) - An Advanced Launcher for miHoYo/HoYoverse Games (4 days ago)
-- [ArchipelagoMW/Archipelago](https://github.com/ArchipelagoMW/Archipelago) - Archipelago Multi-Game Randomizer and Server (5 days ago)
-- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI. (6 days ago)
-- [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash. (6 days ago)
+- [rambon99/Fire-Emblem-Awakening-Randomizer](https://github.com/rambon99/Fire-Emblem-Awakening-Randomizer) - Application that automatically randomizes Fire Emblem Awakening (3 days ago)
+- [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse) - An Advanced Launcher for miHoYo/HoYoverse Games (5 days ago)
+- [ArchipelagoMW/Archipelago](https://github.com/ArchipelagoMW/Archipelago) - Archipelago Multi-Game Randomizer and Server (6 days ago)
+- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI. (1 week ago)
+- [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash. (1 week ago)
 
 #### Quote of the day
 
