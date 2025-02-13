@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [Pathoschild/SMAPI](https://github.com/Pathoschild/SMAPI) - The modding API for Stardew Valley. (today)
-- [Vencord/Vencloud](https://github.com/Vencord/Vencloud) - Vencord API (today)
-- [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) - Python package for scraping recipes data (2 days ago)
-- [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU &amp; Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm (3 days ago)
-- [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon (3 days ago)
+- [Pathoschild/SMAPI](https://github.com/Pathoschild/SMAPI) - The modding API for Stardew Valley. (1 day ago)
+- [Vencord/Vencloud](https://github.com/Vencord/Vencloud) - Vencord API (1 day ago)
+- [hhursev/recipe-scrapers](https://github.com/hhursev/recipe-scrapers) - Python package for scraping recipes data (3 days ago)
+- [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU &amp; Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm (4 days ago)
+- [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon (4 days ago)
 
 #### Quote of the day
 
