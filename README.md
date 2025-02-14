@@ -21,7 +21,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/simply-present](https://github.com/CrimsonTome/simply-present) - Application to update your discord status to whoever is fronting using data from Simply Plural (today)
+- [CrimsonTome/simply-present](https://github.com/CrimsonTome/simply-present) - Application to update your discord status to whoever is fronting using data from Simply Plural (1 day ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 month ago)
 - [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (2 months ago)
 - [CrimsonTome/MTG-deck-stats](https://github.com/CrimsonTome/MTG-deck-stats) - Application to import data into Tableau or other analytics software (5 months ago)
@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop. (today)
-- [kitsune-soc/kitsune](https://github.com/kitsune-soc/kitsune) - 🦊 (fast) ActivityPub-federated microblogging (today)
-- [ApparyllisOrg/SimplyPluralApi](https://github.com/ApparyllisOrg/SimplyPluralApi) - The API for Simply Plural (today)
-- [Pathoschild/SMAPI](https://github.com/Pathoschild/SMAPI) - The modding API for Stardew Valley. (1 day ago)
-- [Vencord/Vencloud](https://github.com/Vencord/Vencloud) - Vencord API (1 day ago)
+- [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop. (1 day ago)
+- [kitsune-soc/kitsune](https://github.com/kitsune-soc/kitsune) - 🦊 (fast) ActivityPub-federated microblogging (1 day ago)
+- [ApparyllisOrg/SimplyPluralApi](https://github.com/ApparyllisOrg/SimplyPluralApi) - The API for Simply Plural (1 day ago)
+- [Pathoschild/SMAPI](https://github.com/Pathoschild/SMAPI) - The modding API for Stardew Valley. (2 days ago)
+- [Vencord/Vencloud](https://github.com/Vencord/Vencloud) - Vencord API (2 days ago)
 
 #### Quote of the day
 
