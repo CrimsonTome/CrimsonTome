@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [ernesto1/monochrome](https://github.com/ernesto1/monochrome) - A fun conky setup for your linux desktop (today)
+- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too (today)
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop. (1 day ago)
 - [kitsune-soc/kitsune](https://github.com/kitsune-soc/kitsune) - 🦊 (fast) ActivityPub-federated microblogging (1 day ago)
 - [ApparyllisOrg/SimplyPluralApi](https://github.com/ApparyllisOrg/SimplyPluralApi) - The API for Simply Plural (1 day ago)
-- [Pathoschild/SMAPI](https://github.com/Pathoschild/SMAPI) - The modding API for Stardew Valley. (2 days ago)
-- [Vencord/Vencloud](https://github.com/Vencord/Vencloud) - Vencord API (2 days ago)
 
 #### Quote of the day
 
