@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [AnthonyCalandra/modern-c-features](https://github.com/AnthonyCalandra/modern-c-features) - A cheatsheet of modern C language and library features. (today)
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others. (2 days ago)
 - [rcalixte/awesome-wayland](https://github.com/rcalixte/awesome-wayland) - A curated list of Wayland resources (2 days ago)
 - [zefr0x/ianny](https://github.com/zefr0x/ianny) - Desktop utility that helps preventing repetitive strain injuries by keeping track of usage patterns and periodically informing the user to take breaks. (2 days ago)
 - [natpen/awesome-wayland](https://github.com/natpen/awesome-wayland) - A curated list of Wayland code and resources. (2 days ago)
-- [ernesto1/monochrome](https://github.com/ernesto1/monochrome) - A fun conky setup for your linux desktop (2 days ago)
 
 #### Quote of the day
 
