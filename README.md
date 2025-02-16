@@ -21,7 +21,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/simply-present](https://github.com/CrimsonTome/simply-present) - Application to update your discord status to whoever is fronting using data from Simply Plural (2 days ago)
+- [CrimsonTome/simply-present](https://github.com/CrimsonTome/simply-present) - Application to update your discord status to whoever is fronting using data from Simply Plural (3 days ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 month ago)
 - [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (2 months ago)
 - [CrimsonTome/MTG-deck-stats](https://github.com/CrimsonTome/MTG-deck-stats) - Application to import data into Tableau or other analytics software (5 months ago)
@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others. (1 day ago)
-- [rcalixte/awesome-wayland](https://github.com/rcalixte/awesome-wayland) - A curated list of Wayland resources (1 day ago)
-- [zefr0x/ianny](https://github.com/zefr0x/ianny) - Desktop utility that helps preventing repetitive strain injuries by keeping track of usage patterns and periodically informing the user to take breaks. (1 day ago)
-- [natpen/awesome-wayland](https://github.com/natpen/awesome-wayland) - A curated list of Wayland code and resources. (1 day ago)
-- [ernesto1/monochrome](https://github.com/ernesto1/monochrome) - A fun conky setup for your linux desktop (1 day ago)
+- [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others. (2 days ago)
+- [rcalixte/awesome-wayland](https://github.com/rcalixte/awesome-wayland) - A curated list of Wayland resources (2 days ago)
+- [zefr0x/ianny](https://github.com/zefr0x/ianny) - Desktop utility that helps preventing repetitive strain injuries by keeping track of usage patterns and periodically informing the user to take breaks. (2 days ago)
+- [natpen/awesome-wayland](https://github.com/natpen/awesome-wayland) - A curated list of Wayland code and resources. (2 days ago)
+- [ernesto1/monochrome](https://github.com/ernesto1/monochrome) - A fun conky setup for your linux desktop (2 days ago)
 
 #### Quote of the day
 
