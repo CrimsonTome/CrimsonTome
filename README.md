@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [TrenchBroom/TrenchBroom](https://github.com/TrenchBroom/TrenchBroom) - Cross-Platform Level Editor (today)
 - [AnthonyCalandra/modern-c-features](https://github.com/AnthonyCalandra/modern-c-features) - A cheatsheet of modern C language and library features. (2 days ago)
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others. (4 days ago)
 - [rcalixte/awesome-wayland](https://github.com/rcalixte/awesome-wayland) - A curated list of Wayland resources (4 days ago)
 - [zefr0x/ianny](https://github.com/zefr0x/ianny) - Desktop utility that helps preventing repetitive strain injuries by keeping track of usage patterns and periodically informing the user to take breaks. (4 days ago)
-- [natpen/awesome-wayland](https://github.com/natpen/awesome-wayland) - A curated list of Wayland code and resources. (4 days ago)
 
 #### Quote of the day
 
