@@ -23,7 +23,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 - [CrimsonTome/simply-present](https://github.com/CrimsonTome/simply-present) - Application to update your discord status to whoever is fronting using data from Simply Plural (2 weeks ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (2 months ago)
-- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (2 months ago)
+- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (3 months ago)
 - [CrimsonTome/MTG-deck-stats](https://github.com/CrimsonTome/MTG-deck-stats) - Application to import data into Tableau or other analytics software (5 months ago)
 - [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (10 months ago)
 
@@ -38,9 +38,9 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue (today)
-- [jellyfin/jellyfin-apiclient-python](https://github.com/jellyfin/jellyfin-apiclient-python) - Python API Client for Jellyfin (today)
-- [Firstbober/krita-rpc](https://github.com/Firstbober/krita-rpc) - Discord Rich Presence extension for Krita (1 day ago)
+- [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue (1 day ago)
+- [jellyfin/jellyfin-apiclient-python](https://github.com/jellyfin/jellyfin-apiclient-python) - Python API Client for Jellyfin (1 day ago)
+- [Firstbober/krita-rpc](https://github.com/Firstbober/krita-rpc) - Discord Rich Presence extension for Krita (2 days ago)
 - [polychromatic/polychromatic](https://github.com/polychromatic/polychromatic) - RGB lighting management software for GNU/Linux. Powered by OpenRazer. (1 week ago)
 - [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux (1 week ago)
 
