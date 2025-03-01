@@ -38,9 +38,9 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue (1 day ago)
-- [jellyfin/jellyfin-apiclient-python](https://github.com/jellyfin/jellyfin-apiclient-python) - Python API Client for Jellyfin (1 day ago)
-- [Firstbober/krita-rpc](https://github.com/Firstbober/krita-rpc) - Discord Rich Presence extension for Krita (2 days ago)
+- [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue (2 days ago)
+- [jellyfin/jellyfin-apiclient-python](https://github.com/jellyfin/jellyfin-apiclient-python) - Python API Client for Jellyfin (2 days ago)
+- [Firstbober/krita-rpc](https://github.com/Firstbober/krita-rpc) - Discord Rich Presence extension for Krita (3 days ago)
 - [polychromatic/polychromatic](https://github.com/polychromatic/polychromatic) - RGB lighting management software for GNU/Linux. Powered by OpenRazer. (1 week ago)
 - [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux (1 week ago)
 
