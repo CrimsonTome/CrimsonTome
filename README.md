@@ -21,11 +21,11 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
+- [CrimsonTome/nscpot-discord-rich-presence](https://github.com/CrimsonTome/nscpot-discord-rich-presence) - Application to update your Discord status to whatever is playing under ncspot (today)
 - [CrimsonTome/simply-present](https://github.com/CrimsonTome/simply-present) - Application to update your discord status to whoever is fronting using data from Simply Plural (2 weeks ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (2 months ago)
 - [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (3 months ago)
 - [CrimsonTome/MTG-deck-stats](https://github.com/CrimsonTome/MTG-deck-stats) - Application to import data into Tableau or other analytics software (5 months ago)
-- [FreesideHull/hullblogs.com](https://github.com/FreesideHull/hullblogs.com) - Aggregated posts from University of Hull students (10 months ago)
 
 
 #### 🔨 My recent Pull Requests
