@@ -21,7 +21,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/nscpot-discord-rich-presence](https://github.com/CrimsonTome/nscpot-discord-rich-presence) - Application to update your Discord status to whatever is playing under ncspot (today)
+- [CrimsonTome/nscpot-discord-rich-presence](https://github.com/CrimsonTome/nscpot-discord-rich-presence) - Application to update your Discord status to whatever is playing under ncspot (1 day ago)
 - [CrimsonTome/simply-present](https://github.com/CrimsonTome/simply-present) - Application to update your discord status to whoever is fronting using data from Simply Plural (2 weeks ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (2 months ago)
 - [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (3 months ago)
@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust. (1 day ago)
-- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP (1 day ago)
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (1 day ago)
-- [InputUsername/rescrobbled](https://github.com/InputUsername/rescrobbled) - MPRIS music scrobbler daemon (1 day ago)
-- [electronicarts/CnC_Red_Alert](https://github.com/electronicarts/CnC_Red_Alert) - Command and Conquer: Red Alert (1 day ago)
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust. (2 days ago)
+- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP (2 days ago)
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (2 days ago)
+- [InputUsername/rescrobbled](https://github.com/InputUsername/rescrobbled) - MPRIS music scrobbler daemon (2 days ago)
+- [electronicarts/CnC_Red_Alert](https://github.com/electronicarts/CnC_Red_Alert) - Command and Conquer: Red Alert (2 days ago)
 
 #### Quote of the day
 
