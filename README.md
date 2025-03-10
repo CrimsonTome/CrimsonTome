@@ -38,9 +38,9 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) - Open source, cross-platform, user-mode tablet driver (today)
-- [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter (today)
-- [rbreu/beeref](https://github.com/rbreu/beeref) - BeeRef Reference Image Viewer (today)
+- [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) - Open source, cross-platform, user-mode tablet driver (1 day ago)
+- [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter (1 day ago)
+- [rbreu/beeref](https://github.com/rbreu/beeref) - BeeRef Reference Image Viewer (1 day ago)
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust. (1 week ago)
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP (1 week ago)
 
