@@ -21,7 +21,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/nscpot-discord-rich-presence](https://github.com/CrimsonTome/nscpot-discord-rich-presence) - Application to update your Discord status to whatever is playing under ncspot (1 week ago)
+- [CrimsonTome/nscpot-discord-rich-presence](https://github.com/CrimsonTome/nscpot-discord-rich-presence) - Application to update your Discord status to whatever is playing under ncspot (2 weeks ago)
 - [CrimsonTome/simply-present](https://github.com/CrimsonTome/simply-present) - Application to update your discord status to whoever is fronting using data from Simply Plural (1 month ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (2 months ago)
 - [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (3 months ago)
@@ -38,10 +38,10 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android (3 days ago)
-- [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) - Open source, cross-platform, user-mode tablet driver (6 days ago)
-- [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter (6 days ago)
-- [rbreu/beeref](https://github.com/rbreu/beeref) - BeeRef Reference Image Viewer (6 days ago)
+- [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android (4 days ago)
+- [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) - Open source, cross-platform, user-mode tablet driver (1 week ago)
+- [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter (1 week ago)
+- [rbreu/beeref](https://github.com/rbreu/beeref) - BeeRef Reference Image Viewer (1 week ago)
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust. (2 weeks ago)
 
 #### Quote of the day
