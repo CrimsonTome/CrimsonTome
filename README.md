@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us (4 days ago)
-- [BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma) - AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI. (6 days ago)
-- [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android (1 week ago)
-- [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) - Open source, cross-platform, user-mode tablet driver (2 weeks ago)
-- [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter (2 weeks ago)
+- [scottwater/howIvscode](https://github.com/scottwater/howIvscode) - VSCode Extension for sharing how you personally use VSCode (today)
+- [astral-sh/ruff-vscode](https://github.com/astral-sh/ruff-vscode) - A Visual Studio Code extension with support for the Ruff linter. (today)
+- [dotnet/vscode-dotnet-runtime](https://github.com/dotnet/vscode-dotnet-runtime) - VSCode Extension for Installing .NET via VS Code (today)
+- [catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons) - 🦊 Soothing pastel icons for VSCode/VSCodium (today)
+- [catppuccin/vscode](https://github.com/catppuccin/vscode) - 🦌 Soothing pastel theme for VSCode &amp; Azure Data Studio (today)
 
 #### Quote of the day
 
