@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [scottwater/howIvscode](https://github.com/scottwater/howIvscode) - VSCode Extension for sharing how you personally use VSCode (today)
-- [astral-sh/ruff-vscode](https://github.com/astral-sh/ruff-vscode) - A Visual Studio Code extension with support for the Ruff linter. (today)
-- [dotnet/vscode-dotnet-runtime](https://github.com/dotnet/vscode-dotnet-runtime) - VSCode Extension for Installing .NET via VS Code (today)
-- [catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons) - 🦊 Soothing pastel icons for VSCode/VSCodium (today)
-- [catppuccin/vscode](https://github.com/catppuccin/vscode) - 🦌 Soothing pastel theme for VSCode &amp; Azure Data Studio (today)
+- [scottwater/howIvscode](https://github.com/scottwater/howIvscode) - VSCode Extension for sharing how you personally use VSCode (1 day ago)
+- [astral-sh/ruff-vscode](https://github.com/astral-sh/ruff-vscode) - A Visual Studio Code extension with support for the Ruff linter. (1 day ago)
+- [dotnet/vscode-dotnet-runtime](https://github.com/dotnet/vscode-dotnet-runtime) - VSCode Extension for Installing .NET via VS Code (1 day ago)
+- [catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons) - 🦊 Soothing pastel icons for VSCode/VSCodium (1 day ago)
+- [catppuccin/vscode](https://github.com/catppuccin/vscode) - 🦌 Soothing pastel theme for VSCode &amp; Azure Data Studio (1 day ago)
 
 #### Quote of the day
 
