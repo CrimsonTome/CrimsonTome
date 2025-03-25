@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn&#39;t require Premium nor uses Electron! Available for both desktop &amp; mobile! (today)
 - [zqlk256/curses](https://github.com/zqlk256/curses) - Speech to Text and KB input captions for OBS, VRChat, Twitch chat and Discord (1 day ago)
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system (1 day ago)
 - [scottwater/howIvscode](https://github.com/scottwater/howIvscode) - VSCode Extension for sharing how you personally use VSCode (2 days ago)
 - [astral-sh/ruff-vscode](https://github.com/astral-sh/ruff-vscode) - A Visual Studio Code extension with support for the Ruff linter. (2 days ago)
-- [dotnet/vscode-dotnet-runtime](https://github.com/dotnet/vscode-dotnet-runtime) - VSCode Extension for Installing .NET via VS Code (2 days ago)
 
 #### Quote of the day
 
