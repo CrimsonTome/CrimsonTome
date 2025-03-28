@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [catppuccin/cava](https://github.com/catppuccin/cava) - 📢 Soothing pastel theme for Cava (2 days ago)
-- [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer (2 days ago)
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn&#39;t require Premium nor uses Electron! Available for both desktop &amp; mobile! (2 days ago)
-- [zqlk256/curses](https://github.com/zqlk256/curses) - Speech to Text and KB input captions for OBS, VRChat, Twitch chat and Discord (3 days ago)
-- [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system (3 days ago)
+- [catppuccin/cava](https://github.com/catppuccin/cava) - 📢 Soothing pastel theme for Cava (3 days ago)
+- [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer (3 days ago)
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn&#39;t require Premium nor uses Electron! Available for both desktop &amp; mobile! (3 days ago)
+- [zqlk256/curses](https://github.com/zqlk256/curses) - Speech to Text and KB input captions for OBS, VRChat, Twitch chat and Discord (4 days ago)
+- [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system (4 days ago)
 
 #### Quote of the day
 
