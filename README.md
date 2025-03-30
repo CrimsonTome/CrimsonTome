@@ -21,10 +21,10 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/nscpot-discord-rich-presence](https://github.com/CrimsonTome/nscpot-discord-rich-presence) - Application to update your Discord status to whatever is playing under ncspot (3 weeks ago)
+- [CrimsonTome/nscpot-discord-rich-presence](https://github.com/CrimsonTome/nscpot-discord-rich-presence) - Application to update your Discord status to whatever is playing under ncspot (4 weeks ago)
 - [CrimsonTome/simply-present](https://github.com/CrimsonTome/simply-present) - Application to update your discord status to whoever is fronting using data from Simply Plural (1 month ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (3 months ago)
-- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (3 months ago)
+- [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (4 months ago)
 - [CrimsonTome/MTG-deck-stats](https://github.com/CrimsonTome/MTG-deck-stats) - Application to import data into Tableau or other analytics software (6 months ago)
 
 
@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [catppuccin/cava](https://github.com/catppuccin/cava) - 📢 Soothing pastel theme for Cava (4 days ago)
-- [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer (4 days ago)
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn&#39;t require Premium nor uses Electron! Available for both desktop &amp; mobile! (4 days ago)
-- [zqlk256/curses](https://github.com/zqlk256/curses) - Speech to Text and KB input captions for OBS, VRChat, Twitch chat and Discord (5 days ago)
-- [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system (5 days ago)
+- [catppuccin/cava](https://github.com/catppuccin/cava) - 📢 Soothing pastel theme for Cava (5 days ago)
+- [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer (5 days ago)
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn&#39;t require Premium nor uses Electron! Available for both desktop &amp; mobile! (5 days ago)
+- [zqlk256/curses](https://github.com/zqlk256/curses) - Speech to Text and KB input captions for OBS, VRChat, Twitch chat and Discord (6 days ago)
+- [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system (6 days ago)
 
 #### Quote of the day
 
