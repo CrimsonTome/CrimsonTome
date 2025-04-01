@@ -21,7 +21,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/nscpot-discord-rich-presence](https://github.com/CrimsonTome/nscpot-discord-rich-presence) - Application to update your Discord status to whatever is playing under ncspot (4 weeks ago)
+- [CrimsonTome/nscpot-discord-rich-presence](https://github.com/CrimsonTome/nscpot-discord-rich-presence) - Application to update your Discord status to whatever is playing under ncspot (1 month ago)
 - [CrimsonTome/simply-present](https://github.com/CrimsonTome/simply-present) - Application to update your discord status to whoever is fronting using data from Simply Plural (1 month ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (3 months ago)
 - [CrimsonTome/crimsontome.com](https://github.com/CrimsonTome/crimsontome.com) - My personal site - created with Zola using the terminimal theme (4 months ago)
@@ -38,10 +38,10 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [non-ai-licenses/non-ai-licenses](https://github.com/non-ai-licenses/non-ai-licenses) - This repository contains software licenses that restrict software from being used in AI training datasets or AI technologies. (today)
-- [catppuccin/cava](https://github.com/catppuccin/cava) - 📢 Soothing pastel theme for Cava (6 days ago)
-- [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer (6 days ago)
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn&#39;t require Premium nor uses Electron! Available for both desktop &amp; mobile! (6 days ago)
+- [non-ai-licenses/non-ai-licenses](https://github.com/non-ai-licenses/non-ai-licenses) - This repository contains software licenses that restrict software from being used in AI training datasets or AI technologies. (1 day ago)
+- [catppuccin/cava](https://github.com/catppuccin/cava) - 📢 Soothing pastel theme for Cava (1 week ago)
+- [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer (1 week ago)
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn&#39;t require Premium nor uses Electron! Available for both desktop &amp; mobile! (1 week ago)
 - [zqlk256/curses](https://github.com/zqlk256/curses) - Speech to Text and KB input captions for OBS, VRChat, Twitch chat and Discord (1 week ago)
 
 #### Quote of the day
