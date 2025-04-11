@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics (today)
-- [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts (today)
-- [FoxxMD/multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) - Scrobble plays from multiple sources to multiple clients (today)
-- [bahamas10/bash-style-guide](https://github.com/bahamas10/bash-style-guide) - A style guide for writing safe, predictable, and portable bash scripts (not sh!) (2 days ago)
-- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS, MySQL and Postgres bastion that requires no additional client-side software (2 days ago)
+- [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics (1 day ago)
+- [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts (1 day ago)
+- [FoxxMD/multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) - Scrobble plays from multiple sources to multiple clients (1 day ago)
+- [bahamas10/bash-style-guide](https://github.com/bahamas10/bash-style-guide) - A style guide for writing safe, predictable, and portable bash scripts (not sh!) (3 days ago)
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS, MySQL and Postgres bastion that requires no additional client-side software (3 days ago)
 
 #### Quote of the day
 
