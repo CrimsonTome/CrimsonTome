@@ -38,10 +38,10 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you (today)
-- [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics (6 days ago)
-- [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts (6 days ago)
-- [FoxxMD/multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) - Scrobble plays from multiple sources to multiple clients (6 days ago)
+- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you (1 day ago)
+- [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics (1 week ago)
+- [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts (1 week ago)
+- [FoxxMD/multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) - Scrobble plays from multiple sources to multiple clients (1 week ago)
 - [bahamas10/bash-style-guide](https://github.com/bahamas10/bash-style-guide) - A style guide for writing safe, predictable, and portable bash scripts (not sh!) (1 week ago)
 
 #### Quote of the day
