@@ -38,7 +38,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you (2 days ago)
+- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you (3 days ago)
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics (1 week ago)
 - [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts (1 week ago)
 - [FoxxMD/multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) - Scrobble plays from multiple sources to multiple clients (1 week ago)
