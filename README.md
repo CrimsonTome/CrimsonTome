@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service (today)
 - [Vencord/Vendroid](https://github.com/Vencord/Vendroid) - Vencord Android app (1 day ago)
 - [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web! (3 days ago)
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you (1 week ago)
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics (1 week ago)
-- [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts (1 week ago)
 
 #### Quote of the day
 
