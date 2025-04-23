@@ -38,9 +38,9 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [Vencord/Vendroid](https://github.com/Vencord/Vendroid) - Vencord Android app (today)
-- [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web! (2 days ago)
-- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you (6 days ago)
+- [Vencord/Vendroid](https://github.com/Vencord/Vendroid) - Vencord Android app (1 day ago)
+- [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web! (3 days ago)
+- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you (1 week ago)
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics (1 week ago)
 - [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts (1 week ago)
 
