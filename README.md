@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [vrcx-team/VRCX](https://github.com/vrcx-team/VRCX) - Friendship management tool for VRChat (today)
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service (today)
 - [Vencord/Vendroid](https://github.com/Vencord/Vendroid) - Vencord Android app (1 day ago)
 - [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web! (3 days ago)
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you (1 week ago)
-- [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics (1 week ago)
 
 #### Quote of the day
 
