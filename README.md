@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [pyrohost/pyrodactyl](https://github.com/pyrohost/pyrodactyl) - Pyrodactyl is the Pterodactyl-based game server panel that&#39;s faster, smaller, safer, and more accessible than Pelican. (today)
 - [vrcx-team/VRCX](https://github.com/vrcx-team/VRCX) - Friendship management tool for VRChat (1 day ago)
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service (1 day ago)
 - [Vencord/Vendroid](https://github.com/Vencord/Vendroid) - Vencord Android app (2 days ago)
 - [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web! (4 days ago)
-- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you (1 week ago)
 
 #### Quote of the day
 
