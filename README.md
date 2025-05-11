@@ -38,10 +38,10 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [nmmapper/dnsdumpster](https://github.com/nmmapper/dnsdumpster) - A tool to perform DNS reconnaissance on target networks. Among the DNS information got from include subdomains, mx records, web application firewall detection and more fingerprinting and lookups (1 day ago)
-- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More! (3 days ago)
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (4 days ago)
-- [DavidVollmers/Ignis](https://github.com/DavidVollmers/Ignis) - The Blazor framework for building modern web applications. (4 days ago)
+- [nmmapper/dnsdumpster](https://github.com/nmmapper/dnsdumpster) - A tool to perform DNS reconnaissance on target networks. Among the DNS information got from include subdomains, mx records, web application firewall detection and more fingerprinting and lookups (2 days ago)
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More! (4 days ago)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (5 days ago)
+- [DavidVollmers/Ignis](https://github.com/DavidVollmers/Ignis) - The Blazor framework for building modern web applications. (5 days ago)
 - [the404devs/dance](https://github.com/the404devs/dance) - Quick utility to spit out those dancing letter gifs (Jan. 2021) (1 week ago)
 
 #### Quote of the day
