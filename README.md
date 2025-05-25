@@ -38,9 +38,9 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [joseluisq/gitnow](https://github.com/joseluisq/gitnow) - Speed up your Git workflow. :tropical_fish: (today)
-- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly. (today)
-- [burnash/gspread](https://github.com/burnash/gspread) - Google Sheets Python API (today)
+- [joseluisq/gitnow](https://github.com/joseluisq/gitnow) - Speed up your Git workflow. :tropical_fish: (1 day ago)
+- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly. (1 day ago)
+- [burnash/gspread](https://github.com/burnash/gspread) - Google Sheets Python API (1 day ago)
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (1 week ago)
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything (1 week ago)
 
