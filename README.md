@@ -38,10 +38,10 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [Telmate/terraform-ubuntu-proxmox-iso](https://github.com/Telmate/terraform-ubuntu-proxmox-iso) - ISO builder for ubuntu running on proxmox to be provisioned by terraform  (1 day ago)
-- [joseluisq/gitnow](https://github.com/joseluisq/gitnow) - Speed up your Git workflow. :tropical_fish: (2 days ago)
-- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly. (2 days ago)
-- [burnash/gspread](https://github.com/burnash/gspread) - Google Sheets Python API (2 days ago)
+- [Telmate/terraform-ubuntu-proxmox-iso](https://github.com/Telmate/terraform-ubuntu-proxmox-iso) - ISO builder for ubuntu running on proxmox to be provisioned by terraform  (2 days ago)
+- [joseluisq/gitnow](https://github.com/joseluisq/gitnow) - Speed up your Git workflow. :tropical_fish: (3 days ago)
+- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly. (3 days ago)
+- [burnash/gspread](https://github.com/burnash/gspread) - Google Sheets Python API (3 days ago)
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (1 week ago)
 
 #### Quote of the day
