@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb (today)
-- [bahamas10/sshp](https://github.com/bahamas10/sshp) - Parallel SSH Executor (2 days ago)
-- [Telmate/terraform-ubuntu-proxmox-iso](https://github.com/Telmate/terraform-ubuntu-proxmox-iso) - ISO builder for ubuntu running on proxmox to be provisioned by terraform  (4 days ago)
-- [joseluisq/gitnow](https://github.com/joseluisq/gitnow) - Speed up your Git workflow. :tropical_fish: (5 days ago)
-- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly. (5 days ago)
+- [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb (1 day ago)
+- [bahamas10/sshp](https://github.com/bahamas10/sshp) - Parallel SSH Executor (3 days ago)
+- [Telmate/terraform-ubuntu-proxmox-iso](https://github.com/Telmate/terraform-ubuntu-proxmox-iso) - ISO builder for ubuntu running on proxmox to be provisioned by terraform  (5 days ago)
+- [joseluisq/gitnow](https://github.com/joseluisq/gitnow) - Speed up your Git workflow. :tropical_fish: (6 days ago)
+- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly. (6 days ago)
 
 #### Quote of the day
 
