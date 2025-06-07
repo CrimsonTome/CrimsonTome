@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search &amp; app launcher for Windows with community-made plugins (today)
+- [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search &amp; app launcher for Windows with community-made plugins (1 day ago)
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb (1 week ago)
 - [bahamas10/sshp](https://github.com/bahamas10/sshp) - Parallel SSH Executor (1 week ago)
 - [Telmate/terraform-ubuntu-proxmox-iso](https://github.com/Telmate/terraform-ubuntu-proxmox-iso) - ISO builder for ubuntu running on proxmox to be provisioned by terraform  (1 week ago)
-- [joseluisq/gitnow](https://github.com/joseluisq/gitnow) - Speed up your Git workflow. :tropical_fish: (1 week ago)
+- [joseluisq/gitnow](https://github.com/joseluisq/gitnow) - Speed up your Git workflow. :tropical_fish: (2 weeks ago)
 
 #### Quote of the day
 
