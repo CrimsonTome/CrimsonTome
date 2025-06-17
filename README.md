@@ -21,10 +21,10 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/AWS-Proton](https://github.com/CrimsonTome/AWS-Proton) - testing repo for working with AWS Proton (6 days ago)
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (6 days ago)
-- [CrimsonTome/SimplyPluralUtils](https://github.com/CrimsonTome/SimplyPluralUtils) - Utilities for working with the Simply Plural API with Python (6 days ago)
-- [CrimsonTome/AWS-Proton-Service](https://github.com/CrimsonTome/AWS-Proton-Service) -  (6 days ago)
+- [CrimsonTome/AWS-Proton](https://github.com/CrimsonTome/AWS-Proton) - testing repo for working with AWS Proton (1 week ago)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 week ago)
+- [CrimsonTome/SimplyPluralUtils](https://github.com/CrimsonTome/SimplyPluralUtils) - Utilities for working with the Simply Plural API with Python (1 week ago)
+- [CrimsonTome/AWS-Proton-Service](https://github.com/CrimsonTome/AWS-Proton-Service) -  (1 week ago)
 - [CrimsonTome/simply-present](https://github.com/CrimsonTome/simply-present) - Application to update your discord status to whoever is fronting using data from Simply Plural (1 month ago)
 
 
@@ -38,7 +38,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It&#39;s written in Swift, and optimized for Apple silicon.  (5 days ago)
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It&#39;s written in Swift, and optimized for Apple silicon.  (6 days ago)
 - [ifd3f/caligula](https://github.com/ifd3f/caligula) - A user-friendly, lightweight TUI for disk imaging (1 week ago)
 - [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars (1 week ago)
 - [cowtoolz/webcamize](https://github.com/cowtoolz/webcamize) - Use (almost) any camera as a webcam (1 week ago)
