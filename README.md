@@ -38,7 +38,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [hayyaoe/zenities](https://github.com/hayyaoe/zenities) - A Hyprland custom configuration (6 days ago)
+- [hayyaoe/zenities](https://github.com/hayyaoe/zenities) - A Hyprland custom configuration (1 week ago)
 - [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components (1 week ago)
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (1 week ago)
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨ (1 week ago)
