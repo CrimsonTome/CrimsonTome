@@ -38,9 +38,9 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [TappedOutReborn/GameServer-Reborn](https://github.com/TappedOutReborn/GameServer-Reborn) - Private Server for The Simpsons™: Tapped Out Mobile Game  (1 day ago)
-- [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker! (1 day ago)
-- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative (1 day ago)
+- [TappedOutReborn/GameServer-Reborn](https://github.com/TappedOutReborn/GameServer-Reborn) - Private Server for The Simpsons™: Tapped Out Mobile Game  (2 days ago)
+- [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker! (2 days ago)
+- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative (2 days ago)
 - [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) - A multi-shell completion binary. (1 week ago)
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions. (1 week ago)
 
