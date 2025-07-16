@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [TappedOutReborn/GameServer-Reborn](https://github.com/TappedOutReborn/GameServer-Reborn) - Private Server for The Simpsons™: Tapped Out Mobile Game  (3 days ago)
-- [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker! (3 days ago)
-- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative (3 days ago)
-- [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) - A multi-shell completion binary. (1 week ago)
-- [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions. (1 week ago)
+- [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file vault written in TypeScript! 🚀 (1 day ago)
+- [HeartHeroDE/th-hack-tools](https://github.com/HeartHeroDE/th-hack-tools) - Tools for hacking Fire Emblem: Three Houses (1 day ago)
+- [Klokinator/FE-Repo](https://github.com/Klokinator/FE-Repo) - A public graphics repository for Fire Emblem portraits, battle animations, map sprites, and other assorted graphics people might like to use. (1 day ago)
+- [TappedOutReborn/GameServer-Reborn](https://github.com/TappedOutReborn/GameServer-Reborn) - Private Server for The Simpsons™: Tapped Out Mobile Game  (4 days ago)
+- [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker! (4 days ago)
 
 #### Quote of the day
 
