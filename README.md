@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file vault written in TypeScript! 🚀 (1 day ago)
-- [HeartHeroDE/th-hack-tools](https://github.com/HeartHeroDE/th-hack-tools) - Tools for hacking Fire Emblem: Three Houses (1 day ago)
-- [Klokinator/FE-Repo](https://github.com/Klokinator/FE-Repo) - A public graphics repository for Fire Emblem portraits, battle animations, map sprites, and other assorted graphics people might like to use. (1 day ago)
-- [TappedOutReborn/GameServer-Reborn](https://github.com/TappedOutReborn/GameServer-Reborn) - Private Server for The Simpsons™: Tapped Out Mobile Game  (4 days ago)
-- [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker! (4 days ago)
+- [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file vault written in TypeScript! 🚀 (2 days ago)
+- [HeartHeroDE/th-hack-tools](https://github.com/HeartHeroDE/th-hack-tools) - Tools for hacking Fire Emblem: Three Houses (2 days ago)
+- [Klokinator/FE-Repo](https://github.com/Klokinator/FE-Repo) - A public graphics repository for Fire Emblem portraits, battle animations, map sprites, and other assorted graphics people might like to use. (2 days ago)
+- [TappedOutReborn/GameServer-Reborn](https://github.com/TappedOutReborn/GameServer-Reborn) - Private Server for The Simpsons™: Tapped Out Mobile Game  (5 days ago)
+- [Lissy93/domain-locker](https://github.com/Lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker! (5 days ago)
 
 #### Quote of the day
 
