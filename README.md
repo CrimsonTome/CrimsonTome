@@ -21,7 +21,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/fe4-helper](https://github.com/CrimsonTome/fe4-helper) -  (4 days ago)
+- [CrimsonTome/fe4-helper](https://github.com/CrimsonTome/fe4-helper) -  (5 days ago)
 - [CrimsonTome/AWS-Proton-Service](https://github.com/CrimsonTome/AWS-Proton-Service) -  (1 month ago)
 - [CrimsonTome/AWS-Proton](https://github.com/CrimsonTome/AWS-Proton) - testing repo for working with AWS Proton (1 month ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 month ago)
@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [vosmiic/jellyfin-ani-sync](https://github.com/vosmiic/jellyfin-ani-sync) - Synchronize anime watch status between Jellyfin and anime tracking sites. (4 days ago)
-- [revoltchat/desktop](https://github.com/revoltchat/desktop) - Revolt Desktop App (4 days ago)
-- [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file vault written in TypeScript! 🚀 (6 days ago)
-- [HeartHeroDE/th-hack-tools](https://github.com/HeartHeroDE/th-hack-tools) - Tools for hacking Fire Emblem: Three Houses (6 days ago)
-- [Klokinator/FE-Repo](https://github.com/Klokinator/FE-Repo) - A public graphics repository for Fire Emblem portraits, battle animations, map sprites, and other assorted graphics people might like to use. (6 days ago)
+- [vosmiic/jellyfin-ani-sync](https://github.com/vosmiic/jellyfin-ani-sync) - Synchronize anime watch status between Jellyfin and anime tracking sites. (5 days ago)
+- [revoltchat/desktop](https://github.com/revoltchat/desktop) - Revolt Desktop App (5 days ago)
+- [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file vault written in TypeScript! 🚀 (1 week ago)
+- [HeartHeroDE/th-hack-tools](https://github.com/HeartHeroDE/th-hack-tools) - Tools for hacking Fire Emblem: Three Houses (1 week ago)
+- [Klokinator/FE-Repo](https://github.com/Klokinator/FE-Repo) - A public graphics repository for Fire Emblem portraits, battle animations, map sprites, and other assorted graphics people might like to use. (1 week ago)
 
 #### Quote of the day
 
