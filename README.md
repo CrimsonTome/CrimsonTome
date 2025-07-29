@@ -40,9 +40,9 @@ View my [GitHub Stats](/pages/stats.md)
 
 - [vosmiic/jellyfin-ani-sync](https://github.com/vosmiic/jellyfin-ani-sync) - Synchronize anime watch status between Jellyfin and anime tracking sites. (1 week ago)
 - [revoltchat/desktop](https://github.com/revoltchat/desktop) - Revolt Desktop App (1 week ago)
-- [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file vault written in TypeScript! 🚀 (1 week ago)
-- [HeartHeroDE/th-hack-tools](https://github.com/HeartHeroDE/th-hack-tools) - Tools for hacking Fire Emblem: Three Houses (1 week ago)
-- [Klokinator/FE-Repo](https://github.com/Klokinator/FE-Repo) - A public graphics repository for Fire Emblem portraits, battle animations, map sprites, and other assorted graphics people might like to use. (1 week ago)
+- [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file vault written in TypeScript! 🚀 (2 weeks ago)
+- [HeartHeroDE/th-hack-tools](https://github.com/HeartHeroDE/th-hack-tools) - Tools for hacking Fire Emblem: Three Houses (2 weeks ago)
+- [Klokinator/FE-Repo](https://github.com/Klokinator/FE-Repo) - A public graphics repository for Fire Emblem portraits, battle animations, map sprites, and other assorted graphics people might like to use. (2 weeks ago)
 
 #### Quote of the day
 
