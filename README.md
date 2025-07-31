@@ -21,7 +21,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/fe4-helper](https://github.com/CrimsonTome/fe4-helper) -  (1 week ago)
+- [CrimsonTome/fe4-helper](https://github.com/CrimsonTome/fe4-helper) -  (2 weeks ago)
 - [CrimsonTome/AWS-Proton-Service](https://github.com/CrimsonTome/AWS-Proton-Service) -  (1 month ago)
 - [CrimsonTome/AWS-Proton](https://github.com/CrimsonTome/AWS-Proton) - testing repo for working with AWS Proton (1 month ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 month ago)
@@ -38,8 +38,8 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [vosmiic/jellyfin-ani-sync](https://github.com/vosmiic/jellyfin-ani-sync) - Synchronize anime watch status between Jellyfin and anime tracking sites. (1 week ago)
-- [revoltchat/desktop](https://github.com/revoltchat/desktop) - Revolt Desktop App (1 week ago)
+- [vosmiic/jellyfin-ani-sync](https://github.com/vosmiic/jellyfin-ani-sync) - Synchronize anime watch status between Jellyfin and anime tracking sites. (2 weeks ago)
+- [revoltchat/desktop](https://github.com/revoltchat/desktop) - Revolt Desktop App (2 weeks ago)
 - [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file vault written in TypeScript! 🚀 (2 weeks ago)
 - [HeartHeroDE/th-hack-tools](https://github.com/HeartHeroDE/th-hack-tools) - Tools for hacking Fire Emblem: Three Houses (2 weeks ago)
 - [Klokinator/FE-Repo](https://github.com/Klokinator/FE-Repo) - A public graphics repository for Fire Emblem portraits, battle animations, map sprites, and other assorted graphics people might like to use. (2 weeks ago)
