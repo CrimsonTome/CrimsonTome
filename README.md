@@ -21,7 +21,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/fe4-helper](https://github.com/CrimsonTome/fe4-helper) -  (4 weeks ago)
+- [CrimsonTome/fe4-helper](https://github.com/CrimsonTome/fe4-helper) -  (1 month ago)
 - [CrimsonTome/AWS-Proton-Service](https://github.com/CrimsonTome/AWS-Proton-Service) -  (2 months ago)
 - [CrimsonTome/AWS-Proton](https://github.com/CrimsonTome/AWS-Proton) - testing repo for working with AWS Proton (2 months ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (2 months ago)
@@ -38,8 +38,8 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [chibisafe/chibisafe-extension](https://github.com/chibisafe/chibisafe-extension) - Companion extension for the chibisafe File Uploader. (2 days ago)
-- [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics (3 days ago)
+- [chibisafe/chibisafe-extension](https://github.com/chibisafe/chibisafe-extension) - Companion extension for the chibisafe File Uploader. (3 days ago)
+- [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics (4 days ago)
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects (1 week ago)
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file, no deps (1 week ago)
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads. (1 week ago)
