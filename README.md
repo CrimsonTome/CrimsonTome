@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [chibisafe/chibisafe-extension](https://github.com/chibisafe/chibisafe-extension) - Companion extension for the chibisafe File Uploader. (3 days ago)
-- [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics (4 days ago)
+- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility. (1 day ago)
+- [Geeene/Universal-FE-Randomizer](https://github.com/Geeene/Universal-FE-Randomizer) - Properly universal this time. (1 day ago)
+- [chibisafe/chibisafe-extension](https://github.com/chibisafe/chibisafe-extension) - Companion extension for the chibisafe File Uploader. (4 days ago)
+- [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics (5 days ago)
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects (1 week ago)
-- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file, no deps (1 week ago)
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads. (1 week ago)
 
 #### Quote of the day
 
