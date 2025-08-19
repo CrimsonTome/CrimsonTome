@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [magefree/mage](https://github.com/magefree/mage) - XMage - Magic Another Game Engine (1 day ago)
-- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility. (2 days ago)
-- [Geeene/Universal-FE-Randomizer](https://github.com/Geeene/Universal-FE-Randomizer) - Properly universal this time. (2 days ago)
-- [chibisafe/chibisafe-extension](https://github.com/chibisafe/chibisafe-extension) - Companion extension for the chibisafe File Uploader. (5 days ago)
-- [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics (6 days ago)
+- [magefree/mage](https://github.com/magefree/mage) - XMage - Magic Another Game Engine (2 days ago)
+- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility. (3 days ago)
+- [Geeene/Universal-FE-Randomizer](https://github.com/Geeene/Universal-FE-Randomizer) - Properly universal this time. (3 days ago)
+- [chibisafe/chibisafe-extension](https://github.com/chibisafe/chibisafe-extension) - Companion extension for the chibisafe File Uploader. (6 days ago)
+- [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics (1 week ago)
 
 #### Quote of the day
 
