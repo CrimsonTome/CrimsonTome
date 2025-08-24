@@ -38,7 +38,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [magefree/mage](https://github.com/magefree/mage) - XMage - Magic Another Game Engine (6 days ago)
+- [magefree/mage](https://github.com/magefree/mage) - XMage - Magic Another Game Engine (1 week ago)
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility. (1 week ago)
 - [Geeene/Universal-FE-Randomizer](https://github.com/Geeene/Universal-FE-Randomizer) - Properly universal this time. (1 week ago)
 - [chibisafe/chibisafe-extension](https://github.com/chibisafe/chibisafe-extension) - Companion extension for the chibisafe File Uploader. (1 week ago)
