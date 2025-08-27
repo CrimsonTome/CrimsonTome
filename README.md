@@ -38,9 +38,9 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [11ty/eleventy-plugin-vue](https://github.com/11ty/eleventy-plugin-vue) - Use Vue.js templates and Vue.js single file components in Eleventy. (1 day ago)
-- [renpy/renpy](https://github.com/renpy/renpy) - The Ren&#39;Py Visual Novel Engine (1 day ago)
-- [pebble-dev/pebble-firmware](https://github.com/pebble-dev/pebble-firmware) - Codebase for firmware that runs on Pebble smartwatches. (2 days ago)
+- [11ty/eleventy-plugin-vue](https://github.com/11ty/eleventy-plugin-vue) - Use Vue.js templates and Vue.js single file components in Eleventy. (2 days ago)
+- [renpy/renpy](https://github.com/renpy/renpy) - The Ren&#39;Py Visual Novel Engine (2 days ago)
+- [pebble-dev/pebble-firmware](https://github.com/pebble-dev/pebble-firmware) - Codebase for firmware that runs on Pebble smartwatches. (3 days ago)
 - [magefree/mage](https://github.com/magefree/mage) - XMage - Magic Another Game Engine (1 week ago)
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility. (1 week ago)
 
