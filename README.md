@@ -21,7 +21,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/SimplyPluralUtils](https://github.com/CrimsonTome/SimplyPluralUtils) - Utilities for working with the Simply Plural API with Python (6 days ago)
+- [CrimsonTome/SimplyPluralUtils](https://github.com/CrimsonTome/SimplyPluralUtils) - Utilities for working with the Simply Plural API with Python (1 week ago)
 - [CrimsonTome/fe4-helper](https://github.com/CrimsonTome/fe4-helper) -  (1 month ago)
 - [CrimsonTome/AWS-Proton-Service](https://github.com/CrimsonTome/AWS-Proton-Service) -  (2 months ago)
 - [CrimsonTome/AWS-Proton](https://github.com/CrimsonTome/AWS-Proton) - testing repo for working with AWS Proton (2 months ago)
@@ -38,7 +38,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/ (6 days ago)
+- [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/ (1 week ago)
 - [11ty/eleventy-plugin-vue](https://github.com/11ty/eleventy-plugin-vue) - Use Vue.js templates and Vue.js single file components in Eleventy. (1 week ago)
 - [renpy/renpy](https://github.com/renpy/renpy) - The Ren&#39;Py Visual Novel Engine (1 week ago)
 - [pebble-dev/pebble-firmware](https://github.com/pebble-dev/pebble-firmware) - Codebase for firmware that runs on Pebble smartwatches. (1 week ago)
