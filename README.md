@@ -23,9 +23,9 @@ View my [GitHub Stats](/pages/stats.md)
 
 - [CrimsonTome/SimplyPluralUtils](https://github.com/CrimsonTome/SimplyPluralUtils) - Utilities for working with the Simply Plural API with Python (1 week ago)
 - [CrimsonTome/fe4-helper](https://github.com/CrimsonTome/fe4-helper) -  (1 month ago)
-- [CrimsonTome/AWS-Proton-Service](https://github.com/CrimsonTome/AWS-Proton-Service) -  (2 months ago)
-- [CrimsonTome/AWS-Proton](https://github.com/CrimsonTome/AWS-Proton) - testing repo for working with AWS Proton (2 months ago)
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (2 months ago)
+- [CrimsonTome/AWS-Proton-Service](https://github.com/CrimsonTome/AWS-Proton-Service) -  (3 months ago)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (3 months ago)
+- [CrimsonTome/AWS-Proton](https://github.com/CrimsonTome/AWS-Proton) - testing repo for working with AWS Proton (3 months ago)
 
 
 #### 🔨 My recent Pull Requests
@@ -38,10 +38,10 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [VilleOlof/all_minecraft_banners](https://github.com/VilleOlof/all_minecraft_banners) - Contains all 1,475,646,641,940,097,552 banners in Minecraft (3 days ago)
+- [VilleOlof/all_minecraft_banners](https://github.com/VilleOlof/all_minecraft_banners) - Contains all 1,475,646,641,940,097,552 banners in Minecraft (4 days ago)
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/ (1 week ago)
-- [11ty/eleventy-plugin-vue](https://github.com/11ty/eleventy-plugin-vue) - Use Vue.js templates and Vue.js single file components in Eleventy. (1 week ago)
-- [renpy/renpy](https://github.com/renpy/renpy) - The Ren&#39;Py Visual Novel Engine (1 week ago)
+- [11ty/eleventy-plugin-vue](https://github.com/11ty/eleventy-plugin-vue) - Use Vue.js templates and Vue.js single file components in Eleventy. (2 weeks ago)
+- [renpy/renpy](https://github.com/renpy/renpy) - The Ren&#39;Py Visual Novel Engine (2 weeks ago)
 - [pebble-dev/pebble-firmware](https://github.com/pebble-dev/pebble-firmware) - Codebase for firmware that runs on Pebble smartwatches. (2 weeks ago)
 
 #### Quote of the day
