@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [VilleOlof/all_minecraft_banners](https://github.com/VilleOlof/all_minecraft_banners) - Contains all 1,475,646,641,940,097,552 banners in Minecraft (6 days ago)
+- [AmmoniumStudios/go-invoice-generator](https://github.com/AmmoniumStudios/go-invoice-generator) - Super fast golang invoice / quotation / delivery-note PDF generator (1 day ago)
+- [VilleOlof/all_minecraft_banners](https://github.com/VilleOlof/all_minecraft_banners) - Contains all 1,475,646,641,940,097,552 banners in Minecraft (1 week ago)
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/ (2 weeks ago)
 - [11ty/eleventy-plugin-vue](https://github.com/11ty/eleventy-plugin-vue) - Use Vue.js templates and Vue.js single file components in Eleventy. (2 weeks ago)
 - [renpy/renpy](https://github.com/renpy/renpy) - The Ren&#39;Py Visual Novel Engine (2 weeks ago)
-- [pebble-dev/pebble-firmware](https://github.com/pebble-dev/pebble-firmware) - Codebase for firmware that runs on Pebble smartwatches. (2 weeks ago)
 
 #### Quote of the day
 
