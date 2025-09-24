@@ -21,7 +21,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/SimplyPluralUtils](https://github.com/CrimsonTome/SimplyPluralUtils) - Utilities for working with the Simply Plural API with Python (3 weeks ago)
+- [CrimsonTome/SimplyPluralUtils](https://github.com/CrimsonTome/SimplyPluralUtils) - Utilities for working with the Simply Plural API with Python (4 weeks ago)
 - [CrimsonTome/fe4-helper](https://github.com/CrimsonTome/fe4-helper) -  (2 months ago)
 - [CrimsonTome/AWS-Proton-Service](https://github.com/CrimsonTome/AWS-Proton-Service) -  (3 months ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (3 months ago)
@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [AmmoniumStudios/go-invoice-generator](https://github.com/AmmoniumStudios/go-invoice-generator) - Super fast golang invoice / quotation / delivery-note PDF generator (1 week ago)
+- [AmmoniumStudios/go-invoice-generator](https://github.com/AmmoniumStudios/go-invoice-generator) - Super fast golang invoice / quotation / delivery-note PDF generator (2 weeks ago)
 - [VilleOlof/all_minecraft_banners](https://github.com/VilleOlof/all_minecraft_banners) - Contains all 1,475,646,641,940,097,552 banners in Minecraft (2 weeks ago)
-- [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/ (3 weeks ago)
-- [11ty/eleventy-plugin-vue](https://github.com/11ty/eleventy-plugin-vue) - Use Vue.js templates and Vue.js single file components in Eleventy. (4 weeks ago)
-- [renpy/renpy](https://github.com/renpy/renpy) - The Ren&#39;Py Visual Novel Engine (4 weeks ago)
+- [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/ (4 weeks ago)
+- [11ty/eleventy-plugin-vue](https://github.com/11ty/eleventy-plugin-vue) - Use Vue.js templates and Vue.js single file components in Eleventy. (1 month ago)
+- [renpy/renpy](https://github.com/renpy/renpy) - The Ren&#39;Py Visual Novel Engine (1 month ago)
 
 #### Quote of the day
 
