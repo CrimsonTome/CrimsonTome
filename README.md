@@ -38,7 +38,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md (1 day ago)
+- [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md (2 days ago)
 - [mathialo/bython](https://github.com/mathialo/bython) - Python with braces. Because python is awesome, but whitespace is awful. (1 week ago)
 - [AmmoniumStudios/go-invoice-generator](https://github.com/AmmoniumStudios/go-invoice-generator) - Super fast golang invoice / quotation / delivery-note PDF generator (3 weeks ago)
 - [VilleOlof/all_minecraft_banners](https://github.com/VilleOlof/all_minecraft_banners) - Contains all 1,475,646,641,940,097,552 banners in Minecraft (1 month ago)
