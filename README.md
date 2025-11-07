@@ -23,9 +23,9 @@ View my [GitHub Stats](/pages/stats.md)
 
 - [CrimsonTome/SimplyPluralUtils](https://github.com/CrimsonTome/SimplyPluralUtils) - Utilities for working with the Simply Plural API with Python (2 months ago)
 - [CrimsonTome/fe4-helper](https://github.com/CrimsonTome/fe4-helper) -  (3 months ago)
-- [CrimsonTome/AWS-Proton](https://github.com/CrimsonTome/AWS-Proton) - testing repo for working with AWS Proton (4 months ago)
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (4 months ago)
-- [CrimsonTome/AWS-Proton-Service](https://github.com/CrimsonTome/AWS-Proton-Service) -  (4 months ago)
+- [CrimsonTome/AWS-Proton](https://github.com/CrimsonTome/AWS-Proton) - testing repo for working with AWS Proton (5 months ago)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (5 months ago)
+- [CrimsonTome/AWS-Proton-Service](https://github.com/CrimsonTome/AWS-Proton-Service) -  (5 months ago)
 
 
 #### 🔨 My recent Pull Requests
@@ -39,8 +39,8 @@ View my [GitHub Stats](/pages/stats.md)
 #### ⭐ Recent Stars
 
 - [Murzchnvok/rofi-collection](https://github.com/Murzchnvok/rofi-collection) - Beautiful collection of Rofi themes (2 weeks ago)
-- [hendricius/the-sourdough-framework](https://github.com/hendricius/the-sourdough-framework) - Open source book dedicated to helping you to make the best possible sourdough bread at home. (4 weeks ago)
-- [ChrisTitusTech/bypassnro](https://github.com/ChrisTitusTech/bypassnro) - Fixing Microsoft&#39;s removal of BypassNRO (4 weeks ago)
+- [hendricius/the-sourdough-framework](https://github.com/hendricius/the-sourdough-framework) - Open source book dedicated to helping you to make the best possible sourdough bread at home. (1 month ago)
+- [ChrisTitusTech/bypassnro](https://github.com/ChrisTitusTech/bypassnro) - Fixing Microsoft&#39;s removal of BypassNRO (1 month ago)
 - [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git) - Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md (1 month ago)
 - [mathialo/bython](https://github.com/mathialo/bython) - Python with braces. Because python is awesome, but whitespace is awful. (1 month ago)
 
