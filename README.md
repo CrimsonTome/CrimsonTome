@@ -22,7 +22,7 @@ View my [GitHub Stats](/pages/stats.md)
 #### 👷 Check out what I'm currently working on
 
 - [CrimsonTome/SimplyPluralUtils](https://github.com/CrimsonTome/SimplyPluralUtils) - Utilities for working with the Simply Plural API with Python (2 months ago)
-- [CrimsonTome/fe4-helper](https://github.com/CrimsonTome/fe4-helper) -  (3 months ago)
+- [CrimsonTome/fe4-helper](https://github.com/CrimsonTome/fe4-helper) -  (4 months ago)
 - [CrimsonTome/AWS-Proton](https://github.com/CrimsonTome/AWS-Proton) - testing repo for working with AWS Proton (5 months ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (5 months ago)
 - [CrimsonTome/AWS-Proton-Service](https://github.com/CrimsonTome/AWS-Proton-Service) -  (5 months ago)
@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [deniz-blue/polycules](https://github.com/deniz-blue/polycules) - Graph polyamorous relationships that have plural systems. Inspired from polycul.es (3 days ago)
-- [makyo/polycul.es](https://github.com/makyo/polycul.es) - Graphing polyamorous relationships with force directed layouts. (3 days ago)
-- [ErikReider/SwayOSD](https://github.com/ErikReider/SwayOSD) - A GTK based on screen display for keyboard shortcuts like caps-lock and volume (4 days ago)
-- [taliyahwebb/curses](https://github.com/taliyahwebb/curses) - Speech to Text and KB input captions for OBS, VRChat, Twitch chat and Discord (4 days ago)
-- [OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl) - Fast and local neural text-to-speech engine (5 days ago)
+- [deniz-blue/polycules](https://github.com/deniz-blue/polycules) - Graph polyamorous relationships that have plural systems. Inspired from polycul.es (4 days ago)
+- [makyo/polycul.es](https://github.com/makyo/polycul.es) - Graphing polyamorous relationships with force directed layouts. (4 days ago)
+- [ErikReider/SwayOSD](https://github.com/ErikReider/SwayOSD) - A GTK based on screen display for keyboard shortcuts like caps-lock and volume (5 days ago)
+- [taliyahwebb/curses](https://github.com/taliyahwebb/curses) - Speech to Text and KB input captions for OBS, VRChat, Twitch chat and Discord (5 days ago)
+- [OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl) - Fast and local neural text-to-speech engine (6 days ago)
 
 #### Quote of the day
 
