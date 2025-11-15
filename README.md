@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [deniz-blue/polycules](https://github.com/deniz-blue/polycules) - Graph polyamorous relationships that have plural systems. Inspired from polycul.es (4 days ago)
-- [makyo/polycul.es](https://github.com/makyo/polycul.es) - Graphing polyamorous relationships with force directed layouts. (4 days ago)
-- [ErikReider/SwayOSD](https://github.com/ErikReider/SwayOSD) - A GTK based on screen display for keyboard shortcuts like caps-lock and volume (5 days ago)
-- [taliyahwebb/curses](https://github.com/taliyahwebb/curses) - Speech to Text and KB input captions for OBS, VRChat, Twitch chat and Discord (5 days ago)
-- [OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl) - Fast and local neural text-to-speech engine (6 days ago)
+- [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container (1 day ago)
+- [deniz-blue/polycules](https://github.com/deniz-blue/polycules) - Graph polyamorous relationships that have plural systems. Inspired from polycul.es (5 days ago)
+- [makyo/polycul.es](https://github.com/makyo/polycul.es) - Graphing polyamorous relationships with force directed layouts. (5 days ago)
+- [ErikReider/SwayOSD](https://github.com/ErikReider/SwayOSD) - A GTK based on screen display for keyboard shortcuts like caps-lock and volume (6 days ago)
+- [taliyahwebb/curses](https://github.com/taliyahwebb/curses) - Speech to Text and KB input captions for OBS, VRChat, Twitch chat and Discord (6 days ago)
 
 #### Quote of the day
 
