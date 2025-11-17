@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container (2 days ago)
-- [deniz-blue/polycules](https://github.com/deniz-blue/polycules) - Graph polyamorous relationships that have plural systems. Inspired from polycul.es (6 days ago)
-- [makyo/polycul.es](https://github.com/makyo/polycul.es) - Graphing polyamorous relationships with force directed layouts. (6 days ago)
+- [RetroAchievements/RAVBA](https://github.com/RetroAchievements/RAVBA) - GB/GBC/GBA emulator with RetroAchievements support (modified version of VisualBoyAdvance-M) (1 day ago)
+- [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container (3 days ago)
+- [deniz-blue/polycules](https://github.com/deniz-blue/polycules) - Graph polyamorous relationships that have plural systems. Inspired from polycul.es (1 week ago)
+- [makyo/polycul.es](https://github.com/makyo/polycul.es) - Graphing polyamorous relationships with force directed layouts. (1 week ago)
 - [ErikReider/SwayOSD](https://github.com/ErikReider/SwayOSD) - A GTK based on screen display for keyboard shortcuts like caps-lock and volume (1 week ago)
-- [taliyahwebb/curses](https://github.com/taliyahwebb/curses) - Speech to Text and KB input captions for OBS, VRChat, Twitch chat and Discord (1 week ago)
 
 #### Quote of the day
 
