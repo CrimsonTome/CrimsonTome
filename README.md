@@ -38,8 +38,8 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [RetroAchievements/RAVBA](https://github.com/RetroAchievements/RAVBA) - GB/GBC/GBA emulator with RetroAchievements support (modified version of VisualBoyAdvance-M) (4 days ago)
-- [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - The official Pi-hole Docker image from pi-hole.net (6 days ago)
+- [RetroAchievements/RAVBA](https://github.com/RetroAchievements/RAVBA) - GB/GBC/GBA emulator with RetroAchievements support (modified version of VisualBoyAdvance-M) (5 days ago)
+- [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - The official Pi-hole Docker image from pi-hole.net (1 week ago)
 - [deniz-blue/polycules](https://github.com/deniz-blue/polycules) - Graph polyamorous relationships that have plural systems. Inspired from polycul.es (1 week ago)
 - [makyo/polycul.es](https://github.com/makyo/polycul.es) - Graphing polyamorous relationships with force directed layouts. (1 week ago)
 - [ErikReider/SwayOSD](https://github.com/ErikReider/SwayOSD) - A GTK based on screen display for keyboard shortcuts like caps-lock and volume (1 week ago)
