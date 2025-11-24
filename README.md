@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [SciresM/FEAST](https://github.com/SciresM/FEAST) - Save Compressor/Decompressor for Fire Emblem: Awakening (1 day ago)
+- [RainThunder/FEST](https://github.com/RainThunder/FEST) - Save Compressor / Decompressor for Fire Emblem: Awakening and Fire Emblem: Fates (1 day ago)
+- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google (1 day ago)
 - [RetroAchievements/RAVBA](https://github.com/RetroAchievements/RAVBA) - GB/GBC/GBA emulator with RetroAchievements support (modified version of VisualBoyAdvance-M) (1 week ago)
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - The official Pi-hole Docker image from pi-hole.net (1 week ago)
-- [deniz-blue/polycules](https://github.com/deniz-blue/polycules) - Graph polyamorous relationships that have plural systems. Inspired from polycul.es (1 week ago)
-- [makyo/polycul.es](https://github.com/makyo/polycul.es) - Graphing polyamorous relationships with force directed layouts. (1 week ago)
-- [ErikReider/SwayOSD](https://github.com/ErikReider/SwayOSD) - A GTK based on screen display for keyboard shortcuts like caps-lock and volume (2 weeks ago)
 
 #### Quote of the day
 
