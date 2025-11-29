@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [SciresM/FEAST](https://github.com/SciresM/FEAST) - Save Compressor/Decompressor for Fire Emblem: Awakening (5 days ago)
-- [RainThunder/FEST](https://github.com/RainThunder/FEST) - Save Compressor / Decompressor for Fire Emblem: Awakening and Fire Emblem: Fates (5 days ago)
-- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google (5 days ago)
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (1 day ago)
+- [SciresM/FEAST](https://github.com/SciresM/FEAST) - Save Compressor/Decompressor for Fire Emblem: Awakening (6 days ago)
+- [RainThunder/FEST](https://github.com/RainThunder/FEST) - Save Compressor / Decompressor for Fire Emblem: Awakening and Fire Emblem: Fates (6 days ago)
+- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google (6 days ago)
 - [RetroAchievements/RAVBA](https://github.com/RetroAchievements/RAVBA) - GB/GBC/GBA emulator with RetroAchievements support (modified version of VisualBoyAdvance-M) (1 week ago)
-- [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - The official Pi-hole Docker image from pi-hole.net (2 weeks ago)
 
 #### Quote of the day
 
