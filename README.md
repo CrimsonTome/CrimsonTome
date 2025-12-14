@@ -22,7 +22,7 @@ View my [GitHub Stats](/pages/stats.md)
 #### 👷 Check out what I'm currently working on
 
 - [CrimsonTome/SimplyPluralUtils](https://github.com/CrimsonTome/SimplyPluralUtils) - Utilities for working with the Simply Plural API with Python (3 months ago)
-- [CrimsonTome/fe4-helper](https://github.com/CrimsonTome/fe4-helper) -  (4 months ago)
+- [CrimsonTome/fe4-helper](https://github.com/CrimsonTome/fe4-helper) -  (5 months ago)
 - [CrimsonTome/AWS-Proton](https://github.com/CrimsonTome/AWS-Proton) - testing repo for working with AWS Proton (6 months ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (6 months ago)
 - [CrimsonTome/AWS-Proton-Service](https://github.com/CrimsonTome/AWS-Proton-Service) -  (6 months ago)
@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [Card-Forge/forge](https://github.com/Card-Forge/forge) - An unofficial rules engine for the world&#39;s greatest card game. (1 day ago)
+- [Card-Forge/forge](https://github.com/Card-Forge/forge) - An unofficial rules engine for the world&#39;s greatest card game. (2 days ago)
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (2 weeks ago)
-- [SciresM/FEAST](https://github.com/SciresM/FEAST) - Save Compressor/Decompressor for Fire Emblem: Awakening (2 weeks ago)
-- [RainThunder/FEST](https://github.com/RainThunder/FEST) - Save Compressor / Decompressor for Fire Emblem: Awakening and Fire Emblem: Fates (2 weeks ago)
-- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google (2 weeks ago)
+- [SciresM/FEAST](https://github.com/SciresM/FEAST) - Save Compressor/Decompressor for Fire Emblem: Awakening (3 weeks ago)
+- [RainThunder/FEST](https://github.com/RainThunder/FEST) - Save Compressor / Decompressor for Fire Emblem: Awakening and Fire Emblem: Fates (3 weeks ago)
+- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google (3 weeks ago)
 
 #### Quote of the day
 
