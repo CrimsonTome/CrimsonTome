@@ -38,8 +38,8 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [MeguminSama/Vencord-Launcher](https://github.com/MeguminSama/Vencord-Launcher) - A convenient launcher for Vencord. Say goodbye to patching Discord every update! (3 days ago)
-- [Card-Forge/forge](https://github.com/Card-Forge/forge) - An unofficial rules engine for the world&#39;s greatest card game. (5 days ago)
+- [MeguminSama/Vencord-Launcher](https://github.com/MeguminSama/Vencord-Launcher) - A convenient launcher for Vencord. Say goodbye to patching Discord every update! (4 days ago)
+- [Card-Forge/forge](https://github.com/Card-Forge/forge) - An unofficial rules engine for the world&#39;s greatest card game. (6 days ago)
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (2 weeks ago)
 - [SciresM/FEAST](https://github.com/SciresM/FEAST) - Save Compressor/Decompressor for Fire Emblem: Awakening (3 weeks ago)
 - [RainThunder/FEST](https://github.com/RainThunder/FEST) - Save Compressor / Decompressor for Fire Emblem: Awakening and Fire Emblem: Fates (3 weeks ago)
