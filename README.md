@@ -41,8 +41,8 @@ View my [GitHub Stats](/pages/stats.md)
 - [MeguminSama/Vencord-Launcher](https://github.com/MeguminSama/Vencord-Launcher) - A convenient launcher for Vencord. Say goodbye to patching Discord every update! (1 week ago)
 - [Card-Forge/forge](https://github.com/Card-Forge/forge) - An unofficial rules engine for the world&#39;s greatest card game. (1 week ago)
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (3 weeks ago)
-- [SciresM/FEAST](https://github.com/SciresM/FEAST) - Save Compressor/Decompressor for Fire Emblem: Awakening (4 weeks ago)
-- [RainThunder/FEST](https://github.com/RainThunder/FEST) - Save Compressor / Decompressor for Fire Emblem: Awakening and Fire Emblem: Fates (4 weeks ago)
+- [SciresM/FEAST](https://github.com/SciresM/FEAST) - Save Compressor/Decompressor for Fire Emblem: Awakening (1 month ago)
+- [RainThunder/FEST](https://github.com/RainThunder/FEST) - Save Compressor / Decompressor for Fire Emblem: Awakening and Fire Emblem: Fates (1 month ago)
 
 #### Quote of the day
 
