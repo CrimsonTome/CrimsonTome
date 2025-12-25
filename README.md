@@ -21,7 +21,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/SimplyPluralUtils](https://github.com/CrimsonTome/SimplyPluralUtils) - Utilities for working with the Simply Plural API with Python (3 months ago)
+- [CrimsonTome/SimplyPluralUtils](https://github.com/CrimsonTome/SimplyPluralUtils) - Utilities for working with the Simply Plural API with Python (4 months ago)
 - [CrimsonTome/fe4-helper](https://github.com/CrimsonTome/fe4-helper) -  (5 months ago)
 - [CrimsonTome/AWS-Proton](https://github.com/CrimsonTome/AWS-Proton) - testing repo for working with AWS Proton (6 months ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (6 months ago)
