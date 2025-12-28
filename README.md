@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) - Binary installation for rust projects (1 day ago)
-- [sinelaw/fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast (1 day ago)
-- [MeguminSama/Vencord-Launcher](https://github.com/MeguminSama/Vencord-Launcher) - A convenient launcher for Vencord. Say goodbye to patching Discord every update! (1 week ago)
+- [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) - Binary installation for rust projects (2 days ago)
+- [sinelaw/fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast (2 days ago)
+- [MeguminSama/Vencord-Launcher](https://github.com/MeguminSama/Vencord-Launcher) - A convenient launcher for Vencord. Say goodbye to patching Discord every update! (2 weeks ago)
 - [Card-Forge/forge](https://github.com/Card-Forge/forge) - An unofficial rules engine for the world&#39;s greatest card game. (2 weeks ago)
-- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (4 weeks ago)
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers (1 month ago)
 
 #### Quote of the day
 
