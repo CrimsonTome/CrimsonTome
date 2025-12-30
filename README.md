@@ -38,9 +38,9 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [pkgforge/soar](https://github.com/pkgforge/soar) - A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|Runimage) &amp; More [maintainer=@QaidVoid] (1 day ago)
-- [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) - Binary installation for rust projects (3 days ago)
-- [sinelaw/fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast (3 days ago)
+- [pkgforge/soar](https://github.com/pkgforge/soar) - A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|Runimage) &amp; More [maintainer=@QaidVoid] (2 days ago)
+- [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) - Binary installation for rust projects (4 days ago)
+- [sinelaw/fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast (4 days ago)
 - [MeguminSama/Vencord-Launcher](https://github.com/MeguminSama/Vencord-Launcher) - A convenient launcher for Vencord. Say goodbye to patching Discord every update! (2 weeks ago)
 - [Card-Forge/forge](https://github.com/Card-Forge/forge) - An unofficial rules engine for the world&#39;s greatest card game. (2 weeks ago)
 
