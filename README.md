@@ -38,7 +38,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [terrapkg/packages](https://github.com/terrapkg/packages) - Monorepo for Terra Packages (2 days ago)
+- [terrapkg/packages](https://github.com/terrapkg/packages) - Monorepo for Terra Packages (3 days ago)
 - [tuanchauict/MonoSketch](https://github.com/tuanchauict/MonoSketch) - An ASCII graph drawing app (1 week ago)
 - [pkgforge/soar](https://github.com/pkgforge/soar) - A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|Runimage) &amp; More [maintainer=@QaidVoid] (1 week ago)
 - [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) - Binary installation for rust projects (2 weeks ago)
