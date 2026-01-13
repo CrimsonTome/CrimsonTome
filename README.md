@@ -22,7 +22,7 @@ View my [GitHub Stats](/pages/stats.md)
 #### 👷 Check out what I'm currently working on
 
 - [CrimsonTome/SimplyPluralUtils](https://github.com/CrimsonTome/SimplyPluralUtils) - Utilities for working with the Simply Plural API with Python (4 months ago)
-- [CrimsonTome/fe4-helper](https://github.com/CrimsonTome/fe4-helper) -  (5 months ago)
+- [CrimsonTome/fe4-helper](https://github.com/CrimsonTome/fe4-helper) -  (6 months ago)
 - [CrimsonTome/AWS-Proton](https://github.com/CrimsonTome/AWS-Proton) - testing repo for working with AWS Proton (7 months ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (7 months ago)
 - [CrimsonTome/AWS-Proton-Service](https://github.com/CrimsonTome/AWS-Proton-Service) -  (7 months ago)
@@ -38,8 +38,8 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [terrapkg/packages](https://github.com/terrapkg/packages) - Monorepo for Terra Packages (5 days ago)
-- [tuanchauict/MonoSketch](https://github.com/tuanchauict/MonoSketch) - An ASCII graph drawing app (1 week ago)
+- [terrapkg/packages](https://github.com/terrapkg/packages) - Monorepo for Terra Packages (6 days ago)
+- [tuanchauict/MonoSketch](https://github.com/tuanchauict/MonoSketch) - An ASCII graph drawing app (2 weeks ago)
 - [pkgforge/soar](https://github.com/pkgforge/soar) - A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|Runimage) &amp; More [maintainer=@QaidVoid] (2 weeks ago)
 - [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) - Binary installation for rust projects (2 weeks ago)
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast (2 weeks ago)
