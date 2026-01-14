@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [terrapkg/packages](https://github.com/terrapkg/packages) - Monorepo for Terra Packages (6 days ago)
+- [erengy/taiga](https://github.com/erengy/taiga) - A lightweight anime tracker for Windows (1 day ago)
+- [bahamas10/bash-course](https://github.com/bahamas10/bash-course) - The Complete Bash Scripting Course (1 day ago)
+- [terrapkg/packages](https://github.com/terrapkg/packages) - Monorepo for Terra Packages (1 week ago)
 - [tuanchauict/MonoSketch](https://github.com/tuanchauict/MonoSketch) - An ASCII graph drawing app (2 weeks ago)
 - [pkgforge/soar](https://github.com/pkgforge/soar) - A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|Runimage) &amp; More [maintainer=@QaidVoid] (2 weeks ago)
-- [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall) - Binary installation for rust projects (2 weeks ago)
-- [sinelaw/fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast (2 weeks ago)
 
 #### Quote of the day
 
