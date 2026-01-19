@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [erengy/taiga](https://github.com/erengy/taiga) - A lightweight anime tracker for Windows (5 days ago)
-- [bahamas10/bash-course](https://github.com/bahamas10/bash-course) - The Complete Bash Scripting Course (5 days ago)
+- [DrKain/tidy-url](https://github.com/DrKain/tidy-url) - A node package &amp; userscript that removes tracking or garbage parameters from URLs making them shorter, cleaner and a lot nicer to read. (1 day ago)
+- [pi-hole/FTL](https://github.com/pi-hole/FTL) - The Pi-hole FTL engine (1 day ago)
+- [erengy/taiga](https://github.com/erengy/taiga) - A lightweight anime tracker for Windows (6 days ago)
+- [bahamas10/bash-course](https://github.com/bahamas10/bash-course) - The Complete Bash Scripting Course (6 days ago)
 - [terrapkg/packages](https://github.com/terrapkg/packages) - Monorepo for Terra Packages (1 week ago)
-- [tuanchauict/MonoSketch](https://github.com/tuanchauict/MonoSketch) - An ASCII graph drawing app (2 weeks ago)
-- [pkgforge/soar](https://github.com/pkgforge/soar) - A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|Runimage) &amp; More [maintainer=@QaidVoid] (3 weeks ago)
 
 #### Quote of the day
 
