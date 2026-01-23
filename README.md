@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash (2 days ago)
-- [DrKain/tidy-url](https://github.com/DrKain/tidy-url) - A node package &amp; userscript that removes tracking or garbage parameters from URLs making them shorter, cleaner and a lot nicer to read. (4 days ago)
-- [pi-hole/FTL](https://github.com/pi-hole/FTL) - The Pi-hole FTL engine (4 days ago)
+- [thomaskolmans/rsvp-reading](https://github.com/thomaskolmans/rsvp-reading) - Read in RSVP style (1 day ago)
+- [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash (3 days ago)
+- [DrKain/tidy-url](https://github.com/DrKain/tidy-url) - A node package &amp; userscript that removes tracking or garbage parameters from URLs making them shorter, cleaner and a lot nicer to read. (5 days ago)
+- [pi-hole/FTL](https://github.com/pi-hole/FTL) - The Pi-hole FTL engine (5 days ago)
 - [erengy/taiga](https://github.com/erengy/taiga) - A lightweight anime tracker for Windows (1 week ago)
-- [bahamas10/bash-course](https://github.com/bahamas10/bash-course) - The Complete Bash Scripting Course (1 week ago)
 
 #### Quote of the day
 
