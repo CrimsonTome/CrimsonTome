@@ -40,8 +40,8 @@ View my [GitHub Stats](/pages/stats.md)
 
 - [thomaskolmans/rsvp-reading](https://github.com/thomaskolmans/rsvp-reading) - Read in RSVP style (1 week ago)
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash (1 week ago)
-- [DrKain/tidy-url](https://github.com/DrKain/tidy-url) - A node package &amp; userscript that removes tracking or garbage parameters from URLs making them shorter, cleaner and a lot nicer to read. (1 week ago)
-- [pi-hole/FTL](https://github.com/pi-hole/FTL) - The Pi-hole FTL engine (1 week ago)
+- [DrKain/tidy-url](https://github.com/DrKain/tidy-url) - A node package &amp; userscript that removes tracking or garbage parameters from URLs making them shorter, cleaner and a lot nicer to read. (2 weeks ago)
+- [pi-hole/FTL](https://github.com/pi-hole/FTL) - The Pi-hole FTL engine (2 weeks ago)
 - [erengy/taiga](https://github.com/erengy/taiga) - A lightweight anime tracker for Windows (2 weeks ago)
 
 #### Quote of the day
