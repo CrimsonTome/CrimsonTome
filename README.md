@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS. (1 day ago)
+- [ShareX/XerahS](https://github.com/ShareX/XerahS) - XerahS (ShareX.Avalonia) is a cross platform reimagining of the ShareX user interface built with Avalonia. It targets modern UX modular architecture and long term maintainability while preserving core workflows speed and reliability. It provides a foundation for future desktop experiences on Windows macOS and Linux with consistent accessible design (1 day ago)
 - [thomaskolmans/rsvp-reading](https://github.com/thomaskolmans/rsvp-reading) - Read in RSVP style (1 week ago)
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash (1 week ago)
 - [DrKain/tidy-url](https://github.com/DrKain/tidy-url) - A node package &amp; userscript that removes tracking or garbage parameters from URLs making them shorter, cleaner and a lot nicer to read. (2 weeks ago)
-- [pi-hole/FTL](https://github.com/pi-hole/FTL) - The Pi-hole FTL engine (2 weeks ago)
-- [erengy/taiga](https://github.com/erengy/taiga) - A lightweight anime tracker for Windows (2 weeks ago)
 
 #### Quote of the day
 
