@@ -23,9 +23,9 @@ View my [GitHub Stats](/pages/stats.md)
 
 - [CrimsonTome/SimplyPluralUtils](https://github.com/CrimsonTome/SimplyPluralUtils) - Utilities for working with the Simply Plural API with Python (5 months ago)
 - [CrimsonTome/fe4-helper](https://github.com/CrimsonTome/fe4-helper) -  (6 months ago)
-- [CrimsonTome/AWS-Proton](https://github.com/CrimsonTome/AWS-Proton) - testing repo for working with AWS Proton (7 months ago)
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (7 months ago)
-- [CrimsonTome/AWS-Proton-Service](https://github.com/CrimsonTome/AWS-Proton-Service) -  (7 months ago)
+- [CrimsonTome/AWS-Proton](https://github.com/CrimsonTome/AWS-Proton) - testing repo for working with AWS Proton (8 months ago)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (8 months ago)
+- [CrimsonTome/AWS-Proton-Service](https://github.com/CrimsonTome/AWS-Proton-Service) -  (8 months ago)
 
 
 #### 🔨 My recent Pull Requests
@@ -38,9 +38,9 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS. (3 days ago)
-- [ShareX/XerahS](https://github.com/ShareX/XerahS) - XerahS (ShareX.Avalonia) is a cross platform reimagining of the ShareX user interface built with Avalonia. It targets modern UX modular architecture and long term maintainability while preserving core workflows speed and reliability. It provides a foundation for future desktop experiences on Windows macOS and Linux with consistent accessible design (3 days ago)
-- [thomaskolmans/rsvp-reading](https://github.com/thomaskolmans/rsvp-reading) - Read in RSVP style (1 week ago)
+- [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS. (4 days ago)
+- [ShareX/XerahS](https://github.com/ShareX/XerahS) - XerahS (ShareX.Avalonia) is a cross platform reimagining of the ShareX user interface built with Avalonia. It targets modern UX modular architecture and long term maintainability while preserving core workflows speed and reliability. It provides a foundation for future desktop experiences on Windows macOS and Linux with consistent accessible design (4 days ago)
+- [thomaskolmans/rsvp-reading](https://github.com/thomaskolmans/rsvp-reading) - Read in RSVP style (2 weeks ago)
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash (2 weeks ago)
 - [DrKain/tidy-url](https://github.com/DrKain/tidy-url) - A node package &amp; userscript that removes tracking or garbage parameters from URLs making them shorter, cleaner and a lot nicer to read. (2 weeks ago)
 
