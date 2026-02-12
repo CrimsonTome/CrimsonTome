@@ -22,7 +22,7 @@ View my [GitHub Stats](/pages/stats.md)
 #### 👷 Check out what I'm currently working on
 
 - [CrimsonTome/SimplyPluralUtils](https://github.com/CrimsonTome/SimplyPluralUtils) - Utilities for working with the Simply Plural API with Python (5 months ago)
-- [CrimsonTome/fe4-helper](https://github.com/CrimsonTome/fe4-helper) -  (6 months ago)
+- [CrimsonTome/fe4-helper](https://github.com/CrimsonTome/fe4-helper) -  (7 months ago)
 - [CrimsonTome/AWS-Proton](https://github.com/CrimsonTome/AWS-Proton) - testing repo for working with AWS Proton (8 months ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (8 months ago)
 - [CrimsonTome/AWS-Proton-Service](https://github.com/CrimsonTome/AWS-Proton-Service) -  (8 months ago)
@@ -38,10 +38,10 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (6 days ago)
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (1 week ago)
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS. (1 week ago)
 - [ShareX/XerahS](https://github.com/ShareX/XerahS) - XerahS (ShareX.Avalonia) is a cross platform reimagining of the ShareX user interface built with Avalonia. It targets modern UX modular architecture and long term maintainability while preserving core workflows speed and reliability. It provides a foundation for future desktop experiences on Windows macOS and Linux with consistent accessible design (1 week ago)
-- [thomaskolmans/rsvp-reading](https://github.com/thomaskolmans/rsvp-reading) - Read in RSVP style (2 weeks ago)
+- [thomaskolmans/rsvp-reading](https://github.com/thomaskolmans/rsvp-reading) - Read in RSVP style (3 weeks ago)
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash (3 weeks ago)
 
 #### Quote of the day
