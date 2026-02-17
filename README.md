@@ -42,7 +42,7 @@ View my [GitHub Stats](/pages/stats.md)
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS. (2 weeks ago)
 - [ShareX/XerahS](https://github.com/ShareX/XerahS) - XerahS (ShareX.Avalonia) is a cross platform reimagining of the ShareX user interface built with Avalonia. It targets modern UX modular architecture and long term maintainability while preserving core workflows speed and reliability. It provides a foundation for future desktop experiences on Windows macOS and Linux with consistent accessible design (2 weeks ago)
 - [thomaskolmans/rsvp-reading](https://github.com/thomaskolmans/rsvp-reading) - Read in RSVP style (3 weeks ago)
-- [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash (3 weeks ago)
+- [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash (4 weeks ago)
 
 #### Quote of the day
 
