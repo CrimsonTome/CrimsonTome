@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) -  🛡 I2P: End-to-End encrypted and anonymous Internet (1 day ago)
 - [nothub/mrpack-install](https://github.com/nothub/mrpack-install) - Modrinth Modpack server deployment (1 week ago)
 - [catppuccin/limine](https://github.com/catppuccin/limine) - 🖥️ Soothing pastel theme for Limine (1 week ago)
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (3 weeks ago)
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS. (3 weeks ago)
-- [ShareX/XerahS](https://github.com/ShareX/XerahS) - XerahS is a cross platform reimagining of the ShareX user interface built with Avalonia. It targets modern UX modular architecture and long term maintainability while preserving core workflows speed and reliability. It provides a foundation for future desktop experiences on Windows, macOS, and Linux with consistent accessible design. (3 weeks ago)
 
 #### Quote of the day
 
