@@ -38,8 +38,8 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [magic-ike/spotify-data-card](https://github.com/magic-ike/spotify-data-card) - Dynamically generated Spotify data to embed in your README or website. Card generation is now 3x as fast 🚀🚀🚀 (1 day ago)
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player (1 day ago)
+- [magic-ike/spotify-data-card](https://github.com/magic-ike/spotify-data-card) - Dynamically generated Spotify data to embed in your README or website. Card generation is now 3x as fast 🚀🚀🚀 (2 days ago)
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player (2 days ago)
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) -  🛡 I2P: End-to-End encrypted and anonymous Internet (1 month ago)
 - [nothub/mrpack-install](https://github.com/nothub/mrpack-install) - Modrinth Modpack server deployment (1 month ago)
 - [catppuccin/limine](https://github.com/catppuccin/limine) - 🖥️ Soothing pastel theme for Limine (1 month ago)
