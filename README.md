@@ -38,9 +38,9 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [Matoking/protontricks](https://github.com/Matoking/protontricks) - A wrapper that does winetricks things for Proton enabled games, requires Winetricks. (1 day ago)
-- [magic-ike/spotify-data-card](https://github.com/magic-ike/spotify-data-card) - Dynamically generated Spotify data to embed in your README or website. Card generation is now 3x as fast 🚀🚀🚀 (3 days ago)
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player (3 days ago)
+- [Matoking/protontricks](https://github.com/Matoking/protontricks) - A wrapper that does winetricks things for Proton enabled games, requires Winetricks. (2 days ago)
+- [magic-ike/spotify-data-card](https://github.com/magic-ike/spotify-data-card) - Dynamically generated Spotify data to embed in your README or website. Card generation is now 3x as fast 🚀🚀🚀 (4 days ago)
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player (4 days ago)
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) -  🛡 I2P: End-to-End encrypted and anonymous Internet (1 month ago)
 - [nothub/mrpack-install](https://github.com/nothub/mrpack-install) - Modrinth Modpack server deployment (1 month ago)
 
