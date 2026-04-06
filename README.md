@@ -23,9 +23,9 @@ View my [GitHub Stats](/pages/stats.md)
 
 - [CrimsonTome/SimplyPluralUtils](https://github.com/CrimsonTome/SimplyPluralUtils) - Utilities for working with the Simply Plural API with Python (7 months ago)
 - [CrimsonTome/fe4-helper](https://github.com/CrimsonTome/fe4-helper) -  (8 months ago)
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (9 months ago)
-- [CrimsonTome/AWS-Proton-Service](https://github.com/CrimsonTome/AWS-Proton-Service) -  (9 months ago)
-- [CrimsonTome/AWS-Proton](https://github.com/CrimsonTome/AWS-Proton) - testing repo for working with AWS Proton (9 months ago)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (10 months ago)
+- [CrimsonTome/AWS-Proton-Service](https://github.com/CrimsonTome/AWS-Proton-Service) -  (10 months ago)
+- [CrimsonTome/AWS-Proton](https://github.com/CrimsonTome/AWS-Proton) - testing repo for working with AWS Proton (10 months ago)
 
 
 #### 🔨 My recent Pull Requests
@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [xiph/rnnoise](https://github.com/xiph/rnnoise) - Recurrent neural network for audio noise reduction (1 day ago)
-- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications (1 day ago)
-- [Matoking/protontricks](https://github.com/Matoking/protontricks) - A wrapper that does winetricks things for Proton enabled games, requires Winetricks. (3 days ago)
-- [magic-ike/spotify-data-card](https://github.com/magic-ike/spotify-data-card) - Dynamically generated Spotify data to embed in your README or website. Card generation is now 3x as fast 🚀🚀🚀 (5 days ago)
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player (5 days ago)
+- [xiph/rnnoise](https://github.com/xiph/rnnoise) - Recurrent neural network for audio noise reduction (2 days ago)
+- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications (2 days ago)
+- [Matoking/protontricks](https://github.com/Matoking/protontricks) - A wrapper that does winetricks things for Proton enabled games, requires Winetricks. (4 days ago)
+- [magic-ike/spotify-data-card](https://github.com/magic-ike/spotify-data-card) - Dynamically generated Spotify data to embed in your README or website. Card generation is now 3x as fast 🚀🚀🚀 (6 days ago)
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player (6 days ago)
 
 #### Quote of the day
 
