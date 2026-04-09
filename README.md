@@ -38,9 +38,9 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [xiph/rnnoise](https://github.com/xiph/rnnoise) - Recurrent neural network for audio noise reduction (4 days ago)
-- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications (4 days ago)
-- [Matoking/protontricks](https://github.com/Matoking/protontricks) - A wrapper that does winetricks things for Proton enabled games, requires Winetricks. (6 days ago)
+- [xiph/rnnoise](https://github.com/xiph/rnnoise) - Recurrent neural network for audio noise reduction (5 days ago)
+- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications (5 days ago)
+- [Matoking/protontricks](https://github.com/Matoking/protontricks) - A wrapper that does winetricks things for Proton enabled games, requires Winetricks. (1 week ago)
 - [magic-ike/spotify-data-card](https://github.com/magic-ike/spotify-data-card) - Dynamically generated Spotify data to embed in your README or website. Card generation is now 3x as fast 🚀🚀🚀 (1 week ago)
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player (1 week ago)
 
