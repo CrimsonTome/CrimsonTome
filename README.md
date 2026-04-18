@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [raspberrypi/picotool](https://github.com/raspberrypi/picotool) -  (3 days ago)
-- [niri-wm/awesome-niri](https://github.com/niri-wm/awesome-niri) - An awesome list for niri related projects [Maintainer - @Vortriz] (3 days ago)
+- [BLCM/BLCMods](https://github.com/BLCM/BLCMods) - This is a repository for Community Mods made for the Borderlands series (1 day ago)
+- [raspberrypi/picotool](https://github.com/raspberrypi/picotool) -  (4 days ago)
+- [niri-wm/awesome-niri](https://github.com/niri-wm/awesome-niri) - An awesome list for niri related projects [Maintainer - @Vortriz] (4 days ago)
 - [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Filter lists for uBlock Origin &amp; uBlock Origin Lite (1 week ago)
-- [xiph/rnnoise](https://github.com/xiph/rnnoise) - Recurrent neural network for audio noise reduction (1 week ago)
-- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications (1 week ago)
+- [xiph/rnnoise](https://github.com/xiph/rnnoise) - Recurrent neural network for audio noise reduction (2 weeks ago)
 
 #### Quote of the day
 
