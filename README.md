@@ -38,11 +38,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [BLCM/BLCMods](https://github.com/BLCM/BLCMods) - This is a repository for Community Mods made for the Borderlands series (4 days ago)
+- [marcrobledo/RomPatcher.js](https://github.com/marcrobledo/RomPatcher.js) - An IPS/UPS/APS/BPS/RUP/PPF/xdelta ROM patcher made in HTML5. (1 day ago)
+- [BLCM/BLCMods](https://github.com/BLCM/BLCMods) - This is a repository for Community Mods made for the Borderlands series (5 days ago)
 - [raspberrypi/picotool](https://github.com/raspberrypi/picotool) -  (1 week ago)
 - [niri-wm/awesome-niri](https://github.com/niri-wm/awesome-niri) - An awesome list for niri related projects [Maintainer - @Vortriz] (1 week ago)
 - [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Filter lists for uBlock Origin &amp; uBlock Origin Lite (1 week ago)
-- [xiph/rnnoise](https://github.com/xiph/rnnoise) - Recurrent neural network for audio noise reduction (2 weeks ago)
 
 #### Quote of the day
 
