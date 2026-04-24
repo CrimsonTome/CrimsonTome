@@ -21,7 +21,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/SimplyPluralUtils](https://github.com/CrimsonTome/SimplyPluralUtils) - Utilities for working with the Simply Plural API with Python (7 months ago)
+- [CrimsonTome/SimplyPluralUtils](https://github.com/CrimsonTome/SimplyPluralUtils) - Utilities for working with the Simply Plural API with Python (8 months ago)
 - [CrimsonTome/fe4-helper](https://github.com/CrimsonTome/fe4-helper) -  (9 months ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (10 months ago)
 - [CrimsonTome/AWS-Proton-Service](https://github.com/CrimsonTome/AWS-Proton-Service) -  (10 months ago)
@@ -38,9 +38,9 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [ztalarick/ryzelang](https://github.com/ztalarick/ryzelang) - Ryzelang is an esoteric, Turing-complete, functional stack-based programming language modeled after the gameplay mechanics of the League of Legends champion, Ryze. (1 day ago)
-- [marcrobledo/RomPatcher.js](https://github.com/marcrobledo/RomPatcher.js) - An IPS/UPS/APS/BPS/RUP/PPF/xdelta ROM patcher made in HTML5. (2 days ago)
-- [BLCM/BLCMods](https://github.com/BLCM/BLCMods) - This is a repository for Community Mods made for the Borderlands series (6 days ago)
+- [ztalarick/ryzelang](https://github.com/ztalarick/ryzelang) - Ryzelang is an esoteric, Turing-complete, functional stack-based programming language modeled after the gameplay mechanics of the League of Legends champion, Ryze. (2 days ago)
+- [marcrobledo/RomPatcher.js](https://github.com/marcrobledo/RomPatcher.js) - An IPS/UPS/APS/BPS/RUP/PPF/xdelta ROM patcher made in HTML5. (3 days ago)
+- [BLCM/BLCMods](https://github.com/BLCM/BLCMods) - This is a repository for Community Mods made for the Borderlands series (1 week ago)
 - [raspberrypi/picotool](https://github.com/raspberrypi/picotool) -  (1 week ago)
 - [niri-wm/awesome-niri](https://github.com/niri-wm/awesome-niri) - An awesome list for niri related projects [Maintainer - @Vortriz] (1 week ago)
 
