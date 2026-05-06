@@ -23,9 +23,9 @@ View my [GitHub Stats](/pages/stats.md)
 
 - [CrimsonTome/SimplyPluralUtils](https://github.com/CrimsonTome/SimplyPluralUtils) - Utilities for working with the Simply Plural API with Python (8 months ago)
 - [CrimsonTome/fe4-helper](https://github.com/CrimsonTome/fe4-helper) -  (9 months ago)
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (10 months ago)
-- [CrimsonTome/AWS-Proton-Service](https://github.com/CrimsonTome/AWS-Proton-Service) -  (10 months ago)
-- [CrimsonTome/AWS-Proton](https://github.com/CrimsonTome/AWS-Proton) - testing repo for working with AWS Proton (10 months ago)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (11 months ago)
+- [CrimsonTome/AWS-Proton-Service](https://github.com/CrimsonTome/AWS-Proton-Service) -  (11 months ago)
+- [CrimsonTome/AWS-Proton](https://github.com/CrimsonTome/AWS-Proton) - testing repo for working with AWS Proton (11 months ago)
 
 
 #### 🔨 My recent Pull Requests
@@ -38,9 +38,9 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (4 days ago)
-- [tonybanters/oxwm](https://github.com/tonybanters/oxwm) -  (4 days ago)
-- [ztalarick/ryzelang](https://github.com/ztalarick/ryzelang) - Ryzelang is an esoteric, Turing-complete, functional stack-based programming language modeled after the gameplay mechanics of the League of Legends champion, Ryze. (1 week ago)
+- [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (5 days ago)
+- [tonybanters/oxwm](https://github.com/tonybanters/oxwm) -  (5 days ago)
+- [ztalarick/ryzelang](https://github.com/ztalarick/ryzelang) - Ryzelang is an esoteric, Turing-complete, functional stack-based programming language modeled after the gameplay mechanics of the League of Legends champion, Ryze. (2 weeks ago)
 - [marcrobledo/RomPatcher.js](https://github.com/marcrobledo/RomPatcher.js) - An IPS/UPS/APS/BPS/RUP/PPF/xdelta ROM patcher made in HTML5. (2 weeks ago)
 - [BLCM/BLCMods](https://github.com/BLCM/BLCMods) - This is a repository for Community Mods made for the Borderlands series (2 weeks ago)
 
