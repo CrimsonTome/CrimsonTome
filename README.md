@@ -21,7 +21,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/SimplyPluralUtils](https://github.com/CrimsonTome/SimplyPluralUtils) - Utilities for working with the Simply Plural API with Python (8 months ago)
+- [CrimsonTome/SimplyPluralUtils](https://github.com/CrimsonTome/SimplyPluralUtils) - Utilities for working with the Simply Plural API with Python (9 months ago)
 - [CrimsonTome/fe4-helper](https://github.com/CrimsonTome/fe4-helper) -  (10 months ago)
 - [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (11 months ago)
 - [CrimsonTome/AWS-Proton-Service](https://github.com/CrimsonTome/AWS-Proton-Service) -  (11 months ago)
@@ -38,7 +38,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [danwritecode/clings](https://github.com/danwritecode/clings) - rustlings for C....clings (1 day ago)
+- [danwritecode/clings](https://github.com/danwritecode/clings) - rustlings for C....clings (2 days ago)
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (3 weeks ago)
 - [tonybanters/oxwm](https://github.com/tonybanters/oxwm) -  (3 weeks ago)
 - [ztalarick/ryzelang](https://github.com/ztalarick/ryzelang) - Ryzelang is an esoteric, Turing-complete, functional stack-based programming language modeled after the gameplay mechanics of the League of Legends champion, Ryze. (1 month ago)
