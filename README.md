@@ -39,8 +39,8 @@ View my [GitHub Stats](/pages/stats.md)
 #### ⭐ Recent Stars
 
 - [danwritecode/clings](https://github.com/danwritecode/clings) - rustlings for C....clings (1 week ago)
-- [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (4 weeks ago)
-- [tonybanters/oxwm](https://github.com/tonybanters/oxwm) -  (4 weeks ago)
+- [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (1 month ago)
+- [tonybanters/oxwm](https://github.com/tonybanters/oxwm) -  (1 month ago)
 - [ztalarick/ryzelang](https://github.com/ztalarick/ryzelang) - Ryzelang is an esoteric, Turing-complete, functional stack-based programming language modeled after the gameplay mechanics of the League of Legends champion, Ryze. (1 month ago)
 - [marcrobledo/RomPatcher.js](https://github.com/marcrobledo/RomPatcher.js) - An IPS/UPS/APS/BPS/RUP/PPF/xdelta ROM patcher made in HTML5. (1 month ago)
 
