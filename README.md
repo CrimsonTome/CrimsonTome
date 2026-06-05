@@ -23,9 +23,9 @@ View my [GitHub Stats](/pages/stats.md)
 
 - [CrimsonTome/SimplyPluralUtils](https://github.com/CrimsonTome/SimplyPluralUtils) - Utilities for working with the Simply Plural API with Python (9 months ago)
 - [CrimsonTome/fe4-helper](https://github.com/CrimsonTome/fe4-helper) -  (10 months ago)
-- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (11 months ago)
-- [CrimsonTome/AWS-Proton-Service](https://github.com/CrimsonTome/AWS-Proton-Service) -  (11 months ago)
-- [CrimsonTome/AWS-Proton](https://github.com/CrimsonTome/AWS-Proton) - testing repo for working with AWS Proton (11 months ago)
+- [CrimsonTome/config](https://github.com/CrimsonTome/config) - config files (1 year ago)
+- [CrimsonTome/AWS-Proton-Service](https://github.com/CrimsonTome/AWS-Proton-Service) -  (1 year ago)
+- [CrimsonTome/AWS-Proton](https://github.com/CrimsonTome/AWS-Proton) - testing repo for working with AWS Proton (1 year ago)
 
 
 #### 🔨 My recent Pull Requests
@@ -38,7 +38,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [danwritecode/clings](https://github.com/danwritecode/clings) - rustlings for C....clings (1 week ago)
+- [danwritecode/clings](https://github.com/danwritecode/clings) - rustlings for C....clings (2 weeks ago)
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (1 month ago)
 - [tonybanters/oxwm](https://github.com/tonybanters/oxwm) -  (1 month ago)
 - [ztalarick/ryzelang](https://github.com/ztalarick/ryzelang) - Ryzelang is an esoteric, Turing-complete, functional stack-based programming language modeled after the gameplay mechanics of the League of Legends champion, Ryze. (1 month ago)
