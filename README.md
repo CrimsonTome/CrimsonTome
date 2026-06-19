@@ -35,7 +35,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [danwritecode/clings](https://github.com/danwritecode/clings) - rustlings for C....clings (3 weeks ago)
+- [danwritecode/clings](https://github.com/danwritecode/clings) - rustlings for C....clings (4 weeks ago)
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (1 month ago)
 - [tonybanters/oxwm](https://github.com/tonybanters/oxwm) -  (1 month ago)
 - [ztalarick/ryzelang](https://github.com/ztalarick/ryzelang) - Ryzelang is an esoteric, Turing-complete, functional stack-based programming language modeled after the gameplay mechanics of the League of Legends champion, Ryze. (1 month ago)
