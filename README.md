@@ -35,11 +35,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
+- [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system (1 day ago)
 - [danwritecode/clings](https://github.com/danwritecode/clings) - rustlings for C....clings (1 month ago)
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (1 month ago)
 - [tonybanters/oxwm](https://github.com/tonybanters/oxwm) -  (1 month ago)
 - [ztalarick/ryzelang](https://github.com/ztalarick/ryzelang) - Ryzelang is an esoteric, Turing-complete, functional stack-based programming language modeled after the gameplay mechanics of the League of Legends champion, Ryze. (2 months ago)
-- [marcrobledo/RomPatcher.js](https://github.com/marcrobledo/RomPatcher.js) - An IPS/UPS/APS/BPS/RUP/PPF/xdelta ROM patcher made in HTML5. (2 months ago)
 
 #### Quote of the day
 
