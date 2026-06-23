@@ -21,7 +21,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/SimplyPluralUtils](https://github.com/CrimsonTome/SimplyPluralUtils) - Utilities for working with the Simply Plural API with Python (9 months ago)
+- [CrimsonTome/SimplyPluralUtils](https://github.com/CrimsonTome/SimplyPluralUtils) - Utilities for working with the Simply Plural API with Python (10 months ago)
 - [CrimsonTome/fe4-helper](https://github.com/CrimsonTome/fe4-helper) -  (11 months ago)
 
 
@@ -35,7 +35,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system (1 day ago)
+- [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system (2 days ago)
 - [danwritecode/clings](https://github.com/danwritecode/clings) - rustlings for C....clings (1 month ago)
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (1 month ago)
 - [tonybanters/oxwm](https://github.com/tonybanters/oxwm) -  (1 month ago)
