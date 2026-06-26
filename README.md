@@ -35,7 +35,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system (4 days ago)
+- [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system (5 days ago)
 - [danwritecode/clings](https://github.com/danwritecode/clings) - rustlings for C....clings (1 month ago)
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (1 month ago)
 - [tonybanters/oxwm](https://github.com/tonybanters/oxwm) -  (1 month ago)
