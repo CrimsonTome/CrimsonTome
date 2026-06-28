@@ -35,11 +35,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system (6 days ago)
+- [ChrisDKN/Amethyst-Mod-Manager](https://github.com/ChrisDKN/Amethyst-Mod-Manager) - A Linux native mod manager for a variety of games (1 day ago)
+- [Faugus/faugus-launcher](https://github.com/Faugus/faugus-launcher) - A simple and lightweight app for running Windows games using UMU-Launcher (1 day ago)
+- [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system (1 week ago)
 - [danwritecode/clings](https://github.com/danwritecode/clings) - rustlings for C....clings (1 month ago)
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (1 month ago)
-- [tonybanters/oxwm](https://github.com/tonybanters/oxwm) -  (1 month ago)
-- [ztalarick/ryzelang](https://github.com/ztalarick/ryzelang) - Ryzelang is an esoteric, Turing-complete, functional stack-based programming language modeled after the gameplay mechanics of the League of Legends champion, Ryze. (2 months ago)
 
 #### Quote of the day
 
