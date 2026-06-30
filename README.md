@@ -35,11 +35,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [ChrisDKN/Amethyst-Mod-Manager](https://github.com/ChrisDKN/Amethyst-Mod-Manager) - A Linux native mod manager for a variety of games (2 days ago)
-- [Faugus/faugus-launcher](https://github.com/Faugus/faugus-launcher) - A simple and lightweight app for running Windows games using UMU-Launcher (2 days ago)
+- [ChrisDKN/Amethyst-Mod-Manager](https://github.com/ChrisDKN/Amethyst-Mod-Manager) - A Linux native mod manager for a variety of games (3 days ago)
+- [Faugus/faugus-launcher](https://github.com/Faugus/faugus-launcher) - A simple and lightweight app for running Windows games using UMU-Launcher (3 days ago)
 - [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system (1 week ago)
 - [danwritecode/clings](https://github.com/danwritecode/clings) - rustlings for C....clings (1 month ago)
-- [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (1 month ago)
+- [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (2 months ago)
 
 #### Quote of the day
 
