@@ -37,8 +37,8 @@ View my [GitHub Stats](/pages/stats.md)
 - [pyrodactyl-oss/pyrodactyl](https://github.com/pyrodactyl-oss/pyrodactyl) -  Pyrodactyl is the Pterodactyl-based game server panel that&#39;s faster, smaller, safer, and more accessible than Pelican.  (2 weeks ago)
 - [ChrisDKN/Amethyst-Mod-Manager](https://github.com/ChrisDKN/Amethyst-Mod-Manager) - A Linux native mod manager for a variety of games (3 weeks ago)
 - [Faugus/faugus-launcher](https://github.com/Faugus/faugus-launcher) - A simple and lightweight app for running Windows games using UMU-Launcher (3 weeks ago)
-- [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system (4 weeks ago)
-- [danwritecode/clings](https://github.com/danwritecode/clings) - rustlings for C....clings (1 month ago)
+- [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system (1 month ago)
+- [danwritecode/clings](https://github.com/danwritecode/clings) - rustlings for C....clings (2 months ago)
 
 #### Quote of the day
 
