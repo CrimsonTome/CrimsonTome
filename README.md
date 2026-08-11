@@ -34,8 +34,8 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device (2 days ago)
-- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android  (6 days ago)
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device (3 days ago)
+- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android  (1 week ago)
 - [immanuwell/dockerfile-roast](https://github.com/immanuwell/dockerfile-roast) - droast - a dockerfile linter that actually has opinions 🔥 (2 weeks ago)
 - [pyrodactyl-oss/pyrodactyl](https://github.com/pyrodactyl-oss/pyrodactyl) -  Pyrodactyl is the Pterodactyl-based game server panel that&#39;s faster, smaller, safer, and more accessible than Pelican.  (1 month ago)
 - [ChrisDKN/Amethyst-Mod-Manager](https://github.com/ChrisDKN/Amethyst-Mod-Manager) - A Linux native mod manager for a variety of games (1 month ago)
