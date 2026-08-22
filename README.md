@@ -21,7 +21,7 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/SimplyPluralUtils](https://github.com/CrimsonTome/SimplyPluralUtils) - Utilities for working with the Simply Plural API with Python (11 months ago)
+- [CrimsonTome/SimplyPluralUtils](https://github.com/CrimsonTome/SimplyPluralUtils) - Utilities for working with the Simply Plural API with Python (1 year ago)
 
 
 #### 🔨 My recent Pull Requests
@@ -34,9 +34,9 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (5 days ago)
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (6 days ago)
 - [mangowm/mango](https://github.com/mangowm/mango) - Practical and Powerful wayland compositor (dwm but wayland) (1 week ago)
-- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device (1 week ago)
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device (2 weeks ago)
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android  (2 weeks ago)
 - [immanuwell/dockerfile-roast](https://github.com/immanuwell/dockerfile-roast) - droast - a dockerfile linter that actually has opinions 🔥 (3 weeks ago)
 
