@@ -21,7 +21,6 @@ View my [GitHub Stats](/pages/stats.md)
   
 #### 👷 Check out what I'm currently working on
 
-- [CrimsonTome/SimplyPluralUtils](https://github.com/CrimsonTome/SimplyPluralUtils) - Utilities for working with the Simply Plural API with Python (1 year ago)
 
 
 #### 🔨 My recent Pull Requests
@@ -34,11 +33,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [stanuwu/Sunrise](https://github.com/stanuwu/Sunrise) - Destiny 2 Offline Exploration Mod (6 days ago)
-- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (2 weeks ago)
-- [mangowm/mango](https://github.com/mangowm/mango) - Practical and Powerful wayland compositor (dwm but wayland) (2 weeks ago)
-- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device (3 weeks ago)
-- [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android  (3 weeks ago)
+- [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11 (1 day ago)
+- [caelestia-dots/caelestia](https://github.com/caelestia-dots/caelestia) - A fluid, morphing interface to your Linux desktop (1 day ago)
+- [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A fluid, morphing shell for your Linux desktop (1 day ago)
+- [EVV1E/waylandcraft](https://github.com/EVV1E/waylandcraft) - Wayland Compositor in Minecraft (1 day ago)
+- [stanuwu/Sunrise](https://github.com/stanuwu/Sunrise) - Destiny 2 Offline Exploration Mod (1 week ago)
 
 #### Quote of the day
 
