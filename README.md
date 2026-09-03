@@ -33,11 +33,11 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source. (2 days ago)
-- [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11 (3 days ago)
-- [caelestia-dots/caelestia](https://github.com/caelestia-dots/caelestia) - A fluid, morphing interface to your Linux desktop (3 days ago)
-- [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A fluid, morphing shell for your Linux desktop (3 days ago)
-- [EVV1E/waylandcraft](https://github.com/EVV1E/waylandcraft) - Wayland Compositor in Minecraft (3 days ago)
+- [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source. (3 days ago)
+- [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11 (4 days ago)
+- [caelestia-dots/caelestia](https://github.com/caelestia-dots/caelestia) - A fluid, morphing interface to your Linux desktop (4 days ago)
+- [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A fluid, morphing shell for your Linux desktop (4 days ago)
+- [EVV1E/waylandcraft](https://github.com/EVV1E/waylandcraft) - Wayland Compositor in Minecraft (4 days ago)
 
 #### Quote of the day
 
