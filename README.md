@@ -34,7 +34,7 @@ View my [GitHub Stats](/pages/stats.md)
 
 #### ⭐ Recent Stars
 
-- [mauricioabreu/golings](https://github.com/mauricioabreu/golings) - rustlings but for golang this time (6 days ago)
+- [mauricioabreu/golings](https://github.com/mauricioabreu/golings) - rustlings but for golang this time (1 week ago)
 - [ArcaneNibble/awawausb](https://github.com/ArcaneNibble/awawausb) - WebUSB for fopses (2 months ago)
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source. (2 months ago)
 - [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11 (2 months ago)
